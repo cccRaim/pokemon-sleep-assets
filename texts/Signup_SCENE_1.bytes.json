@@ -56,6 +56,12 @@
     "Signup_SCENE_BrazilBmode_Popup_Title": [
       "Impossibile usare"
     ],
+    "Signup_SCENE_CSverBAN_Popup_Text": [
+      "Questo è un account con restrizioni."
+    ],
+    "Signup_SCENE_CSverBAN_Popup_Title": [
+      "Account non valido"
+    ],
     "Signup_SCENE_CacheClearFinished_Popup_Text": [
       "La cache è stata svuotata.\nRiavvia l'applicazione."
     ],
@@ -147,6 +153,9 @@
     ],
     "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_2": [
       "Prova un altro metodo\ndi trasferimento."
+    ],
+    "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": [
+      "Nessun dato da trasferire"
     ],
     "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": [
       "Non essendo riusciti cinque tentativi\nin un breve intervallo di tempo,\nal momento non puoi fare altri\ntentativi."
@@ -457,8 +466,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 130,
-        "size": 914,
+        "entries": 133,
+        "size": 935,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -466,7 +475,7 @@
     "LBL1": {
       "header": {
         "entries": 67,
-        "size": 5920,
+        "size": 6050,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -485,7 +494,7 @@
               "Signup_SCENE_DataInherit_InheritDataPopup_Text_1"
             ],
             [
-              115,
+              116,
               "Signup_SCENE_BrazilBmode_Popup_Title"
             ]
           ],
@@ -519,11 +528,11 @@
               "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title"
             ],
             [
-              116,
+              117,
               "Signup_SCENE_BrazilBmode_Popup_Text"
             ],
             [
-              121,
+              122,
               "Signup_SCENE_UsernamePopup_Title"
             ]
           ],
@@ -601,7 +610,7 @@
               "Signup_SCENE_DataDownload_Popup_Title"
             ],
             [
-              124,
+              125,
               "Signup_SCENE_MENU_Heading"
             ]
           ],
@@ -622,7 +631,7 @@
               "Signup_SCENE_DataInherit_PasswordEnter_Popup_Password_Text"
             ],
             [
-              118,
+              119,
               "Signup_SCENE_Username_Text_1"
             ]
           ],
@@ -639,7 +648,7 @@
               "Signup_SCENE_SDKAgree_Button_2"
             ],
             [
-              119,
+              120,
               "Signup_SCENE_Username_Text_2"
             ]
           ],
@@ -660,7 +669,7 @@
               "Signup_SCENE_DataInherit_InheritDataPopup_Title"
             ],
             [
-              120,
+              121,
               "Signup_SCENE_Username_Text_3"
             ]
           ],
@@ -692,9 +701,13 @@
             [
               87,
               "Signup_SCENE_DataInherit_Password_Button"
+            ],
+            [
+              104,
+              "Signup_SCENE_DataInherit_NoInheritData_Popup_Title"
             ]
           ],
-          2039
+          2094
         ],
         [
           [
@@ -703,7 +716,7 @@
               "Signup_SCENE_TermsConfirm_Text_5"
             ]
           ],
-          2076
+          2131
         ],
         [
           [
@@ -712,19 +725,19 @@
               "Signup_SCENE_Birthdate_Year"
             ]
           ],
-          2108
+          2163
         ],
         [
           [],
-          2108
+          2163
         ],
         [
           [],
-          2108
+          2163
         ],
         [
           [],
-          2108
+          2163
         ],
         [
           [
@@ -733,7 +746,7 @@
               "Signup_SCENE_DataDownload_Popup_Button"
             ]
           ],
-          2151
+          2206
         ],
         [
           [
@@ -754,11 +767,11 @@
               "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1"
             ],
             [
-              104,
+              105,
               "Signup_SCENE_DataInherit_1h_Popup_Title"
             ]
           ],
-          2417
+          2472
         ],
         [
           [
@@ -783,7 +796,7 @@
               "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2"
             ]
           ],
-          2655
+          2710
         ],
         [
           [
@@ -808,7 +821,7 @@
               "Signup_SCENE_DataInherit_NewData_Button"
             ]
           ],
-          2853
+          2908
         ],
         [
           [
@@ -817,7 +830,7 @@
               "Signup_SCENE_Notes_Text_3"
             ]
           ],
-          2883
+          2938
         ],
         [
           [
@@ -830,11 +843,11 @@
               "Signup_SCENE_CannotChange"
             ],
             [
-              108,
+              109,
               "Signup_SCENE_DataInherit_Confirm_Popup_Title"
             ]
           ],
-          2992
+          3047
         ],
         [
           [
@@ -843,11 +856,15 @@
               "Signup_SCENE_Notes_Text_5"
             ],
             [
-              111,
+              112,
               "Signup_SCENE_NGword_Popup_Text_1"
+            ],
+            [
+              132,
+              "Signup_SCENE_CSverBAN_Popup_Text"
             ]
           ],
-          3059
+          3151
         ],
         [
           [
@@ -856,11 +873,11 @@
               "Signup_SCENE_CacheClear_Popup_Title"
             ],
             [
-              112,
+              113,
               "Signup_SCENE_NGword_Popup_Text_2"
             ]
           ],
-          3136
+          3228
         ],
         [
           [
@@ -869,15 +886,15 @@
               "Signup_SCENE_DataInherit_PasswordError_Popup_Text_1"
             ],
             [
-              113,
+              114,
               "Signup_SCENE_NGword_Popup_Text_3"
             ],
             [
-              123,
+              124,
               "Signup_SCENE_MENU_Title"
             ]
           ],
-          3257
+          3349
         ],
         [
           [
@@ -890,15 +907,15 @@
               "Signup_SCENE_DataInherit_PasswordError_Popup_Text_2"
             ]
           ],
-          3353
+          3445
         ],
         [
           [],
-          3353
+          3445
         ],
         [
           [],
-          3353
+          3445
         ],
         [
           [
@@ -911,7 +928,7 @@
               "Signup_SCENE_DataInherit_PasswordEnter_Popup_Password"
             ]
           ],
-          3447
+          3539
         ],
         [
           [
@@ -932,15 +949,15 @@
               "Signup_SCENE_Birthdate_Heading"
             ],
             [
-              117,
+              118,
               "Signup_SCENE_Username_Title"
             ]
           ],
-          3636
+          3728
         ],
         [
           [],
-          3636
+          3728
         ],
         [
           [
@@ -949,7 +966,7 @@
               "Signup_SCENE_AlreadyInherited_Popup_Text_1"
             ]
           ],
-          3683
+          3775
         ],
         [
           [
@@ -962,7 +979,7 @@
               "Signup_SCENE_SDKAgree_Button_Apple"
             ]
           ],
-          3769
+          3861
         ],
         [
           [
@@ -971,20 +988,20 @@
               "Signup_SCENE_LanguageChoice_Italian"
             ],
             [
-              125,
+              126,
               "Signup_SCENE_MENU_Content_1"
             ]
           ],
-          3841
+          3933
         ],
         [
           [
             [
-              126,
+              127,
               "Signup_SCENE_MENU_Content_2"
             ]
           ],
-          3873
+          3965
         ],
         [
           [
@@ -997,11 +1014,11 @@
               "Signup_SCENE_LanguageChoice_Text"
             ],
             [
-              127,
+              128,
               "Signup_SCENE_MENU_Content_3"
             ]
           ],
-          3981
+          4073
         ],
         [
           [
@@ -1014,7 +1031,7 @@
               "Signup_SCENE_BirthdatePopup_Text"
             ]
           ],
-          4057
+          4149
         ],
         [
           [
@@ -1023,16 +1040,16 @@
               "Signup_SCENE_LanguageChoice_German"
             ]
           ],
-          4096
+          4188
         ],
         [
           [
             [
-              110,
+              111,
               "Signup_SCENE_NGword_Popup_Title"
             ]
           ],
-          4132
+          4224
         ],
         [
           [
@@ -1041,7 +1058,7 @@
               "Signup_SCENE_TermsReconfirm_Popup_Text_1"
             ]
           ],
-          4177
+          4269
         ],
         [
           [
@@ -1054,19 +1071,19 @@
               "Signup_SCENE_SDKAgree_Text_1"
             ],
             [
-              105,
+              106,
               "Signup_SCENE_DataInherit_1h_Popup_Text"
             ],
             [
-              106,
+              107,
               "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1"
             ],
             [
-              122,
+              123,
               "Signup_SCENE_UsernamePopup_Text"
             ]
           ],
-          4390
+          4482
         ],
         [
           [
@@ -1079,11 +1096,11 @@
               "Signup_SCENE_Birthdate_Month"
             ],
             [
-              107,
+              108,
               "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_2"
             ]
           ],
-          4512
+          4604
         ],
         [
           [
@@ -1104,7 +1121,7 @@
               "Signup_SCENE_DataInherit_PasswordEnter_Popup_Text"
             ]
           ],
-          4679
+          4771
         ],
         [
           [
@@ -1119,9 +1136,13 @@
             [
               77,
               "Signup_SCENE_CanChange_Name"
+            ],
+            [
+              131,
+              "Signup_SCENE_CSverBAN_Popup_Title"
             ]
           ],
-          4786
+          4916
         ],
         [
           [
@@ -1130,16 +1151,16 @@
               "Signup_SCENE_SDKAgree_Text_5"
             ]
           ],
-          4819
+          4949
         ],
         [
           [
             [
-              128,
+              129,
               "Signup_SCENE_InitialError_Popup_Title"
             ]
           ],
-          4861
+          4991
         ],
         [
           [
@@ -1148,7 +1169,7 @@
               "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Caution_1"
             ]
           ],
-          4925
+          5055
         ],
         [
           [
@@ -1157,7 +1178,7 @@
               "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Caution_2"
             ]
           ],
-          4989
+          5119
         ],
         [
           [
@@ -1170,11 +1191,11 @@
               "Signup_SCENE_DataInherit_PasswordEnter_Popup_SupportID"
             ],
             [
-              114,
+              115,
               "Signup_SCENE_Confirm_Button"
             ]
           ],
-          5128
+          5258
         ],
         [
           [
@@ -1187,7 +1208,7 @@
               "Signup_SCENE_Agree_Button"
             ]
           ],
-          5196
+          5326
         ],
         [
           [
@@ -1204,7 +1225,7 @@
               "Signup_SCENE_LanguageChoice_Korean"
             ]
           ],
-          5313
+          5443
         ],
         [
           [
@@ -1213,11 +1234,11 @@
               "Signup_SCENE_TermsConfirm_Heading_2"
             ],
             [
-              129,
+              130,
               "Signup_SCENE_InitialError_Popup_Text"
             ]
           ],
-          5394
+          5524
         ],
         [
           [
@@ -1226,11 +1247,11 @@
               "Signup_SCENE_BirthdatePopup_Date"
             ],
             [
-              109,
+              110,
               "Signup_SCENE_DataInherit_Confirm_Popup_Text"
             ]
           ],
-          5479
+          5609
         ],
         [
           [
@@ -1239,7 +1260,7 @@
               "Signup_SCENE_DataInherit_Title"
             ]
           ],
-          5514
+          5644
         ],
         [
           [
@@ -1248,7 +1269,7 @@
               "Signup_SCENE_BirthdatePopup_Title"
             ]
           ],
-          5552
+          5682
         ],
         [
           [
@@ -1257,7 +1278,7 @@
               "Signup_SCENE_LanguageChoicePopup_Text"
             ]
           ],
-          5594
+          5724
         ],
         [
           [
@@ -1270,7 +1291,7 @@
               "Signup_SCENE_LanguageChoice_Japanese"
             ]
           ],
-          5675
+          5805
         ],
         [
           [
@@ -1283,7 +1304,7 @@
               "Signup_SCENE_CountryChoicePopup_Text"
             ]
           ],
-          5752
+          5882
         ],
         [
           [
@@ -1292,7 +1313,7 @@
               "Signup_SCENE_CacheClearFinished_Popup_Text"
             ]
           ],
-          5799
+          5929
         ],
         [
           [
@@ -1301,7 +1322,7 @@
               "Signup_SCENE_CacheClear_Popup_Text"
             ]
           ],
-          5838
+          5968
         ],
         [
           [
@@ -1314,7 +1335,7 @@
               "Signup_SCENE_TermsUpdate_Popup_Text_1"
             ]
           ],
-          5920
+          6050
         ]
       ]
     },
@@ -1340,8 +1361,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 130,
-        "size": 12150,
+        "entries": 133,
+        "size": 12326,
         "unknown1": 0,
         "unknown2": 0
       }

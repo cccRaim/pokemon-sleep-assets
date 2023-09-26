@@ -183,7 +183,7 @@
       "＀"
     ],
     "SleepPassScene_Content_PremiumPassContent5Popup_Text_1": [
-      "Mit einem aktiven Premiumpass, kannst du\nmonatlich ein Profi-Camping-Ticket und\n1000 Schlafpunkte erhalten."
+      "Mit einem aktiven Premiumpass kannst du\nmonatlich ein Profi-Camping-Ticket und\n1000 Schlafpunkte als Geschenk erhalten."
     ],
     "SleepPassScene_Content_PremiumPassContent5Popup_Text_2": [
       "Prüfe den Schlafpass-Bildschirm, um zu\nsehen, wann deine nächsten monatlichen\nGeschenke eintreffen."
@@ -1108,7 +1108,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 17256,
+        "size": 17280,
         "unknown1": 0,
         "unknown2": 0
       }

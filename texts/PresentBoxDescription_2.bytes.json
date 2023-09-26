@@ -91,13 +91,22 @@
       "프리미엄 패스 3개월 지속 특전\n\u000e\t",
       "\u0012\u000eyyyyMMM",
       ""
+    ],
+    "PresentBoxDescription_text19": [
+      "ミニロードマップ\n公開記念プレゼント"
+    ],
+    "PresentBoxDescription_text20": [
+      "1000万ダウンロード\n記念プレゼント"
+    ],
+    "PresentBoxDescription_text21": [
+      "アカウント連携ボーナス"
     ]
   },
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 26,
-        "size": 186,
+        "entries": 29,
+        "size": 207,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -105,7 +114,7 @@
     "LBL1": {
       "header": {
         "entries": 17,
-        "size": 1024,
+        "size": 1123,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -162,9 +171,13 @@
             [
               15,
               "PresentBoxDescription_text06"
+            ],
+            [
+              26,
+              "PresentBoxDescription_text19"
             ]
           ],
-          403
+          436
         ],
         [
           [
@@ -173,7 +186,7 @@
               "PresentBoxDescription_text07"
             ]
           ],
-          436
+          469
         ],
         [
           [
@@ -182,7 +195,7 @@
               "PresentBoxDescription_text08"
             ]
           ],
-          469
+          502
         ],
         [
           [
@@ -195,7 +208,7 @@
               "PresentBoxDescription_text09"
             ]
           ],
-          538
+          571
         ],
         [
           [
@@ -204,25 +217,33 @@
               "PresentBoxDescription_text02_02"
             ]
           ],
-          574
+          607
         ],
         [
           [
             [
               4,
               "PresentBoxDescription_text02_03"
+            ],
+            [
+              27,
+              "PresentBoxDescription_text20"
             ]
           ],
-          610
+          676
         ],
         [
           [
             [
               5,
               "PresentBoxDescription_text02_04"
+            ],
+            [
+              28,
+              "PresentBoxDescription_text21"
             ]
           ],
-          646
+          745
         ],
         [
           [
@@ -231,7 +252,7 @@
               "PresentBoxDescription_text02_05"
             ]
           ],
-          682
+          781
         ],
         [
           [
@@ -244,7 +265,7 @@
               "PresentBoxDescription_text10"
             ]
           ],
-          751
+          850
         ],
         [
           [
@@ -257,7 +278,7 @@
               "PresentBoxDescription_text11"
             ]
           ],
-          820
+          919
         ],
         [
           [
@@ -266,7 +287,7 @@
               "PresentBoxDescription_text02_08"
             ]
           ],
-          856
+          955
         ],
         [
           [
@@ -283,7 +304,7 @@
               "PresentBoxDescription_text13"
             ]
           ],
-          958
+          1057
         ],
         [
           [
@@ -296,7 +317,7 @@
               "PresentBoxDescription_text14"
             ]
           ],
-          1024
+          1123
         ]
       ]
     },
@@ -322,8 +343,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 26,
-        "size": 872,
+        "entries": 29,
+        "size": 986,
         "unknown1": 0,
         "unknown2": 0
       }

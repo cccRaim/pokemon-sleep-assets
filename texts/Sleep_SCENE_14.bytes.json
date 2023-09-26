@@ -118,6 +118,12 @@
     "SleepConsumableItemSelectPopup_HeadlineTitle": [
       "Elige un incienso para esta sesión."
     ],
+    "SleepConsumableItemSelectPopup_NoIncense": [
+      "No tienes ningún incienso."
+    ],
+    "SleepConsumableItemSelectPopup_NoPokemonIncense": [
+      "No tienes ningún incienso de Pokémon."
+    ],
     "SleepConsumableItemSelectPopup_Num": [
       "\u000e\u0002\u0002\u0002",
       ""
@@ -304,6 +310,12 @@
     "SleepSceneController_Text_4": [
       "Puedes registrar un máximo de dos\nsesiones de sueño al día."
     ],
+    "SleepSceneController_Text_6": [
+      "Ha tenido lugar un error de sistema,\npor lo que se han creado datos de\nsueño desde el inicio del registro.\nEstos no incluyen un tipo de sueño."
+    ],
+    "SleepSceneController_Title_6": [
+      "Ajustes en los datos de sueño"
+    ],
     "SleepSceneMainView_Text_1": [
       "Desactivada"
     ],
@@ -442,11 +454,27 @@
     "SleepScene_BoxFullError_Title": [
       "Caja de Pokémon llena"
     ],
+    "SleepScene_Event_Popup_BonusPower_Text_1": [
+      "Bonus de evento"
+    ],
+    "SleepScene_Event_Popup_BonusPower_Text_2": [
+      "Poder Zzz ×\u000e\u0002\u0001\u0002",
+      ""
+    ],
     "SleepScene_NoResearchPopup_Message": [
       "Hoy ya has ganado 100 puntos con\ntu primera sesión, así que ya no se\npueden usar más datos para el estudio."
     ],
     "SleepScene_NoResearchPopup_Title": [
       "Ya hay suficientes datos de sueño"
+    ],
+    "SleepScene_ResultSleepCorrectionPopup_Text": [
+      "Se ha detectado mucho movimiento\ncorporal durante el registro, por lo\nque no ha sido posible determinar un\ntipo de sueño. Se han creado datos de\nsueño partiendo del inicio del registro,\npero estos no incluyen el tipo de\nsueño."
+    ],
+    "SleepScene_ResultSleepCorrectionPopup_Text_Unknown": [
+      "Se ha detectado un error inesperado\ny se han creado datos de sueño desde\nel inicio del registro, pero estos no\nincluyen el tipo de sueño."
+    ],
+    "SleepScene_ResultSleepCorrectionPopup_Title": [
+      "Ajustes en los datos de sueño"
     ],
     "SleepScene_SleepDataInvalidPopup_Message": [
       "Se ha detectado un problema con tus\ndatos de sueño, por lo que no se han\npodido guardar."
@@ -504,6 +532,29 @@
     ],
     "SleepScene_SleepPowerView_NextButton_2": [
       "Iniciar estudio"
+    ],
+    "SleepScene_SleepPowerView_SleepOthersEffectPopup_GSD": [
+      "Día de los dormilones"
+    ],
+    "SleepScene_SleepPowerView_SleepOthersEffectPopup_GSD_Effect": [
+      "\u000e",
+      "\u0003\u0004毿ＷPoder Zzz ×\u000e\u0002\u0001\u0002",
+      "\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SleepScene_SleepPowerView_SleepOthersEffectPopup_Heading": [
+      "Lista de bonus"
+    ],
+    "SleepScene_SleepPowerView_SleepOthersEffectPopup_Title": [
+      "Detalles de los bonus"
+    ],
+    "SleepScene_SleepPowerView_SleepOthersEffectTitle": [
+      "Bonus"
+    ],
+    "SleepScene_SleepPowerView_SleepOthersEffectTitle_Value": [
+      "\u000e\u0002\u0001\u0002",
+      ""
     ],
     "SleepScene_SleepPowerView_SleepPowerTotal": [
       "\u000e\u0002\t\u0004",
@@ -693,8 +744,14 @@
     "TutorialPopup_HowToSleep1_Desc_1": [
       "Asegúrate de que tu dispositivo móvil\nestá enchufado."
     ],
+    "TutorialPopup_HowToSleep1_Desc_1_Renewal": [
+      "Si tu dispositivo móvil tiene poca\nbatería, cárgalo previamente."
+    ],
     "TutorialPopup_HowToSleep1_Desc_2": [
       "Esto permitirá que el registro del sueño\npueda realizarse de forma ininterrumpida."
+    ],
+    "TutorialPopup_HowToSleep1_Desc_2_Renewal": [
+      "Si tu dispositivo móvil tiene poca batería,\ndéjalo enchufado durante el registro."
     ],
     "TutorialPopup_HowToSleep2_Desc_1": [
       "Coloca tu dispositivo sobre el colchón."
@@ -705,8 +762,14 @@
     "TutorialPopup_HowToSleep3_Desc_1": [
       "No apagues la pantalla ni suspendas\nla aplicación. Basta con colocar tu\ndispositivo con la pantalla boca abajo."
     ],
+    "TutorialPopup_HowToSleep3_Desc_1_Renewal": [
+      "No apagues la pantalla. Coloca tu\ndispositivo boca abajo y la pantalla\nse oscurecerá para ahorrar batería."
+    ],
     "TutorialPopup_HowToSleep3_Desc_2": [
       "La pantalla se oscurecerá automáticamente\npara ahorrar energía."
+    ],
+    "TutorialPopup_HowToSleep3_Desc_2_Renewal": [
+      "Si cierras la ventana de la aplicación y dejas tu\ndispositivo boca arriba, el registro comenzará\nen segundo plano, pero podría detenerse."
     ],
     "TutorialPopup_HowToSleepSummary_Desc": [
       "Mantén enchufado tu dispositivo."
@@ -716,6 +779,11 @@
     ],
     "TutorialPopup_HowToSleepSummary_Desc_3": [
       "No apagues la pantalla ni suspendas\nla aplicación. La pantalla se oscurecerá\nautomáticamente para ahorrar energía."
+    ],
+    "TutorialPopup_HowToSleepSummary_Desc_3_Renewal": [
+      "No apagues la pantalla. Coloca boca abajo\ntu dispositivo. \u000e\n",
+      "\u0002촀Si minimizas la aplicación y\nlo dejas boca arriba, el registro continuará\nen segundo plano, pero podría detenerse.\u000f\n",
+      ""
     ],
     "TutorialPopup_HowToSleepSummary_Desc_4": [
       "\u000e",
@@ -729,6 +797,9 @@
       "\u0003\u0004",
       "＀"
     ],
+    "TutorialPopup_HowToSleepSummary_Desc_Renewal": [
+      "Si tu dispositivo móvil tiene poca batería,\ncárgalo previamente."
+    ],
     "TutorialPopup_HowToSleepSummary_Title": [
       "Resumen del registro"
     ],
@@ -736,10 +807,10 @@
       "Asegúrate de que tu dispositivo móvil está\ncargado antes de iniciar un registro."
     ],
     "TutorialPopup_HowToSleep_Desc_2": [
-      "No apagues la pantalla ni suspendas la aplicación.\nLa pantalla se oscurecerá automáticamente."
+      "No apagues la pantalla ni suspendas la\naplicación. La pantalla se oscurecerá\nautomáticamente."
     ],
     "TutorialPopup_HowToSleep_Desc_3": [
-      "Cuando vayas a dormir, coloca tu dispositivo\nsobre el colchón. El registro no se realizará de\nforma correcta si lo colocas sobre una\nsuperficie dura."
+      "Cuando vayas a dormir, coloca tu\ndispositivo sobre el colchón. El registro\nno se realizará de forma correcta si lo\ncolocas sobre una superficie dura."
     ],
     "TutorialPopup_HowToSleep_Desc_4": [
       "No coloques tu dispositivo bajo la\nalmohada o las mantas para que no se\nsobrecaliente."
@@ -766,8 +837,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 212,
-        "size": 1488,
+        "entries": 233,
+        "size": 1635,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -775,14 +846,14 @@
     "LBL1": {
       "header": {
         "entries": 101,
-        "size": 9101,
+        "size": 10136,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              23,
+              25,
               "SleepSceneMinuteSettingCell_Text_1"
             ]
           ],
@@ -791,143 +862,161 @@
         [
           [
             [
-              24,
+              26,
               "SleepSceneMinuteSettingCell_Text_2"
             ]
           ],
           886
         ],
         [
-          [],
-          886
-        ],
-        [
-          [],
-          886
+          [
+            [
+              107,
+              "SleepScene_SleepPowerView_SleepOthersEffectTitle"
+            ],
+            [
+              228,
+              "SleepConsumableItemSelectPopup_NoIncense"
+            ]
+          ],
+          984
         ],
         [
           [
             [
-              88,
-              "SleepScene_SleepResultView_VoiceCountText"
-            ],
-            [
-              154,
-              "SleepSceneMinuteSettingPoup_DescText"
+              181,
+              "TutorialPopup_HowToSleep1_Desc_1_Renewal"
             ]
           ],
-          973
-        ],
-        [
-          [
-            [
-              35,
-              "SleepSceneSleepResultView_Text_1"
-            ],
-            [
-              53,
-              "SleepScene_SleepMainView_AlarmTime"
-            ]
-          ],
-          1049
-        ],
-        [
-          [
-            [
-              22,
-              "SleepSceneMainView_Text_1"
-            ],
-            [
-              36,
-              "SleepSceneSleepResultView_Text_2"
-            ],
-            [
-              164,
-              "PokemonSleepObjectSingleUI_FriendLevel"
-            ]
-          ],
-          1159
-        ],
-        [
-          [
-            [
-              98,
-              "SleepScene_SleepPowerView_SleepPowerTotal"
-            ]
-          ],
-          1205
+          1029
         ],
         [
           [
             [
               90,
+              "SleepScene_SleepResultView_VoiceCountText"
+            ],
+            [
+              164,
+              "SleepSceneMinuteSettingPoup_DescText"
+            ]
+          ],
+          1116
+        ],
+        [
+          [
+            [
+              37,
+              "SleepSceneSleepResultView_Text_1"
+            ],
+            [
+              55,
+              "SleepScene_SleepMainView_AlarmTime"
+            ]
+          ],
+          1192
+        ],
+        [
+          [
+            [
+              24,
+              "SleepSceneMainView_Text_1"
+            ],
+            [
+              38,
+              "SleepSceneSleepResultView_Text_2"
+            ],
+            [
+              174,
+              "PokemonSleepObjectSingleUI_FriendLevel"
+            ]
+          ],
+          1302
+        ],
+        [
+          [
+            [
+              100,
+              "SleepScene_SleepPowerView_SleepPowerTotal"
+            ],
+            [
+              111,
+              "SleepScene_SleepPowerView_SleepOthersEffectPopup_GSD"
+            ]
+          ],
+          1405
+        ],
+        [
+          [
+            [
+              92,
               "SleepScene_SleepResultView_Value"
             ],
             [
-              102,
+              104,
               "SleepScene_SleepPowerView_x"
             ],
             [
-              161,
+              171,
               "SleepSceneSettingPopup_Value_3"
             ]
           ],
-          1309
+          1509
         ],
         [
           [],
-          1309
+          1509
         ],
         [
           [
             [
-              86,
+              88,
               "SleepScene_SleepResultView_SoundModeButton"
             ],
             [
-              136,
+              146,
               "SleepDataGraph_StartTime"
             ]
           ],
-          1385
+          1585
         ],
         [
           [
             [
-              64,
+              66,
               "SleepScene_SleepResultView_SkipButton"
             ],
             [
-              73,
+              75,
               "SleepScene_SleepResultView_SleepStartTime"
             ],
             [
-              119,
+              129,
               "SleepConsumableItemSelectPopup_Num"
             ],
             [
-              211,
+              227,
               "SleepConsumableItemSelectPopup_Cell_SetButton"
             ]
           ],
-          1562
+          1762
         ],
         [
           [
             [
-              128,
+              138,
               "SleepCancelWarningPopup_Message"
             ],
             [
-              159,
+              169,
               "SleepSceneSettingPopup_AlarmName_1"
             ]
           ],
-          1637
+          1837
         ],
         [
           [],
-          1637
+          1837
         ],
         [
           [
@@ -936,7 +1025,7 @@
               "HomeStartSleepPopup_SleepButton"
             ]
           ],
-          1673
+          1873
         ],
         [
           [
@@ -945,263 +1034,284 @@
               "HomeStartSleepPopup_PromiseTimeButton_Label"
             ],
             [
-              152,
+              109,
+              "SleepScene_SleepPowerView_SleepOthersEffectPopup_Title"
+            ],
+            [
+              162,
               "SleepRecordedAudioPopup_HeadlineTitle"
             ],
             [
-              170,
+              180,
               "TutorialPopup_HowToSleep1_Desc_1"
             ],
             [
-              177,
+              191,
               "TutorialPopup_HowToSleep_Desc_2"
             ],
             [
-              202,
+              218,
               "SleepScene_SleepDataTooOldPopup_Message"
             ]
           ],
-          1880
+          2139
         ],
         [
           [
             [
-              68,
+              70,
               "SleepScene_SleepResultView_DateTimeText"
             ],
             [
-              78,
+              80,
               "SleepScene_SleepResultView_StartTime"
             ],
             [
-              171,
+              182,
               "TutorialPopup_HowToSleep1_Desc_2"
             ],
             [
-              172,
+              184,
               "TutorialPopup_HowToSleep2_Desc_1"
             ],
             [
-              178,
+              192,
               "TutorialPopup_HowToSleep_Desc_3"
             ]
           ],
-          2075
+          2334
         ],
         [
           [
             [
-              145,
+              155,
               "SleepRecordedAudioCell_TimeText"
             ],
             [
-              173,
+              185,
               "TutorialPopup_HowToSleep2_Desc_2"
             ],
             [
-              179,
+              193,
               "TutorialPopup_HowToSleep_Desc_4"
             ],
             [
-              190,
+              206,
               "SleepScene_NoResearchPopup_Title"
             ]
           ],
-          2221
+          2480
         ],
         [
           [
             [
-              191,
+              207,
               "SleepScene_NoResearchPopup_Message"
             ]
           ],
-          2260
+          2519
         ],
         [
           [
             [
-              61,
+              63,
               "SleepScene_SleepResultView_Title"
             ],
             [
-              207,
+              223,
               "SleepConsumableItemSetPopup_Content_Desc"
             ]
           ],
-          2342
+          2601
         ],
         [
           [
             [
-              196,
+              212,
               "SleepScene_BoxFullError_Message"
             ],
             [
-              209,
+              225,
               "SleepConsumableItemSelectPopup_Section_Incense"
             ],
             [
-              210,
+              226,
               "SleepConsumableItemSelectPopup_Section_PokemonIncense"
             ]
           ],
-          2487
-        ],
-        [
-          [],
-          2487
+          2746
         ],
         [
           [
             [
-              199,
+              110,
+              "SleepScene_SleepPowerView_SleepOthersEffectPopup_Heading"
+            ]
+          ],
+          2807
+        ],
+        [
+          [
+            [
+              215,
               "SleepScene_BatteryLittlePopup_Title"
             ],
             [
-              206,
+              222,
               "SleepConsumableItemSetPopup_Content_Title"
             ]
           ],
-          2573
+          2893
         ],
         [
           [
             [
-              108,
+              118,
               "CommonSleepRoundGraph_Score"
             ]
           ],
-          2605
+          2925
         ],
         [
           [
             [
-              48,
+              50,
               "SleepScene_SleepMainView_Title"
             ],
             [
-              105,
+              115,
               "SleepScene_SleepPowerView_NextButton"
             ],
             [
-              141,
+              151,
               "SleepFaceLibraryCell_FindNum"
+            ],
+            [
+              183,
+              "TutorialPopup_HowToSleep1_Desc_2_Renewal"
             ]
           ],
-          2714
+          3079
         ],
         [
           [
             [
-              71,
+              73,
               "SleepScene_SleepResultView_Title_2"
             ],
             [
-              205,
+              221,
               "SleepScene_SleepResultView_InvalidTime"
             ]
           ],
-          2796
+          3161
         ],
         [
           [
             [
-              75,
+              77,
               "SleepScene_SleepResultView_Title_3"
             ],
             [
-              181,
+              195,
               "TutorialPopup_HowToSleepSummary_Desc"
             ]
           ],
-          2876
+          3241
         ],
         [
           [
             [
-              76,
+              78,
               "SleepScene_SleepResultView_Title_4"
             ],
             [
-              142,
+              152,
               "SleepFaceLibraryCell_Background"
             ]
           ],
-          2951
-        ],
-        [
-          [
-            [
-              25,
-              "SleepSceneSettingView_Text_1"
-            ],
-            [
-              192,
-              "SleepSceneController_Error_DataVersionNotMatch_Message"
-            ]
-          ],
-          3043
-        ],
-        [
-          [
-            [
-              26,
-              "SleepSceneSettingView_Text_2"
-            ],
-            [
-              110,
-              "GPPSleepItemSelectPopup_Title"
-            ]
-          ],
-          3110
+          3316
         ],
         [
           [
             [
               27,
-              "SleepSceneSettingView_Text_3"
+              "SleepSceneSettingView_Text_1"
             ],
             [
-              89,
-              "SleepScene_SleepResultView_Title_7"
+              108,
+              "SleepScene_SleepPowerView_SleepOthersEffectTitle_Value"
+            ],
+            [
+              208,
+              "SleepSceneController_Error_DataVersionNotMatch_Message"
             ]
           ],
-          3182
+          3467
         ],
         [
           [
             [
               28,
-              "SleepSceneSettingView_Text_4"
+              "SleepSceneSettingView_Text_2"
             ],
             [
-              91,
-              "SleepScene_SleepResultView_Title_8"
-            ],
-            [
-              129,
-              "SleepDataCalendarCell_DayText"
+              120,
+              "GPPSleepItemSelectPopup_Title"
             ]
           ],
-          3288
+          3534
         ],
         [
           [
             [
               29,
+              "SleepSceneSettingView_Text_3"
+            ],
+            [
+              91,
+              "SleepScene_SleepResultView_Title_7"
+            ]
+          ],
+          3606
+        ],
+        [
+          [
+            [
+              30,
+              "SleepSceneSettingView_Text_4"
+            ],
+            [
+              93,
+              "SleepScene_SleepResultView_Title_8"
+            ],
+            [
+              112,
+              "SleepScene_SleepPowerView_SleepOthersEffectPopup_GSD_Effect"
+            ],
+            [
+              139,
+              "SleepDataCalendarCell_DayText"
+            ]
+          ],
+          3776
+        ],
+        [
+          [
+            [
+              31,
               "SleepSceneSettingView_Text_5"
             ],
             [
-              92,
+              94,
               "SleepScene_SleepResultView_Title_9"
             ],
             [
-              117,
+              127,
               "SleepConsumableItemSelectPopup_Title"
             ]
           ],
-          3401
+          3889
         ],
         [
           [
@@ -1210,53 +1320,53 @@
               "HomeStartSleepPopup_PromiseTimeButton_Value"
             ],
             [
-              30,
+              32,
               "SleepSceneSettingView_Text_6"
             ],
             [
-              72,
+              74,
               "SleepScene_SleepResultView_Score"
             ],
             [
-              153,
+              163,
               "SleepSceneMinuteSettingPoup_Title"
             ],
             [
-              163,
+              173,
               "PokemonSleepObjectSingleUI_Num_2"
             ]
           ],
-          3594
+          4082
         ],
         [
           [],
-          3594
+          4082
         ],
         [
           [
             [
-              106,
+              116,
               "SleepScene_SleepPowerView_NextButton_2"
             ]
           ],
-          3637
+          4125
         ],
         [
           [
             [
-              82,
+              84,
               "SleepScene_SleepResultView_Label_Wake"
             ],
             [
-              114,
+              124,
               "MutipleSleepResultExpireDataCell_Desc"
             ],
             [
-              147,
+              157,
               "SleepRecordedAudioPopup_Title"
             ]
           ],
-          3755
+          4243
         ],
         [
           [
@@ -1265,435 +1375,451 @@
               "HomeStartSleepPopup_IncenseButton_Set"
             ],
             [
-              63,
+              65,
               "SleepScene_SleepResultView_NextButton"
             ],
             [
-              166,
+              176,
               "SleepTimeSettingPopup_Title"
             ]
           ],
-          3871
+          4359
         ],
         [
           [
             [
-              69,
+              71,
               "SleepScene_SleepResultView_NextButton_2"
             ],
             [
-              151,
+              161,
               "SleepRecordedAudioPopup_RecordSettingOnButton"
             ]
           ],
-          3965
+          4453
         ],
         [
           [
             [
-              126,
+              136,
               "PokedexSleepTypeSectionHeader_Count"
             ]
           ],
-          4005
-        ],
-        [
-          [
-            [
-              15,
-              "SleepDataCell_Text_3"
-            ],
-            [
-              83,
-              "SleepScene_SleepResultView_Label_Light"
-            ],
-            [
-              188,
-              "TutorialStartSleepResultConfirmPopup_CloseButton"
-            ],
-            [
-              198,
-              "SleepResultSceneControllerBase_Research_Later_Desc"
-            ]
-          ],
-          4181
-        ],
-        [
-          [
-            [
-              13,
-              "AlarmModal_Text_1"
-            ],
-            [
-              16,
-              "SleepDataCell_Text_4"
-            ],
-            [
-              79,
-              "SleepScene_SleepResultView_EndTime"
-            ],
-            [
-              125,
-              "PokedexSleepTypeSectionHeader_Title"
-            ],
-            [
-              131,
-              "SleepDataCalendarView_WeekDay"
-            ],
-            [
-              197,
-              "HomeStartSleepPopup_NextBonus"
-            ]
-          ],
-          4375
-        ],
-        [
-          [
-            [
-              14,
-              "AlarmModal_Text_2"
-            ],
-            [
-              41,
-              "SleepSceneResultTopView_Text_1"
-            ]
-          ],
-          4432
-        ],
-        [
-          [
-            [
-              42,
-              "SleepSceneResultTopView_Text_2"
-            ]
-          ],
-          4467
-        ],
-        [
-          [
-            [
-              43,
-              "SleepSceneResultTopView_Text_3"
-            ],
-            [
-              118,
-              "SleepConsumableItemSelectPopup_HeadlineTitle"
-            ]
-          ],
-          4551
+          4493
         ],
         [
           [
             [
               17,
-              "SleepRecordedAudioPopup_Text_1"
+              "SleepDataCell_Text_3"
             ],
             [
-              44,
-              "SleepSceneResultTopView_Text_4"
+              85,
+              "SleepScene_SleepResultView_Label_Light"
             ],
             [
-              77,
-              "SleepScene_SleepResultView_Percentage"
+              204,
+              "TutorialStartSleepResultConfirmPopup_CloseButton"
             ],
             [
-              112,
-              "GPPSleepItemSelectPopup_Title_2"
-            ],
-            [
-              123,
-              "PokedexSleepingFaceListRow_PokedexNumber"
+              214,
+              "SleepResultSceneControllerBase_Research_Later_Desc"
             ]
           ],
-          4744
+          4669
         ],
         [
           [
             [
+              15,
+              "AlarmModal_Text_1"
+            ],
+            [
               18,
-              "SleepRecordedAudioPopup_Text_2"
+              "SleepDataCell_Text_4"
             ],
             [
-              45,
-              "SleepSceneResultTopView_Text_5"
+              81,
+              "SleepScene_SleepResultView_EndTime"
             ],
             [
-              107,
-              "SleepScene_SleepPowerView_Name"
+              135,
+              "PokedexSleepTypeSectionHeader_Title"
             ],
             [
-              184,
-              "TutorialPopup_HowToSleepSummary_Desc_4_Symbol"
+              141,
+              "SleepDataCalendarView_WeekDay"
+            ],
+            [
+              213,
+              "HomeStartSleepPopup_NextBonus"
             ]
           ],
-          4899
+          4863
+        ],
+        [
+          [
+            [
+              16,
+              "AlarmModal_Text_2"
+            ],
+            [
+              43,
+              "SleepSceneResultTopView_Text_1"
+            ]
+          ],
+          4920
+        ],
+        [
+          [
+            [
+              44,
+              "SleepSceneResultTopView_Text_2"
+            ]
+          ],
+          4955
+        ],
+        [
+          [
+            [
+              45,
+              "SleepSceneResultTopView_Text_3"
+            ],
+            [
+              128,
+              "SleepConsumableItemSelectPopup_HeadlineTitle"
+            ]
+          ],
+          5039
         ],
         [
           [
             [
               19,
-              "SleepRecordedAudioPopup_Text_3"
+              "SleepRecordedAudioPopup_Text_1"
             ],
             [
               46,
-              "SleepSceneResultTopView_Text_6"
+              "SleepSceneResultTopView_Text_4"
             ],
             [
-              148,
-              "SleepRecordedAudioPopup_Description"
+              79,
+              "SleepScene_SleepResultView_Percentage"
+            ],
+            [
+              122,
+              "GPPSleepItemSelectPopup_Title_2"
+            ],
+            [
+              133,
+              "PokedexSleepingFaceListRow_PokedexNumber"
             ]
           ],
-          5009
+          5232
         ],
         [
           [
             [
               20,
-              "SleepRecordedAudioPopup_Text_4"
+              "SleepRecordedAudioPopup_Text_2"
             ],
             [
               47,
-              "SleepSceneResultTopView_Text_7"
+              "SleepSceneResultTopView_Text_5"
             ],
             [
-              130,
-              "SleepDataCalendarView_SleepDataSectionHeader"
+              117,
+              "SleepScene_SleepPowerView_Name"
             ],
             [
-              189,
-              "TutorialStartSleepResultConfirmPopup_OKButton"
+              200,
+              "TutorialPopup_HowToSleepSummary_Desc_4_Symbol"
             ]
           ],
-          5178
+          5387
         ],
         [
           [
             [
               21,
+              "SleepRecordedAudioPopup_Text_3"
+            ],
+            [
+              48,
+              "SleepSceneResultTopView_Text_6"
+            ],
+            [
+              158,
+              "SleepRecordedAudioPopup_Description"
+            ]
+          ],
+          5497
+        ],
+        [
+          [
+            [
+              22,
+              "SleepRecordedAudioPopup_Text_4"
+            ],
+            [
+              49,
+              "SleepSceneResultTopView_Text_7"
+            ],
+            [
+              140,
+              "SleepDataCalendarView_SleepDataSectionHeader"
+            ],
+            [
+              205,
+              "TutorialStartSleepResultConfirmPopup_OKButton"
+            ]
+          ],
+          5666
+        ],
+        [
+          [
+            [
+              23,
               "SleepRecordedAudioPopup_Text_5"
             ],
             [
-              109,
+              119,
               "GPPSleepDataErrorCell_Desc"
             ]
           ],
-          5244
+          5732
         ],
         [
           [
             [
-              62,
+              64,
               "SleepScene_SleepResultView_DateText"
             ],
             [
-              204,
+              220,
               "SleepScene_SleepDataInvalidPopup_Message"
             ]
           ],
-          5329
+          5817
         ],
         [
           [],
-          5329
-        ],
-        [
-          [
-            [
-              31,
-              "SleepSceneSleepPowerView_Text_1"
-            ],
-            [
-              116,
-              "HomeStartSleepPopup_Title"
-            ],
-            [
-              194,
-              "SleepScene_SleepResultLoadingView_Message"
-            ]
-          ],
-          5441
-        ],
-        [
-          [
-            [
-              32,
-              "SleepSceneSleepPowerView_Text_2"
-            ],
-            [
-              94,
-              "SleepScene_SleepResultView_Desc"
-            ]
-          ],
-          5513
+          5817
         ],
         [
           [
             [
               33,
-              "SleepSceneSleepPowerView_Text_3"
+              "SleepSceneSleepPowerView_Text_1"
             ],
             [
-              111,
-              "GPPSleepItemSelectPopup_Desc"
+              126,
+              "HomeStartSleepPopup_Title"
+            ],
+            [
+              210,
+              "SleepScene_SleepResultLoadingView_Message"
             ]
           ],
-          5582
+          5929
         ],
         [
           [
             [
               34,
-              "SleepSceneSleepPowerView_Text_4"
-            ],
-            [
-              93,
-              "SleepScene_SleepResultView_Title_11"
-            ],
-            [
-              122,
-              "PokedexSleepingFaceListRow_NumberTitle"
-            ]
-          ],
-          5701
-        ],
-        [
-          [
-            [
-              51,
-              "SleepScene_SleepMainView_Title_2"
-            ],
-            [
-              84,
-              "SleepScene_SleepResultView_Label_Deep"
-            ]
-          ],
-          5780
-        ],
-        [
-          [
-            [
-              54,
-              "SleepScene_SleepMainView_Title_3"
-            ]
-          ],
-          5817
-        ],
-        [
-          [],
-          5817
-        ],
-        [
-          [
-            [
-              133,
-              "SleepDataCell_Date"
-            ]
-          ],
-          5840
-        ],
-        [
-          [
-            [
-              140,
-              "SleepFaceLibraryCell_SleepingFaceName"
-            ]
-          ],
-          5882
-        ],
-        [
-          [
-            [
-              115,
-              "HomeStartSleepPopup_HeaderTitle"
-            ]
-          ],
-          5918
-        ],
-        [
-          [
-            [
-              95,
-              "SleepScene_SleepResultView_SleepTypeLabel"
-            ]
-          ],
-          5964
-        ],
-        [
-          [
-            [
-              120,
-              "SleepConsumableItemUseConfirmPopup_Desc"
-            ]
-          ],
-          6008
-        ],
-        [
-          [
-            [
-              57,
-              "SleepScene_SleepResultView_Date_Big"
-            ],
-            [
-              87,
-              "SleepScene_SleepResultView_SoundButton"
-            ],
-            [
-              124,
-              "PokedexSleepingFaceListRow_SleepingFaceCount"
-            ]
-          ],
-          6140
-        ],
-        [
-          [
-            [
-              85,
-              "SleepScene_SleepResultView_SleepModeButton"
+              "SleepSceneSleepPowerView_Text_2"
             ],
             [
               96,
-              "SleepScene_SleepPowerView_Title"
+              "SleepScene_SleepResultView_Desc"
             ],
             [
-              144,
-              "SleepGraphObject_EndTime"
-            ],
-            [
-              208,
-              "SleepConsumableItemUseConfirmPopup_OK"
+              187,
+              "TutorialPopup_HowToSleep3_Desc_1_Renewal"
             ]
           ],
-          6294
+          6046
         ],
         [
           [
             [
-              37,
-              "SleepSceneResultDetailGraphView_Text_1"
+              35,
+              "SleepSceneSleepPowerView_Text_3"
             ],
             [
-              55,
-              "SleepScene_SleepMainView_SleepStopButton"
-            ],
-            [
-              195,
-              "SleepScene_BoxFullError_Title"
+              121,
+              "GPPSleepItemSelectPopup_Desc"
             ]
           ],
-          6416
+          6115
+        ],
+        [
+          [
+            [
+              36,
+              "SleepSceneSleepPowerView_Text_4"
+            ],
+            [
+              95,
+              "SleepScene_SleepResultView_Title_11"
+            ],
+            [
+              132,
+              "PokedexSleepingFaceListRow_NumberTitle"
+            ]
+          ],
+          6234
+        ],
+        [
+          [
+            [
+              53,
+              "SleepScene_SleepMainView_Title_2"
+            ],
+            [
+              86,
+              "SleepScene_SleepResultView_Label_Deep"
+            ],
+            [
+              229,
+              "SleepConsumableItemSelectPopup_NoPokemonIncense"
+            ],
+            [
+              231,
+              "SleepScene_ResultSleepCorrectionPopup_Text"
+            ]
+          ],
+          6412
+        ],
+        [
+          [
+            [
+              56,
+              "SleepScene_SleepMainView_Title_3"
+            ]
+          ],
+          6449
         ],
         [
           [],
-          6416
+          6449
         ],
         [
           [
             [
-              193,
+              143,
+              "SleepDataCell_Date"
+            ]
+          ],
+          6472
+        ],
+        [
+          [
+            [
+              150,
+              "SleepFaceLibraryCell_SleepingFaceName"
+            ]
+          ],
+          6514
+        ],
+        [
+          [
+            [
+              125,
+              "HomeStartSleepPopup_HeaderTitle"
+            ]
+          ],
+          6550
+        ],
+        [
+          [
+            [
+              97,
+              "SleepScene_SleepResultView_SleepTypeLabel"
+            ]
+          ],
+          6596
+        ],
+        [
+          [
+            [
+              130,
+              "SleepConsumableItemUseConfirmPopup_Desc"
+            ]
+          ],
+          6640
+        ],
+        [
+          [
+            [
+              59,
+              "SleepScene_SleepResultView_Date_Big"
+            ],
+            [
+              89,
+              "SleepScene_SleepResultView_SoundButton"
+            ],
+            [
+              134,
+              "PokedexSleepingFaceListRow_SleepingFaceCount"
+            ]
+          ],
+          6772
+        ],
+        [
+          [
+            [
+              87,
+              "SleepScene_SleepResultView_SleepModeButton"
+            ],
+            [
+              98,
+              "SleepScene_SleepPowerView_Title"
+            ],
+            [
+              154,
+              "SleepGraphObject_EndTime"
+            ],
+            [
+              224,
+              "SleepConsumableItemUseConfirmPopup_OK"
+            ]
+          ],
+          6926
+        ],
+        [
+          [
+            [
+              39,
+              "SleepSceneResultDetailGraphView_Text_1"
+            ],
+            [
+              57,
+              "SleepScene_SleepMainView_SleepStopButton"
+            ],
+            [
+              211,
+              "SleepScene_BoxFullError_Title"
+            ]
+          ],
+          7048
+        ],
+        [
+          [],
+          7048
+        ],
+        [
+          [
+            [
+              196,
+              "TutorialPopup_HowToSleepSummary_Desc_Renewal"
+            ],
+            [
+              209,
               "SleepRecordedAudioCell_StopButton"
             ]
           ],
-          6454
+          7135
         ],
         [
           [
@@ -1702,101 +1828,117 @@
               "HomeStartSleepPopup_IncenseButton_Label"
             ],
             [
-              157,
-              "SleepSceneSettingPopup_Value"
-            ],
-            [
-              186,
-              "TutorialStartSleepResultConfirmPopup_Desc_1"
-            ]
-          ],
-          6579
-        ],
-        [
-          [
-            [
-              135,
-              "SleepDataCell_Score"
-            ],
-            [
-              146,
-              "SleepRecordedAudioCell_PlayButton"
-            ],
-            [
-              187,
-              "TutorialStartSleepResultConfirmPopup_Desc_2"
-            ]
-          ],
-          6689
-        ],
-        [
-          [],
-          6689
-        ],
-        [
-          [
-            [
-              104,
-              "SleepScene_SleepPowerView_SleepScore"
-            ]
-          ],
-          6730
-        ],
-        [
-          [
-            [
-              65,
-              "SleepScene_SleepResultView_NextButton_Wide"
-            ],
-            [
-              134,
-              "SleepDataCell_Date_WithNumber"
-            ]
-          ],
-          6811
-        ],
-        [
-          [
-            [
-              38,
-              "SleepSceneResultDetailTimeView_Text_1"
-            ],
-            [
-              49,
-              "SleepScene_SleepMainView_Hour"
-            ],
-            [
-              74,
-              "SleepScene_SleepResultView_SleepEndTime"
+              13,
+              "SleepSceneController_Title_6"
             ],
             [
               113,
-              "MutipleSleepResultExpireDataCell_Title_Date"
+              "SleepScene_Event_Popup_BonusPower_Text_1"
+            ],
+            [
+              167,
+              "SleepSceneSettingPopup_Value"
+            ],
+            [
+              202,
+              "TutorialStartSleepResultConfirmPopup_Desc_1"
             ]
           ],
-          6979
+          7338
         ],
         [
           [
             [
-              121,
+              114,
+              "SleepScene_Event_Popup_BonusPower_Text_2"
+            ],
+            [
+              145,
+              "SleepDataCell_Score"
+            ],
+            [
+              156,
+              "SleepRecordedAudioCell_PlayButton"
+            ],
+            [
+              203,
+              "TutorialStartSleepResultConfirmPopup_Desc_2"
+            ]
+          ],
+          7493
+        ],
+        [
+          [],
+          7493
+        ],
+        [
+          [
+            [
+              106,
+              "SleepScene_SleepPowerView_SleepScore"
+            ]
+          ],
+          7534
+        ],
+        [
+          [
+            [
+              67,
+              "SleepScene_SleepResultView_NextButton_Wide"
+            ],
+            [
+              144,
+              "SleepDataCell_Date_WithNumber"
+            ]
+          ],
+          7615
+        ],
+        [
+          [
+            [
+              40,
+              "SleepSceneResultDetailTimeView_Text_1"
+            ],
+            [
+              51,
+              "SleepScene_SleepMainView_Hour"
+            ],
+            [
+              76,
+              "SleepScene_SleepResultView_SleepEndTime"
+            ],
+            [
+              123,
+              "MutipleSleepResultExpireDataCell_Title_Date"
+            ],
+            [
+              189,
+              "TutorialPopup_HowToSleep3_Desc_2_Renewal"
+            ]
+          ],
+          7828
+        ],
+        [
+          [
+            [
+              131,
               "PokedexDetailSleepingFaceCell_PokedexSubId"
             ]
           ],
-          7026
+          7875
         ],
         [
           [
             [
-              39,
+              41,
               "SleepSceneResultDetailTimeView_Text_3"
             ],
             [
-              168,
+              178,
               "TutorialPopup_HowToSleep_Title_tutorial"
             ]
           ],
-          7112
+          7961
         ],
         [
           [
@@ -1805,136 +1947,136 @@
               "HomeStartSleepPopup_Desc"
             ],
             [
-              40,
+              42,
               "SleepSceneResultDetailTimeView_Text_4"
             ]
           ],
-          7183
+          8032
         ],
         [
           [
             [
-              50,
+              52,
               "SleepScene_SleepMainView_Minute"
             ]
           ],
-          7219
+          8068
         ],
         [
           [
             [
-              59,
+              61,
               "SleepScene_SleepResultView_DateTime"
             ]
           ],
-          7259
+          8108
         ],
         [
           [
             [
-              155,
+              165,
               "SleepSceneSettingPopup_Title"
             ]
           ],
-          7292
+          8141
         ],
         [
           [
             [
-              149,
+              159,
               "SleepRecordedAudioPopup_DeleteData"
             ]
           ],
-          7331
+          8180
         ],
         [
           [
             [
-              103,
+              105,
               "SleepScene_SleepPowerView_SleepScoreTitle"
             ]
           ],
-          7377
-        ],
-        [
-          [
-            [
-              56,
-              "SleepScene_SleepScenePrepareView_SkipButton"
-            ],
-            [
-              101,
-              "SleepScene_SleepPowerView_SnorlaxPower"
-            ]
-          ],
-          7468
+          8226
         ],
         [
           [
             [
               58,
+              "SleepScene_SleepScenePrepareView_SkipButton"
+            ],
+            [
+              103,
+              "SleepScene_SleepPowerView_SnorlaxPower"
+            ]
+          ],
+          8317
+        ],
+        [
+          [
+            [
+              60,
               "SleepScene_SleepResultView_Date_Unit"
             ],
             [
-              67,
+              69,
               "SleepScene_SleepResultView_Min"
             ],
             [
-              80,
+              82,
               "SleepScene_SleepResultView_TimeLabel"
             ],
             [
-              100,
+              102,
               "SleepScene_SleepPowerView_SnorlaxPowerTitle"
             ],
             [
-              167,
+              177,
               "SleepTimeSettingPopup_Desc"
             ]
           ],
-          7664
+          8513
         ],
         [
           [
             [
-              70,
+              72,
               "SleepScene_SleepResultView_BackButton"
             ],
             [
-              138,
+              148,
               "SleepDataResearchResultCell_SleepTypeValue"
             ],
             [
-              139,
+              149,
               "SleepDataResearchResultCell_FriendLevelValue"
             ],
             [
-              156,
+              166,
               "SleepSceneSettingPopup_Title_2"
             ],
             [
-              162,
+              172,
               "PokemonSleepObjectSingleUI_Num"
             ],
             [
-              174,
+              186,
               "TutorialPopup_HowToSleep3_Desc_1"
             ]
           ],
-          7909
+          8758
         ],
         [
           [
             [
-              158,
+              168,
               "SleepSceneSettingPopup_Title_3"
             ],
             [
-              175,
+              188,
               "TutorialPopup_HowToSleep3_Desc_2"
             ]
           ],
-          7981
+          8830
         ],
         [
           [
@@ -1943,15 +2085,15 @@
               "SleepResultSceneControllerBase_Text_1"
             ],
             [
-              81,
+              83,
               "SleepScene_SleepResultView_Label_Level_4"
             ],
             [
-              160,
+              170,
               "SleepSceneSettingPopup_Title_4"
             ]
           ],
-          8103
+          8952
         ],
         [
           [
@@ -1960,79 +2102,92 @@
               "SleepResultSceneControllerBase_Text_2"
             ],
             [
-              99,
+              101,
               "SleepScene_SleepPowerView_Best"
             ]
           ],
-          8180
+          9029
         ],
         [
           [
             [
-              52,
+              54,
               "SleepScene_SleepMainView_AlarmSetting"
             ],
             [
-              143,
+              153,
               "SleepGraphObject_StartTime"
             ],
             [
-              201,
+              217,
               "SleepScene_SleepDataTooOldPopup_Title"
             ],
             [
-              203,
+              219,
               "SleepScene_SleepDataInvalidPopup_Title"
+            ],
+            [
+              230,
+              "SleepScene_ResultSleepCorrectionPopup_Title"
             ]
           ],
-          8338
-        ],
-        [
-          [],
-          8338
+          9235
         ],
         [
           [
             [
-              97,
+              199,
+              "TutorialPopup_HowToSleepSummary_Desc_3_Renewal"
+            ],
+            [
+              232,
+              "SleepScene_ResultSleepCorrectionPopup_Text_Unknown"
+            ]
+          ],
+          9341
+        ],
+        [
+          [
+            [
+              99,
               "SleepScene_SleepPowerView_Title_2Lines"
             ],
             [
-              169,
+              179,
               "TutorialPopup_HowToSleep_Title_Desc"
             ]
           ],
-          8421
+          9424
         ],
         [
           [
             [
-              150,
+              160,
               "SleepRecordedAudioPopup_RecordSettingOffButton"
             ],
             [
-              165,
+              175,
               "PokemonSleepObjectSingleUI_Label"
             ]
           ],
-          8509
+          9512
         ],
         [
           [
             [
-              176,
+              190,
               "TutorialPopup_HowToSleep_Desc"
             ],
             [
-              200,
+              216,
               "SleepScene_BatteryLittlePopup_Text"
             ]
           ],
-          8582
+          9585
         ],
         [
           [],
-          8582
+          9585
         ],
         [
           [
@@ -2041,15 +2196,15 @@
               "SleepSceneController_Text_1"
             ],
             [
-              60,
+              62,
               "SleepScene_SleepResultView_DateTime_DayOfWeek"
             ],
             [
-              182,
+              197,
               "TutorialPopup_HowToSleepSummary_Desc_2"
             ]
           ],
-          8707
+          9710
         ],
         [
           [
@@ -2058,11 +2213,11 @@
               "SleepSceneController_Text_2"
             ],
             [
-              183,
+              198,
               "TutorialPopup_HowToSleepSummary_Desc_3"
             ]
           ],
-          8782
+          9785
         ],
         [
           [
@@ -2071,15 +2226,15 @@
               "SleepSceneController_Text_3"
             ],
             [
-              137,
+              147,
               "SleepDataGraph_EndTime"
             ],
             [
-              185,
+              201,
               "TutorialPopup_HowToSleepSummary_Desc_4"
             ]
           ],
-          8884
+          9887
         ],
         [
           [
@@ -2092,32 +2247,36 @@
               "SleepSceneController_Text_4"
             ],
             [
-              66,
+              68,
               "SleepScene_SleepResultView_Hour"
             ],
             [
-              180,
+              194,
               "TutorialPopup_HowToSleepSummary_Title"
             ]
           ],
-          9039
+          10042
         ],
         [
           [],
-          9039
+          10042
         ],
         [
           [
             [
-              127,
+              14,
+              "SleepSceneController_Text_6"
+            ],
+            [
+              137,
               "SleepCancelWarningPopup_Title"
             ],
             [
-              132,
+              142,
               "SleepDataCell_SleepType"
             ]
           ],
-          9101
+          10136
         ]
       ]
     },
@@ -2143,8 +2302,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 212,
-        "size": 14728,
+        "entries": 233,
+        "size": 17620,
         "unknown1": 0,
         "unknown2": 0
       }

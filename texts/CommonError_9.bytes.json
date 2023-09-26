@@ -16,7 +16,7 @@
       "Server Overloaded"
     ],
     "CommonError_MaybeTimeSettingWrong_Text": [
-      "端末の日付・時刻設定が\n合っていない可能性があります\n端末の日付・時刻設定をご確認の上\n少し時間をおいてから、再度お試しください\nエラーコード：\u000e\u0002\u0005\u0004Ā촀"
+      "Your device's time and date settings\nmay not be correct. Please check the\ntime and date settings on your device\nand then try again later.\nError Code: \u000e\u0002\u0005\u0004Ā촀"
     ],
     "CommonError_NickNameCharNotAllowedPopup_Text": [
       "The nickname you entered includes\ncharacters that can't be used.\nPlease try another name."
@@ -236,7 +236,7 @@
     "TXT2": {
       "header": {
         "entries": 20,
-        "size": 3088,
+        "size": 3244,
         "unknown1": 0,
         "unknown2": 0
       }

@@ -6,6 +6,12 @@
     "CommonPopup_ApplicationQuit_Title": [
       "Really Quit?"
     ],
+    "CommonPopup_BadConnection_Popup_Text": [
+      "Communication failed.\nPlease ensure you have a stable\nconnection, then try again."
+    ],
+    "CommonPopup_BadConnection_Popup_Title": [
+      "Communication Error"
+    ],
     "CommonPopup_DataUpdate_Text": [
       "An update has arrived, so you’ll now\nbe returned to the title screen.\nWe apologize for the inconvenience."
     ],
@@ -82,8 +88,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 26,
-        "size": 186,
+        "entries": 28,
+        "size": 200,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -91,7 +97,7 @@
     "LBL1": {
       "header": {
         "entries": 17,
-        "size": 1111,
+        "size": 1194,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -116,7 +122,7 @@
         [
           [
             [
-              15,
+              17,
               "CommonPopup_TimeZoneChange_Text"
             ]
           ],
@@ -133,11 +139,11 @@
               "CommonPopup_Usercodes_Clipboard"
             ],
             [
-              20,
+              22,
               "CommonPopup_ObtLockPopup_Title"
             ],
             [
-              25,
+              27,
               "CommonPopup_ObtFinishWaiting_Message"
             ]
           ],
@@ -150,11 +156,11 @@
               "CommonPopup_Title_OfflineDialog_Text"
             ],
             [
-              14,
+              16,
               "CommonPopup_TimeZoneChange_Title"
             ],
             [
-              19,
+              21,
               "CommonPopup_ApplicationQuit_Message"
             ]
           ],
@@ -163,11 +169,11 @@
         [
           [
             [
-              9,
+              11,
               "CommonPopup_OKButton"
             ],
             [
-              10,
+              12,
               "CommonPopup_Datechange_Title"
             ]
           ],
@@ -180,46 +186,50 @@
               "CommonPopup_Playing_OfflineDialog_Text"
             ],
             [
-              23,
+              9,
+              "CommonPopup_BadConnection_Popup_Title"
+            ],
+            [
+              25,
               "CommonPopup_ObtEnd_Message"
             ]
           ],
-          632
+          674
         ],
         [
           [
             [
-              11,
+              13,
               "CommonPopup_Datechange_Text"
             ]
           ],
-          664
+          706
         ],
         [
           [],
-          664
+          706
         ],
         [
           [
             [
-              21,
+              23,
               "CommonPopup_ObtLockPopup_Message"
             ]
           ],
-          701
+          743
         ],
         [
           [],
-          701
+          743
         ],
         [
           [
             [
-              22,
+              24,
               "CommonPopup_ObtEnd_Title"
             ]
           ],
-          730
+          772
         ],
         [
           [
@@ -232,7 +242,7 @@
               "CommonPopup_Option_UserNameChange_SuccessDialog_Text"
             ]
           ],
-          823
+          865
         ],
         [
           [
@@ -241,15 +251,15 @@
               "CommonPopup_Usercodes_Copy_Title"
             ],
             [
-              16,
+              18,
               "CommonPopup_DataUpdate_Title"
             ],
             [
-              24,
+              26,
               "CommonPopup_ObtFinishWaiting_Title"
             ]
           ],
-          932
+          974
         ],
         [
           [
@@ -258,28 +268,32 @@
               "CommonPopup_Playing_OfflineDialog_Title"
             ],
             [
-              12,
+              14,
               "CommonPopup_Weekchange_Title"
             ],
             [
-              18,
+              20,
               "CommonPopup_ApplicationQuit_Title"
             ]
           ],
-          1047
+          1089
         ],
         [
           [
             [
-              13,
+              10,
+              "CommonPopup_BadConnection_Popup_Text"
+            ],
+            [
+              15,
               "CommonPopup_Weekchange_Text"
             ],
             [
-              17,
+              19,
               "CommonPopup_DataUpdate_Text"
             ]
           ],
-          1111
+          1194
         ]
       ]
     },
@@ -305,8 +319,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 26,
-        "size": 3118,
+        "entries": 28,
+        "size": 3330,
         "unknown1": 0,
         "unknown2": 0
       }

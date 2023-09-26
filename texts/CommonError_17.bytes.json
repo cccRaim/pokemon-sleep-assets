@@ -16,7 +16,7 @@
       "Server sovraccarico"
     ],
     "CommonError_MaybeTimeSettingWrong_Text": [
-      "端末の日付・時刻設定が\n合っていない可能性があります\n端末の日付・時刻設定をご確認の上\n少し時間をおいてから、再度お試しください\nエラーコード：\u000e\u0002\u0005\u0004Ā촀"
+      "Le impostazioni di data e ora del tuo\ndispositivo potrebbero non essere\ncorrette. Verifica le impostazioni\ndi data e ora del tuo dispostivo\ne riprova.\nCodice errore: \u000e\u0002\u0005\u0004Ā촀"
     ],
     "CommonError_NickNameCharNotAllowedPopup_Text": [
       "Il soprannome contiene caratteri\nnon utilizzabili. Scegline un altro."
@@ -238,7 +238,7 @@
     "TXT2": {
       "header": {
         "entries": 20,
-        "size": 2848,
+        "size": 3036,
         "unknown1": 0,
         "unknown2": 0
       }

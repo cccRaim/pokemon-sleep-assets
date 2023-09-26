@@ -87,6 +87,12 @@
     "AutoCookingScene_PotExpandBonusNum": [
       "MAX UP!"
     ],
+    "AutoCookingScene_PotShort_Popup_Text": [
+      "You can’t cook this dish because the\nnumber of ingredients you need to\nmake this dish exceeds the current\ncapacity of your pot."
+    ],
+    "AutoCookingScene_PotShort_Popup_Title": [
+      "Not Enough Room in Pot"
+    ],
     "AutoCookingScene_PreviewButton": [
       "Preview"
     ],
@@ -308,8 +314,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 88,
-        "size": 620,
+        "entries": 90,
+        "size": 634,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -317,7 +323,7 @@
     "LBL1": {
       "header": {
         "entries": 47,
-        "size": 3656,
+        "size": 3739,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -490,8 +496,13 @@
           1314
         ],
         [
-          [],
-          1314
+          [
+            [
+              89,
+              "AutoCookingScene_PotShort_Popup_Text"
+            ]
+          ],
+          1355
         ],
         [
           [
@@ -504,7 +515,7 @@
               "AutoCookingScene_CampTicketExpired_Popup_Title"
             ]
           ],
-          1397
+          1438
         ],
         [
           [
@@ -529,7 +540,7 @@
               "AutoCookingScene_RecipeList_EnergyUnkown"
             ]
           ],
-          1577
+          1618
         ],
         [
           [
@@ -542,7 +553,7 @@
               "AutoCookingScene_PotExpandBonusNum"
             ]
           ],
-          1651
+          1692
         ],
         [
           [
@@ -551,7 +562,7 @@
               "AutoCookingScene_SortButton"
             ]
           ],
-          1683
+          1724
         ],
         [
           [
@@ -560,7 +571,7 @@
               "AutoCookingScene_ResultView_TotalPower"
             ]
           ],
-          1726
+          1767
         ],
         [
           [
@@ -573,7 +584,7 @@
               "AutoCookingScene_Cooking_GaugeText"
             ]
           ],
-          1803
+          1844
         ],
         [
           [
@@ -590,7 +601,7 @@
               "AutoCookingScene_SelectView_StartButton"
             ]
           ],
-          1916
+          1957
         ],
         [
           [
@@ -607,7 +618,7 @@
               "PopupMessage_CannotCook_IgnoreOptionOver"
             ]
           ],
-          2038
+          2079
         ],
         [
           [
@@ -620,7 +631,7 @@
               "AutoCookingStartPopup_Title"
             ]
           ],
-          2105
+          2146
         ],
         [
           [
@@ -629,7 +640,7 @@
               "AutoCookingScene_WeekendBonus_1"
             ]
           ],
-          2141
+          2182
         ],
         [
           [
@@ -642,7 +653,7 @@
               "AutoCookingScene_WeekendBonus_2"
             ]
           ],
-          2204
+          2245
         ],
         [
           [
@@ -659,11 +670,11 @@
               "AutoCookingScene_Result_GreatSuccess"
             ]
           ],
-          2314
+          2355
         ],
         [
           [],
-          2314
+          2355
         ],
         [
           [
@@ -672,11 +683,11 @@
               "AutoCookingScene_HeadTitleTop"
             ]
           ],
-          2348
+          2389
         ],
         [
           [],
-          2348
+          2389
         ],
         [
           [
@@ -685,7 +696,7 @@
               "AutoCookingScene_Header_Counter"
             ]
           ],
-          2384
+          2425
         ],
         [
           [
@@ -698,7 +709,7 @@
               "AutoCookingScene_ResultView_OKButton"
             ]
           ],
-          2463
+          2504
         ],
         [
           [
@@ -707,7 +718,7 @@
               "AutoCookingScene_HeadTitleSelect"
             ]
           ],
-          2500
+          2541
         ],
         [
           [
@@ -716,7 +727,7 @@
               "AutoCookingScene_RecipeListOrder"
             ]
           ],
-          2537
+          2578
         ],
         [
           [
@@ -737,7 +748,7 @@
               "AutoCookingOptionPopup_SubTitle"
             ]
           ],
-          2682
+          2723
         ],
         [
           [
@@ -754,7 +765,7 @@
               "AutoCookingScene_RecipeList_Ingredients"
             ]
           ],
-          2788
+          2829
         ],
         [
           [
@@ -767,7 +778,7 @@
               "AutoCookingScene_Cooking_DishEnergy"
             ]
           ],
-          2866
+          2907
         ],
         [
           [
@@ -780,7 +791,7 @@
               "ExpansionPopup_Desc"
             ]
           ],
-          2934
+          2975
         ],
         [
           [
@@ -791,13 +802,17 @@
             [
               73,
               "AutoCookingOptionPopup_Title"
+            ],
+            [
+              88,
+              "AutoCookingScene_PotShort_Popup_Title"
             ]
           ],
-          3011
+          3094
         ],
         [
           [],
-          3011
+          3094
         ],
         [
           [
@@ -810,7 +825,7 @@
               "AutoCookingScene_HeadTitleSelect_Count"
             ]
           ],
-          3091
+          3174
         ],
         [
           [
@@ -835,7 +850,7 @@
               "AutoCookingScene_SelectView_PreviewButton"
             ]
           ],
-          3272
+          3355
         ],
         [
           [
@@ -844,7 +859,7 @@
               "ExpansionPopup_ExpansionDone"
             ]
           ],
-          3305
+          3388
         ],
         [
           [
@@ -853,7 +868,7 @@
               "AutoCookingScene_AutoOptionButton"
             ]
           ],
-          3343
+          3426
         ],
         [
           [
@@ -866,7 +881,7 @@
               "AutoCookingScene_TopView_SelfChoiceButton"
             ]
           ],
-          3420
+          3503
         ],
         [
           [
@@ -883,7 +898,7 @@
               "AutoCookingScene_RecipeList_ShortageLabel"
             ]
           ],
-          3536
+          3619
         ],
         [
           [
@@ -900,7 +915,7 @@
               "AutoCookingScene_CampTicketExpired_Popup_Text"
             ]
           ],
-          3656
+          3739
         ]
       ]
     },
@@ -926,8 +941,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 88,
-        "size": 4904,
+        "entries": 90,
+        "size": 5214,
         "unknown1": 0,
         "unknown2": 0
       }

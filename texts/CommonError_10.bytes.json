@@ -16,7 +16,7 @@
       "Surcharge du serveur"
     ],
     "CommonError_MaybeTimeSettingWrong_Text": [
-      "端末の日付・時刻設定が\n合っていない可能性があります\n端末の日付・時刻設定をご確認の上\n少し時間をおいてから、再度お試しください\nエラーコード：\u000e\u0002\u0005\u0004Ā촀"
+      "L'heure et la date de votre appareil\nsont peut-être erronées.\nVeuillez vérifier ces paramètres\net réessayer plus tard.\nCode d'erreur : \u000e\u0002\u0005\u0004Ā촀"
     ],
     "CommonError_NickNameCharNotAllowedPopup_Text": [
       "Le surnom que vous avez saisi\ncontient un ou plusieurs caractères\nqui ne peuvent pas être utilisés.\nVeuillez saisir un autre nom."
@@ -236,7 +236,7 @@
     "TXT2": {
       "header": {
         "entries": 20,
-        "size": 3722,
+        "size": 3848,
         "unknown1": 0,
         "unknown2": 0
       }

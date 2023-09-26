@@ -16,7 +16,7 @@
       "Sobrecarga en el servidor"
     ],
     "CommonError_MaybeTimeSettingWrong_Text": [
-      "端末の日付・時刻設定が\n合っていない可能性があります\n端末の日付・時刻設定をご確認の上\n少し時間をおいてから、再度お試しください\nエラーコード：\u000e\u0002\u0005\u0004Ā촀"
+      "Es posible que los ajustes de fecha y\nhora de tu dispositivo móvil no estén\nconfigurados correctamente.\nCompruébalo y vuelve a intentarlo.\nCódigo de error: \u000e\u0002\u0005\u0004Ā촀"
     ],
     "CommonError_NickNameCharNotAllowedPopup_Text": [
       "Este mote incluye caracteres que no\nse pueden usar. Introduce otro mote."
@@ -236,7 +236,7 @@
     "TXT2": {
       "header": {
         "entries": 20,
-        "size": 3288,
+        "size": 3456,
         "unknown1": 0,
         "unknown2": 0
       }

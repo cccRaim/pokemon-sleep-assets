@@ -21,6 +21,9 @@
     "md_pokedex_data_category_name_12": [
       "나비포켓몬"
     ],
+    "md_pokedex_data_category_name_122": [
+      "배리어포켓몬"
+    ],
     "md_pokedex_data_category_name_127": [
       "뿔집게포켓몬"
     ],
@@ -77,6 +80,9 @@
     ],
     "md_pokedex_data_category_name_172": [
       "아기쥐포켓몬"
+    ],
+    "md_pokedex_data_category_name_173": [
+      "별포켓몬"
     ],
     "md_pokedex_data_category_name_174": [
       "풍선포켓몬"
@@ -177,8 +183,14 @@
     "md_pokedex_data_category_name_334": [
       "허밍포켓몬"
     ],
+    "md_pokedex_data_category_name_35": [
+      "요정포켓몬"
+    ],
     "md_pokedex_data_category_name_359": [
       "재난포켓몬"
+    ],
+    "md_pokedex_data_category_name_36": [
+      "요정포켓몬"
     ],
     "md_pokedex_data_category_name_360": [
       "명랑포켓몬"
@@ -203,6 +215,9 @@
     ],
     "md_pokedex_data_category_name_438": [
       "분재포켓몬"
+    ],
+    "md_pokedex_data_category_name_439": [
+      "따라하기포켓몬"
     ],
     "md_pokedex_data_category_name_447": [
       "파문포켓몬"
@@ -342,6 +357,9 @@
     "md_pokedex_data_desc_12": [
       "자는 동안 맹독 인분을 무심코 내보낼 때가\n있다고 한다. 자면서 날갯짓을 하는 동안\n힘이 빠질 때가 있는 걸지도 모른다."
     ],
+    "md_pokedex_data_desc_122": [
+      "팬터마임의 달인이다. 팬터마임으로\n자는 척을 하는 건지 진짜 잠들어\n꿈속에서 팬터마임을 하는 건지는 아무도 모른다."
+    ],
     "md_pokedex_data_desc_127": [
       "늠름하지만 추위를 많이 탄다. 유난히 추위가\n느껴지는 밤에는 땅속에 몸을 파묻고 잔다.\n그때 훌륭한 2개의 뿔은 아무리 해도\n땅 위로 삐져나온다고 한다."
     ],
@@ -398,6 +416,9 @@
     ],
     "md_pokedex_data_desc_172": [
       "자고 있을 때 귀를 기울이면 타다닥 정전기 소리가\n들린다. 아직 전기를 모으는 게 서투른 탓인지\n잠들어 있을 때 방전해 버리는 일도 있다고 한다."
+    ],
+    "md_pokedex_data_desc_173": [
+      "요람에 타고 있는 것처럼\n작은 몸을 한들한들 흔들며 잠을 잔다.\n흔들리는 실루엣은\n마치 밤하늘에 빛나는 별 같다."
     ],
     "md_pokedex_data_desc_174": [
       "몸이 부드럽고 탄력성이 있어서\n잘 때도 튀어 오른다. 아주 드물게\n꿈속에서도 노래 연습을 할 때가 있다고 한다."
@@ -498,8 +519,14 @@
     "md_pokedex_data_desc_334": [
       "자신의 날개에 둘러싸여 뭉게구름 같은 모습으로 잠든다.\n부드럽고 아름다운 날개로 감싸여\n깊이 잠든 파비코리는 가장 편안한 잠을\n맛보고 있을지도 모른다."
     ],
+    "md_pokedex_data_desc_35": [
+      "평소에는 거의 모습을 드러내지 않는다.\n보름달이 뜬 다음 날 아침에 봤다는 정보가 많다.\n그중에서도 [손가락흔들기]를 하며\n자고 있는 삐삐는 무척 드물어서\n발견하면 행복해진다고 전해진다."
+    ],
     "md_pokedex_data_desc_359": [
       "자고 있어도 앱솔의 초승달 모양의 뿔은\n꼿꼿하게 세워져 있다. 위험을 감지하는 능력은\n잘 때도 건재하다고 한다."
+    ],
+    "md_pokedex_data_desc_36": [
+      "달이 빛나는 고요한 밤에\n인적 없는 장소에서 잠이 든다고 한다.\n온화하게 잠을 자면서 먼 고향에 사는\n동료의 꿈을 꾸고 있는지도 모른다."
     ],
     "md_pokedex_data_desc_360": [
       "잘 때조차 싱글벙글 미소를 잃지 않는 마자.\n까만 꼬리가 땅을 탁탁 치고 있을 때는\n잠을 이루지 못해 화가 난 걸지도 모른다."
@@ -524,6 +551,9 @@
     ],
     "md_pokedex_data_desc_438": [
       "울면서 자는 것처럼 보이는 모습이 관찰된다.\n무슨 일이 있었는지 걱정되겠지만\n체내의 수분을 밖으로 내어\n조절하고 있을 뿐이므로 안심해도 된다."
+    ],
+    "md_pokedex_data_desc_439": [
+      "팬터마임으로 만든 침대 위에서\n자는 모습이 드물게 발견된다.\n잘 때도 다채로운 팬터마임을 보여주는 마임맨을\n열심히 흉내 내고 있다고 한다."
     ],
     "md_pokedex_data_desc_447": [
       "터프하고 노력가라고 전해진다. 드물게 옆으로 눕지 않고\n앉은 채로 자는 모습은 루카리오를 닮았다.\n언젠가 진화할 날을 꿈꾸며 노력하고 있는지도 모른다."
@@ -646,8 +676,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 214,
-        "size": 1502,
+        "entries": 224,
+        "size": 1572,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -655,7 +685,7 @@
     "LBL1": {
       "header": {
         "entries": 101,
-        "size": 7869,
+        "size": 8200,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -664,9 +694,13 @@
             [
               64,
               "md_pokedex_data_category_name_6"
+            ],
+            [
+              223,
+              "md_pokedex_data_desc_36"
             ]
           ],
-          844
+          872
         ],
         [
           [
@@ -679,11 +713,11 @@
               "md_pokedex_data_category_name_50"
             ],
             [
-              175,
+              179,
               "md_pokedex_data_desc_115"
             ]
           ],
-          946
+          974
         ],
         [
           [
@@ -696,15 +730,15 @@
               "md_pokedex_data_category_name_51"
             ],
             [
-              94,
+              95,
               "md_pokedex_data_category_name_333"
             ],
             [
-              146,
+              148,
               "md_pokedex_data_category_name_228"
             ]
           ],
-          1095
+          1123
         ],
         [
           [
@@ -725,24 +759,24 @@
               "md_pokedex_data_category_name_185"
             ],
             [
-              140,
+              142,
               "md_pokedex_data_category_name_334"
             ],
             [
-              147,
+              149,
               "md_pokedex_data_category_name_229"
             ]
           ],
-          1310
+          1338
         ],
         [
           [
             [
-              100,
+              102,
               "md_pokedex_data_category_name_53"
             ]
           ],
-          1347
+          1375
         ],
         [
           [
@@ -751,24 +785,24 @@
               "md_pokedex_data_category_name_54"
             ],
             [
-              155,
+              158,
               "md_pokedex_data_desc_180"
             ]
           ],
-          1413
+          1441
         ],
         [
           [
             [
-              101,
+              103,
               "md_pokedex_data_category_name_55"
             ],
             [
-              188,
+              192,
               "md_pokedex_data_desc_181"
             ]
           ],
-          1479
+          1507
         ],
         [
           [
@@ -777,20 +811,20 @@
               "md_pokedex_data_category_name_56"
             ]
           ],
-          1516
+          1544
         ],
         [
           [
             [
-              102,
+              104,
               "md_pokedex_data_category_name_57"
             ],
             [
-              112,
+              114,
               "md_pokedex_data_category_name_132"
             ]
           ],
-          1591
+          1619
         ],
         [
           [
@@ -803,15 +837,15 @@
               "md_pokedex_data_category_name_58"
             ],
             [
-              159,
+              162,
               "md_pokedex_data_desc_333"
             ],
             [
-              211,
+              215,
               "md_pokedex_data_desc_228"
             ]
           ],
-          1724
+          1752
         ],
         [
           [
@@ -820,27 +854,27 @@
               "md_pokedex_data_desc_185"
             ],
             [
-              103,
+              105,
               "md_pokedex_data_category_name_59"
             ],
             [
-              113,
+              115,
               "md_pokedex_data_category_name_134"
             ],
             [
-              133,
+              135,
               "md_pokedex_data_category_name_700"
             ],
             [
-              205,
+              209,
               "md_pokedex_data_desc_334"
             ],
             [
-              212,
+              216,
               "md_pokedex_data_desc_229"
             ]
           ],
-          1924
+          1952
         ],
         [
           [
@@ -849,15 +883,15 @@
               "md_pokedex_data_desc_50"
             ],
             [
-              114,
+              116,
               "md_pokedex_data_category_name_135"
             ],
             [
-              141,
+              143,
               "md_pokedex_data_category_name_447"
             ]
           ],
-          2028
+          2056
         ],
         [
           [
@@ -866,15 +900,15 @@
               "md_pokedex_data_desc_51"
             ],
             [
-              115,
+              117,
               "md_pokedex_data_category_name_136"
             ],
             [
-              142,
+              144,
               "md_pokedex_data_category_name_448"
             ]
           ],
-          2132
+          2160
         ],
         [
           [
@@ -883,16 +917,16 @@
               "md_pokedex_data_desc_52"
             ]
           ],
-          2160
+          2188
         ],
         [
           [
             [
-              165,
+              169,
               "md_pokedex_data_desc_53"
             ]
           ],
-          2188
+          2216
         ],
         [
           [
@@ -901,11 +935,11 @@
               "md_pokedex_data_desc_54"
             ],
             [
-              177,
+              181,
               "md_pokedex_data_desc_132"
             ]
           ],
-          2245
+          2273
         ],
         [
           [
@@ -914,11 +948,11 @@
               "md_pokedex_data_desc_133"
             ],
             [
-              166,
+              170,
               "md_pokedex_data_desc_55"
             ]
           ],
-          2302
+          2330
         ],
         [
           [
@@ -927,19 +961,19 @@
               "md_pokedex_data_desc_56"
             ],
             [
-              128,
+              130,
               "md_pokedex_data_category_name_246"
             ],
             [
-              178,
+              182,
               "md_pokedex_data_desc_134"
             ],
             [
-              198,
+              202,
               "md_pokedex_data_desc_700"
             ]
           ],
-          2426
+          2454
         ],
         [
           [
@@ -948,23 +982,23 @@
               "md_pokedex_data_category_name_70"
             ],
             [
-              129,
+              131,
               "md_pokedex_data_category_name_247"
             ],
             [
-              167,
+              171,
               "md_pokedex_data_desc_57"
             ],
             [
-              179,
+              183,
               "md_pokedex_data_desc_135"
             ],
             [
-              206,
+              210,
               "md_pokedex_data_desc_447"
             ]
           ],
-          2587
+          2615
         ],
         [
           [
@@ -973,36 +1007,36 @@
               "md_pokedex_data_desc_58"
             ],
             [
-              104,
+              106,
               "md_pokedex_data_category_name_71"
             ],
             [
-              130,
+              132,
               "md_pokedex_data_category_name_248"
             ],
             [
-              180,
+              184,
               "md_pokedex_data_desc_136"
             ],
             [
-              207,
+              211,
               "md_pokedex_data_desc_448"
             ]
           ],
-          2748
+          2776
         ],
         [
           [
             [
-              168,
+              172,
               "md_pokedex_data_desc_59"
             ]
           ],
-          2776
+          2804
         ],
         [
           [],
-          2776
+          2804
         ],
         [
           [
@@ -1011,7 +1045,7 @@
               "md_pokedex_data_category_name_74"
             ]
           ],
-          2813
+          2841
         ],
         [
           [
@@ -1020,41 +1054,41 @@
               "md_pokedex_data_category_name_75"
             ],
             [
-              138,
+              140,
               "md_pokedex_data_category_name_462"
             ]
           ],
-          2888
+          2916
         ],
         [
           [
             [
-              105,
+              107,
               "md_pokedex_data_category_name_76"
             ],
             [
-              193,
+              197,
               "md_pokedex_data_desc_246"
             ]
           ],
-          2954
+          2982
         ],
         [
           [
             [
-              88,
+              89,
               "md_pokedex_data_category_name_152"
             ],
             [
-              132,
+              134,
               "md_pokedex_data_category_name_359"
             ],
             [
-              194,
+              198,
               "md_pokedex_data_desc_247"
             ]
           ],
-          3059
+          3087
         ],
         [
           [
@@ -1063,19 +1097,19 @@
               "md_pokedex_data_category_name_20"
             ],
             [
-              89,
+              90,
               "md_pokedex_data_category_name_153"
             ],
             [
-              148,
+              150,
               "md_pokedex_data_category_name_302"
             ],
             [
-              195,
+              199,
               "md_pokedex_data_desc_248"
             ]
           ],
-          3201
+          3229
         ],
         [
           [
@@ -1084,11 +1118,11 @@
               "md_pokedex_data_category_name_79"
             ],
             [
-              119,
+              121,
               "md_pokedex_data_category_name_154"
             ]
           ],
-          3276
+          3304
         ],
         [
           [
@@ -1101,7 +1135,7 @@
               "md_pokedex_data_desc_70"
             ]
           ],
-          3342
+          3370
         ],
         [
           [
@@ -1114,15 +1148,15 @@
               "md_pokedex_data_category_name_156"
             ],
             [
-              134,
+              136,
               "md_pokedex_data_category_name_468"
             ],
             [
-              169,
+              173,
               "md_pokedex_data_desc_71"
             ]
           ],
-          3483
+          3511
         ],
         [
           [
@@ -1131,15 +1165,15 @@
               "md_pokedex_data_category_name_24"
             ],
             [
-              120,
+              122,
               "md_pokedex_data_category_name_157"
             ],
             [
-              203,
+              207,
               "md_pokedex_data_desc_462"
             ]
           ],
-          3587
+          3615
         ],
         [
           [
@@ -1152,7 +1186,7 @@
               "md_pokedex_data_category_name_158"
             ]
           ],
-          3662
+          3690
         ],
         [
           [
@@ -1165,19 +1199,19 @@
               "md_pokedex_data_desc_74"
             ],
             [
-              99,
+              101,
               "md_pokedex_data_category_name_26"
             ],
             [
-              153,
+              156,
               "md_pokedex_data_desc_152"
             ],
             [
-              197,
+              201,
               "md_pokedex_data_desc_359"
             ]
           ],
-          3823
+          3851
         ],
         [
           [
@@ -1186,15 +1220,15 @@
               "md_pokedex_data_desc_75"
             ],
             [
-              154,
+              157,
               "md_pokedex_data_desc_153"
             ],
             [
-              213,
+              217,
               "md_pokedex_data_desc_302"
             ]
           ],
-          3909
+          3937
         ],
         [
           [
@@ -1203,15 +1237,15 @@
               "md_pokedex_data_desc_1"
             ],
             [
-              170,
+              174,
               "md_pokedex_data_desc_76"
             ],
             [
-              184,
+              188,
               "md_pokedex_data_desc_154"
             ]
           ],
-          3993
+          4021
         ],
         [
           [
@@ -1228,7 +1262,7 @@
               "md_pokedex_data_desc_155"
             ]
           ],
-          4087
+          4115
         ],
         [
           [
@@ -1249,11 +1283,11 @@
               "md_pokedex_data_category_name_105"
             ],
             [
-              199,
+              203,
               "md_pokedex_data_desc_468"
             ]
           ],
-          4238
+          4266
         ],
         [
           [
@@ -1270,11 +1304,11 @@
               "md_pokedex_data_category_name_92"
             ],
             [
-              185,
+              189,
               "md_pokedex_data_desc_157"
             ]
           ],
-          4359
+          4387
         ],
         [
           [
@@ -1291,7 +1325,7 @@
               "md_pokedex_data_category_name_93"
             ]
           ],
-          4452
+          4480
         ],
         [
           [
@@ -1308,11 +1342,11 @@
               "md_pokedex_data_desc_6"
             ],
             [
-              109,
+              111,
               "md_pokedex_data_category_name_94"
             ]
           ],
-          4573
+          4601
         ],
         [
           [
@@ -1325,11 +1359,11 @@
               "md_pokedex_data_desc_24"
             ],
             [
-              127,
+              129,
               "md_pokedex_data_category_name_214"
             ]
           ],
-          4666
+          4694
         ],
         [
           [
@@ -1342,7 +1376,7 @@
               "md_pokedex_data_desc_8"
             ]
           ],
-          4721
+          4749
         ],
         [
           [
@@ -1359,11 +1393,11 @@
               "md_pokedex_data_desc_9"
             ],
             [
-              164,
+              168,
               "md_pokedex_data_desc_26"
             ]
           ],
-          4843
+          4871
         ],
         [
           [
@@ -1372,11 +1406,15 @@
               "md_pokedex_data_category_name_40"
             ],
             [
-              152,
+              154,
               "md_pokedex_data_desc_105"
+            ],
+            [
+              218,
+              "md_pokedex_data_category_name_173"
             ]
           ],
-          4909
+          4975
         ],
         [
           [
@@ -1385,7 +1423,7 @@
               "md_pokedex_data_category_name_174"
             ]
           ],
-          4947
+          5013
         ],
         [
           [
@@ -1394,38 +1432,38 @@
               "md_pokedex_data_category_name_175"
             ]
           ],
-          4985
+          5051
         ],
         [
           [
             [
-              122,
+              124,
               "md_pokedex_data_category_name_176"
             ]
           ],
-          5023
+          5089
         ],
         [
           [
             [
-              150,
+              152,
               "md_pokedex_data_desc_92"
             ],
             [
-              192,
+              196,
               "md_pokedex_data_desc_214"
             ]
           ],
-          5080
+          5146
         ],
         [
           [
             [
-              151,
+              153,
               "md_pokedex_data_desc_93"
             ]
           ],
-          5108
+          5174
         ],
         [
           [
@@ -1438,15 +1476,24 @@
               "md_pokedex_data_category_name_179"
             ],
             [
-              174,
+              178,
               "md_pokedex_data_desc_94"
             ]
           ],
-          5203
+          5269
         ],
         [
-          [],
-          5203
+          [
+            [
+              88,
+              "md_pokedex_data_category_name_122"
+            ],
+            [
+              219,
+              "md_pokedex_data_desc_173"
+            ]
+          ],
+          5336
         ],
         [
           [
@@ -1455,7 +1502,7 @@
               "md_pokedex_data_desc_174"
             ]
           ],
-          5232
+          5365
         ],
         [
           [
@@ -1464,11 +1511,11 @@
               "md_pokedex_data_desc_175"
             ],
             [
-              135,
+              137,
               "md_pokedex_data_category_name_287"
             ]
           ],
-          5299
+          5432
         ],
         [
           [
@@ -1477,37 +1524,41 @@
               "md_pokedex_data_desc_40"
             ],
             [
-              136,
+              138,
               "md_pokedex_data_category_name_288"
             ],
             [
-              187,
+              191,
               "md_pokedex_data_desc_176"
             ]
           ],
-          5394
+          5527
         ],
         [
           [
             [
-              96,
+              97,
               "md_pokedex_data_category_name_438"
             ],
             [
-              137,
+              139,
               "md_pokedex_data_category_name_289"
             ]
           ],
-          5470
+          5603
         ],
         [
           [
             [
-              111,
+              98,
+              "md_pokedex_data_category_name_439"
+            ],
+            [
+              113,
               "md_pokedex_data_category_name_127"
             ]
           ],
-          5508
+          5679
         ],
         [
           [
@@ -1516,99 +1567,108 @@
               "md_pokedex_data_desc_179"
             ]
           ],
-          5537
-        ],
-        [
-          [],
-          5537
-        ],
-        [
-          [],
-          5537
+          5708
         ],
         [
           [
             [
-              200,
+              155,
+              "md_pokedex_data_desc_122"
+            ]
+          ],
+          5737
+        ],
+        [
+          [],
+          5737
+        ],
+        [
+          [
+            [
+              204,
               "md_pokedex_data_desc_287"
             ]
           ],
-          5566
+          5766
         ],
         [
           [
             [
-              201,
+              205,
               "md_pokedex_data_desc_288"
             ]
           ],
-          5595
+          5795
         ],
         [
           [
             [
-              161,
+              164,
               "md_pokedex_data_desc_438"
             ],
             [
-              202,
+              206,
               "md_pokedex_data_desc_289"
             ]
           ],
-          5653
+          5853
         ],
         [
           [
             [
-              176,
+              165,
+              "md_pokedex_data_desc_439"
+            ],
+            [
+              180,
               "md_pokedex_data_desc_127"
             ]
           ],
-          5682
+          5911
         ],
         [
           [
             [
-              124,
+              126,
               "md_pokedex_data_category_name_196"
             ]
           ],
-          5720
+          5949
         ],
         [
           [
             [
-              125,
+              127,
               "md_pokedex_data_category_name_197"
             ]
           ],
-          5758
+          5987
         ],
         [
           [],
-          5758
+          5987
         ],
         [
           [
             [
-              97,
+              99,
               "md_pokedex_data_category_name_453"
             ],
             [
-              126,
+              128,
               "md_pokedex_data_category_name_199"
             ]
           ],
-          5834
+          6063
         ],
         [
           [
             [
-              98,
+              100,
               "md_pokedex_data_category_name_454"
             ]
           ],
-          5872
+          6101
         ],
         [
           [
@@ -1617,7 +1677,7 @@
               "md_pokedex_data_category_name_10"
             ]
           ],
-          5909
+          6138
         ],
         [
           [
@@ -1630,7 +1690,7 @@
               "md_pokedex_data_category_name_69"
             ]
           ],
-          5983
+          6212
         ],
         [
           [
@@ -1639,72 +1699,72 @@
               "md_pokedex_data_category_name_12"
             ],
             [
-              189,
+              193,
               "md_pokedex_data_desc_196"
             ]
           ],
-          6049
+          6278
         ],
         [
           [
             [
-              190,
+              194,
               "md_pokedex_data_desc_197"
             ]
           ],
-          6078
-        ],
-        [
-          [
-            [
-              116,
-              "md_pokedex_data_category_name_147"
-            ]
-          ],
-          6116
-        ],
-        [
-          [
-            [
-              117,
-              "md_pokedex_data_category_name_148"
-            ],
-            [
-              162,
-              "md_pokedex_data_desc_453"
-            ],
-            [
-              191,
-              "md_pokedex_data_desc_199"
-            ]
-          ],
-          6212
+          6307
         ],
         [
           [
             [
               118,
-              "md_pokedex_data_category_name_149"
-            ],
-            [
-              163,
-              "md_pokedex_data_desc_454"
+              "md_pokedex_data_category_name_147"
             ]
           ],
-          6279
+          6345
         ],
         [
           [
             [
-              95,
+              119,
+              "md_pokedex_data_category_name_148"
+            ],
+            [
+              166,
+              "md_pokedex_data_desc_453"
+            ],
+            [
+              195,
+              "md_pokedex_data_desc_199"
+            ]
+          ],
+          6441
+        ],
+        [
+          [
+            [
+              120,
+              "md_pokedex_data_category_name_149"
+            ],
+            [
+              167,
+              "md_pokedex_data_desc_454"
+            ]
+          ],
+          6508
+        ],
+        [
+          [
+            [
+              96,
               "md_pokedex_data_category_name_360"
             ]
           ],
-          6317
+          6546
         ],
         [
           [],
-          6317
+          6546
         ],
         [
           [
@@ -1717,7 +1777,7 @@
               "md_pokedex_data_category_name_80"
             ]
           ],
-          6391
+          6620
         ],
         [
           [
@@ -1726,15 +1786,15 @@
               "md_pokedex_data_desc_10"
             ],
             [
-              106,
+              108,
               "md_pokedex_data_category_name_81"
             ],
             [
-              143,
+              145,
               "md_pokedex_data_category_name_363"
             ]
           ],
-          6494
+          6723
         ],
         [
           [
@@ -1747,19 +1807,19 @@
               "md_pokedex_data_desc_69"
             ],
             [
-              107,
+              109,
               "md_pokedex_data_category_name_82"
             ],
             [
-              144,
+              146,
               "md_pokedex_data_category_name_364"
             ],
             [
-              181,
+              185,
               "md_pokedex_data_desc_147"
             ]
           ],
-          6654
+          6883
         ],
         [
           [
@@ -1768,23 +1828,23 @@
               "md_pokedex_data_desc_12"
             ],
             [
-              91,
+              92,
               "md_pokedex_data_category_name_202"
             ],
             [
-              131,
+              133,
               "md_pokedex_data_category_name_470"
             ],
             [
-              145,
+              147,
               "md_pokedex_data_category_name_365"
             ],
             [
-              182,
+              186,
               "md_pokedex_data_desc_148"
             ]
           ],
-          6825
+          7054
         ],
         [
           [
@@ -1793,58 +1853,58 @@
               "md_pokedex_data_category_name_84"
             ],
             [
-              139,
+              141,
               "md_pokedex_data_category_name_471"
             ],
             [
-              183,
+              187,
               "md_pokedex_data_desc_149"
             ]
           ],
-          6929
+          7158
         ],
         [
           [
             [
-              108,
+              110,
               "md_pokedex_data_category_name_85"
             ],
             [
-              121,
+              123,
               "md_pokedex_data_category_name_160"
             ],
             [
-              160,
+              163,
               "md_pokedex_data_desc_360"
             ]
           ],
-          7033
+          7262
         ],
         [
           [],
-          7033
+          7262
         ],
         [
           [],
-          7033
+          7262
         ],
         [
           [
             [
-              208,
+              212,
               "md_pokedex_data_desc_363"
             ]
           ],
-          7062
+          7291
         ],
         [
           [
             [
-              209,
+              213,
               "md_pokedex_data_desc_364"
             ]
           ],
-          7091
+          7320
         ],
         [
           [
@@ -1857,80 +1917,88 @@
               "md_pokedex_data_desc_80"
             ],
             [
-              156,
+              159,
               "md_pokedex_data_desc_202"
             ],
             [
-              196,
+              200,
               "md_pokedex_data_desc_470"
             ],
             [
-              210,
+              214,
               "md_pokedex_data_desc_365"
             ]
           ],
-          7234
+          7463
         ],
         [
           [
             [
-              171,
+              175,
               "md_pokedex_data_desc_81"
             ],
             [
-              204,
+              208,
               "md_pokedex_data_desc_471"
             ]
           ],
-          7291
-        ],
-        [
-          [
-            [
-              92,
-              "md_pokedex_data_category_name_316"
-            ],
-            [
-              172,
-              "md_pokedex_data_desc_82"
-            ],
-            [
-              186,
-              "md_pokedex_data_desc_160"
-            ]
-          ],
-          7386
+          7520
         ],
         [
           [
             [
               93,
+              "md_pokedex_data_category_name_316"
+            ],
+            [
+              176,
+              "md_pokedex_data_desc_82"
+            ],
+            [
+              190,
+              "md_pokedex_data_desc_160"
+            ]
+          ],
+          7615
+        ],
+        [
+          [
+            [
+              94,
               "md_pokedex_data_category_name_317"
+            ],
+            [
+              220,
+              "md_pokedex_data_category_name_35"
             ]
           ],
-          7424
+          7690
         ],
         [
           [
             [
-              149,
+              151,
               "md_pokedex_data_desc_84"
+            ],
+            [
+              222,
+              "md_pokedex_data_category_name_36"
             ]
           ],
-          7452
+          7755
         ],
         [
           [
             [
-              173,
+              177,
               "md_pokedex_data_desc_85"
             ]
           ],
-          7480
+          7783
         ],
         [
           [],
-          7480
+          7783
         ],
         [
           [
@@ -1939,16 +2007,16 @@
               "md_pokedex_data_category_name_39"
             ]
           ],
-          7517
+          7820
         ],
         [
           [
             [
-              110,
+              112,
               "md_pokedex_data_category_name_115"
             ]
           ],
-          7555
+          7858
         ],
         [
           [
@@ -1957,11 +2025,11 @@
               "md_pokedex_data_category_name_1"
             ],
             [
-              157,
+              160,
               "md_pokedex_data_desc_316"
             ]
           ],
-          7620
+          7923
         ],
         [
           [
@@ -1970,11 +2038,11 @@
               "md_pokedex_data_category_name_2"
             ],
             [
-              158,
+              161,
               "md_pokedex_data_desc_317"
             ]
           ],
-          7685
+          7988
         ],
         [
           [
@@ -1983,7 +2051,7 @@
               "md_pokedex_data_category_name_3"
             ]
           ],
-          7721
+          8024
         ],
         [
           [
@@ -1992,11 +2060,11 @@
               "md_pokedex_data_category_name_4"
             ],
             [
-              90,
+              91,
               "md_pokedex_data_category_name_180"
             ]
           ],
-          7795
+          8098
         ],
         [
           [
@@ -2005,11 +2073,15 @@
               "md_pokedex_data_category_name_5"
             ],
             [
-              123,
+              125,
               "md_pokedex_data_category_name_181"
+            ],
+            [
+              221,
+              "md_pokedex_data_desc_35"
             ]
           ],
-          7869
+          8200
         ]
       ]
     },
@@ -2035,8 +2107,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 214,
-        "size": 18384,
+        "entries": 224,
+        "size": 19266,
         "unknown1": 0,
         "unknown2": 0
       }

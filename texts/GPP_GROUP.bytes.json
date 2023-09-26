@@ -25,7 +25,7 @@
       "Examinar todo a la vez"
     ],
     "GPPSyncLoader_Confirm_Multiple_All_Research_Message": [
-      "¿Quieres examinar los datos de sueño\nmás recientes agrupados con los datos\nanteriores?"
+      "¿Quieres revisar los datos de sueño\nmás recientes y agruparlos con los\ndatos anteriores?"
     ],
     "GPPSyncLoader_SleepData_Found_Multiple": [
       "Tu Pokémon GO Plus + contiene\n\u000e\u0002",
@@ -326,7 +326,7 @@
     "TXT2": {
       "header": {
         "entries": 28,
-        "size": 2718,
+        "size": 2722,
         "unknown1": 0,
         "unknown2": 0
       }

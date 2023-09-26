@@ -9,6 +9,15 @@
     "HomeSceneTutorialController_AskCookingTutorialStart_Title": [
       "Cooking Tutorial"
     ],
+    "HomeSceneTutorialController_CannotUse_CookingChoice_Text": [
+      "You’ll be able to use this feature once\nyou’ve completed the Dex goal of\nregistering 12 sleep styles."
+    ],
+    "HomeSceneTutorialController_CannotUse_LevelUp_Text": [
+      "You’ll be able to use this feature once\nyou’ve completed the Dex goal of\nregistering 7 sleep styles."
+    ],
+    "HomeSceneTutorialController_CannotUse_PotExpand_Text": [
+      "You’ll be able to use this feature once\nyou’ve completed the Dex goal of\nregistering 35 sleep styles."
+    ],
     "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": [
       "You earned a reward for completing\nthe cooking tutorial!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002"
     ],
@@ -44,40 +53,27 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 13,
-        "size": 95,
+        "entries": 16,
+        "size": 116,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 7,
-        "size": 790,
+        "entries": 11,
+        "size": 995,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              6,
-              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message"
-            ],
-            [
-              12,
-              "HomeSceneTutorialController_Text_32"
+              14,
+              "HomeSceneTutorialController_CannotUse_CookingChoice_Text"
             ]
           ],
-          171
-        ],
-        [
-          [
-            [
-              5,
-              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title"
-            ]
-          ],
-          244
+          149
         ],
         [
           [
@@ -86,23 +82,76 @@
               "HomeSceneTutorialController_AskCookingTutorialStart_Title"
             ],
             [
-              4,
-              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message"
-            ],
+              9,
+              "HomeSceneTutorialController_Text_29"
+            ]
+          ],
+          251
+        ],
+        [
+          [
+            [
+              5,
+              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title"
+            ]
+          ],
+          324
+        ],
+        [
+          [
             [
               8,
               "HomeSceneTutorialController_Text_7"
             ]
           ],
-          418
+          363
         ],
         [
           [],
-          418
+          363
         ],
         [
           [],
-          418
+          363
+        ],
+        [
+          [
+            [
+              3,
+              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title"
+            ]
+          ],
+          434
+        ],
+        [
+          [
+            [
+              6,
+              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message"
+            ],
+            [
+              10,
+              "HomeSceneTutorialController_Text_30"
+            ],
+            [
+              13,
+              "HomeSceneTutorialController_CannotUse_LevelUp_Text"
+            ]
+          ],
+          604
+        ],
+        [
+          [
+            [
+              11,
+              "HomeSceneTutorialController_Text_31"
+            ],
+            [
+              15,
+              "HomeSceneTutorialController_CannotUse_PotExpand_Text"
+            ]
+          ],
+          701
         ],
         [
           [
@@ -111,15 +160,11 @@
               "HomeSceneTutorialController_AskCookingTutorialStart_Message"
             ],
             [
-              3,
-              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title"
-            ],
-            [
-              10,
-              "HomeSceneTutorialController_Text_30"
+              12,
+              "HomeSceneTutorialController_Text_32"
             ]
           ],
-          593
+          805
         ],
         [
           [
@@ -128,19 +173,15 @@
               "HomeSceneTutorialController_AskCookingTutorialStart_OK"
             ],
             [
+              4,
+              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message"
+            ],
+            [
               7,
               "HomeSceneTutorialController_FooterMessage_FieldChange"
-            ],
-            [
-              9,
-              "HomeSceneTutorialController_Text_29"
-            ],
-            [
-              11,
-              "HomeSceneTutorialController_Text_31"
             ]
           ],
-          790
+          995
         ]
       ]
     },
@@ -166,8 +207,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 13,
-        "size": 944,
+        "entries": 16,
+        "size": 1566,
         "unknown1": 0,
         "unknown2": 0
       }

@@ -10,13 +10,13 @@
       "Dulce especial que aumenta mucho el\nnivel de amistad de un Pokémon.\nSube al máximo los puntos de amistad."
     ],
     "item_desc_12": [
-      "Caramelo pequeño pero muy especial\nque puede convertirse en el específico\npara cada especie de Pokémon."
+      "Caramelo pequeño y muy especial\nque puede convertirse en 3 de los\nespecíficos para cada especie de\nPokémon."
     ],
     "item_desc_13": [
-      "Caramelo muy especial que puede\nconvertirse en el específico para cada\nespecie de Pokémon."
+      "Caramelo muy especial que puede\nconvertirse en 20 de los específicos\npara cada especie de Pokémon."
     ],
     "item_desc_14": [
-      "Caramelo grande y muy especial que\npuede convertirse en el específico\npara cada especie de Pokémon."
+      "Caramelo grande y muy especial\nque puede convertirse en 100 de\nlos específicos para cada especie\nde Pokémon."
     ],
     "item_desc_15": [
       "Jugoso cupón que puedes canjear por\n\u000e\u0002\u0002\u0002",
@@ -31,21 +31,25 @@
       " ingredientes."
     ],
     "item_desc_18": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0004\u0004",
+      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
       "촁 fragmento\u000e\u0007",
       "\b",
-      "\u0002s촀 de sueños."
+      "\u0002s촀 de sueños.\nEl número que recibas aumentará a\nmedida que suba tu rango de estudio."
     ],
     "item_desc_19": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0004\u0004",
-      "촁 fragmentos de sueño."
+      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
+      "촁 fragmento\u000e\u0007",
+      "\b",
+      "\u0002s촀 de sueños.\nEl número que recibas aumentará a\nmedida que suba tu rango de estudio."
     ],
     "item_desc_2": [
       "Duplica la cantidad de fragmentos de\nsueño obtenidos tras una sesión de\nestudio, tras lo cual se consume."
     ],
     "item_desc_20": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0004\u0004",
-      "촁 fragmentos de sueño."
+      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
+      "촁 fragmento\u000e\u0007",
+      "\b",
+      "\u0002s촀 de sueños.\nEl número que recibas aumentará a\nmedida que suba tu rango de estudio."
     ],
     "item_desc_21": [
       "Cordón que emite una singular energía\ncapaz de transmitir una extraña\nsensación de conexión. Ciertos\nPokémon lo adoran."
@@ -120,13 +124,13 @@
       "Dulce especial que sube al máximo\nlos puntos de amistad de un\nPokémon."
     ],
     "item_desc_short_12": [
-      "Caramelo pequeño pero especial que\npuede convertirse en el específico\npara cada especie de Pokémon."
+      "Caramelo pequeño y muy especial\nque puede convertirse en 3 de los\nespecíficos para cada Pokémon."
     ],
     "item_desc_short_13": [
-      "Caramelo especial que puede\nconvertirse en el específico para\ncada especie de Pokémon."
+      "Caramelo muy especial que puede\nconvertirse en 20 de los específicos\npara cada especie de Pokémon."
     ],
     "item_desc_short_14": [
-      "Caramelo grande y especial que\npuede convertirse en el específico\npara cada especie de Pokémon."
+      "Caramelo grande y muy especial\nque puede convertirse en 100 de\nlos específicos para cada Pokémon."
     ],
     "item_desc_short_15": [
       "Jugoso cupón que puedes canjear\npor \u000e\u0002\u0002\u0002",
@@ -141,19 +145,25 @@
       " ingredientes."
     ],
     "item_desc_short_18": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0004\u0004",
-      "촁 fragmentos de sueño."
+      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
+      "촁 fragmento\u000e\u0007",
+      "\b",
+      "\u0002s촀 de sueños."
     ],
     "item_desc_short_19": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0004\u0004",
-      "촁 fragmentos de sueño."
+      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
+      "촁 fragmento\u000e\u0007",
+      "\b",
+      "\u0002s촀 de sueños."
     ],
     "item_desc_short_2": [
       "Duplica la cantidad de fragmentos\nde sueño obtenidos tras una sesión\nde estudio, tras lo cual se consume."
     ],
     "item_desc_short_20": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0004\u0004",
-      "촁 fragmentos de sueño."
+      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
+      "촁 fragmento\u000e\u0007",
+      "\b",
+      "\u0002s촀 de sueños."
     ],
     "item_desc_short_21": [
       "Cordón que emite una singular\nenergía capaz de transmitir una\nextraña sensación de conexión."
@@ -1024,7 +1034,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14268,
+        "size": 14838,
         "unknown1": 0,
         "unknown2": 0
       }

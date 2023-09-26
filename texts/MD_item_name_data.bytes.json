@@ -10,13 +10,13 @@
       "A special treat that will make a\nPokémon as friendly as can be. This\nbiscuit maxes out friendship points."
     ],
     "item_desc_12": [
-      "A small but very special candy that\ncan be turned into a candy for any\nspecies of Pokémon."
+      "A small but very special candy that\ncan be turned into 3 candies for any\nspecies of Pokémon."
     ],
     "item_desc_13": [
-      "A very special candy that can be\nturned into a candy for any species\nof Pokémon."
+      "A very special candy that can be\nturned into 20 candies for any species\nof Pokémon."
     ],
     "item_desc_14": [
-      "A large and very special candy that\ncan be turned into a candy for any\nspecies of Pokémon."
+      "A large and very special candy that\ncan be turned into 100 candies for\nany species of Pokémon."
     ],
     "item_desc_15": [
       "A great ticket you can exchange for\n\u000e\u0002\u0002\u0002",
@@ -31,20 +31,20 @@
       " cooking ingredients."
     ],
     "item_desc_18": [
-      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
       "촁 Dream \u000e\u0001",
-      "\u001c\nShard\fShards촀."
+      "\u001c\nShard\fShards촀.\nThe number of Dream Shards you\nreceive will increase as your research\nrank rises."
     ],
     "item_desc_19": [
-      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
-      "촁 Dream Shards."
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
+      "촁 Dream Shards.\nThe number of Dream Shards you\nreceive will increase as your research\nrank rises."
     ],
     "item_desc_2": [
       "Doubles the Dream Shards received\nafter sleep research.  Good for one\nsleep session, then consumed."
     ],
     "item_desc_20": [
-      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
-      "촁 Dream Shards."
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
+      "촁 Dream Shards.\nThe number of Dream Shards you\nreceive will increase as your research\nrank rises."
     ],
     "item_desc_21": [
       "A string exuding a mysterious energy\nthat makes you feel a strange sense\nof connection."
@@ -119,13 +119,13 @@
       "A special treat that will make a\nPokémon as friendly as can be.\nMaxes out friendship points."
     ],
     "item_desc_short_12": [
-      "A small but very special candy that\ncan be turned into a candy for any\nspecies of Pokémon."
+      "A small but very special candy that\ncan be turned into 3 candies for\nany species of Pokémon."
     ],
     "item_desc_short_13": [
-      "A very special candy that can be\nturned into a candy for any species\nof Pokémon."
+      "A very special candy that can be\nturned into 20 candies for any\nspecies of Pokémon."
     ],
     "item_desc_short_14": [
-      "A large and very special candy that\ncan be turned into a candy for any\nspecies of Pokémon."
+      "A large and very special candy that\ncan be turned into 100 candies for\nany species of Pokémon."
     ],
     "item_desc_short_15": [
       "A great ticket you can exchange for\n\u000e\u0002\u0002\u0002",
@@ -140,19 +140,19 @@
       " cooking ingredients."
     ],
     "item_desc_short_18": [
-      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
       "촁 Dream \u000e\u0001",
       "\u001c\nShard\fShards촀."
     ],
     "item_desc_short_19": [
-      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
       "촁 Dream Shards."
     ],
     "item_desc_short_2": [
       "Doubles the Dream Shards received\nafter sleep research."
     ],
     "item_desc_short_20": [
-      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
       "촁 Dream Shards."
     ],
     "item_desc_short_21": [
@@ -1024,7 +1024,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 13828,
+        "size": 14356,
         "unknown1": 0,
         "unknown2": 0
       }

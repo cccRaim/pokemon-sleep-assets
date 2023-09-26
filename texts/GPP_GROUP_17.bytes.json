@@ -28,7 +28,7 @@
       "Tout analyser"
     ],
     "GPPSyncLoader_Confirm_Multiple_All_Research_Message": [
-      "Souhaitez-vous analyser les résultats de\nvotre dernière session de rechercher\nainsi que les précédentes ?"
+      "Souhaitez-vous analyser les résultats\nde votre dernière session de recherche\nainsi que des précédentes ?"
     ],
     "GPPSyncLoader_SleepData_Found_Multiple": [
       "Votre Pokémon GO Plus + contient\nles résultats de \u000e\u0002",
@@ -330,7 +330,7 @@
     "TXT2": {
       "header": {
         "entries": 28,
-        "size": 2976,
+        "size": 2974,
         "unknown1": 0,
         "unknown2": 0
       }

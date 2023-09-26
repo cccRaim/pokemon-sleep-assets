@@ -31,9 +31,8 @@
       "\n\u0002o\u0002i촀 di sogno."
     ],
     "md_pokemon_main_skills_desc_4": [
-      "Fa recuperare \u000e\u0002\u0006\u0004",
-      "촁 energi\u000e\u0005",
-      "\n\u0002a\u0002e촀 a\nun altro Pokémon."
+      "Fa recuperare energie a un Pokémon\ndella squadra (+\u000e\u0002\u0006\u0004",
+      "촁)."
     ],
     "md_pokemon_main_skills_desc_5": [
       "Fa aumentare la potenza di Snorlax di\nun valore tra \u000e\u0002\u0006\u0004",
@@ -326,7 +325,7 @@
     "TXT2": {
       "header": {
         "entries": 26,
-        "size": 2154,
+        "size": 2160,
         "unknown1": 0,
         "unknown2": 0
       }

@@ -10,13 +10,13 @@
       "Ein ganz besonderer Snack, der ein\nPokémon so freundlich wie nur\nmöglich stimmt. Dieser Keks verleiht\nmaximale Freundespunkte."
     ],
     "item_desc_12": [
-      "Ein kleines, aber besonderes Bonbon,\ndas zu einem Bonbon für jedes\nbeliebige Pokémon werden kann."
+      "Ein kleines, aber besonderes Bonbon,\ndas in 3 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_13": [
-      "Ein besonderes Bonbon, das zu einem\nBonbon für jedes beliebige Pokémon\nwerden kann."
+      "Ein sehr besonderes Bonbon, das in\n20 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_14": [
-      "Ein großes und besonderes Bonbon,\ndas zu einem Bonbon für jedes\nbeliebige Pokémon werden kann."
+      "Ein großes, besonderes Bonbon, das in\n100 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_15": [
       "Ein tolles Ticket, das du gegen\n\u000e\u0002\u0002\u0002",
@@ -31,19 +31,19 @@
       " Zutaten eintauschen\nkannst."
     ],
     "item_desc_18": [
-      "Ein mysteriöser Brocken, der hell\nfunkelt. Er kann gegen\n\u000e\u0002\u0004\u0004",
-      "촁 Traumsplitter eingetauscht\nwerden."
+      "Ein funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0005\u0004",
+      "촁 Traumsplitter\neintauschen kannst. Du erhältst mehr\nTraumsplitter, wenn dein\nForschungsrang steigt."
     ],
     "item_desc_19": [
-      "Ein mysteriöser Brocken, der hell\nfunkelt. Er kann gegen\n\u000e\u0002\u0004\u0004",
-      "촁 Traumsplitter eingetauscht\nwerden."
+      "Ein funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0005\u0004",
+      "촁 Traumsplitter\neintauschen kannst. Du erhältst mehr\nTraumsplitter, wenn dein\nForschungsrang steigt."
     ],
     "item_desc_2": [
       "Verdoppelt die bei der\nSchlafforschung erhaltenen\nTraumsplitter. Wird nach einer\nVerwendung aufgebraucht."
     ],
     "item_desc_20": [
-      "Ein mysteriöser Brocken, der hell\nfunkelt. Er kann gegen\n\u000e\u0002\u0004\u0004",
-      "촁 Traumsplitter eingetauscht\nwerden."
+      "Ein funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0005\u0004",
+      "촁 Traumsplitter\neintauschen kannst. Du erhältst mehr\nTraumsplitter, wenn dein\nForschungsrang steigt."
     ],
     "item_desc_21": [
       "Diese Schnur verströmt eine\nmysteriöse Energie und verleiht ein\nseltsames Gefühl der Verbundenheit.\n"
@@ -118,13 +118,13 @@
       "Ein ganz besonderer Snack, der die\nFreundespunkte eines Pokémon auf\nden Maximalwert erhöht."
     ],
     "item_desc_short_12": [
-      "Ein kleines, besonderes Bonbon, das\nzu einem Bonbon für jedes beliebige\nPokémon werden kann."
+      "Ein kleines, aber besonderes Bonbon,\ndas in 3 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_short_13": [
-      "Ein besonderes Bonbon, das zu\neinem Bonbon für jedes beliebige\nPokémon werden kann."
+      "Ein sehr besonderes Bonbon, das in\n20 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_short_14": [
-      "Ein großes und besonderes Bonbon,\ndas zu einem Bonbon für jedes\nbeliebige Pokémon werden kann."
+      "Ein großes, besonderes Bonbon, das in\n100 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_short_15": [
       "Ein tolles Ticket, das du gegen\n\u000e\u0002\u0002\u0002",
@@ -1022,7 +1022,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14074,
+        "size": 14542,
         "unknown1": 0,
         "unknown2": 0
       }

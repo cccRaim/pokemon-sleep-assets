@@ -16,7 +16,7 @@
       "Raccogli le bacche di cui lo Snorlax\ndella settimana è ghiotto mettendo\nin squadra Pokémon bravi a trovare\nproprio quelle bacche!"
     ],
     "md_weekly_mission_types_tips_7": [
-      "Inizia a misurare il sonno entro 30\nminuti dall'ora di dormire decisa con\ni tuoi Pokémon."
+      "Inizia a misurare il sonno entro i 90\nminuti prima o i 30 minuti dopo l'ora\ndi dormire decisa con i tuoi Pokémon."
     ],
     "md_weekly_mission_types_tips_8": [
       "Puoi fare amicizia con i Pokémon\ndandogli dei Pokébiscotti all'ora dello\nspuntino e portando al massimo i loro\npunti amicizia!"
@@ -123,7 +123,7 @@
     "TXT2": {
       "header": {
         "entries": 8,
-        "size": 1832,
+        "size": 1880,
         "unknown1": 0,
         "unknown2": 0
       }

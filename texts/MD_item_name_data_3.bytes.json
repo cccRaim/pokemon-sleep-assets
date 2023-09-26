@@ -98,7 +98,7 @@
       "Raddoppia l'energia recuperata dagli\naiutanti dopo la ricerca sul sonno.\nDura una sola sessione di sonno\ne poi sparisce."
     ],
     "item_desc_5": [
-      "Cuscino ad hoc che fa recuperare\n50 energie a un solo Pokémon\naiutante."
+      "Cuscino ad hoc che fa recuperare\nenergie a un solo Pokémon\naiutante (+50)."
     ],
     "item_desc_6": [
       "Fischietto molto energizzante.\nBasta un fischio e la squadra di\naiutanti raccoglierà subito le bacche\ne gli ingredienti ottenibili in tre ore.\nLe abilità principali, però, non saranno\nattivate."
@@ -210,7 +210,7 @@
       "Raddoppia l'energia recuperata\ndagli aiutanti dopo la ricerca\nsul sonno."
     ],
     "item_desc_short_5": [
-      "Cuscino ad hoc che fa recuperare\n50 energie a un solo Pokémon\naiutante."
+      "Cuscino ad hoc che fa recuperare\nenergie a un solo Pokémon\naiutante (+50)."
     ],
     "item_desc_short_6": [
       "Fischietto molto energizzante che\npermette di ricevere subito bacche\ne ingredienti ottenibili in tre ore."
@@ -1030,7 +1030,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14168,
+        "size": 14180,
         "unknown1": 0,
         "unknown2": 0
       }

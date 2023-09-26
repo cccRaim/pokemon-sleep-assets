@@ -28,7 +28,7 @@
       "Alle ansehen"
     ],
     "GPPSyncLoader_Confirm_Multiple_All_Research_Message": [
-      "Möchtest du deine letzte Schlafforschung,\ninklusive der vergangenen Einträge, ansehen?"
+      "Möchtest du deine neuesten\nSchlafdaten zusammengefasst mit\nanderen Einträgen überprüfen?"
     ],
     "GPPSyncLoader_SleepData_Found_Multiple": [
       "\u000e\u0002",
@@ -329,7 +329,7 @@
     "TXT2": {
       "header": {
         "entries": 28,
-        "size": 2904,
+        "size": 2908,
         "unknown1": 0,
         "unknown2": 0
       }

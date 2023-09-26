@@ -28,7 +28,7 @@
       "촁개를 획득한다"
     ],
     "md_pokemon_main_skills_desc_4": [
-      "랜덤으로 다른 포켓몬 1마리의\n기력을 \u000e\u0002\u0006\u0004",
+      "랜덤으로 팀 포켓몬 1마리의\n기력을 \u000e\u0002\u0006\u0004",
       "촁 회복한다"
     ],
     "md_pokemon_main_skills_desc_5": [
@@ -320,7 +320,7 @@
     "TXT2": {
       "header": {
         "entries": 26,
-        "size": 992,
+        "size": 990,
         "unknown1": 0,
         "unknown2": 0
       }

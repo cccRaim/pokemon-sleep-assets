@@ -25,7 +25,7 @@
       "Esamina tutti"
     ],
     "GPPSyncLoader_Confirm_Multiple_All_Research_Message": [
-      "Vuoi esaminare i dati del sonno\npiù recenti e raggrupparli\ncon le altre misurazioni?"
+      "Vuoi esaminare i dati del sonno\npiù recenti insieme alle altre\nmisurazioni?"
     ],
     "GPPSyncLoader_SleepData_Found_Multiple": [
       "Pokémon GO Plus + contiene\n\u000e\u0002",
@@ -326,7 +326,7 @@
     "TXT2": {
       "header": {
         "entries": 28,
-        "size": 2874,
+        "size": 2856,
         "unknown1": 0,
         "unknown2": 0
       }

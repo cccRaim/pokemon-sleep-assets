@@ -21,6 +21,9 @@
     "md_pokemons_name_12": [
       "バタフリー"
     ],
+    "md_pokemons_name_122": [
+      "バリヤード"
+    ],
     "md_pokemons_name_127": [
       "カイロス"
     ],
@@ -77,6 +80,9 @@
     ],
     "md_pokemons_name_172": [
       "ピチュー"
+    ],
+    "md_pokemons_name_173": [
+      "ピィ"
     ],
     "md_pokemons_name_174": [
       "ププリン"
@@ -177,8 +183,14 @@
     "md_pokemons_name_334": [
       "チルタリス"
     ],
+    "md_pokemons_name_35": [
+      "ピッピ"
+    ],
     "md_pokemons_name_359": [
       "アブソル"
+    ],
+    "md_pokemons_name_36": [
+      "ピクシー"
     ],
     "md_pokemons_name_360": [
       "ソーナノ"
@@ -203,6 +215,9 @@
     ],
     "md_pokemons_name_438": [
       "ウソハチ"
+    ],
+    "md_pokemons_name_439": [
+      "マネネ"
     ],
     "md_pokemons_name_447": [
       "リオル"
@@ -325,8 +340,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 107,
-        "size": 753,
+        "entries": 112,
+        "size": 788,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -334,7 +349,7 @@
     "LBL1": {
       "header": {
         "entries": 59,
-        "size": 3093,
+        "size": 3216,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -345,7 +360,7 @@
               "md_pokemons_name_58"
             ],
             [
-              84,
+              86,
               "md_pokemons_name_199"
             ]
           ],
@@ -354,11 +369,11 @@
         [
           [
             [
-              48,
+              49,
               "md_pokemons_name_180"
             ],
             [
-              61,
+              63,
               "md_pokemons_name_59"
             ]
           ],
@@ -371,7 +386,7 @@
               "md_pokemons_name_40"
             ],
             [
-              81,
+              83,
               "md_pokemons_name_181"
             ]
           ],
@@ -384,20 +399,24 @@
         [
           [
             [
-              90,
+              46,
+              "md_pokemons_name_122"
+            ],
+            [
+              92,
               "md_pokemons_name_359"
             ]
           ],
-          644
+          669
         ],
         [
           [
             [
-              54,
+              55,
               "md_pokemons_name_438"
             ]
           ],
-          669
+          694
         ],
         [
           [
@@ -406,40 +425,44 @@
               "md_pokemons_name_185"
             ],
             [
-              49,
+              50,
               "md_pokemons_name_202"
+            ],
+            [
+              56,
+              "md_pokemons_name_439"
             ]
           ],
-          719
+          769
         ],
         [
           [],
-          719
+          769
         ],
         [
           [],
-          719
+          769
         ],
         [
           [
             [
-              69,
+              71,
               "md_pokemons_name_127"
             ]
           ],
-          744
+          794
         ],
         [
           [],
-          744
+          794
         ],
         [
           [],
-          744
+          794
         ],
         [
           [],
-          744
+          794
         ],
         [
           [
@@ -452,16 +475,20 @@
               "md_pokemons_name_92"
             ]
           ],
-          793
+          843
         ],
         [
           [
             [
               44,
               "md_pokemons_name_93"
+            ],
+            [
+              109,
+              "md_pokemons_name_173"
             ]
           ],
-          817
+          892
         ],
         [
           [
@@ -470,11 +497,11 @@
               "md_pokemons_name_174"
             ],
             [
-              67,
+              69,
               "md_pokemons_name_94"
             ]
           ],
-          866
+          941
         ],
         [
           [
@@ -483,25 +510,8 @@
               "md_pokemons_name_175"
             ],
             [
-              89,
+              91,
               "md_pokemons_name_470"
-            ]
-          ],
-          916
-        ],
-        [
-          [
-            [
-              68,
-              "md_pokemons_name_115"
-            ],
-            [
-              80,
-              "md_pokemons_name_176"
-            ],
-            [
-              97,
-              "md_pokemons_name_471"
             ]
           ],
           991
@@ -509,20 +519,45 @@
         [
           [
             [
-              52,
-              "md_pokemons_name_333"
+              70,
+              "md_pokemons_name_115"
+            ],
+            [
+              82,
+              "md_pokemons_name_176"
+            ],
+            [
+              99,
+              "md_pokemons_name_471"
+            ],
+            [
+              110,
+              "md_pokemons_name_35"
             ]
           ],
-          1016
+          1090
         ],
         [
           [
             [
-              98,
+              53,
+              "md_pokemons_name_333"
+            ],
+            [
+              111,
+              "md_pokemons_name_36"
+            ]
+          ],
+          1139
+        ],
+        [
+          [
+            [
+              100,
               "md_pokemons_name_334"
             ]
           ],
-          1041
+          1164
         ],
         [
           [
@@ -531,7 +566,7 @@
               "md_pokemons_name_179"
             ]
           ],
-          1066
+          1189
         ],
         [
           [
@@ -544,11 +579,11 @@
               "md_pokemons_name_80"
             ],
             [
-              79,
+              81,
               "md_pokemons_name_160"
             ]
           ],
-          1139
+          1262
         ],
         [
           [
@@ -557,24 +592,24 @@
               "md_pokemons_name_20"
             ],
             [
-              64,
+              66,
               "md_pokemons_name_81"
             ]
           ],
-          1187
+          1310
         ],
         [
           [
             [
-              65,
+              67,
               "md_pokemons_name_82"
             ]
           ],
-          1211
+          1334
         ],
         [
           [],
-          1211
+          1334
         ],
         [
           [
@@ -587,7 +622,7 @@
               "md_pokemons_name_84"
             ]
           ],
-          1259
+          1382
         ],
         [
           [
@@ -600,11 +635,11 @@
               "md_pokemons_name_104"
             ],
             [
-              66,
+              68,
               "md_pokemons_name_85"
             ]
           ],
-          1332
+          1455
         ],
         [
           [
@@ -617,38 +652,38 @@
               "md_pokemons_name_105"
             ]
           ],
-          1381
+          1504
         ],
         [
           [
             [
-              57,
+              59,
               "md_pokemons_name_26"
             ],
             [
-              96,
+              98,
               "md_pokemons_name_462"
             ]
           ],
-          1430
+          1553
         ],
         [
           [
             [
-              86,
+              88,
               "md_pokemons_name_246"
             ]
           ],
-          1455
+          1578
         ],
         [
           [
             [
-              87,
+              89,
               "md_pokemons_name_247"
             ]
           ],
-          1480
+          1603
         ],
         [
           [
@@ -657,11 +692,11 @@
               "md_pokemons_name_70"
             ],
             [
-              88,
+              90,
               "md_pokemons_name_248"
             ]
           ],
-          1529
+          1652
         ],
         [
           [
@@ -670,15 +705,15 @@
               "md_pokemons_name_10"
             ],
             [
-              62,
+              64,
               "md_pokemons_name_71"
             ],
             [
-              91,
+              93,
               "md_pokemons_name_700"
             ]
           ],
-          1602
+          1725
         ],
         [
           [
@@ -687,11 +722,11 @@
               "md_pokemons_name_11"
             ],
             [
-              46,
+              47,
               "md_pokemons_name_152"
             ]
           ],
-          1651
+          1774
         ],
         [
           [
@@ -704,15 +739,15 @@
               "md_pokemons_name_12"
             ],
             [
-              47,
+              48,
               "md_pokemons_name_153"
             ],
             [
-              92,
+              94,
               "md_pokemons_name_468"
             ]
           ],
-          1748
+          1871
         ],
         [
           [
@@ -725,11 +760,11 @@
               "md_pokemons_name_74"
             ],
             [
-              77,
+              79,
               "md_pokemons_name_154"
             ]
           ],
-          1820
+          1943
         ],
         [
           [
@@ -746,7 +781,7 @@
               "md_pokemons_name_155"
             ]
           ],
-          1892
+          2015
         ],
         [
           [
@@ -759,11 +794,11 @@
               "md_pokemons_name_156"
             ],
             [
-              63,
+              65,
               "md_pokemons_name_76"
             ]
           ],
-          1964
+          2087
         ],
         [
           [
@@ -772,11 +807,11 @@
               "md_pokemons_name_5"
             ],
             [
-              78,
+              80,
               "md_pokemons_name_157"
             ]
           ],
-          2012
+          2135
         ],
         [
           [
@@ -789,11 +824,11 @@
               "md_pokemons_name_6"
             ],
             [
-              55,
+              57,
               "md_pokemons_name_453"
             ]
           ],
-          2085
+          2208
         ],
         [
           [
@@ -810,11 +845,11 @@
               "md_pokemons_name_159"
             ],
             [
-              56,
+              58,
               "md_pokemons_name_454"
             ]
           ],
-          2182
+          2305
         ],
         [
           [
@@ -827,11 +862,11 @@
               "md_pokemons_name_8"
             ],
             [
-              50,
+              51,
               "md_pokemons_name_316"
             ]
           ],
-          2254
+          2377
         ],
         [
           [
@@ -840,75 +875,75 @@
               "md_pokemons_name_9"
             ],
             [
-              51,
+              52,
               "md_pokemons_name_317"
             ]
           ],
-          2302
+          2425
         ],
         [
           [],
-          2302
+          2425
         ],
         [
           [
             [
-              53,
+              54,
               "md_pokemons_name_360"
             ]
           ],
-          2327
+          2450
         ],
         [
           [],
-          2327
+          2450
         ],
         [
           [],
-          2327
+          2450
         ],
         [
           [
             [
-              101,
+              103,
               "md_pokemons_name_363"
             ],
             [
-              106,
+              108,
               "md_pokemons_name_302"
             ]
           ],
-          2377
+          2500
         ],
         [
           [
             [
-              74,
+              76,
               "md_pokemons_name_147"
             ],
             [
-              102,
+              104,
               "md_pokemons_name_364"
             ]
           ],
-          2427
+          2550
         ],
         [
           [
             [
-              75,
+              77,
               "md_pokemons_name_148"
             ],
             [
-              93,
+              95,
               "md_pokemons_name_287"
             ],
             [
-              103,
+              105,
               "md_pokemons_name_365"
             ]
           ],
-          2502
+          2625
         ],
         [
           [
@@ -917,15 +952,15 @@
               "md_pokemons_name_69"
             ],
             [
-              76,
+              78,
               "md_pokemons_name_149"
             ],
             [
-              94,
+              96,
               "md_pokemons_name_288"
             ]
           ],
-          2576
+          2699
         ],
         [
           [
@@ -934,15 +969,15 @@
               "md_pokemons_name_50"
             ],
             [
-              95,
+              97,
               "md_pokemons_name_289"
             ],
             [
-              104,
+              106,
               "md_pokemons_name_228"
             ]
           ],
-          2650
+          2773
         ],
         [
           [
@@ -951,11 +986,11 @@
               "md_pokemons_name_51"
             ],
             [
-              105,
+              107,
               "md_pokemons_name_229"
             ]
           ],
-          2699
+          2822
         ],
         [
           [
@@ -964,15 +999,15 @@
               "md_pokemons_name_52"
             ],
             [
-              70,
+              72,
               "md_pokemons_name_132"
             ],
             [
-              99,
+              101,
               "md_pokemons_name_447"
             ]
           ],
-          2773
+          2896
         ],
         [
           [
@@ -981,15 +1016,15 @@
               "md_pokemons_name_133"
             ],
             [
-              58,
+              60,
               "md_pokemons_name_53"
             ],
             [
-              100,
+              102,
               "md_pokemons_name_448"
             ]
           ],
-          2847
+          2970
         ],
         [
           [
@@ -998,28 +1033,28 @@
               "md_pokemons_name_54"
             ],
             [
-              71,
+              73,
               "md_pokemons_name_134"
             ]
           ],
-          2896
+          3019
         ],
         [
           [
             [
-              59,
+              61,
               "md_pokemons_name_55"
             ],
             [
-              72,
+              74,
               "md_pokemons_name_135"
             ],
             [
-              82,
+              84,
               "md_pokemons_name_196"
             ]
           ],
-          2970
+          3093
         ],
         [
           [
@@ -1028,28 +1063,28 @@
               "md_pokemons_name_56"
             ],
             [
-              73,
+              75,
               "md_pokemons_name_136"
             ],
             [
-              83,
+              85,
               "md_pokemons_name_197"
             ],
             [
-              85,
+              87,
               "md_pokemons_name_214"
             ]
           ],
-          3069
+          3192
         ],
         [
           [
             [
-              60,
+              62,
               "md_pokemons_name_57"
             ]
           ],
-          3093
+          3216
         ]
       ]
     },
@@ -1075,8 +1110,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 107,
-        "size": 1598,
+        "entries": 112,
+        "size": 1662,
         "unknown1": 0,
         "unknown2": 0
       }

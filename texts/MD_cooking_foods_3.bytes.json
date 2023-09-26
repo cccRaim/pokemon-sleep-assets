@@ -375,9 +375,6 @@
     "md_cooking_foods_name_5": [
       "特選蘋果"
     ],
-    "md_cooking_foods_name_5_update_test": [
-      "とくせんりんごテスト"
-    ],
     "md_cooking_foods_name_6": [
       "火辣香草"
     ],
@@ -542,16 +539,13 @@
     ],
     "md_cooking_foods_narrow_name_3016": [
       "大力士豆香甜甜圈"
-    ],
-    "md_cooking_foods_narrow_name_5_update_test": [
-      "とくせんりんごテスト"
     ]
   },
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 182,
-        "size": 1278,
+        "entries": 180,
+        "size": 1264,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -559,30 +553,30 @@
     "LBL1": {
       "header": {
         "entries": 97,
-        "size": 6722,
+        "size": 6635,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              17,
+              15,
               "md_cooking_foods_narrow_name_1015"
             ],
             [
-              38,
+              36,
               "md_cooking_foods_narrow_name_3002"
             ],
             [
-              75,
+              73,
               "md_cooking_foods_name_1007"
             ],
             [
-              79,
+              77,
               "md_cooking_foods_name_1011"
             ],
             [
-              131,
+              129,
               "md_cooking_foods_desc_13"
             ]
           ],
@@ -591,23 +585,23 @@
         [
           [
             [
-              18,
+              16,
               "md_cooking_foods_narrow_name_1016"
             ],
             [
-              39,
+              37,
               "md_cooking_foods_narrow_name_3003"
             ],
             [
-              76,
+              74,
               "md_cooking_foods_name_1008"
             ],
             [
-              80,
+              78,
               "md_cooking_foods_name_1012"
             ],
             [
-              132,
+              130,
               "md_cooking_foods_desc_14"
             ]
           ],
@@ -616,23 +610,23 @@
         [
           [
             [
-              40,
+              38,
               "md_cooking_foods_narrow_name_3004"
             ],
             [
-              77,
+              75,
               "md_cooking_foods_name_1009"
             ],
             [
-              81,
+              79,
               "md_cooking_foods_name_1013"
             ],
             [
-              102,
+              100,
               "md_cooking_foods_name_3000"
             ],
             [
-              133,
+              131,
               "md_cooking_foods_desc_15"
             ]
           ],
@@ -641,19 +635,19 @@
         [
           [
             [
-              41,
+              39,
               "md_cooking_foods_narrow_name_3005"
             ],
             [
-              62,
+              60,
               "md_cooking_foods_name_10"
             ],
             [
-              82,
+              80,
               "md_cooking_foods_name_1014"
             ],
             [
-              103,
+              101,
               "md_cooking_foods_name_3001"
             ]
           ],
@@ -662,23 +656,23 @@
         [
           [
             [
-              42,
+              40,
               "md_cooking_foods_narrow_name_3006"
             ],
             [
-              46,
+              44,
               "md_cooking_foods_narrow_name_3010"
             ],
             [
-              63,
+              61,
               "md_cooking_foods_name_11"
             ],
             [
-              83,
+              81,
               "md_cooking_foods_name_1015"
             ],
             [
-              104,
+              102,
               "md_cooking_foods_name_3002"
             ]
           ],
@@ -687,23 +681,23 @@
         [
           [
             [
-              43,
+              41,
               "md_cooking_foods_narrow_name_3007"
             ],
             [
-              47,
+              45,
               "md_cooking_foods_narrow_name_3011"
             ],
             [
-              64,
+              62,
               "md_cooking_foods_name_12"
             ],
             [
-              84,
+              82,
               "md_cooking_foods_name_1016"
             ],
             [
-              105,
+              103,
               "md_cooking_foods_name_3003"
             ]
           ],
@@ -712,19 +706,19 @@
         [
           [
             [
-              44,
+              42,
               "md_cooking_foods_narrow_name_3008"
             ],
             [
-              48,
+              46,
               "md_cooking_foods_narrow_name_3012"
             ],
             [
-              65,
+              63,
               "md_cooking_foods_name_13"
             ],
             [
-              106,
+              104,
               "md_cooking_foods_name_3004"
             ]
           ],
@@ -733,19 +727,19 @@
         [
           [
             [
-              45,
+              43,
               "md_cooking_foods_narrow_name_3009"
             ],
             [
-              49,
+              47,
               "md_cooking_foods_narrow_name_3013"
             ],
             [
-              66,
+              64,
               "md_cooking_foods_name_14"
             ],
             [
-              107,
+              105,
               "md_cooking_foods_name_3005"
             ]
           ],
@@ -754,19 +748,19 @@
         [
           [
             [
-              50,
+              48,
               "md_cooking_foods_narrow_name_3014"
             ],
             [
-              67,
+              65,
               "md_cooking_foods_name_15"
             ],
             [
-              108,
+              106,
               "md_cooking_foods_name_3006"
             ],
             [
-              112,
+              110,
               "md_cooking_foods_name_3010"
             ]
           ],
@@ -775,15 +769,15 @@
         [
           [
             [
-              51,
+              49,
               "md_cooking_foods_narrow_name_3015"
             ],
             [
-              109,
+              107,
               "md_cooking_foods_name_3007"
             ],
             [
-              113,
+              111,
               "md_cooking_foods_name_3011"
             ]
           ],
@@ -792,15 +786,15 @@
         [
           [
             [
-              52,
+              50,
               "md_cooking_foods_narrow_name_3016"
             ],
             [
-              110,
+              108,
               "md_cooking_foods_name_3008"
             ],
             [
-              114,
+              112,
               "md_cooking_foods_name_3012"
             ]
           ],
@@ -809,15 +803,15 @@
         [
           [
             [
-              19,
+              17,
               "md_cooking_foods_narrow_name_2000"
             ],
             [
-              111,
+              109,
               "md_cooking_foods_name_3009"
             ],
             [
-              115,
+              113,
               "md_cooking_foods_name_3013"
             ]
           ],
@@ -826,11 +820,11 @@
         [
           [
             [
-              20,
+              18,
               "md_cooking_foods_narrow_name_2001"
             ],
             [
-              116,
+              114,
               "md_cooking_foods_name_3014"
             ]
           ],
@@ -839,11 +833,11 @@
         [
           [
             [
-              21,
+              19,
               "md_cooking_foods_narrow_name_2002"
             ],
             [
-              117,
+              115,
               "md_cooking_foods_name_3015"
             ]
           ],
@@ -852,11 +846,11 @@
         [
           [
             [
-              22,
+              20,
               "md_cooking_foods_narrow_name_2003"
             ],
             [
-              118,
+              116,
               "md_cooking_foods_name_3016"
             ]
           ],
@@ -865,7 +859,7 @@
         [
           [
             [
-              23,
+              21,
               "md_cooking_foods_narrow_name_2004"
             ]
           ],
@@ -874,7 +868,7 @@
         [
           [
             [
-              24,
+              22,
               "md_cooking_foods_narrow_name_2005"
             ]
           ],
@@ -883,11 +877,11 @@
         [
           [
             [
-              25,
+              23,
               "md_cooking_foods_narrow_name_2006"
             ],
             [
-              29,
+              27,
               "md_cooking_foods_narrow_name_2010"
             ]
           ],
@@ -896,11 +890,11 @@
         [
           [
             [
-              26,
+              24,
               "md_cooking_foods_narrow_name_2007"
             ],
             [
-              30,
+              28,
               "md_cooking_foods_narrow_name_2011"
             ]
           ],
@@ -909,11 +903,11 @@
         [
           [
             [
-              27,
+              25,
               "md_cooking_foods_narrow_name_2008"
             ],
             [
-              31,
+              29,
               "md_cooking_foods_narrow_name_2012"
             ]
           ],
@@ -922,11 +916,11 @@
         [
           [
             [
-              28,
+              26,
               "md_cooking_foods_narrow_name_2009"
             ],
             [
-              32,
+              30,
               "md_cooking_foods_narrow_name_2013"
             ]
           ],
@@ -935,7 +929,7 @@
         [
           [
             [
-              33,
+              31,
               "md_cooking_foods_narrow_name_2014"
             ]
           ],
@@ -944,7 +938,7 @@
         [
           [
             [
-              34,
+              32,
               "md_cooking_foods_narrow_name_2015"
             ]
           ],
@@ -953,7 +947,7 @@
         [
           [
             [
-              35,
+              33,
               "md_cooking_foods_narrow_name_2016"
             ]
           ],
@@ -966,7 +960,7 @@
         [
           [
             [
-              119,
+              117,
               "md_cooking_foods_desc_1"
             ]
           ],
@@ -975,7 +969,7 @@
         [
           [
             [
-              120,
+              118,
               "md_cooking_foods_desc_2"
             ]
           ],
@@ -984,7 +978,7 @@
         [
           [
             [
-              121,
+              119,
               "md_cooking_foods_desc_3"
             ]
           ],
@@ -993,7 +987,7 @@
         [
           [
             [
-              122,
+              120,
               "md_cooking_foods_desc_4"
             ]
           ],
@@ -1002,7 +996,7 @@
         [
           [
             [
-              123,
+              121,
               "md_cooking_foods_desc_5"
             ]
           ],
@@ -1011,7 +1005,7 @@
         [
           [
             [
-              124,
+              122,
               "md_cooking_foods_desc_6"
             ]
           ],
@@ -1020,7 +1014,7 @@
         [
           [
             [
-              125,
+              123,
               "md_cooking_foods_desc_7"
             ]
           ],
@@ -1029,7 +1023,7 @@
         [
           [
             [
-              126,
+              124,
               "md_cooking_foods_desc_8"
             ]
           ],
@@ -1038,7 +1032,7 @@
         [
           [
             [
-              127,
+              125,
               "md_cooking_foods_desc_9"
             ]
           ],
@@ -1051,7 +1045,7 @@
         [
           [
             [
-              150,
+              148,
               "md_cooking_foods_desc_2001"
             ]
           ],
@@ -1060,7 +1054,7 @@
         [
           [
             [
-              151,
+              149,
               "md_cooking_foods_desc_2002"
             ]
           ],
@@ -1069,7 +1063,7 @@
         [
           [
             [
-              152,
+              150,
               "md_cooking_foods_desc_2003"
             ]
           ],
@@ -1078,7 +1072,7 @@
         [
           [
             [
-              153,
+              151,
               "md_cooking_foods_desc_2004"
             ]
           ],
@@ -1087,7 +1081,7 @@
         [
           [
             [
-              154,
+              152,
               "md_cooking_foods_desc_2005"
             ]
           ],
@@ -1096,11 +1090,11 @@
         [
           [
             [
-              155,
+              153,
               "md_cooking_foods_desc_2006"
             ],
             [
-              159,
+              157,
               "md_cooking_foods_desc_2010"
             ]
           ],
@@ -1109,11 +1103,11 @@
         [
           [
             [
-              156,
+              154,
               "md_cooking_foods_desc_2007"
             ],
             [
-              160,
+              158,
               "md_cooking_foods_desc_2011"
             ]
           ],
@@ -1122,11 +1116,11 @@
         [
           [
             [
-              157,
+              155,
               "md_cooking_foods_desc_2008"
             ],
             [
-              161,
+              159,
               "md_cooking_foods_desc_2012"
             ]
           ],
@@ -1135,11 +1129,11 @@
         [
           [
             [
-              158,
+              156,
               "md_cooking_foods_desc_2009"
             ],
             [
-              162,
+              160,
               "md_cooking_foods_desc_2013"
             ]
           ],
@@ -1148,7 +1142,7 @@
         [
           [
             [
-              163,
+              161,
               "md_cooking_foods_desc_2014"
             ]
           ],
@@ -1157,7 +1151,7 @@
         [
           [
             [
-              164,
+              162,
               "md_cooking_foods_desc_2015"
             ]
           ],
@@ -1166,7 +1160,7 @@
         [
           [
             [
-              165,
+              163,
               "md_cooking_foods_desc_2016"
             ]
           ],
@@ -1179,7 +1173,7 @@
         [
           [
             [
-              134,
+              132,
               "md_cooking_foods_desc_1001"
             ]
           ],
@@ -1188,7 +1182,7 @@
         [
           [
             [
-              135,
+              133,
               "md_cooking_foods_desc_1002"
             ]
           ],
@@ -1197,7 +1191,7 @@
         [
           [
             [
-              136,
+              134,
               "md_cooking_foods_desc_1003"
             ]
           ],
@@ -1206,7 +1200,7 @@
         [
           [
             [
-              137,
+              135,
               "md_cooking_foods_desc_1004"
             ]
           ],
@@ -1215,7 +1209,7 @@
         [
           [
             [
-              138,
+              136,
               "md_cooking_foods_desc_1005"
             ]
           ],
@@ -1224,11 +1218,11 @@
         [
           [
             [
-              139,
+              137,
               "md_cooking_foods_desc_1006"
             ],
             [
-              143,
+              141,
               "md_cooking_foods_desc_1010"
             ]
           ],
@@ -1237,11 +1231,11 @@
         [
           [
             [
-              140,
+              138,
               "md_cooking_foods_desc_1007"
             ],
             [
-              144,
+              142,
               "md_cooking_foods_desc_1011"
             ]
           ],
@@ -1250,11 +1244,11 @@
         [
           [
             [
-              141,
+              139,
               "md_cooking_foods_desc_1008"
             ],
             [
-              145,
+              143,
               "md_cooking_foods_desc_1012"
             ]
           ],
@@ -1263,11 +1257,11 @@
         [
           [
             [
-              142,
+              140,
               "md_cooking_foods_desc_1009"
             ],
             [
-              146,
+              144,
               "md_cooking_foods_desc_1013"
             ]
           ],
@@ -1276,11 +1270,11 @@
         [
           [
             [
-              147,
+              145,
               "md_cooking_foods_desc_1014"
             ],
             [
-              166,
+              164,
               "md_cooking_foods_desc_3001"
             ]
           ],
@@ -1289,11 +1283,11 @@
         [
           [
             [
-              148,
+              146,
               "md_cooking_foods_desc_1015"
             ],
             [
-              167,
+              165,
               "md_cooking_foods_desc_3002"
             ]
           ],
@@ -1302,11 +1296,11 @@
         [
           [
             [
-              149,
+              147,
               "md_cooking_foods_desc_1016"
             ],
             [
-              168,
+              166,
               "md_cooking_foods_desc_3003"
             ]
           ],
@@ -1315,7 +1309,7 @@
         [
           [
             [
-              169,
+              167,
               "md_cooking_foods_desc_3004"
             ]
           ],
@@ -1324,7 +1318,7 @@
         [
           [
             [
-              170,
+              168,
               "md_cooking_foods_desc_3005"
             ]
           ],
@@ -1333,441 +1327,433 @@
         [
           [
             [
-              1,
-              "md_cooking_foods_narrow_name_5_update_test"
-            ],
-            [
-              171,
+              169,
               "md_cooking_foods_desc_3006"
             ],
             [
-              175,
+              173,
               "md_cooking_foods_desc_3010"
             ]
           ],
-          4643
+          4596
+        ],
+        [
+          [
+            [
+              170,
+              "md_cooking_foods_desc_3007"
+            ],
+            [
+              174,
+              "md_cooking_foods_desc_3011"
+            ]
+          ],
+          4658
+        ],
+        [
+          [
+            [
+              171,
+              "md_cooking_foods_desc_3008"
+            ],
+            [
+              175,
+              "md_cooking_foods_desc_3012"
+            ]
+          ],
+          4720
         ],
         [
           [
             [
               172,
-              "md_cooking_foods_desc_3007"
-            ],
-            [
-              176,
-              "md_cooking_foods_desc_3011"
-            ]
-          ],
-          4705
-        ],
-        [
-          [
-            [
-              173,
-              "md_cooking_foods_desc_3008"
-            ],
-            [
-              177,
-              "md_cooking_foods_desc_3012"
-            ]
-          ],
-          4767
-        ],
-        [
-          [
-            [
-              174,
               "md_cooking_foods_desc_3009"
             ],
             [
-              178,
+              176,
               "md_cooking_foods_desc_3013"
             ]
           ],
-          4829
+          4782
+        ],
+        [
+          [
+            [
+              177,
+              "md_cooking_foods_desc_3014"
+            ]
+          ],
+          4813
+        ],
+        [
+          [
+            [
+              178,
+              "md_cooking_foods_desc_3015"
+            ]
+          ],
+          4844
         ],
         [
           [
             [
               179,
-              "md_cooking_foods_desc_3014"
-            ]
-          ],
-          4860
-        ],
-        [
-          [
-            [
-              180,
-              "md_cooking_foods_desc_3015"
-            ]
-          ],
-          4891
-        ],
-        [
-          [
-            [
-              181,
               "md_cooking_foods_desc_3016"
             ]
           ],
-          4922
+          4875
         ],
         [
           [],
-          4922
+          4875
         ],
         [
           [],
-          4922
+          4875
         ],
         [
           [],
-          4922
+          4875
         ],
         [
           [],
-          4922
+          4875
+        ],
+        [
+          [
+            [
+              51,
+              "md_cooking_foods_name_1"
+            ]
+          ],
+          4903
+        ],
+        [
+          [
+            [
+              52,
+              "md_cooking_foods_name_2"
+            ]
+          ],
+          4931
         ],
         [
           [
             [
               53,
-              "md_cooking_foods_name_1"
+              "md_cooking_foods_name_3"
             ]
           ],
-          4950
+          4959
         ],
         [
           [
             [
               54,
-              "md_cooking_foods_name_2"
+              "md_cooking_foods_name_4"
             ]
           ],
-          4978
+          4987
         ],
         [
           [
             [
               55,
-              "md_cooking_foods_name_3"
+              "md_cooking_foods_name_5"
+            ],
+            [
+              83,
+              "md_cooking_foods_name_2000"
             ]
           ],
-          5006
+          5046
         ],
         [
           [
             [
               56,
-              "md_cooking_foods_name_4"
+              "md_cooking_foods_name_6"
+            ],
+            [
+              84,
+              "md_cooking_foods_name_2001"
             ]
           ],
-          5034
+          5105
         ],
         [
           [
             [
               57,
-              "md_cooking_foods_name_5"
+              "md_cooking_foods_name_7"
             ],
             [
               85,
-              "md_cooking_foods_name_2000"
+              "md_cooking_foods_name_2002"
             ]
           ],
-          5093
+          5164
         ],
         [
           [
             [
               58,
-              "md_cooking_foods_name_6"
+              "md_cooking_foods_name_8"
             ],
             [
               86,
-              "md_cooking_foods_name_2001"
+              "md_cooking_foods_name_2003"
             ]
           ],
-          5152
+          5223
         ],
         [
           [
             [
               59,
-              "md_cooking_foods_name_7"
-            ],
-            [
-              87,
-              "md_cooking_foods_name_2002"
-            ]
-          ],
-          5211
-        ],
-        [
-          [
-            [
-              60,
-              "md_cooking_foods_name_8"
-            ],
-            [
-              88,
-              "md_cooking_foods_name_2003"
-            ]
-          ],
-          5270
-        ],
-        [
-          [
-            [
-              61,
               "md_cooking_foods_name_9"
             ],
             [
-              89,
+              87,
               "md_cooking_foods_name_2004"
             ]
           ],
-          5329
+          5282
+        ],
+        [
+          [
+            [
+              88,
+              "md_cooking_foods_name_2005"
+            ]
+          ],
+          5313
+        ],
+        [
+          [
+            [
+              89,
+              "md_cooking_foods_name_2006"
+            ],
+            [
+              93,
+              "md_cooking_foods_name_2010"
+            ]
+          ],
+          5375
         ],
         [
           [
             [
               90,
-              "md_cooking_foods_name_2005"
+              "md_cooking_foods_name_2007"
+            ],
+            [
+              94,
+              "md_cooking_foods_name_2011"
             ]
           ],
-          5360
+          5437
         ],
         [
           [
             [
               91,
-              "md_cooking_foods_name_2006"
-            ],
-            [
-              95,
-              "md_cooking_foods_name_2010"
-            ]
-          ],
-          5422
-        ],
-        [
-          [
-            [
-              92,
-              "md_cooking_foods_name_2007"
-            ],
-            [
-              96,
-              "md_cooking_foods_name_2011"
-            ]
-          ],
-          5484
-        ],
-        [
-          [
-            [
-              93,
               "md_cooking_foods_name_2008"
             ],
             [
-              97,
+              95,
               "md_cooking_foods_name_2012"
             ]
           ],
-          5546
-        ],
-        [
-          [
-            [
-              2,
-              "md_cooking_foods_narrow_name_1000"
-            ],
-            [
-              94,
-              "md_cooking_foods_name_2009"
-            ],
-            [
-              98,
-              "md_cooking_foods_name_2013"
-            ]
-          ],
-          5646
-        ],
-        [
-          [
-            [
-              3,
-              "md_cooking_foods_narrow_name_1001"
-            ],
-            [
-              99,
-              "md_cooking_foods_name_2014"
-            ]
-          ],
-          5715
+          5499
         ],
         [
           [
             [
               0,
-              "md_cooking_foods_name_5_update_test"
+              "md_cooking_foods_narrow_name_1000"
             ],
             [
-              4,
+              92,
+              "md_cooking_foods_name_2009"
+            ],
+            [
+              96,
+              "md_cooking_foods_name_2013"
+            ]
+          ],
+          5599
+        ],
+        [
+          [
+            [
+              1,
+              "md_cooking_foods_narrow_name_1001"
+            ],
+            [
+              97,
+              "md_cooking_foods_name_2014"
+            ]
+          ],
+          5668
+        ],
+        [
+          [
+            [
+              2,
               "md_cooking_foods_narrow_name_1002"
             ],
             [
-              100,
+              98,
               "md_cooking_foods_name_2015"
             ]
           ],
-          5824
+          5737
+        ],
+        [
+          [
+            [
+              3,
+              "md_cooking_foods_narrow_name_1003"
+            ],
+            [
+              99,
+              "md_cooking_foods_name_2016"
+            ]
+          ],
+          5806
+        ],
+        [
+          [
+            [
+              4,
+              "md_cooking_foods_narrow_name_1004"
+            ],
+            [
+              66,
+              "md_cooking_foods_name_1000"
+            ]
+          ],
+          5875
         ],
         [
           [
             [
               5,
-              "md_cooking_foods_narrow_name_1003"
+              "md_cooking_foods_narrow_name_1005"
             ],
             [
-              101,
-              "md_cooking_foods_name_2016"
+              67,
+              "md_cooking_foods_name_1001"
             ]
           ],
-          5893
+          5944
         ],
         [
           [
             [
               6,
-              "md_cooking_foods_narrow_name_1004"
+              "md_cooking_foods_narrow_name_1006"
+            ],
+            [
+              10,
+              "md_cooking_foods_narrow_name_1010"
             ],
             [
               68,
-              "md_cooking_foods_name_1000"
+              "md_cooking_foods_name_1002"
             ]
           ],
-          5962
+          6051
         ],
         [
           [
             [
               7,
-              "md_cooking_foods_narrow_name_1005"
+              "md_cooking_foods_narrow_name_1007"
+            ],
+            [
+              11,
+              "md_cooking_foods_narrow_name_1011"
             ],
             [
               69,
-              "md_cooking_foods_name_1001"
+              "md_cooking_foods_name_1003"
             ]
           ],
-          6031
+          6158
         ],
         [
           [
             [
               8,
-              "md_cooking_foods_narrow_name_1006"
+              "md_cooking_foods_narrow_name_1008"
             ],
             [
               12,
-              "md_cooking_foods_narrow_name_1010"
+              "md_cooking_foods_narrow_name_1012"
             ],
             [
               70,
-              "md_cooking_foods_name_1002"
+              "md_cooking_foods_name_1004"
+            ],
+            [
+              126,
+              "md_cooking_foods_desc_10"
             ]
           ],
-          6138
+          6294
         ],
         [
           [
             [
               9,
-              "md_cooking_foods_narrow_name_1007"
-            ],
-            [
-              13,
-              "md_cooking_foods_narrow_name_1011"
-            ],
-            [
-              71,
-              "md_cooking_foods_name_1003"
-            ]
-          ],
-          6245
-        ],
-        [
-          [
-            [
-              10,
-              "md_cooking_foods_narrow_name_1008"
-            ],
-            [
-              14,
-              "md_cooking_foods_narrow_name_1012"
-            ],
-            [
-              72,
-              "md_cooking_foods_name_1004"
-            ],
-            [
-              128,
-              "md_cooking_foods_desc_10"
-            ]
-          ],
-          6381
-        ],
-        [
-          [
-            [
-              11,
               "md_cooking_foods_narrow_name_1009"
             ],
             [
-              15,
+              13,
               "md_cooking_foods_narrow_name_1013"
             ],
             [
-              36,
+              34,
               "md_cooking_foods_narrow_name_3000"
             ],
             [
-              73,
+              71,
               "md_cooking_foods_name_1005"
             ],
             [
-              129,
+              127,
               "md_cooking_foods_desc_11"
             ]
           ],
-          6555
+          6468
         ],
         [
           [
             [
-              16,
+              14,
               "md_cooking_foods_narrow_name_1014"
             ],
             [
-              37,
+              35,
               "md_cooking_foods_narrow_name_3001"
             ],
             [
-              74,
+              72,
               "md_cooking_foods_name_1006"
             ],
             [
-              78,
+              76,
               "md_cooking_foods_name_1010"
             ],
             [
-              130,
+              128,
               "md_cooking_foods_desc_12"
             ]
           ],
-          6722
+          6635
         ]
       ]
     },
@@ -1793,8 +1779,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 182,
-        "size": 4968,
+        "entries": 180,
+        "size": 4916,
         "unknown1": 0,
         "unknown2": 0
       }

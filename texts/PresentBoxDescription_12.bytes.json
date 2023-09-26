@@ -90,13 +90,22 @@
       "Ricompensa 3 mesi di pass\npremium (\u000e\t",
       "\u0014\u0010yyyyyMMM",
       ")"
+    ],
+    "PresentBoxDescription_text19": [
+      "Regalo per funzioni\ne modifiche future"
+    ],
+    "PresentBoxDescription_text20": [
+      "Regalo per festeggiare\n10 milioni di download"
+    ],
+    "PresentBoxDescription_text21": [
+      "Bonus collegamento\naccount"
     ]
   },
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 26,
-        "size": 186,
+        "entries": 29,
+        "size": 207,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -104,7 +113,7 @@
     "LBL1": {
       "header": {
         "entries": 17,
-        "size": 1024,
+        "size": 1123,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -161,9 +170,13 @@
             [
               15,
               "PresentBoxDescription_text06"
+            ],
+            [
+              26,
+              "PresentBoxDescription_text19"
             ]
           ],
-          403
+          436
         ],
         [
           [
@@ -172,7 +185,7 @@
               "PresentBoxDescription_text07"
             ]
           ],
-          436
+          469
         ],
         [
           [
@@ -181,7 +194,7 @@
               "PresentBoxDescription_text08"
             ]
           ],
-          469
+          502
         ],
         [
           [
@@ -194,7 +207,7 @@
               "PresentBoxDescription_text09"
             ]
           ],
-          538
+          571
         ],
         [
           [
@@ -203,25 +216,33 @@
               "PresentBoxDescription_text02_02"
             ]
           ],
-          574
+          607
         ],
         [
           [
             [
               4,
               "PresentBoxDescription_text02_03"
+            ],
+            [
+              27,
+              "PresentBoxDescription_text20"
             ]
           ],
-          610
+          676
         ],
         [
           [
             [
               5,
               "PresentBoxDescription_text02_04"
+            ],
+            [
+              28,
+              "PresentBoxDescription_text21"
             ]
           ],
-          646
+          745
         ],
         [
           [
@@ -230,7 +251,7 @@
               "PresentBoxDescription_text02_05"
             ]
           ],
-          682
+          781
         ],
         [
           [
@@ -243,7 +264,7 @@
               "PresentBoxDescription_text10"
             ]
           ],
-          751
+          850
         ],
         [
           [
@@ -256,7 +277,7 @@
               "PresentBoxDescription_text11"
             ]
           ],
-          820
+          919
         ],
         [
           [
@@ -265,7 +286,7 @@
               "PresentBoxDescription_text02_08"
             ]
           ],
-          856
+          955
         ],
         [
           [
@@ -282,7 +303,7 @@
               "PresentBoxDescription_text13"
             ]
           ],
-          958
+          1057
         ],
         [
           [
@@ -295,7 +316,7 @@
               "PresentBoxDescription_text14"
             ]
           ],
-          1024
+          1123
         ]
       ]
     },
@@ -321,8 +342,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 26,
-        "size": 1898,
+        "entries": 29,
+        "size": 2134,
         "unknown1": 0,
         "unknown2": 0
       }

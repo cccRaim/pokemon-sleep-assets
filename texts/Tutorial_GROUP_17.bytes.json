@@ -241,7 +241,7 @@
       "＀"
     ],
     "Tutorial_NewComerBonusPopup_Title": [
-      "Bonus per ricercatori principianti"
+      "Bonus ricercatori principianti"
     ],
     "Tutorial_SetUserName_Note": [
       "Puoi usare lettere e numeri fino\na un massimo di 12 caratteri.\nPotrai cambiarlo in seguito."
@@ -754,7 +754,7 @@
     "TXT2": {
       "header": {
         "entries": 71,
-        "size": 6422,
+        "size": 6414,
         "unknown1": 0,
         "unknown2": 0
       }

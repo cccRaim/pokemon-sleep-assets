@@ -174,7 +174,7 @@
       "＀"
     ],
     "SleepPassScene_Content_PremiumPassContent5Popup_Text_1": [
-      "プレミアムパス加入中は毎月1回\nいいキャンプチケット x1\nスリーポイント x1000\nを受け取ることができます"
+      "プレミアムパス加入中は毎月1回\nいいキャンプチケット x1\nスリープポイント x1000\nを受け取ることができます"
     ],
     "SleepPassScene_Content_PremiumPassContent5Popup_Text_2": [
       "次回の毎月特典をもらえるタイミングは\nスリープパス画面トップをご確認ください"
@@ -1092,7 +1092,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 7082,
+        "size": 7084,
         "unknown1": 0,
         "unknown2": 0
       }

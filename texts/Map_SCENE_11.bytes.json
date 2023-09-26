@@ -91,6 +91,13 @@
       "\u000e\u0002\u0002\u0002",
       "%"
     ],
+    "MapScene_DataDownload_Series_Text": [
+      "確定要下載新營地的音效資料嗎？\n（\u000e\u0002\t\u0004",
+      "촁MB）"
+    ],
+    "MapScene_DataDownload_Series_Title": [
+      "確認下載資料"
+    ],
     "MapScene_Header_Title": [
       "地圖"
     ],
@@ -101,8 +108,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 29,
-        "size": 207,
+        "entries": 31,
+        "size": 221,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -110,7 +117,7 @@
     "LBL1": {
       "header": {
         "entries": 17,
-        "size": 1002,
+        "size": 1079,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -260,13 +267,17 @@
             [
               25,
               "MapDetailPopup_OKButton"
+            ],
+            [
+              30,
+              "MapScene_DataDownload_Series_Text"
             ]
           ],
-          809
+          847
         ],
         [
           [],
-          809
+          847
         ],
         [
           [
@@ -283,7 +294,7 @@
               "MapDetailPopup_SleepTypeCount"
             ]
           ],
-          916
+          954
         ],
         [
           [
@@ -300,15 +311,20 @@
               "MapDetailPopup_GetPokemons"
             ]
           ],
-          1002
+          1040
+        ],
+        [
+          [
+            [
+              29,
+              "MapScene_DataDownload_Series_Title"
+            ]
+          ],
+          1079
         ],
         [
           [],
-          1002
-        ],
-        [
-          [],
-          1002
+          1079
         ]
       ]
     },
@@ -334,8 +350,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 29,
-        "size": 596,
+        "entries": 31,
+        "size": 672,
         "unknown1": 0,
         "unknown2": 0
       }

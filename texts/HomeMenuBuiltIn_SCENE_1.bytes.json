@@ -872,7 +872,7 @@
       "＀\n\u000e",
       "\u0003\u0004毿Ｗdel solito\u000e",
       "\u0003\u0004",
-      "＀!) dalla prossima sessione di\nsonno che misurerai domani!"
+      "＀!) dalla prossima sessione di\nsonno che misurerai a partire da domani!"
     ],
     "ManualReportFinishPopup_Content_Desc_NoReward": [
       "Questa è la seconda sessione di oggi,\nquindi non riceverai ricompense."
@@ -2509,7 +2509,7 @@
     "TXT2": {
       "header": {
         "entries": 260,
-        "size": 23848,
+        "size": 23874,
         "unknown1": 0,
         "unknown2": 0
       }

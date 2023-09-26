@@ -8,6 +8,9 @@
     "PointHistoryListCell_PassType_Bonus": [
       "보너스"
     ],
+    "PointHistoryListCell_PassType_Event": [
+      "이벤트"
+    ],
     "PointHistoryListCell_PassType_Normal": [
       "노멀"
     ],
@@ -38,8 +41,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 10,
-        "size": 74,
+        "entries": 11,
+        "size": 81,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -47,7 +50,7 @@
     "LBL1": {
       "header": {
         "entries": 7,
-        "size": 394,
+        "size": 434,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -58,7 +61,7 @@
         [
           [
             [
-              7,
+              8,
               "PremiumPassInfoPopup_Title"
             ]
           ],
@@ -68,14 +71,18 @@
           [
             [
               6,
+              "PointHistoryListCell_PassType_Event"
+            ],
+            [
+              7,
               "PremiumPassCannotUsePopup_Title"
             ],
             [
-              9,
+              10,
               "PremiumPassPopup_Title_2"
             ]
           ],
-          152
+          192
         ],
         [
           [
@@ -84,7 +91,7 @@
               "PointHistoryListCell_Score"
             ]
           ],
-          183
+          223
         ],
         [
           [
@@ -93,7 +100,7 @@
               "PointHistoryListCell_Point"
             ]
           ],
-          214
+          254
         ],
         [
           [
@@ -110,7 +117,7 @@
               "PointHistoryListCell_PassType_Bonus"
             ]
           ],
-          326
+          366
         ],
         [
           [
@@ -119,11 +126,11 @@
               "PointHistoryListCell_PassType_Normal"
             ],
             [
-              8,
+              9,
               "PremiumPassPopup_Title"
             ]
           ],
-          394
+          434
         ]
       ]
     },
@@ -149,8 +156,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 10,
-        "size": 208,
+        "entries": 11,
+        "size": 220,
         "unknown1": 0,
         "unknown2": 0
       }

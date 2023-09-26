@@ -3,11 +3,16 @@
     "md_event_item_packs_name_1": [
       "Lote exclusivo de Megagalletas"
     ],
+    "md_event_item_packs_name_10": [
+      "食欲の秋パックM vol.\u000e\u0002\u0001\u0002",
+      ""
+    ],
     "md_event_item_packs_name_2": [
       "Lote de 100 millones de descargas"
     ],
     "md_event_item_packs_name_3": [
-      "Lote exclusivo para dormilones"
+      "Lote para dormilones vol.\u000e\u0002\u0002\u0002",
+      ""
     ],
     "md_event_item_packs_name_4": [
       "Lote conmemorativo del lanzamiento S"
@@ -17,54 +22,46 @@
     ],
     "md_event_item_packs_name_6": [
       "Lote conmemorativo del lanzamiento M"
+    ],
+    "md_event_item_packs_name_7": [
+      "Lote por 100 millones de amigos\nPokémon S"
+    ],
+    "md_event_item_packs_name_8": [
+      "Lote por 100 millones de amigos\nPokémon M"
+    ],
+    "md_event_item_packs_name_9": [
+      "食欲の秋パックS vol.\u000e\u0002\u0001\u0002",
+      ""
     ]
   },
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 6,
-        "size": 46,
+        "entries": 10,
+        "size": 74,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 5,
-        "size": 226,
+        "entries": 7,
+        "size": 367,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              0,
-              "md_event_item_packs_name_1"
-            ],
-            [
-              5,
-              "md_event_item_packs_name_6"
-            ]
-          ],
-          102
-        ],
-        [
-          [
-            [
-              1,
-              "md_event_item_packs_name_2"
-            ]
-          ],
-          133
-        ],
-        [
-          [
-            [
               2,
               "md_event_item_packs_name_3"
+            ],
+            [
+              9,
+              "md_event_item_packs_name_10"
             ]
           ],
-          164
+          119
         ],
         [
           [
@@ -73,7 +70,7 @@
               "md_event_item_packs_name_4"
             ]
           ],
-          195
+          150
         ],
         [
           [
@@ -82,7 +79,51 @@
               "md_event_item_packs_name_5"
             ]
           ],
-          226
+          181
+        ],
+        [
+          [
+            [
+              5,
+              "md_event_item_packs_name_6"
+            ]
+          ],
+          212
+        ],
+        [
+          [
+            [
+              6,
+              "md_event_item_packs_name_7"
+            ]
+          ],
+          243
+        ],
+        [
+          [
+            [
+              0,
+              "md_event_item_packs_name_1"
+            ],
+            [
+              7,
+              "md_event_item_packs_name_8"
+            ]
+          ],
+          305
+        ],
+        [
+          [
+            [
+              1,
+              "md_event_item_packs_name_2"
+            ],
+            [
+              8,
+              "md_event_item_packs_name_9"
+            ]
+          ],
+          367
         ]
       ]
     },
@@ -108,8 +149,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 6,
-        "size": 400,
+        "entries": 10,
+        "size": 660,
         "unknown1": 0,
         "unknown2": 0
       }

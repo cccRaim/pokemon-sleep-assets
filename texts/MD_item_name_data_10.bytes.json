@@ -10,13 +10,13 @@
       "Ein spezieller Snack, der ein Pokémon\nso freundlich wie nur möglich stimmt\nund die Freundespunkte des Pokémon\nauf den Maximalwert erhöht."
     ],
     "item_desc_12": [
-      "Ein kleines, aber besonderes Bonbon,\ndas in ein Bonbon für jedes beliebige\nPokémon verwandelt werden kann."
+      "Ein kleines, aber besonderes Bonbon,\ndas in 3 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_13": [
-      "Ein sehr besonderes Bonbon, das in ein\nBonbon für jedes beliebige Pokémon\nverwandelt werden kann."
+      "Ein sehr besonderes Bonbon, das in\n20 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_14": [
-      "Ein großes und besonderes Bonbon,\ndas in ein Bonbon für jedes beliebige\nPokémon verwandelt werden kann."
+      "Ein großes und besonderes Bonbon,\ndas in 100 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_15": [
       "Ein tolles Ticket, das du gegen\n\u000e\u0002\u0002\u0002",
@@ -31,19 +31,19 @@
       " Zutaten eintauschen kannst."
     ],
     "item_desc_18": [
-      "Ein funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0004\u0004",
-      "촁 Traumsplitter\neintauschen kannst."
+      "Ein funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0005\u0004",
+      "촁 Traumsplitter\neintauschen kannst. Die Anzahl der\nerhaltenen Traumsplitter steigt mit\ndeinem Forschungsrang."
     ],
     "item_desc_19": [
-      "Ein funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0004\u0004",
-      "촁 Traumsplitter\neintauschen kannst."
+      "Ein funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0005\u0004",
+      "촁 Traumsplitter\neintauschen kannst. Die Anzahl der\nerhaltenen Traumsplitter steigt mit\ndeinem Forschungsrang."
     ],
     "item_desc_2": [
       "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter. Wird nach\neiner Anwendung aufgebraucht."
     ],
     "item_desc_20": [
-      "Ein funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0004\u0004",
-      "촁 Traumsplitter\neintauschen kannst."
+      "Ein funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0005\u0004",
+      "촁 Traumsplitter\neintauschen kannst. Die Anzahl der\nerhaltenen Traumsplitter steigt mit\ndeinem Forschungsrang."
     ],
     "item_desc_21": [
       "Diese Schnur verströmt mysteriöse\nEnergie und verleiht ein seltsames\nGefühl der Verbundenheit."
@@ -118,13 +118,13 @@
       "Ein spezieller Snack, der die\nFreundespunkte eines Pokémon\nauf den Maximalwert erhöht."
     ],
     "item_desc_short_12": [
-      "Ein kleines, besonderes Bonbon, das\nin ein Bonbon für jedes beliebige\nPokémon verwandelt werden kann."
+      "Ein kleines, besonderes Bonbon, das\nin 3 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_short_13": [
-      "Ein sehr besonderes Bonbon, das in\nin ein Bonbon für jedes beliebige\nPokémon verwandelt werden kann."
+      "Ein sehr besonderes Bonbon, das in\n20 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_short_14": [
-      "Ein großes, besonderes Bonbon, das\nin ein Bonbon für jedes beliebige\nPokémon verwandelt werden kann."
+      "Ein großes, besonderes Bonbon, das\nin 100 Bonbons für jedes beliebige\nPokémon verwandelt werden kann."
     ],
     "item_desc_short_15": [
       "Ein tolles Ticket, das du gegen\n\u000e\u0002\u0002\u0002",
@@ -139,18 +139,18 @@
       " Zutaten eintauschen\nkannst."
     ],
     "item_desc_short_18": [
-      "Ein mysteriöser Brocken,\nden du gegen \u000e\u0002\u0004\u0004",
+      "Funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0005\u0004",
       "촁 Traumsplitter\neintauschen kannst."
     ],
     "item_desc_short_19": [
-      "Ein mysteriöser Brocken,\nden du gegen \u000e\u0002\u0004\u0004",
+      "Funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0005\u0004",
       "촁 Traumsplitter\neintauschen kannst."
     ],
     "item_desc_short_2": [
       "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter."
     ],
     "item_desc_short_20": [
-      "Ein mysteriöser Brocken,\nden du gegen \u000e\u0002\u0004\u0004",
+      "Funkelnder, mysteriöser Brocken,\nden du gegen \u000e\u0002\u0005\u0004",
       "촁 Traumsplitter\neintauschen kannst."
     ],
     "item_desc_short_21": [
@@ -1022,7 +1022,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14122,
+        "size": 14608,
         "unknown1": 0,
         "unknown2": 0
       }

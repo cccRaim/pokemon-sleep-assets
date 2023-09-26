@@ -54,11 +54,11 @@
       "Se l'app \u000e",
       "\u0003\u0004ꈝ￿non rileva movimenti\u000e",
       "\u0003\u0004",
-      "＀ per un po'."
+      "＀ per un po'"
     ],
     "SleepDataInvalidTimePopup_CaseMessage_2": [
       "Se l'app \u000e",
-      "\u0003\u0004ꈝ￿rileva notevoli movimenti \u000e",
+      "\u0003\u0004ꈝ￿rileva notevoli movimenti\u000e",
       "\u0003\u0004",
       "＀ per un po'"
     ],
@@ -409,7 +409,7 @@
     "TXT2": {
       "header": {
         "entries": 35,
-        "size": 2522,
+        "size": 2518,
         "unknown1": 0,
         "unknown2": 0
       }

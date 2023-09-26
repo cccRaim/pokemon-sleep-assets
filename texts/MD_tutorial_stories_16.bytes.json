@@ -223,7 +223,7 @@
       "Ces îles abritent de nombreux\n\u000e",
       "\u0003\u0004쨗ｎRonflex\u000e",
       "\u0003\u0004",
-      "＀, et au gré des mes\nrecherches j'ai découvert"
+      "＀, et au gré de mes\nrecherches j'ai découvert"
     ],
     "md_tutorial_stories_message_1_7": [
       "que ce Pokémon semble exercer\nune force mystérieuse aidant\nles autres Pokémon à dormir !"
@@ -565,7 +565,7 @@
       "Il semblerait que la dodoforce\nde Ronflex a attiré une flopée\nde Pokémon ! Regarde-les dormir !"
     ],
     "md_tutorial_stories_message_8_1": [
-      "Beau travail, tu as enregistré\nun style de dodo dans le dododex !\nPoursuis tes recherches\nen étudiant les autres Pokémon !"
+      "Beau travail, tu as enregistré un\nstyle de dodo dans le Dododex !\nPoursuis tes recherches\nen étudiant les autres Pokémon !"
     ],
     "md_tutorial_stories_message_9_1": [
       "Tu verras rapidement que chaque\nespèce de Pokémon est associée\nà un \u000e",
@@ -1416,7 +1416,7 @@
     "TXT2": {
       "header": {
         "entries": 111,
-        "size": 22146,
+        "size": 22144,
         "unknown1": 0,
         "unknown2": 0
       }

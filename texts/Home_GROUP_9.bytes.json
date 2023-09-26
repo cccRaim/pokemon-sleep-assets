@@ -1,5 +1,11 @@
 {
   "strings": {
+    "CampSetExpirePopup_Text": [
+      "Der einwöchige Ausleihzeitraum für\ndas Profi-Camping-Set ist abgelaufen."
+    ],
+    "CampSetExpirePopup_Title": [
+      "Profi-Camping-Set abgelaufen"
+    ],
     "CampSetPopup_Desc": [
       "Mit einem Ticket kannst du eine praktische\nAusrüstung für eine Woche Schlafforschung\nausleihen! (Effektdauer: 168 Std.)"
     ],
@@ -230,8 +236,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 70,
-        "size": 494,
+        "entries": 72,
+        "size": 508,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -239,7 +245,7 @@
     "LBL1": {
       "header": {
         "entries": 37,
-        "size": 2550,
+        "size": 2607,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -285,15 +291,15 @@
         [
           [
             [
-              56,
+              58,
               "HomeScenePokemonBoxFullPopup_MoveButton"
             ],
             [
-              58,
+              60,
               "SleepDataDiscardPopup_Message"
             ],
             [
-              61,
+              63,
               "SnorlaxRankupCutin_RewardNum"
             ]
           ],
@@ -312,18 +318,22 @@
             [
               51,
               "CampSetUsePopup_SubTitle"
+            ],
+            [
+              53,
+              "CampSetExpirePopup_Title"
             ]
           ],
-          672
+          701
         ],
         [
           [
             [
-              63,
+              65,
               "SnorlaxRankupDetailPopup_TypeNumStart"
             ]
           ],
-          714
+          743
         ],
         [
           [
@@ -348,7 +358,7 @@
               "CampSetPopup_UseButton"
             ]
           ],
-          862
+          891
         ],
         [
           [
@@ -357,7 +367,7 @@
               "GoBonusPopup_Headline"
             ]
           ],
-          888
+          917
         ],
         [
           [
@@ -370,11 +380,11 @@
               "CampSetPopup_Desc"
             ],
             [
-              62,
+              64,
               "SnorlaxRankupDetailPopup_TypeNum"
             ]
           ],
-          980
+          1009
         ],
         [
           [
@@ -395,7 +405,7 @@
               "CampSetPopup_TicketNum_Value"
             ]
           ],
-          1103
+          1132
         ],
         [
           [
@@ -412,7 +422,7 @@
               "CandyGet_Popup_Title"
             ]
           ],
-          1187
+          1216
         ],
         [
           [
@@ -425,11 +435,11 @@
               "MenuLatestResearchPopup_Num_3"
             ],
             [
-              64,
+              66,
               "SnorlaxRankupDetailPopup_TypeNumUnknown"
             ]
           ],
-          1290
+          1319
         ],
         [
           [
@@ -438,24 +448,24 @@
               "CampSetPopup_Desc_Notime"
             ],
             [
-              66,
+              68,
               "SnorlaxRankupDetailPopup_TypeNumTotalStart"
             ]
           ],
-          1366
+          1395
         ],
         [
           [],
-          1366
+          1395
         ],
         [
           [
             [
-              54,
+              56,
               "HomeScenePokemonBoxFullPopup_Content_Title"
             ]
           ],
-          1413
+          1442
         ],
         [
           [
@@ -464,7 +474,7 @@
               "MenuLatestResearchPopup_Num"
             ]
           ],
-          1445
+          1474
         ],
         [
           [
@@ -477,7 +487,7 @@
               "CampSetPopup_EffectDesc_1"
             ]
           ],
-          1500
+          1529
         ],
         [
           [
@@ -486,7 +496,7 @@
               "CampSetPopup_EffectDesc_2"
             ]
           ],
-          1530
+          1559
         ],
         [
           [
@@ -503,11 +513,11 @@
               "CampSetUsePopup_Num"
             ],
             [
-              55,
+              57,
               "HomeScenePokemonBoxFullPopup_Content_Desc"
             ]
           ],
-          1665
+          1694
         ],
         [
           [
@@ -516,7 +526,7 @@
               "CampSetPopup_EffectDesc_4"
             ]
           ],
-          1695
+          1724
         ],
         [
           [
@@ -533,24 +543,24 @@
               "SnorlaxRankListCell_NeedEnergyLabel"
             ],
             [
-              68,
+              70,
               "SnorlaxRankupDetailPopup_Message"
             ]
           ],
-          1815
+          1844
         ],
         [
           [],
-          1815
+          1844
         ],
         [
           [
             [
-              57,
+              59,
               "SleepDataDiscardPopup_Title"
             ]
           ],
-          1847
+          1876
         ],
         [
           [
@@ -571,7 +581,7 @@
               "CampSetUsePopup_Desc"
             ]
           ],
-          1977
+          2006
         ],
         [
           [
@@ -588,19 +598,19 @@
               "SnorlaxRankListCell_RewardNum"
             ],
             [
-              53,
+              55,
               "HomeScenePokemonBoxFullPopup_Header_Title"
             ],
             [
-              67,
+              69,
               "SnorlaxRankupDetailPopup_TypeNum_Add"
             ]
           ],
-          2154
+          2183
         ],
         [
           [],
-          2154
+          2183
         ],
         [
           [
@@ -609,24 +619,29 @@
               "CampSetPopup_SectionHeader_Effect"
             ]
           ],
-          2192
-        ],
-        [
-          [],
-          2192
+          2221
         ],
         [
           [
             [
-              60,
+              54,
+              "CampSetExpirePopup_Text"
+            ]
+          ],
+          2249
+        ],
+        [
+          [
+            [
+              62,
               "SnorlaxRankupCutin_DescReward"
             ],
             [
-              69,
+              71,
               "SnorlaxRankupDetailPopup_RankTitle"
             ]
           ],
-          2265
+          2322
         ],
         [
           [
@@ -635,11 +650,11 @@
               "GoBonusPopup_Title"
             ],
             [
-              65,
+              67,
               "SnorlaxRankupDetailPopup_TypeNumTotal"
             ]
           ],
-          2330
+          2387
         ],
         [
           [
@@ -648,7 +663,7 @@
               "GoBonusPopup_Reward"
             ]
           ],
-          2354
+          2411
         ],
         [
           [
@@ -657,7 +672,7 @@
               "MenuLatestResearchPopup_Title"
             ]
           ],
-          2388
+          2445
         ],
         [
           [
@@ -666,7 +681,7 @@
               "ItemSelectPopup_Title"
             ]
           ],
-          2414
+          2471
         ],
         [
           [
@@ -675,7 +690,7 @@
               "MenuLatestResearchPopup_Name_2"
             ]
           ],
-          2449
+          2506
         ],
         [
           [
@@ -684,7 +699,7 @@
               "MenuLatestResearchPopup_Name_3"
             ]
           ],
-          2484
+          2541
         ],
         [
           [
@@ -693,15 +708,15 @@
               "SnorlaxRankListPopup_RankValue"
             ],
             [
-              59,
+              61,
               "SnorlaxRankupCutin_Message"
             ]
           ],
-          2550
+          2607
         ],
         [
           [],
-          2550
+          2607
         ]
       ]
     },
@@ -727,8 +742,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 70,
-        "size": 3866,
+        "entries": 72,
+        "size": 4078,
         "unknown1": 0,
         "unknown2": 0
       }

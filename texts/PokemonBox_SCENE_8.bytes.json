@@ -189,6 +189,9 @@
     "PokemonBoxFilterPopup_TypeName_6": [
       "Can evolve"
     ],
+    "PokemonBoxFilter_NoApplyPokemon": [
+      "You don’t have any Pokémon that fit these\nconditions."
+    ],
     "PokemonBoxFooterReleaseView_Text_1": [
       "Send (\u000e\u0002\u0002\u0002",
       ")"
@@ -336,8 +339,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 92,
-        "size": 648,
+        "entries": 93,
+        "size": 655,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -345,7 +348,7 @@
     "LBL1": {
       "header": {
         "entries": 47,
-        "size": 3708,
+        "size": 3744,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -625,9 +628,13 @@
             [
               85,
               "PokemonBoxRelease_ItemGetPopup_Headline_Title"
+            ],
+            [
+              92,
+              "PokemonBoxFilter_NoApplyPokemon"
             ]
           ],
-          1988
+          2024
         ],
         [
           [
@@ -636,11 +643,11 @@
               "PokemonBoxSceneController_Text_1"
             ]
           ],
-          2025
+          2061
         ],
         [
           [],
-          2025
+          2061
         ],
         [
           [
@@ -657,7 +664,7 @@
               "PokemonBoxLevelupPopup_RankCapMessage"
             ]
           ],
-          2140
+          2176
         ],
         [
           [
@@ -682,7 +689,7 @@
               "PokemonBoxLevelupConfirmPopup_Desc"
             ]
           ],
-          2306
+          2342
         ],
         [
           [
@@ -707,7 +714,7 @@
               "EvolutionEvolveStaging_1"
             ]
           ],
-          2477
+          2513
         ],
         [
           [
@@ -724,7 +731,7 @@
               "PokemonBoxCell_SP_title"
             ]
           ],
-          2567
+          2603
         ],
         [
           [
@@ -741,7 +748,7 @@
               "EvolutionEvolveStaging_3"
             ]
           ],
-          2663
+          2699
         ],
         [
           [
@@ -750,7 +757,7 @@
               "PokemonBoxFilterPopup_Desc_5"
             ]
           ],
-          2696
+          2732
         ],
         [
           [
@@ -767,7 +774,7 @@
               "EvolutionPopup_Title"
             ]
           ],
-          2788
+          2824
         ],
         [
           [
@@ -776,7 +783,7 @@
               "PokemonBoxExpandButton_Text_2"
             ]
           ],
-          2822
+          2858
         ],
         [
           [
@@ -793,7 +800,7 @@
               "PokemonBoxLevelupPopup_UseCandyNumLabel"
             ]
           ],
-          2932
+          2968
         ],
         [
           [
@@ -802,7 +809,7 @@
               "PokemonBoxExpandButton_Text_4"
             ]
           ],
-          2966
+          3002
         ],
         [
           [
@@ -811,7 +818,7 @@
               "EvolutionPopup_Conditions_OK"
             ]
           ],
-          2999
+          3035
         ],
         [
           [
@@ -828,7 +835,7 @@
               "EvolutionConfirmPopup_Desc"
             ]
           ],
-          3097
+          3133
         ],
         [
           [
@@ -837,7 +844,7 @@
               "PokemonBoxSortPopup_Title_2"
             ]
           ],
-          3129
+          3165
         ],
         [
           [
@@ -854,7 +861,7 @@
               "PokemonBoxItemPopup_Header"
             ]
           ],
-          3227
+          3263
         ],
         [
           [
@@ -863,7 +870,7 @@
               "PokemonBoxFilterPopup_Desc"
             ]
           ],
-          3258
+          3294
         ],
         [
           [
@@ -872,7 +879,7 @@
               "PokemonBoxLevelupPopup_Text_1"
             ]
           ],
-          3292
+          3328
         ],
         [
           [
@@ -885,7 +892,7 @@
               "PokemonBoxReleaseConfirmPopup_Desc"
             ]
           ],
-          3365
+          3401
         ],
         [
           [
@@ -894,11 +901,11 @@
               "PokemonBoxRelease_ItemGetPopup_Title"
             ]
           ],
-          3406
+          3442
         ],
         [
           [],
-          3406
+          3442
         ],
         [
           [
@@ -907,7 +914,7 @@
               "PokemonBoxFilterPopup_TypeName_4"
             ]
           ],
-          3443
+          3479
         ],
         [
           [
@@ -920,7 +927,7 @@
               "PokemonBoxCannotReleasePopup_Desc_Sub_1"
             ]
           ],
-          3524
+          3560
         ],
         [
           [
@@ -945,7 +952,7 @@
               "PokemonBoxCannotReleasePopup_Desc_Sub_2"
             ]
           ],
-          3708
+          3744
         ]
       ]
     },
@@ -971,8 +978,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 92,
-        "size": 4372,
+        "entries": 93,
+        "size": 4484,
         "unknown1": 0,
         "unknown2": 0
       }

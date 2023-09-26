@@ -28,7 +28,7 @@
       "Review All at Once"
     ],
     "GPPSyncLoader_Confirm_Multiple_All_Research_Message": [
-      "Would you like to review your latest sleep\ndata entry and bundle in your other entries?"
+      "Would you like to review your\nlatest sleep data entry and\ninclude your other entries?"
     ],
     "GPPSyncLoader_SleepData_Found_Multiple": [
       "Your Pokémon GO Plus + contains\n\u000e\u0002",
@@ -328,7 +328,7 @@
     "TXT2": {
       "header": {
         "entries": 28,
-        "size": 2694,
+        "size": 2690,
         "unknown1": 0,
         "unknown2": 0
       }

@@ -16,6 +16,13 @@
       "\u000e\u0002\t\u0004",
       "촁"
     ],
+    "PokemonList_SleepScoreEvent_Label": [
+      "Potenza Snorlax × punteggio sonno × bonus"
+    ],
+    "PokemonList_SleepScoreEvent_Value": [
+      "\u000e\u0002\u0006\u0004",
+      "촁 × \u000e\u0002\u0002\u0002\u0001 × \u000e\u0002\u0001\u0002\u0002"
+    ],
     "PokemonList_SleepScore_Label": [
       "Potenza Snorlax × punteggio sonno"
     ],
@@ -135,8 +142,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 39,
-        "size": 277,
+        "entries": 41,
+        "size": 291,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -144,7 +151,7 @@
     "LBL1": {
       "header": {
         "entries": 23,
-        "size": 1823,
+        "size": 1899,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -155,15 +162,15 @@
               "Head_ChangePhotoButton"
             ],
             [
-              16,
+              18,
               "SleepResearchSummaryScene_Background_base_LibraryName"
             ],
             [
-              21,
+              23,
               "SleepResearchSummaryScene_Background_base_Num_2"
             ],
             [
-              32,
+              34,
               "SleepResearchSummaryScene_RankupView_Num"
             ]
           ],
@@ -172,7 +179,7 @@
         [
           [
             [
-              23,
+              25,
               "SleepResearchSummaryScene_Background_base_Num_3"
             ]
           ],
@@ -181,15 +188,19 @@
         [
           [
             [
-              19,
+              9,
+              "PokemonList_SleepScoreEvent_Label"
+            ],
+            [
+              21,
               "SleepResearchSummaryScene_Background_base_Desc"
             ],
             [
-              25,
+              27,
               "SleepResearchSummaryScene_Background_base_Num_4"
             ]
           ],
-          521
+          559
         ],
         [
           [
@@ -202,7 +213,7 @@
               "TodayPhhoto_OKButton"
             ]
           ],
-          575
+          613
         ],
         [
           [
@@ -211,45 +222,45 @@
               "PokemonList_SleepScore_Label"
             ],
             [
-              26,
+              28,
               "SleepResearchSummaryScene_ResearchPoint_Title"
             ],
             [
-              30,
+              32,
               "SleepResearchSummaryScene_RankupView_Rank"
             ]
           ],
-          704
+          742
         ],
         [
           [
             [
-              11,
+              13,
               "ResultSummary_ContentTitle"
             ]
           ],
-          735
+          773
         ],
         [
           [
             [
-              12,
+              14,
               "TodayPhhotoOverlay_SelectPhoto"
             ],
             [
-              29,
+              31,
               "SleepResearchSummaryScene_RankupView_Title"
             ]
           ],
-          817
+          855
         ],
         [
           [],
-          817
+          855
         ],
         [
           [],
-          817
+          855
         ],
         [
           [
@@ -258,29 +269,33 @@
               "PokemonList_SleepPower_Label"
             ],
             [
-              34,
+              36,
               "TodayPhoto_SleepingFaceName"
             ]
           ],
-          882
+          920
         ],
         [
           [
             [
-              28,
+              30,
               "SleepResearchSummaryScene_Coin_Num"
             ]
           ],
-          921
+          959
         ],
         [
           [
             [
-              20,
+              11,
+              "PokemonList_SleepScoreEvent_Value"
+            ],
+            [
+              22,
               "SleepResearchSummaryScene_Background_base_Name_2"
             ]
           ],
-          974
+          1050
         ],
         [
           [
@@ -289,75 +304,75 @@
               "TodayPhoto_ContentTitle"
             ],
             [
-              22,
+              24,
               "SleepResearchSummaryScene_Background_base_Name_3"
             ],
             [
-              38,
+              40,
               "SleepResearchSummaryScene_ResearchRankMaxPopup_Text"
             ]
           ],
-          1111
+          1187
         ],
         [
           [
             [
-              9,
+              10,
               "PokemonList_SleepScore_Value"
             ],
             [
-              18,
+              20,
               "SleepResearchSummaryScene_Background_base_Num"
             ],
             [
-              24,
+              26,
               "SleepResearchSummaryScene_Background_base_Name_4"
             ]
           ],
-          1247
+          1323
         ],
         [
           [
             [
-              13,
+              15,
               "SleepResearchSummarySceneController_Text_2"
             ],
             [
-              27,
+              29,
               "SleepResearchSummaryScene_ResearchPoint_Rank"
             ],
             [
-              36,
+              38,
               "TodayPhoto_ChangePhotoDesc"
             ]
           ],
-          1374
+          1450
         ],
         [
           [
             [
-              17,
+              19,
               "SleepResearchSummaryScene_Background_base_Title"
             ],
             [
-              33,
+              35,
               "TodayPhoto_PokemonNameAndType"
             ]
           ],
-          1460
+          1536
         ],
         [
           [
             [
-              31,
+              33,
               "SleepResearchSummaryScene_RankupView_Title_item"
             ]
           ],
-          1512
+          1588
         ],
         [
           [],
-          1512
+          1588
         ],
         [
           [
@@ -366,32 +381,32 @@
               "PokemonList_SleepPower_Value"
             ],
             [
-              35,
+              37,
               "TodayPhoto_ResearchDate"
             ]
           ],
-          1573
+          1649
         ],
         [
           [],
-          1573
+          1649
         ],
         [
           [
             [
-              10,
+              12,
               "PokemonListCell_Bonus"
             ],
             [
-              15,
+              17,
               "SleepResearchSummaryScene_Header_Title_PokemonList_CellName"
             ]
           ],
-          1663
+          1739
         ],
         [
           [],
-          1663
+          1739
         ],
         [
           [
@@ -404,15 +419,15 @@
               "TodayPhoto_ContentDesc"
             ],
             [
-              14,
+              16,
               "SleepResearchSummaryScene_Header_Title_PokemonList"
             ],
             [
-              37,
+              39,
               "SleepResearchSummaryScene_ResearchRankMaxPopup_Title"
             ]
           ],
-          1823
+          1899
         ]
       ]
     },
@@ -438,8 +453,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 39,
-        "size": 1692,
+        "entries": 41,
+        "size": 1830,
         "unknown1": 0,
         "unknown2": 0
       }

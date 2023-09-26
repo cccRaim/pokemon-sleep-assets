@@ -122,6 +122,24 @@
     "HomeMenu_SCENE_AccountLinkage": [
       "Collega account"
     ],
+    "HomeMenu_SCENE_AccountLinkageFavorDialog_Button": [
+      "Collega account"
+    ],
+    "HomeMenu_SCENE_AccountLinkageFavorDialog_Heading": [
+      "Vantaggi del collegamento di un account"
+    ],
+    "HomeMenu_SCENE_AccountLinkageFavorDialog_Text_1": [
+      "Se colleghi un account potrai recuperare\ni dati di Pokémon Sleep e continuare a giocare\nanche se cambi dispositivo, elimini l'app\no perdi i dati."
+    ],
+    "HomeMenu_SCENE_AccountLinkageFavorDialog_Text_2": [
+      "In più, collegando un account puoi ricevere\n100 diamanti bonus.\nAttenzione: il bonus è valido solo per la prima\nvolta in cui colleghi un account."
+    ],
+    "HomeMenu_SCENE_AccountLinkageFavorDialog_Text_3": [
+      "Tocca l'icona \"Collega account\" per aprire\nla relativa schermata."
+    ],
+    "HomeMenu_SCENE_AccountLinkageFavorDialog_Title": [
+      "Richiesta di collegamento account"
+    ],
     "HomeMenu_SCENE_AccountLinkage_AppleUnlinkDialog_Text": [
       "Se continui, il collegamento tra questo\nprofilo e il tuo ID Apple sarà rimosso."
     ],
@@ -563,6 +581,9 @@
     "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_5": [
       "Riceverai una notifica quando arriva\nil momento di cambiare punto."
     ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_6": [
+      "Riceverai una notifica quando\ngli effetti del Biglietto campeggio\nbuono si esauriscono."
+    ],
     "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_1": [
       "Promemoria ora di dormire"
     ],
@@ -637,6 +658,18 @@
     ],
     "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_2": [
       "Ridotta"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_3": [
+      "Alta"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_4": [
+      "Media"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_5": [
+      "Bassa"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_6": [
+      "Minima"
     ],
     "HomeMenu_SCENE_Option_Others_Quality_Text": [
       "\u000e",
@@ -874,6 +907,9 @@
       "\u0003\u0004",
       "＀!) dalla prossima sessione di domani!"
     ],
+    "ManualReportFinishPopup_Content_Desc_3": [
+      "Se oggi misuri il sonno una seconda volta\ne fai la ricerca sul sonno, non otterrai\nquesto Biscotto bonus extra."
+    ],
     "ManualReportFinishPopup_Content_Desc_NoReward": [
       "Questa è la seconda dormita di oggi,\nquindi non riceverai ricompense."
     ],
@@ -933,8 +969,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 261,
-        "size": 1831,
+        "entries": 273,
+        "size": 1915,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -942,7 +978,7 @@
     "LBL1": {
       "header": {
         "entries": 101,
-        "size": 13261,
+        "size": 13900,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -953,7 +989,7 @@
               "HomeMenuScene_HomeMenuView_Y_Axis_Score_50"
             ],
             [
-              153,
+              158,
               "HomeMenu_SCENE_AccountLinkage_SNS_GoogleButton_Already"
             ]
           ],
@@ -966,11 +1002,11 @@
               "HomeMenuSubMenuPopup_Headline_General"
             ],
             [
-              97,
+              98,
               "HomeMenu_SCENE_Option_Sound_BGM"
             ],
             [
-              172,
+              177,
               "HomeMenu_SCENE_AccountLinkage_GoogleUnlinkDialog_Text"
             ]
           ],
@@ -979,7 +1015,7 @@
         [
           [
             [
-              185,
+              196,
               "HomeMenu_SCENE_AccountLinkage_PasswordDialog_IssueButton"
             ]
           ],
@@ -992,7 +1028,7 @@
               "HomeMenu_SCENE_LanguageOption_Korean"
             ],
             [
-              130,
+              135,
               "HomeMenu_SCENE_Option_DeleteDialog_Heading_1"
             ]
           ],
@@ -1001,11 +1037,11 @@
         [
           [
             [
-              121,
+              126,
               "HomeMenu_SCENE_SDKAgreePopup_Button_1"
             ],
             [
-              135,
+              140,
               "HomeMenu_SCENE_Option_DeleteDialog_Heading_2"
             ]
           ],
@@ -1018,11 +1054,11 @@
               "HomeMenu_SCENE_Option_Notification_Detail_1"
             ],
             [
-              126,
+              131,
               "HomeMenu_SCENE_Option_AccountDelete_Text"
             ],
             [
-              256,
+              268,
               "ManualReportGPPNotificationPopup_Title"
             ]
           ],
@@ -1039,11 +1075,11 @@
               "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_1"
             ],
             [
-              92,
+              93,
               "HomeMenu_SCENE_Option_Notification_Text"
             ],
             [
-              227,
+              238,
               "ManualReportConfirmPopup_Title"
             ]
           ],
@@ -1081,7 +1117,7 @@
               "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_3"
             ],
             [
-              141,
+              146,
               "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Text_1"
             ]
           ],
@@ -1102,7 +1138,7 @@
               "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_4"
             ],
             [
-              142,
+              147,
               "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Text_2"
             ]
           ],
@@ -1123,15 +1159,15 @@
               "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_5"
             ],
             [
-              93,
+              94,
               "HomeMenu_SCENE_Option_Notification_Detail_6"
             ],
             [
-              143,
+              148,
               "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Text_3"
             ],
             [
-              216,
+              227,
               "ManualReportDescPopup_Section_Desc_1"
             ]
           ],
@@ -1144,11 +1180,11 @@
               "HomeMenuSubMenuPopup_Title_5"
             ],
             [
-              146,
+              151,
               "HomeMenu_SCENE_Option_DeleteDialog_Finished_Text_1"
             ],
             [
-              217,
+              228,
               "ManualReportDescPopup_Section_Desc_2"
             ]
           ],
@@ -1165,15 +1201,15 @@
               "HomeMenuSubMenuPopup_Title_6"
             ],
             [
-              147,
+              152,
               "HomeMenu_SCENE_Option_DeleteDialog_Finished_Text_2"
             ],
             [
-              174,
+              179,
               "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Title"
             ],
             [
-              218,
+              229,
               "ManualReportDescPopup_Section_Desc_3"
             ]
           ],
@@ -1195,7 +1231,7 @@
               "HomeMenuSubMenuPopup_Title_8"
             ],
             [
-              206,
+              217,
               "HomeMenu_SCENE_AccountLinkage_ReissueSuccessDialog_Text_1"
             ]
           ],
@@ -1216,15 +1252,15 @@
               "HomeMenu_SCENE_Option_InitialSettingButton"
             ],
             [
-              207,
+              218,
               "HomeMenu_SCENE_AccountLinkage_ReissueSuccessDialog_Text_2"
             ],
             [
-              225,
+              236,
               "ManualReportDescPopup_Section_Desc_RegisterButton"
             ],
             [
-              257,
+              269,
               "ManualReportGPPNotificationPopup_Text"
             ]
           ],
@@ -1237,11 +1273,11 @@
               "HomeMenuScene_HomeMenuView_Y_Axis_Score_0"
             ],
             [
-              99,
+              100,
               "HomeMenu_SCENE_Option_Sound_SE"
             ],
             [
-              220,
+              231,
               "ManualReportRegisterPopup_Desc"
             ]
           ],
@@ -1259,19 +1295,23 @@
         [
           [
             [
-              164,
+              169,
               "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_1_1"
             ],
             [
-              169,
+              174,
               "HomeMenu_SCENE_AccountLinkage_UnlinkDialog_Title"
             ],
             [
-              229,
+              190,
+              "HomeMenu_SCENE_AccountLinkageFavorDialog_Title"
+            ],
+            [
+              240,
               "ManualReportConfirmPopup_Desc"
             ]
           ],
-          3479
+          3530
         ],
         [
           [
@@ -1284,15 +1324,15 @@
               "HomeMenu_SCENE_Option_Title"
             ],
             [
-              165,
+              170,
               "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_1_2"
             ],
             [
-              205,
+              216,
               "HomeMenu_SCENE_AccountLinkage_ReissueSuccessDialog_Title"
             ]
           ],
-          3675
+          3726
         ],
         [
           [
@@ -1305,19 +1345,19 @@
               "HomeMenu_SCENE_Option_Notification_TimeZone_Start"
             ],
             [
-              95,
+              96,
               "HomeMenu_SCENE_Option_Sound_Heading"
             ],
             [
-              166,
+              171,
               "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_1_3"
             ],
             [
-              173,
+              178,
               "HomeMenu_SCENE_AccountLinkage_FacebookUnlinkDialog_Text"
             ]
           ],
-          3932
+          3983
         ],
         [
           [
@@ -1334,15 +1374,15 @@
               "HomeMenu_SCENE_LanguageOption_Title"
             ],
             [
-              112,
+              117,
               "HomeMenu_SCENE_Option_Information_Text"
             ],
             [
-              197,
+              208,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveSuccess_Popup_Title"
             ]
           ],
-          4169
+          4220
         ],
         [
           [
@@ -1355,15 +1395,15 @@
               "HomeMenu_SCENE_LanguageOption_French"
             ],
             [
-              189,
+              200,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Title"
             ],
             [
-              202,
+              213,
               "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Text_1"
             ]
           ],
-          4396
+          4447
         ],
         [
           [
@@ -1376,15 +1416,15 @@
               "HomeMenu_SCENE_SupportContactPopup_Text_5"
             ],
             [
-              109,
+              114,
               "HomeMenu_SCENE_Option_Others_Quality_FPS_Choice_1"
             ],
             [
-              203,
+              214,
               "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Text_2"
             ]
           ],
-          4610
+          4661
         ],
         [
           [
@@ -1397,11 +1437,11 @@
               "HomeMenu_SCENE_SupportContactPopup_Text_6"
             ],
             [
-              110,
+              115,
               "HomeMenu_SCENE_Option_Others_Quality_FPS_Choice_2"
             ]
           ],
-          4752
+          4803
         ],
         [
           [
@@ -1410,28 +1450,28 @@
               "HomeMenu_SCENE_SupportContactPopup_Text_7"
             ],
             [
-              113,
+              118,
               "HomeMenu_SCENE_Option_InformationButton"
             ],
             [
-              167,
+              172,
               "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_2"
             ]
           ],
-          4897
+          4948
         ],
         [
           [
             [
-              168,
+              173,
               "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_3"
             ],
             [
-              179,
+              184,
               "HomeMenu_SCENE_AccountLinkage_UnlinkFailureDialog_Text"
             ]
           ],
-          5011
+          5062
         ],
         [
           [
@@ -1440,23 +1480,23 @@
               "HomeMenu_SCENE_SupportContactPopup_Text_9"
             ],
             [
-              148,
+              153,
               "HomeMenu_SCENE_Option_DeleteDialog_Finished_Button"
             ],
             [
-              154,
+              159,
               "HomeMenu_SCENE_AccountLinkage_SNS_FacebookButton_Already"
             ],
             [
-              198,
+              209,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveSuccess_Popup_Text"
             ],
             [
-              260,
+              272,
               "HomeMenu_SCENE_NewsPopup_Title"
             ]
           ],
-          5280
+          5331
         ],
         [
           [
@@ -1465,20 +1505,20 @@
               "HomeMenuSubMenuPopup_Headline_GPP"
             ],
             [
-              221,
+              232,
               "ManualReportRegisterPopup_SleepStartTime_Title"
             ]
           ],
-          5369
+          5420
         ],
         [
           [
             [
-              228,
+              239,
               "ManualReportConfirmPopup_SleepTileValue"
             ]
           ],
-          5413
+          5464
         ],
         [
           [
@@ -1487,11 +1527,11 @@
               "HomeMenu_SCENE_Option_Notification_TimeZone_Error_Title"
             ],
             [
-              212,
+              223,
               "HomeMenuScene_HomeMenuView_AddSleepData"
             ]
           ],
-          5517
+          5568
         ],
         [
           [
@@ -1500,36 +1540,36 @@
               "HomeMenu_SCENE_LanguageOption_ConfirmPopup_Title"
             ],
             [
-              129,
+              134,
               "HomeMenu_SCENE_Option_DeleteDialog_Text_1"
             ],
             [
-              192,
+              203,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Text_1"
             ]
           ],
-          5679
+          5730
         ],
         [
           [
             [
-              131,
+              136,
               "HomeMenu_SCENE_Option_DeleteDialog_Text_2"
             ],
             [
-              157,
+              162,
               "HomeMenu_SCENE_AccountLinkage_PasswordConfirmButton"
             ],
             [
-              191,
+              202,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Heading_1"
             ],
             [
-              193,
+              204,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Text_2"
             ]
           ],
-          5910
+          5961
         ],
         [
           [
@@ -1538,40 +1578,40 @@
               "HomeMenuScene_HomeMenuView_AverageSleepTime_Title"
             ],
             [
-              132,
+              137,
               "HomeMenu_SCENE_Option_DeleteDialog_Text_3"
             ],
             [
-              194,
+              205,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Heading_2"
             ]
           ],
-          6076
+          6127
         ],
         [
           [
             [
-              101,
+              102,
               "HomeMenu_SCENE_Option_Sound_PokemonVoice"
             ],
             [
-              127,
+              132,
               "HomeMenu_SCENE_Option_AccountDelete_Button"
             ],
             [
-              133,
+              138,
               "HomeMenu_SCENE_Option_DeleteDialog_Text_4"
             ],
             [
-              195,
+              206,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Heading_3"
             ],
             [
-              222,
+              233,
               "ManualReportRegisterPopup_SleepTimeValue"
             ]
           ],
-          6325
+          6376
         ],
         [
           [
@@ -1584,54 +1624,66 @@
               "HomeMenu_SCENE_SupportContactPopup_CopySuccess_Text"
             ],
             [
-              108,
+              113,
               "HomeMenu_SCENE_Option_Others_Quality_FPS"
             ],
             [
-              134,
+              139,
               "HomeMenu_SCENE_Option_DeleteDialog_Text_5"
             ]
           ],
-          6518
+          6569
         ],
         [
           [
             [
-              104,
+              105,
               "HomeMenu_SCENE_Option_Others_Quality_Text"
             ],
             [
-              136,
+              141,
               "HomeMenu_SCENE_Option_DeleteDialog_Text_6"
+            ],
+            [
+              192,
+              "HomeMenu_SCENE_AccountLinkageFavorDialog_Text_1"
             ]
           ],
-          6610
+          6713
         ],
         [
           [
             [
-              137,
+              142,
               "HomeMenu_SCENE_Option_DeleteDialog_Text_7"
+            ],
+            [
+              193,
+              "HomeMenu_SCENE_AccountLinkageFavorDialog_Text_2"
             ]
           ],
-          6656
+          6811
         ],
         [
           [
             [
-              138,
+              143,
               "HomeMenu_SCENE_Option_DeleteDialog_Text_8"
             ],
             [
-              159,
+              164,
               "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_1"
             ],
             [
-              230,
+              194,
+              "HomeMenu_SCENE_AccountLinkageFavorDialog_Text_3"
+            ],
+            [
+              241,
               "ManualReportFinishPopup_Header_Title"
             ]
           ],
-          6798
+          7005
         ],
         [
           [
@@ -1640,55 +1692,55 @@
               "HomeMenu_SCENE_SupportContactPopup_CopyButton"
             ],
             [
-              160,
+              165,
               "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_2"
             ],
             [
-              163,
+              168,
               "HomeMenu_SCENE_AccountLinkage_FailureDialog_Title"
             ]
           ],
-          6957
+          7164
         ],
         [
           [
             [
-              161,
+              166,
               "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_3"
             ]
           ],
-          7012
+          7219
         ],
         [
           [
             [
-              162,
+              167,
               "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_4"
             ]
           ],
-          7067
+          7274
         ],
         [
           [
             [
-              151,
+              156,
               "HomeMenu_SCENE_AccountLinkage_Heading1"
             ]
           ],
-          7110
+          7317
         ],
         [
           [
             [
-              103,
+              104,
               "HomeMenu_SCENE_Option_Others_Heading_1"
             ],
             [
-              155,
+              160,
               "HomeMenu_SCENE_AccountLinkage_Heading2"
             ]
           ],
-          7196
+          7403
         ],
         [
           [
@@ -1701,11 +1753,11 @@
               "HomeMenu_SCENE_Option_Notification_TimeZone_Error_Text"
             ],
             [
-              111,
+              116,
               "HomeMenu_SCENE_Option_Others_Heading_2"
             ]
           ],
-          7348
+          7555
         ],
         [
           [
@@ -1714,19 +1766,19 @@
               "HomeMenu_SCENE_Option_Notification_TimeZone_Symbol"
             ],
             [
-              98,
+              99,
               "HomeMenu_SCENE_Option_Sound_BGM_Value"
             ],
             [
-              125,
+              130,
               "HomeMenu_SCENE_Option_Others_Heading_3"
             ],
             [
-              219,
+              230,
               "ManualReportRegisterPopup_Title"
             ]
           ],
-          7524
+          7731
         ],
         [
           [
@@ -1735,7 +1787,7 @@
               "HomeMenu_SCENE_SupportContactPopup_Title"
             ]
           ],
-          7569
+          7776
         ],
         [
           [
@@ -1744,15 +1796,15 @@
               "HomeMenu_SCENE_LanguageOption_Text_1"
             ],
             [
-              139,
+              144,
               "HomeMenu_SCENE_Option_DeleteDialog_Button"
             ],
             [
-              223,
+              234,
               "ManualReportRegisterPopup_SleepTimeValue_AMPM"
             ]
           ],
-          7706
+          7913
         ],
         [
           [
@@ -1761,28 +1813,28 @@
               "HomeMenu_SCENE_LanguageOption_Text_2"
             ],
             [
-              182,
+              187,
               "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Text_1"
             ],
             [
-              254,
+              266,
               "ManualReportNoBonusDescPopup_Title"
             ]
           ],
-          7842
+          8049
         ],
         [
           [
             [
-              183,
+              188,
               "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Text_2"
             ],
             [
-              214,
+              225,
               "ManualReportDescPopup_Desc"
             ]
           ],
-          7929
+          8136
         ],
         [
           [
@@ -1791,31 +1843,31 @@
               "HomeMenu_SCENE_LanguageOption_English"
             ],
             [
-              184,
+              189,
               "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Text_3"
             ],
             [
-              186,
+              197,
               "HomeMenu_SCENE_AccountLinkage_PasswordConfirmSuccessDialog_Title"
             ],
             [
-              211,
+              222,
               "HomeMenuScene_GraphScorePerDay"
             ]
           ],
-          8131
+          8338
         ],
         [
           [],
-          8131
+          8338
         ],
         [
           [],
-          8131
+          8338
         ],
         [
           [],
-          8131
+          8338
         ],
         [
           [
@@ -1824,7 +1876,7 @@
               "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_1"
             ]
           ],
-          8187
+          8394
         ],
         [
           [
@@ -1833,11 +1885,11 @@
               "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_2"
             ],
             [
-              156,
+              161,
               "HomeMenu_SCENE_AccountLinkage_PasswordIssueButton"
             ]
           ],
-          8297
+          8504
         ],
         [
           [
@@ -1846,15 +1898,15 @@
               "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_3"
             ],
             [
-              105,
+              106,
               "HomeMenu_SCENE_Option_Others_Quality_Screen"
             ],
             [
-              150,
+              155,
               "HomeMenu_SCENE_AccountLinkage_Text"
             ]
           ],
-          8440
+          8647
         ],
         [
           [
@@ -1863,19 +1915,23 @@
               "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_4"
             ],
             [
-              144,
+              149,
               "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Button"
             ],
             [
-              234,
+              191,
+              "HomeMenu_SCENE_AccountLinkageFavorDialog_Heading"
+            ],
+            [
+              246,
               "ManualReportFinishPopup_Content_Desc_NoReward"
             ],
             [
-              243,
+              255,
               "ManualReportErrorPopup_Text_1"
             ]
           ],
-          8634
+          8894
         ],
         [
           [
@@ -1888,11 +1944,11 @@
               "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_5"
             ],
             [
-              232,
+              243,
               "ManualReportFinishPopup_Content_Desc_1"
             ]
           ],
-          8767
+          9027
         ],
         [
           [
@@ -1909,15 +1965,19 @@
               "HomeMenu_SCENE_Option_Notification_TimeZone_End"
             ],
             [
-              233,
+              91,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_6"
+            ],
+            [
+              244,
               "ManualReportFinishPopup_Content_Desc_2"
             ],
             [
-              249,
+              261,
               "ManualReportErrorPopup_Text_3"
             ]
           ],
-          8982
+          9298
         ],
         [
           [
@@ -1926,11 +1986,15 @@
               "HomeMenuSubMenuPopup_Title_12"
             ],
             [
-              250,
+              245,
+              "ManualReportFinishPopup_Content_Desc_3"
+            ],
+            [
+              262,
               "ManualReportErrorPopup_Text_4"
             ]
           ],
-          9050
+          9409
         ],
         [
           [
@@ -1939,11 +2003,11 @@
               "HomeMenuSubMenuPopup_Title_13"
             ],
             [
-              251,
+              263,
               "ManualReportErrorPopup_Text_5"
             ]
           ],
-          9118
+          9477
         ],
         [
           [
@@ -1952,11 +2016,11 @@
               "HomeMenuSubMenuPopup_Title_14"
             ],
             [
-              252,
+              264,
               "ManualReportErrorPopup_Text_6"
             ]
           ],
-          9186
+          9545
         ],
         [
           [
@@ -1965,70 +2029,70 @@
               "HomeMenuSubMenuPopup_Title_15"
             ],
             [
-              115,
+              120,
               "HomeMenu_SCENE_SDKAgreePopup_Text_1"
             ],
             [
-              181,
+              186,
               "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Heading"
             ],
             [
-              253,
+              265,
               "ManualReportErrorPopup_Text_7"
             ]
           ],
-          9351
+          9710
         ],
         [
           [
             [
-              102,
+              103,
               "HomeMenu_SCENE_Option_Sound_PokemonVoice_Value"
             ],
             [
-              116,
+              121,
               "HomeMenu_SCENE_SDKAgreePopup_Text_2"
             ],
             [
-              140,
+              145,
               "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Title"
             ],
             [
-              175,
+              180,
               "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Text_1"
             ],
             [
-              196,
+              207,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_SaveButton"
             ]
           ],
-          9623
+          9982
         ],
         [
           [
             [
-              117,
+              122,
               "HomeMenu_SCENE_SDKAgreePopup_Text_3"
             ],
             [
-              176,
+              181,
               "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Text_2"
             ]
           ],
-          9724
+          10083
         ],
         [
           [
             [
-              118,
+              123,
               "HomeMenu_SCENE_SDKAgreePopup_Text_4"
             ],
             [
-              177,
+              182,
               "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Text_3"
             ]
           ],
-          9825
+          10184
         ],
         [
           [
@@ -2037,32 +2101,32 @@
               "HomeMenu_SCENE_LanguageOption_Italian"
             ],
             [
-              119,
+              124,
               "HomeMenu_SCENE_SDKAgreePopup_Text_5"
             ]
           ],
-          9907
+          10266
         ],
         [
           [
             [
-              120,
+              125,
               "HomeMenu_SCENE_SDKAgreePopup_Text_6"
             ],
             [
-              171,
+              176,
               "HomeMenu_SCENE_AccountLinkage_AppleUnlinkDialog_Text"
             ],
             [
-              180,
+              185,
               "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Title"
             ],
             [
-              209,
+              220,
               "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_1"
             ]
           ],
-          10121
+          10480
         ],
         [
           [
@@ -2071,50 +2135,50 @@
               "HomeMenu_SCENE_Option_Notification_TimeZone"
             ],
             [
-              128,
+              133,
               "HomeMenu_SCENE_Option_DeleteDialog_Title"
             ],
             [
-              210,
+              221,
               "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_2"
             ]
           ],
-          10276
+          10635
         ],
         [
           [
             [
-              158,
+              163,
               "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Title"
             ],
             [
-              170,
+              175,
               "HomeMenu_SCENE_AccountLinkage_UnlinkDialog_Text"
             ]
           ],
-          10382
+          10741
         ],
         [
           [
             [
-              100,
+              101,
               "HomeMenu_SCENE_Option_Sound_SE_Value"
             ],
             [
-              204,
+              215,
               "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Button"
             ]
           ],
-          10493
+          10852
         ],
         [
           [
             [
-              200,
+              211,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveFailure_Popup_Text"
             ]
           ],
-          10565
+          10924
         ],
         [
           [
@@ -2123,46 +2187,46 @@
               "HomeMenuScene_HomeMenuView_SleepAnalysisButton"
             ],
             [
-              236,
+              248,
               "ManualReportErrorPopup_Title_1"
             ]
           ],
-          10651
+          11010
         ],
         [
           [
             [
-              145,
+              150,
               "HomeMenu_SCENE_Option_DeleteDialog_Finished_Title"
             ],
             [
-              237,
+              249,
               "ManualReportErrorPopup_Title_2"
             ]
           ],
-          10740
+          11099
         ],
         [
           [
             [
-              201,
+              212,
               "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Title"
             ],
             [
-              238,
+              250,
               "ManualReportErrorPopup_Title_3"
             ]
           ],
-          10844
+          11203
         ],
         [
           [
             [
-              239,
+              251,
               "ManualReportErrorPopup_Title_4"
             ]
           ],
-          10879
+          11238
         ],
         [
           [
@@ -2171,11 +2235,11 @@
               "HomeMenuScene_HomeMenuView_BagButton"
             ],
             [
-              240,
+              252,
               "ManualReportErrorPopup_Title_5"
             ]
           ],
-          10955
+          11314
         ],
         [
           [
@@ -2184,11 +2248,11 @@
               "HomeMenuScene_HomeMenuView_WeekDay"
             ],
             [
-              241,
+              253,
               "ManualReportErrorPopup_Title_6"
             ]
           ],
-          11029
+          11388
         ],
         [
           [
@@ -2197,37 +2261,37 @@
               "HomeMenu_SCENE_LanguageOption_Chinese"
             ],
             [
-              213,
+              224,
               "ManualReportDescPopup_Title"
             ],
             [
-              242,
+              254,
               "ManualReportErrorPopup_Title_7"
             ]
           ],
-          11138
+          11497
         ],
         [
           [
             [
-              123,
+              128,
               "HomeMenu_SCENE_SDKAgreeRebootPopup_Text_1"
             ]
           ],
-          11184
+          11543
         ],
         [
           [
             [
-              106,
+              107,
               "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_1"
             ],
             [
-              124,
+              129,
               "HomeMenu_SCENE_SDKAgreeRebootPopup_Text_2"
             ]
           ],
-          11287
+          11646
         ],
         [
           [
@@ -2236,36 +2300,54 @@
               "HomeMenu_SCENE_LanguageOption_Spanish"
             ],
             [
-              96,
+              97,
               "HomeMenu_SCENE_Option_Sound_Text"
             ],
             [
-              107,
+              108,
               "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_2"
             ],
             [
-              178,
+              183,
               "HomeMenu_SCENE_AccountLinkage_UnlinkFailureDialog_Title"
             ]
           ],
-          11483
+          11842
         ],
         [
-          [],
-          11483
+          [
+            [
+              109,
+              "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_3"
+            ]
+          ],
+          11899
         ],
         [
-          [],
-          11483
+          [
+            [
+              110,
+              "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_4"
+            ]
+          ],
+          11956
         ],
         [
           [
             [
               17,
               "HomeMenuScene_HomeMenuView_Title_2"
+            ],
+            [
+              111,
+              "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_5"
+            ],
+            [
+              195,
+              "HomeMenu_SCENE_AccountLinkageFavorDialog_Button"
             ]
           ],
-          11522
+          12104
         ],
         [
           [
@@ -2274,15 +2356,19 @@
               "HomeMenu_SCENE_LanguageOption_Japanese"
             ],
             [
-              215,
+              112,
+              "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_6"
+            ],
+            [
+              226,
               "ManualReportDescPopup_Section_Title"
             ],
             [
-              244,
+              256,
               "ManualReportErrorPopup_Text_2_1"
             ]
           ],
-          11641
+          12280
         ],
         [
           [
@@ -2291,15 +2377,15 @@
               "HomeMenu_SCENE_Option_Notification_Heading_1"
             ],
             [
-              187,
+              198,
               "HomeMenu_SCENE_AccountLinkage_PasswordConfirmSuccessDialog_Text_1"
             ],
             [
-              245,
+              257,
               "ManualReportErrorPopup_Text_2_2"
             ]
           ],
-          11796
+          12435
         ],
         [
           [
@@ -2308,23 +2394,23 @@
               "HomeMenu_SCENE_LanguageOption_Heading"
             ],
             [
-              91,
+              92,
               "HomeMenu_SCENE_Option_Notification_Heading_2"
             ],
             [
-              188,
+              199,
               "HomeMenu_SCENE_AccountLinkage_PasswordConfirmSuccessDialog_Text_2"
             ],
             [
-              231,
+              242,
               "ManualReportFinishPopup_Content_Title"
             ],
             [
-              246,
+              258,
               "ManualReportErrorPopup_Text_2_3"
             ]
           ],
-          12035
+          12674
         ],
         [
           [
@@ -2333,19 +2419,19 @@
               "HomeMenuSubMenuPopup_Headline_Others"
             ],
             [
-              94,
+              95,
               "HomeMenu_SCENE_Option_Notification_Heading_3"
             ],
             [
-              208,
+              219,
               "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Title"
             ],
             [
-              247,
+              259,
               "ManualReportErrorPopup_Text_2_4"
             ]
           ],
-          12222
+          12861
         ],
         [
           [
@@ -2354,32 +2440,32 @@
               "HomeMenuSubMenuPopup_Title"
             ],
             [
-              248,
+              260,
               "ManualReportErrorPopup_Text_2_5"
             ],
             [
-              258,
+              270,
               "ManualReportGPPNotificationPopup_Button_1"
             ]
           ],
-          12335
+          12974
         ],
         [
           [
             [
-              114,
+              119,
               "HomeMenu_SCENE_SDKAgreePopup_Heading"
             ],
             [
-              199,
+              210,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveFailure_Popup_Title"
             ],
             [
-              259,
+              271,
               "ManualReportGPPNotificationPopup_Button_2"
             ]
           ],
-          12495
+          13134
         ],
         [
           [
@@ -2392,32 +2478,32 @@
               "HomeMenu_SCENE_SupportContactPopup_Heading"
             ],
             [
-              152,
+              157,
               "HomeMenu_SCENE_AccountLinkage_SNS_AppleButton_Already"
             ]
           ],
-          12645
+          13284
         ],
         [
           [],
-          12645
+          13284
         ],
         [
           [
             [
-              149,
+              154,
               "HomeMenu_SCENE_AccountLinkage"
             ],
             [
-              190,
+              201,
               "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_IssueButton"
             ]
           ],
-          12747
+          13386
         ],
         [
           [],
-          12747
+          13386
         ],
         [
           [
@@ -2426,20 +2512,20 @@
               "HomeMenu_SCENE_LanguageOption_German"
             ],
             [
-              226,
+              237,
               "ManualReportRegisterPopup_RegisterButton"
             ]
           ],
-          12833
+          13472
         ],
         [
           [
             [
-              224,
+              235,
               "ManualReportRegisterPopup_SleepEndTime_Title"
             ]
           ],
-          12882
+          13521
         ],
         [
           [
@@ -2448,7 +2534,7 @@
               "HomeMenuScene_HomeMenuView_MapButton"
             ]
           ],
-          12923
+          13562
         ],
         [
           [
@@ -2465,15 +2551,15 @@
               "HomeMenu_SCENE_LanguageOption_FinishedPopup_Text_1"
             ],
             [
-              122,
+              127,
               "HomeMenu_SCENE_SDKAgreeRebootPopup_Title"
             ],
             [
-              235,
+              247,
               "ManualReportFinishPopup_Content_Title_NoReward"
             ]
           ],
-          13165
+          13804
         ],
         [
           [
@@ -2482,11 +2568,11 @@
               "HomeMenu_SCENE_LanguageOption_FinishedPopup_Text_2"
             ],
             [
-              255,
+              267,
               "ManualReportNoBonusDescPopup_Message"
             ]
           ],
-          13261
+          13900
         ]
       ]
     },
@@ -2512,8 +2598,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 261,
-        "size": 23310,
+        "entries": 273,
+        "size": 24702,
         "unknown1": 0,
         "unknown2": 0
       }
