@@ -1,0 +1,117 @@
+{
+  "strings": {
+    "NSBluetoothAlwaysUsageDescription": [
+      "Cette application utilise le Bluetooth pour communiquer avec le Pokémon GO Plus +."
+    ],
+    "NSBluetoothPeripheralUsageDescription": [
+      "Cette application utilise le Bluetooth pour communiquer avec le Pokémon GO Plus +."
+    ],
+    "NSCameraUsageDescription": [
+      "Cette application utilise l'appareil photo pour scanner les codes ami."
+    ],
+    "NSMicrophoneUsageDescription": [
+      "Cette application utilise le microphone pour mesurer votre sommeil."
+    ],
+    "NSPhotoLibraryAddUsageDescription": [
+      "Ceci permet à l'application de sauvegarder des photos sur votre pellicule."
+    ],
+    "NSUserTrackingUsageDescription": [
+      "Les informations rassemblées sur cette application, y compris les identifiants pour les annonces publicitaires, sont utilisées pour étudier les tendances d'utilisation de nos services, afin de nous aider à en améliorer l'efficacité, et d'empêcher tout usage illicite."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 255,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "NSBluetoothPeripheralUsageDescription"
+            ]
+          ],
+          82
+        ],
+        [
+          [
+            [
+              2,
+              "NSUserTrackingUsageDescription"
+            ],
+            [
+              3,
+              "NSCameraUsageDescription"
+            ],
+            [
+              4,
+              "NSMicrophoneUsageDescription"
+            ]
+          ],
+          179
+        ],
+        [
+          [
+            [
+              0,
+              "NSBluetoothAlwaysUsageDescription"
+            ]
+          ],
+          217
+        ],
+        [
+          [
+            [
+              5,
+              "NSPhotoLibraryAddUsageDescription"
+            ]
+          ],
+          255
+        ],
+        [
+          [],
+          255
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 1320,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "strings": {
+    "md_weekly_mission_types_tips_1": [
+      "Cook for Snorlax and feed it Berries\nto raise it to the target rating!"
+    ],
+    "md_weekly_mission_types_tips_10": [
+      "You can get candies for Pokémon by\nconducting sleep research, among other\nways. Use them to raise your Pokémon!"
+    ],
+    "md_weekly_mission_types_tips_2": [
+      "You can cook up to three times per day.\nYou'll have chances to make something\nat breakfast (starting at 6 AM),\nlunch (starting at noon), and\ndinner (starting at 6 PM)."
+    ],
+    "md_weekly_mission_types_tips_5": [
+      "Gather more Berries by adding Pokémon\nthat are good at finding Berries to your\ncurrent research team!"
+    ],
+    "md_weekly_mission_types_tips_6": [
+      "Gather the Berries this week's Snorlax\nlikes best by adding Pokémon that are\ngood at finding those particular Berries\nto your current research team!"
+    ],
+    "md_weekly_mission_types_tips_7": [
+      "Start tracking your sleep within\n30 minutes of the bedtime you\ndecide on with your Pokémon."
+    ],
+    "md_weekly_mission_types_tips_8": [
+      "You can befriend Pokémon by giving\nthem Poké Biscuits during snack time\nand maxing out their friendship points!"
+    ],
+    "md_weekly_mission_types_tips_9": [
+      "Give Poké Biscuits and other treats to\nPokémon during snack time. Each day,\nyou can get one Bonus Biscuit."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 8,
+        "size": 60,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 321,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "md_weekly_mission_types_tips_2"
+            ],
+            [
+              4,
+              "md_weekly_mission_types_tips_7"
+            ]
+          ],
+          110
+        ],
+        [
+          [
+            [
+              5,
+              "md_weekly_mission_types_tips_8"
+            ]
+          ],
+          145
+        ],
+        [
+          [
+            [
+              6,
+              "md_weekly_mission_types_tips_9"
+            ]
+          ],
+          180
+        ],
+        [
+          [
+            [
+              2,
+              "md_weekly_mission_types_tips_5"
+            ]
+          ],
+          215
+        ],
+        [
+          [
+            [
+              0,
+              "md_weekly_mission_types_tips_1"
+            ],
+            [
+              3,
+              "md_weekly_mission_types_tips_6"
+            ],
+            [
+              7,
+              "md_weekly_mission_types_tips_10"
+            ]
+          ],
+          321
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 8,
+        "size": 1858,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

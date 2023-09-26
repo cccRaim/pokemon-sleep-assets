@@ -1,0 +1,83 @@
+{
+  "strings": {
+    "PokemonTeamFormationSelectSceneController_Text_1": [
+      "Ordine per: \u000e\u0003\u0005\u0002",
+      ""
+    ],
+    "PokemonTeamFormationSelectScene_Footer_OrderButton": [
+      "Decrescente"
+    ],
+    "PokemonTeamFormationSelectScene_Header_Title": [
+      "Seleziona"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 3,
+        "size": 25,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 2,
+        "size": 173,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              2,
+              "PokemonTeamFormationSelectScene_Footer_OrderButton"
+            ]
+          ],
+          71
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonTeamFormationSelectSceneController_Text_1"
+            ],
+            [
+              1,
+              "PokemonTeamFormationSelectScene_Header_Title"
+            ]
+          ],
+          173
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 3,
+        "size": 92,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

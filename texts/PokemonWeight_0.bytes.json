@@ -1,0 +1,1087 @@
+{
+  "strings": {
+    "pokemon_weight_1": [
+      "6.9kg"
+    ],
+    "pokemon_weight_10": [
+      "2.9kg"
+    ],
+    "pokemon_weight_104": [
+      "6.5kg"
+    ],
+    "pokemon_weight_105": [
+      "45.0kg"
+    ],
+    "pokemon_weight_11": [
+      "9.9kg"
+    ],
+    "pokemon_weight_115": [
+      "80.0kg"
+    ],
+    "pokemon_weight_12": [
+      "32.0kg"
+    ],
+    "pokemon_weight_127": [
+      "55.0kg"
+    ],
+    "pokemon_weight_132": [
+      "4.0kg"
+    ],
+    "pokemon_weight_133": [
+      "6.5kg"
+    ],
+    "pokemon_weight_134": [
+      "29.0kg"
+    ],
+    "pokemon_weight_135": [
+      "24.5kg"
+    ],
+    "pokemon_weight_136": [
+      "25.0kg"
+    ],
+    "pokemon_weight_147": [
+      "3.3kg"
+    ],
+    "pokemon_weight_148": [
+      "16.5kg"
+    ],
+    "pokemon_weight_149": [
+      "210.0kg"
+    ],
+    "pokemon_weight_152": [
+      "6.4kg"
+    ],
+    "pokemon_weight_153": [
+      "15.8kg"
+    ],
+    "pokemon_weight_154": [
+      "100.5kg"
+    ],
+    "pokemon_weight_155": [
+      "7.9kg"
+    ],
+    "pokemon_weight_156": [
+      "19.0kg"
+    ],
+    "pokemon_weight_157": [
+      "79.5kg"
+    ],
+    "pokemon_weight_158": [
+      "9.5kg"
+    ],
+    "pokemon_weight_159": [
+      "25.0kg"
+    ],
+    "pokemon_weight_160": [
+      "88.8kg"
+    ],
+    "pokemon_weight_172": [
+      "2.0kg"
+    ],
+    "pokemon_weight_174": [
+      "1.0kg"
+    ],
+    "pokemon_weight_175": [
+      "1.5kg"
+    ],
+    "pokemon_weight_176": [
+      "3.2kg"
+    ],
+    "pokemon_weight_179": [
+      "7.8kg"
+    ],
+    "pokemon_weight_180": [
+      "13.3kg"
+    ],
+    "pokemon_weight_181": [
+      "61.5kg"
+    ],
+    "pokemon_weight_185": [
+      "38.0kg"
+    ],
+    "pokemon_weight_19": [
+      "3.5kg"
+    ],
+    "pokemon_weight_196": [
+      "26.5kg"
+    ],
+    "pokemon_weight_197": [
+      "27.0kg"
+    ],
+    "pokemon_weight_199": [
+      "79.5kg"
+    ],
+    "pokemon_weight_2": [
+      "13.0kg"
+    ],
+    "pokemon_weight_20": [
+      "18.5kg"
+    ],
+    "pokemon_weight_202": [
+      "28.5kg"
+    ],
+    "pokemon_weight_214": [
+      "54.0kg"
+    ],
+    "pokemon_weight_228": [
+      "10.8kg"
+    ],
+    "pokemon_weight_229": [
+      "35.0kg"
+    ],
+    "pokemon_weight_23": [
+      "6.9kg"
+    ],
+    "pokemon_weight_24": [
+      "65.0kg"
+    ],
+    "pokemon_weight_246": [
+      "72.0kg"
+    ],
+    "pokemon_weight_247": [
+      "152.0kg"
+    ],
+    "pokemon_weight_248": [
+      "202.0kg"
+    ],
+    "pokemon_weight_25": [
+      "6.0kg"
+    ],
+    "pokemon_weight_26": [
+      "30.0kg"
+    ],
+    "pokemon_weight_287": [
+      "24.0kg"
+    ],
+    "pokemon_weight_288": [
+      "46.5kg"
+    ],
+    "pokemon_weight_289": [
+      "130.5kg"
+    ],
+    "pokemon_weight_3": [
+      "100.0kg"
+    ],
+    "pokemon_weight_302": [
+      "11.0kg"
+    ],
+    "pokemon_weight_316": [
+      "10.3kg"
+    ],
+    "pokemon_weight_317": [
+      "80.0kg"
+    ],
+    "pokemon_weight_333": [
+      "1.2kg"
+    ],
+    "pokemon_weight_334": [
+      "20.6kg"
+    ],
+    "pokemon_weight_359": [
+      "47.0kg"
+    ],
+    "pokemon_weight_360": [
+      "14.0kg"
+    ],
+    "pokemon_weight_363": [
+      "39.5kg"
+    ],
+    "pokemon_weight_364": [
+      "87.6kg"
+    ],
+    "pokemon_weight_365": [
+      "150.6kg"
+    ],
+    "pokemon_weight_39": [
+      "5.5kg"
+    ],
+    "pokemon_weight_4": [
+      "8.5kg"
+    ],
+    "pokemon_weight_40": [
+      "12.0kg"
+    ],
+    "pokemon_weight_438": [
+      "15.0kg"
+    ],
+    "pokemon_weight_447": [
+      "20.2kg"
+    ],
+    "pokemon_weight_448": [
+      "54.0kg"
+    ],
+    "pokemon_weight_453": [
+      "23.0kg"
+    ],
+    "pokemon_weight_454": [
+      "44.4kg"
+    ],
+    "pokemon_weight_462": [
+      "180.0kg"
+    ],
+    "pokemon_weight_468": [
+      "38.0kg"
+    ],
+    "pokemon_weight_470": [
+      "25.5kg"
+    ],
+    "pokemon_weight_471": [
+      "25.9kg"
+    ],
+    "pokemon_weight_5": [
+      "19.0kg"
+    ],
+    "pokemon_weight_50": [
+      "0.8kg"
+    ],
+    "pokemon_weight_51": [
+      "33.3kg"
+    ],
+    "pokemon_weight_52": [
+      "4.2kg"
+    ],
+    "pokemon_weight_53": [
+      "32.0kg"
+    ],
+    "pokemon_weight_54": [
+      "19.6kg"
+    ],
+    "pokemon_weight_55": [
+      "76.6kg"
+    ],
+    "pokemon_weight_56": [
+      "28.0kg"
+    ],
+    "pokemon_weight_57": [
+      "32.0kg"
+    ],
+    "pokemon_weight_58": [
+      "19.0kg"
+    ],
+    "pokemon_weight_59": [
+      "155.0kg"
+    ],
+    "pokemon_weight_6": [
+      "90.5kg"
+    ],
+    "pokemon_weight_69": [
+      "4.0kg"
+    ],
+    "pokemon_weight_7": [
+      "9.0kg"
+    ],
+    "pokemon_weight_70": [
+      "6.4kg"
+    ],
+    "pokemon_weight_700": [
+      "23.5kg"
+    ],
+    "pokemon_weight_71": [
+      "15.5kg"
+    ],
+    "pokemon_weight_74": [
+      "20.0kg"
+    ],
+    "pokemon_weight_75": [
+      "105.0kg"
+    ],
+    "pokemon_weight_76": [
+      "300.0kg"
+    ],
+    "pokemon_weight_79": [
+      "36.0kg"
+    ],
+    "pokemon_weight_8": [
+      "22.5kg"
+    ],
+    "pokemon_weight_80": [
+      "78.5kg"
+    ],
+    "pokemon_weight_81": [
+      "6.0kg"
+    ],
+    "pokemon_weight_82": [
+      "60.0kg"
+    ],
+    "pokemon_weight_84": [
+      "39.2kg"
+    ],
+    "pokemon_weight_85": [
+      "85.2kg"
+    ],
+    "pokemon_weight_9": [
+      "85.5kg"
+    ],
+    "pokemon_weight_92": [
+      "0.1kg"
+    ],
+    "pokemon_weight_93": [
+      "0.1kg"
+    ],
+    "pokemon_weight_94": [
+      "40.5kg"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 107,
+        "size": 753,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 59,
+        "size": 2879,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              60,
+              "pokemon_weight_57"
+            ]
+          ],
+          494
+        ],
+        [
+          [
+            [
+              31,
+              "pokemon_weight_58"
+            ],
+            [
+              84,
+              "pokemon_weight_199"
+            ]
+          ],
+          539
+        ],
+        [
+          [
+            [
+              48,
+              "pokemon_weight_180"
+            ],
+            [
+              61,
+              "pokemon_weight_59"
+            ]
+          ],
+          584
+        ],
+        [
+          [
+            [
+              20,
+              "pokemon_weight_40"
+            ],
+            [
+              81,
+              "pokemon_weight_181"
+            ]
+          ],
+          629
+        ],
+        [
+          [],
+          629
+        ],
+        [
+          [
+            [
+              90,
+              "pokemon_weight_359"
+            ]
+          ],
+          652
+        ],
+        [
+          [
+            [
+              54,
+              "pokemon_weight_438"
+            ]
+          ],
+          675
+        ],
+        [
+          [
+            [
+              39,
+              "pokemon_weight_185"
+            ],
+            [
+              49,
+              "pokemon_weight_202"
+            ]
+          ],
+          721
+        ],
+        [
+          [],
+          721
+        ],
+        [
+          [],
+          721
+        ],
+        [
+          [
+            [
+              69,
+              "pokemon_weight_127"
+            ]
+          ],
+          744
+        ],
+        [
+          [],
+          744
+        ],
+        [
+          [],
+          744
+        ],
+        [
+          [],
+          744
+        ],
+        [
+          [
+            [
+              4,
+              "pokemon_weight_172"
+            ],
+            [
+              43,
+              "pokemon_weight_92"
+            ]
+          ],
+          789
+        ],
+        [
+          [
+            [
+              44,
+              "pokemon_weight_93"
+            ]
+          ],
+          811
+        ],
+        [
+          [
+            [
+              37,
+              "pokemon_weight_174"
+            ],
+            [
+              67,
+              "pokemon_weight_94"
+            ]
+          ],
+          856
+        ],
+        [
+          [
+            [
+              22,
+              "pokemon_weight_175"
+            ],
+            [
+              89,
+              "pokemon_weight_470"
+            ]
+          ],
+          902
+        ],
+        [
+          [
+            [
+              68,
+              "pokemon_weight_115"
+            ],
+            [
+              80,
+              "pokemon_weight_176"
+            ],
+            [
+              97,
+              "pokemon_weight_471"
+            ]
+          ],
+          971
+        ],
+        [
+          [
+            [
+              52,
+              "pokemon_weight_333"
+            ]
+          ],
+          994
+        ],
+        [
+          [
+            [
+              98,
+              "pokemon_weight_334"
+            ]
+          ],
+          1017
+        ],
+        [
+          [
+            [
+              38,
+              "pokemon_weight_179"
+            ]
+          ],
+          1040
+        ],
+        [
+          [
+            [
+              10,
+              "pokemon_weight_39"
+            ],
+            [
+              41,
+              "pokemon_weight_80"
+            ],
+            [
+              79,
+              "pokemon_weight_160"
+            ]
+          ],
+          1107
+        ],
+        [
+          [
+            [
+              33,
+              "pokemon_weight_20"
+            ],
+            [
+              64,
+              "pokemon_weight_81"
+            ]
+          ],
+          1151
+        ],
+        [
+          [
+            [
+              65,
+              "pokemon_weight_82"
+            ]
+          ],
+          1173
+        ],
+        [
+          [],
+          1173
+        ],
+        [
+          [
+            [
+              25,
+              "pokemon_weight_23"
+            ],
+            [
+              42,
+              "pokemon_weight_84"
+            ]
+          ],
+          1217
+        ],
+        [
+          [
+            [
+              26,
+              "pokemon_weight_24"
+            ],
+            [
+              27,
+              "pokemon_weight_104"
+            ],
+            [
+              66,
+              "pokemon_weight_85"
+            ]
+          ],
+          1284
+        ],
+        [
+          [
+            [
+              0,
+              "pokemon_weight_25"
+            ],
+            [
+              45,
+              "pokemon_weight_105"
+            ]
+          ],
+          1329
+        ],
+        [
+          [
+            [
+              57,
+              "pokemon_weight_26"
+            ],
+            [
+              96,
+              "pokemon_weight_462"
+            ]
+          ],
+          1374
+        ],
+        [
+          [
+            [
+              86,
+              "pokemon_weight_246"
+            ]
+          ],
+          1397
+        ],
+        [
+          [
+            [
+              87,
+              "pokemon_weight_247"
+            ]
+          ],
+          1420
+        ],
+        [
+          [
+            [
+              36,
+              "pokemon_weight_70"
+            ],
+            [
+              88,
+              "pokemon_weight_248"
+            ]
+          ],
+          1465
+        ],
+        [
+          [
+            [
+              7,
+              "pokemon_weight_10"
+            ],
+            [
+              62,
+              "pokemon_weight_71"
+            ],
+            [
+              91,
+              "pokemon_weight_700"
+            ]
+          ],
+          1532
+        ],
+        [
+          [
+            [
+              8,
+              "pokemon_weight_11"
+            ],
+            [
+              46,
+              "pokemon_weight_152"
+            ]
+          ],
+          1577
+        ],
+        [
+          [
+            [
+              9,
+              "pokemon_weight_12"
+            ],
+            [
+              47,
+              "pokemon_weight_153"
+            ],
+            [
+              92,
+              "pokemon_weight_468"
+            ]
+          ],
+          1645
+        ],
+        [
+          [
+            [
+              23,
+              "pokemon_weight_74"
+            ],
+            [
+              77,
+              "pokemon_weight_154"
+            ]
+          ],
+          1690
+        ],
+        [
+          [
+            [
+              24,
+              "pokemon_weight_75"
+            ],
+            [
+              28,
+              "pokemon_weight_155"
+            ]
+          ],
+          1735
+        ],
+        [
+          [
+            [
+              29,
+              "pokemon_weight_156"
+            ],
+            [
+              63,
+              "pokemon_weight_76"
+            ]
+          ],
+          1780
+        ],
+        [
+          [
+            [
+              78,
+              "pokemon_weight_157"
+            ]
+          ],
+          1803
+        ],
+        [
+          [
+            [
+              16,
+              "pokemon_weight_158"
+            ],
+            [
+              55,
+              "pokemon_weight_453"
+            ]
+          ],
+          1849
+        ],
+        [
+          [
+            [
+              15,
+              "pokemon_weight_79"
+            ],
+            [
+              17,
+              "pokemon_weight_159"
+            ],
+            [
+              56,
+              "pokemon_weight_454"
+            ]
+          ],
+          1917
+        ],
+        [
+          [
+            [
+              2,
+              "pokemon_weight_19"
+            ],
+            [
+              50,
+              "pokemon_weight_316"
+            ]
+          ],
+          1962
+        ],
+        [
+          [
+            [
+              51,
+              "pokemon_weight_317"
+            ]
+          ],
+          1985
+        ],
+        [
+          [],
+          1985
+        ],
+        [
+          [
+            [
+              53,
+              "pokemon_weight_360"
+            ]
+          ],
+          2008
+        ],
+        [
+          [
+            [
+              5,
+              "pokemon_weight_1"
+            ]
+          ],
+          2029
+        ],
+        [
+          [
+            [
+              6,
+              "pokemon_weight_2"
+            ]
+          ],
+          2050
+        ],
+        [
+          [
+            [
+              21,
+              "pokemon_weight_3"
+            ],
+            [
+              101,
+              "pokemon_weight_363"
+            ],
+            [
+              106,
+              "pokemon_weight_302"
+            ]
+          ],
+          2117
+        ],
+        [
+          [
+            [
+              13,
+              "pokemon_weight_4"
+            ],
+            [
+              74,
+              "pokemon_weight_147"
+            ],
+            [
+              102,
+              "pokemon_weight_364"
+            ]
+          ],
+          2184
+        ],
+        [
+          [
+            [
+              14,
+              "pokemon_weight_5"
+            ],
+            [
+              75,
+              "pokemon_weight_148"
+            ],
+            [
+              93,
+              "pokemon_weight_287"
+            ],
+            [
+              103,
+              "pokemon_weight_365"
+            ]
+          ],
+          2274
+        ],
+        [
+          [
+            [
+              32,
+              "pokemon_weight_6"
+            ],
+            [
+              35,
+              "pokemon_weight_69"
+            ],
+            [
+              76,
+              "pokemon_weight_149"
+            ],
+            [
+              94,
+              "pokemon_weight_288"
+            ]
+          ],
+          2363
+        ],
+        [
+          [
+            [
+              11,
+              "pokemon_weight_7"
+            ],
+            [
+              18,
+              "pokemon_weight_50"
+            ],
+            [
+              95,
+              "pokemon_weight_289"
+            ],
+            [
+              104,
+              "pokemon_weight_228"
+            ]
+          ],
+          2452
+        ],
+        [
+          [
+            [
+              12,
+              "pokemon_weight_8"
+            ],
+            [
+              19,
+              "pokemon_weight_51"
+            ],
+            [
+              105,
+              "pokemon_weight_229"
+            ]
+          ],
+          2518
+        ],
+        [
+          [
+            [
+              3,
+              "pokemon_weight_52"
+            ],
+            [
+              30,
+              "pokemon_weight_9"
+            ],
+            [
+              70,
+              "pokemon_weight_132"
+            ],
+            [
+              99,
+              "pokemon_weight_447"
+            ]
+          ],
+          2607
+        ],
+        [
+          [
+            [
+              1,
+              "pokemon_weight_133"
+            ],
+            [
+              58,
+              "pokemon_weight_53"
+            ],
+            [
+              100,
+              "pokemon_weight_448"
+            ]
+          ],
+          2675
+        ],
+        [
+          [
+            [
+              40,
+              "pokemon_weight_54"
+            ],
+            [
+              71,
+              "pokemon_weight_134"
+            ]
+          ],
+          2720
+        ],
+        [
+          [
+            [
+              59,
+              "pokemon_weight_55"
+            ],
+            [
+              72,
+              "pokemon_weight_135"
+            ],
+            [
+              82,
+              "pokemon_weight_196"
+            ]
+          ],
+          2788
+        ],
+        [
+          [
+            [
+              34,
+              "pokemon_weight_56"
+            ],
+            [
+              73,
+              "pokemon_weight_136"
+            ],
+            [
+              83,
+              "pokemon_weight_197"
+            ],
+            [
+              85,
+              "pokemon_weight_214"
+            ]
+          ],
+          2879
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 107,
+        "size": 1890,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

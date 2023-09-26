@@ -1,0 +1,94 @@
+{
+  "strings": {
+    "BagSortType_1": [
+      "Défaut"
+    ],
+    "BagSortType_2": [
+      "Obtenus"
+    ],
+    "BagSortType_3": [
+      "Quantité"
+    ],
+    "BagSortType_4": [
+      "Nom"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 4,
+        "size": 32,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 96,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "BagSortType_2"
+            ]
+          ],
+          42
+        ],
+        [
+          [
+            [
+              2,
+              "BagSortType_3"
+            ]
+          ],
+          60
+        ],
+        [
+          [
+            [
+              0,
+              "BagSortType_1"
+            ],
+            [
+              3,
+              "BagSortType_4"
+            ]
+          ],
+          96
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 4,
+        "size": 72,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

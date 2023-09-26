@@ -1,0 +1,225 @@
+{
+  "strings": {
+    "PokemonNature_Text_1": [
+      "Abilità principale"
+    ],
+    "PokemonNature_Text_2": [
+      "PE ottenuti"
+    ],
+    "PokemonNature_Text_3": [
+      "Recupero energia"
+    ],
+    "PokemonNature_Text_4": [
+      "Raccolta ingredienti"
+    ],
+    "PokemonNature_Text_5": [
+      "Velocità aiuto"
+    ],
+    "SleepingFace_LibrarySubId": [
+      "N° \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SpeciesCandy_Text_1": [
+      "Trova \u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "WeeklyMission_Text_10": [
+      "Dai \u000e\u0002\u0001\u0002",
+      " Pokébiscott\u000e\u0005",
+      "\n\u0002o\u0002i촀"
+    ],
+    "WeeklyMission_Text_11": [
+      "Usa \u000e\u0002\u0001\u0002",
+      " caramell\u000e\u0005",
+      "\n\u0002a\u0002e촀"
+    ],
+    "WeeklyMission_Text_2": [
+      "Porta Snorlax al rango \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "WeeklyMission_Text_3": [
+      "Cucina \u000e\u0002\u0001\u0002",
+      " volt\u000e\u0005",
+      "\n\u0002a\u0002e촀"
+    ],
+    "WeeklyMission_Text_6": [
+      "Dai a Snorlax \u000e\u0002\u0002\u0002",
+      " bacc\u000e\u0005",
+      "\f\u0002a\u0004he촀"
+    ],
+    "WeeklyMission_Text_7": [
+      "Dai a Snorlax \u000e\u0002\u0002\u0002",
+      " bacc\u000e\u0005",
+      "\f\u0002a\u0004he촀 di cui è ghiotto"
+    ],
+    "WeeklyMission_Text_8": [
+      "Rispetta l'ora di dormire \u000e\u0002\u0001\u0002",
+      " volt\u000e\u0005",
+      "\n\u0002a\u0002e촀"
+    ],
+    "WeeklyMission_Text_9": [
+      "Fai amicizia con \u000e\u0002\u0001\u0002",
+      " Pokémon"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 15,
+        "size": 109,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 469,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              8,
+              "WeeklyMission_Text_6"
+            ]
+          ],
+          113
+        ],
+        [
+          [
+            [
+              9,
+              "WeeklyMission_Text_7"
+            ]
+          ],
+          138
+        ],
+        [
+          [
+            [
+              5,
+              "SpeciesCandy_Text_1"
+            ],
+            [
+              10,
+              "WeeklyMission_Text_8"
+            ]
+          ],
+          187
+        ],
+        [
+          [
+            [
+              11,
+              "WeeklyMission_Text_9"
+            ]
+          ],
+          212
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonNature_Text_1"
+            ]
+          ],
+          237
+        ],
+        [
+          [
+            [
+              1,
+              "PokemonNature_Text_2"
+            ]
+          ],
+          262
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonNature_Text_3"
+            ]
+          ],
+          287
+        ],
+        [
+          [
+            [
+              3,
+              "PokemonNature_Text_4"
+            ],
+            [
+              6,
+              "WeeklyMission_Text_2"
+            ]
+          ],
+          337
+        ],
+        [
+          [
+            [
+              4,
+              "PokemonNature_Text_5"
+            ],
+            [
+              7,
+              "WeeklyMission_Text_3"
+            ],
+            [
+              12,
+              "WeeklyMission_Text_10"
+            ]
+          ],
+          413
+        ],
+        [
+          [
+            [
+              13,
+              "WeeklyMission_Text_11"
+            ]
+          ],
+          439
+        ],
+        [
+          [
+            [
+              14,
+              "SleepingFace_LibrarySubId"
+            ]
+          ],
+          469
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 15,
+        "size": 832,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

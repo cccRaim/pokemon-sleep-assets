@@ -1,0 +1,132 @@
+{
+  "strings": {
+    "md_weekly_mission_types_tips_1": [
+      "Nourrissez Ronflex de Baies et de plats\ncuisinés pour l'aider à atteindre le rang\nvisé !"
+    ],
+    "md_weekly_mission_types_tips_10": [
+      "Vous pouvez obtenir des bonbons grâce,\nentre autres, aux recherches sur\nle sommeil. Utilisez-les pour renforcer\nvos Pokémon !"
+    ],
+    "md_weekly_mission_types_tips_2": [
+      "Vous pouvez cuisiner trois fois par jour.\n- au petit déjeuner (à partir de 6 h)\n- au déjeuner (à partir de midi)\n- au dîner (à partir de 18 h)"
+    ],
+    "md_weekly_mission_types_tips_5": [
+      "Rassemblez plus de Baies en intégrant à\nvotre équipe de recherche actuelle des\nPokémon doués pour en trouver !"
+    ],
+    "md_weekly_mission_types_tips_6": [
+      "Amassez les Baies préférées du Ronflex\nde la semaine en intégrant des Pokémon\ndoués pour en trouver dans votre équipe\nde recherche actuelle !"
+    ],
+    "md_weekly_mission_types_tips_7": [
+      "Commencez à mesurer votre sommeil\nmoins de 30 minutes avant ou après\nl'heure de coucher que vous avez choisie."
+    ],
+    "md_weekly_mission_types_tips_8": [
+      "Donnez des Poké Biscuits aux Pokémon\nà l'heure du goûter et faites monter\nleurs points d'amitié au maximum pour\nqu'ils deviennent vos amis."
+    ],
+    "md_weekly_mission_types_tips_9": [
+      "Donnez des Poké Biscuits et autres\nfriandises aux Pokémon à l'heure du\ngoûter. Vous pouvez obtenir un Biscuit\nBonus tous les jours."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 8,
+        "size": 60,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 321,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "md_weekly_mission_types_tips_2"
+            ],
+            [
+              4,
+              "md_weekly_mission_types_tips_7"
+            ]
+          ],
+          110
+        ],
+        [
+          [
+            [
+              5,
+              "md_weekly_mission_types_tips_8"
+            ]
+          ],
+          145
+        ],
+        [
+          [
+            [
+              6,
+              "md_weekly_mission_types_tips_9"
+            ]
+          ],
+          180
+        ],
+        [
+          [
+            [
+              2,
+              "md_weekly_mission_types_tips_5"
+            ]
+          ],
+          215
+        ],
+        [
+          [
+            [
+              0,
+              "md_weekly_mission_types_tips_1"
+            ],
+            [
+              3,
+              "md_weekly_mission_types_tips_6"
+            ],
+            [
+              7,
+              "md_weekly_mission_types_tips_10"
+            ]
+          ],
+          321
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 8,
+        "size": 2020,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

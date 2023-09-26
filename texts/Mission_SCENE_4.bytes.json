@@ -1,0 +1,274 @@
+{
+  "strings": {
+    "MissionReward_EndText": [
+      "Gut gemacht!"
+    ],
+    "MissionReward_StartText": [
+      "Du erhältst:"
+    ],
+    "MissionScene_Content_TopView_Desc": [
+      "Erfülle wöchentliche Missionen für Belohnungen."
+    ],
+    "MissionScene_Content_TopView_LeftDays": [
+      "noch \u000e\t",
+      "\f\bdddd",
+      ""
+    ],
+    "MissionScene_Content_TopView_SectionTitle": [
+      "Noch \u000e\u0002\u0001\u0002",
+      " \u000e\u0006",
+      "&\u000eMission\u0012Missionen촀"
+    ],
+    "MissionScene_Footer_GetAllButton": [
+      "Alles annehmen"
+    ],
+    "MissionScene_Header_Title": [
+      "Missionen"
+    ],
+    "Mission_BagFullPopup_Text": [
+      "Dein Beutel ist zu voll.\nSchaffe Platz in deinem Beutel und\nversuche es erneut!\n"
+    ],
+    "Mission_BagFullPopup_Title": [
+      "Nicht genug Platz"
+    ],
+    "Mission_CoinFullPopup_Text": [
+      "Du kannst keine weiteren\nTraumsplitter tragen.\nÜberschüssige Traumsplitter wurden\nweggeworfen."
+    ],
+    "Mission_CoinFullPopup_Title": [
+      "Traumsplitter Max."
+    ],
+    "Mission_DiaFullPopup_Text": [
+      "Du kannst keine weiteren kostenlosen\nDiamanten tragen. Überschüssige\nDiamanten wurden weggeworfen."
+    ],
+    "Mission_DiaFullPopup_Title": [
+      "Kostenlose Diamanten-Limit erreicht"
+    ],
+    "WeeklyMissionCell_BalloonMessage": [
+      "Rauch"
+    ],
+    "WeeklyMissionCell_ButtonHint": [
+      "Hinweis"
+    ],
+    "WeeklyMissionCell_Clear": [
+      "FERTIG!"
+    ],
+    "WeeklyMissionCell_ItemNum": [
+      "×\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "WeeklyMissionCell_Progress": [
+      "\u000e\u0002\u0002\u0002",
+      "/\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "WeeklyMissionCell_Received": [
+      "Angenommen"
+    ],
+    "WeeklyMissionCell_RewardGetButton": [
+      "Annehmen"
+    ],
+    "WeeklyMissionView_Text_2": [
+      "Mehr Infos"
+    ],
+    "WeeklyMissionView_Text_3": [
+      "Belohnungen"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 22,
+        "size": 158,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 822,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "MissionReward_EndText"
+            ],
+            [
+              16,
+              "Mission_BagFullPopup_Title"
+            ]
+          ],
+          161
+        ],
+        [
+          [
+            [
+              5,
+              "MissionScene_Content_TopView_Desc"
+            ],
+            [
+              8,
+              "MissionScene_Header_Title"
+            ],
+            [
+              10,
+              "WeeklyMissionCell_Progress"
+            ],
+            [
+              18,
+              "Mission_DiaFullPopup_Title"
+            ]
+          ],
+          291
+        ],
+        [
+          [
+            [
+              0,
+              "WeeklyMissionView_Text_2"
+            ],
+            [
+              9,
+              "WeeklyMissionCell_ItemNum"
+            ],
+            [
+              19,
+              "Mission_DiaFullPopup_Text"
+            ],
+            [
+              20,
+              "Mission_CoinFullPopup_Title"
+            ]
+          ],
+          412
+        ],
+        [
+          [
+            [
+              1,
+              "WeeklyMissionView_Text_3"
+            ],
+            [
+              6,
+              "MissionScene_Content_TopView_SectionTitle"
+            ],
+            [
+              12,
+              "WeeklyMissionCell_Clear"
+            ]
+          ],
+          515
+        ],
+        [
+          [
+            [
+              7,
+              "MissionScene_Footer_GetAllButton"
+            ],
+            [
+              14,
+              "WeeklyMissionCell_Received"
+            ]
+          ],
+          583
+        ],
+        [
+          [
+            [
+              13,
+              "WeeklyMissionCell_RewardGetButton"
+            ]
+          ],
+          621
+        ],
+        [
+          [
+            [
+              11,
+              "WeeklyMissionCell_BalloonMessage"
+            ]
+          ],
+          658
+        ],
+        [
+          [
+            [
+              17,
+              "Mission_BagFullPopup_Text"
+            ]
+          ],
+          688
+        ],
+        [
+          [
+            [
+              2,
+              "MissionReward_StartText"
+            ],
+            [
+              15,
+              "WeeklyMissionCell_ButtonHint"
+            ]
+          ],
+          749
+        ],
+        [
+          [
+            [
+              4,
+              "MissionScene_Content_TopView_LeftDays"
+            ]
+          ],
+          791
+        ],
+        [
+          [
+            [
+              21,
+              "Mission_CoinFullPopup_Text"
+            ]
+          ],
+          822
+        ],
+        [
+          [],
+          822
+        ],
+        [
+          [],
+          822
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 22,
+        "size": 1252,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

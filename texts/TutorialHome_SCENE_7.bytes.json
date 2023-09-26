@@ -1,0 +1,176 @@
+{
+  "strings": {
+    "HomeSceneTutorialController_AskCookingTutorialStart_Message": [
+      "Möchtest du mit dem Koch-Tutorial\nloslegen?"
+    ],
+    "HomeSceneTutorialController_AskCookingTutorialStart_OK": [
+      "Start"
+    ],
+    "HomeSceneTutorialController_AskCookingTutorialStart_Title": [
+      "Koch-Tutorial"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": [
+      "Für den Abschluss des Koch-Tutorials\nhast du dir eine Belohnung verdient!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": [
+      "Koch-Tutorial abgeschlossen"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": [
+      "Der Professor hat dir Kochzutaten\ngegeben!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": [
+      "Kochzutaten"
+    ],
+    "HomeSceneTutorialController_FooterMessage_FieldChange": [
+      "Forschung abgeschlossen!"
+    ],
+    "HomeSceneTutorialController_Text_29": [
+      "Tutorial-Abschluss-Bonus"
+    ],
+    "HomeSceneTutorialController_Text_30": [
+      "Du erhältst:\nDiamanten ×\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "HomeSceneTutorialController_Text_31": [
+      "Funktion noch nicht verfügbar"
+    ],
+    "HomeSceneTutorialController_Text_32": [
+      "Versuche auf Pikachu, oder die Beeren\nzu tippen!"
+    ],
+    "HomeSceneTutorialController_Text_7": [
+      "Tippe auf Pikachu und gib Relaxo\neinige Beeren!"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 13,
+        "size": 95,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 7,
+        "size": 790,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message"
+            ],
+            [
+              12,
+              "HomeSceneTutorialController_Text_32"
+            ]
+          ],
+          171
+        ],
+        [
+          [
+            [
+              5,
+              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title"
+            ]
+          ],
+          244
+        ],
+        [
+          [
+            [
+              0,
+              "HomeSceneTutorialController_AskCookingTutorialStart_Title"
+            ],
+            [
+              4,
+              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message"
+            ],
+            [
+              8,
+              "HomeSceneTutorialController_Text_7"
+            ]
+          ],
+          418
+        ],
+        [
+          [],
+          418
+        ],
+        [
+          [],
+          418
+        ],
+        [
+          [
+            [
+              1,
+              "HomeSceneTutorialController_AskCookingTutorialStart_Message"
+            ],
+            [
+              3,
+              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title"
+            ],
+            [
+              10,
+              "HomeSceneTutorialController_Text_30"
+            ]
+          ],
+          593
+        ],
+        [
+          [
+            [
+              2,
+              "HomeSceneTutorialController_AskCookingTutorialStart_OK"
+            ],
+            [
+              7,
+              "HomeSceneTutorialController_FooterMessage_FieldChange"
+            ],
+            [
+              9,
+              "HomeSceneTutorialController_Text_29"
+            ],
+            [
+              11,
+              "HomeSceneTutorialController_Text_31"
+            ]
+          ],
+          790
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 13,
+        "size": 966,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

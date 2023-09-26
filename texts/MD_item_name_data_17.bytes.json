@@ -1,0 +1,1033 @@
+{
+  "strings": {
+    "item_desc_1": [
+      "Doubles the research EXP gained\nafter sleep research. Good for one\nsleep session, then consumed."
+    ],
+    "item_desc_10": [
+      "A nice treat that will make a Pokémon\nquite a bit more friendly toward you.\nThis biscuit gives three friendship\npoints."
+    ],
+    "item_desc_11": [
+      "A special treat that will make a\nPokémon as friendly as can be. This\nbiscuit maxes out friendship points."
+    ],
+    "item_desc_12": [
+      "A small but very special candy that\ncan be turned into a candy for any\nspecies of Pokémon."
+    ],
+    "item_desc_13": [
+      "A very special candy that can be\nturned into a candy for any species\nof Pokémon."
+    ],
+    "item_desc_14": [
+      "A large and very special candy that\ncan be turned into a candy for any\nspecies of Pokémon."
+    ],
+    "item_desc_15": [
+      "A great ticket you can exchange for\n\u000e\u0002\u0002\u0002",
+      " cooking ingredients."
+    ],
+    "item_desc_16": [
+      "A superb ticket you can exchange for\n\u000e\u0002\u0002\u0002",
+      " cooking ingredients."
+    ],
+    "item_desc_17": [
+      "A gourmet ticket you can exchange\nfor \u000e\u0002\u0002\u0002",
+      " cooking ingredients."
+    ],
+    "item_desc_18": [
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "촁 Dream \u000e\u0001",
+      "\u001c\nShard\fShards촀."
+    ],
+    "item_desc_19": [
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "촁 Dream Shards."
+    ],
+    "item_desc_2": [
+      "Doubles the Dream Shards received\nafter sleep research. Good for one\nsleep session, then consumed."
+    ],
+    "item_desc_20": [
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "촁 Dream Shards."
+    ],
+    "item_desc_21": [
+      "A string exuding a mysterious energy\nthat makes you feel a strange sense\nof connection."
+    ],
+    "item_desc_22": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a fiery orange heart."
+    ],
+    "item_desc_23": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is the clear blue of a deep pool."
+    ],
+    "item_desc_24": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a distinct thunderbolt pattern."
+    ],
+    "item_desc_25": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has an unmistakable leaf pattern."
+    ],
+    "item_desc_26": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a snowflake pattern in it."
+    ],
+    "item_desc_27": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is dark like the night sky."
+    ],
+    "item_desc_28": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt shines with a dazzling light."
+    ],
+    "item_desc_29": [
+      "A metallic coating that can make\ncertain species of Pokémon evolve.\nIt is made of a special metal."
+    ],
+    "item_desc_3": [
+      "Doubles the EXP that helpers gain\nafter sleep research. Good for one\nsleep session, then consumed."
+    ],
+    "item_desc_30": [
+      "A peculiar stone that can make a\ncertain species of Pokémon evolve.\nIt is round and smooth."
+    ],
+    "item_desc_31": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is shaped like a crown."
+    ],
+    "item_desc_32": [
+      "A mysterious seed that can raise the\nlevel of a Pokémon’s main skill by one."
+    ],
+    "item_desc_33": [
+      "A mysterious seed that can improve\nthe quality of a Pokémon’s random\nsub skill by one."
+    ],
+    "item_desc_34": [
+      "Ensures that at least one Pokémon\nwill appear during snack time feeling\nparticularly hungry. Good for one\nsleep session, then consumed."
+    ],
+    "item_desc_4": [
+      "Doubles the Energy that helpers\nrecover after sleep research. Good\nfor one sleep session, then consumed."
+    ],
+    "item_desc_5": [
+      "A specially made pillow that restores\n50 Energy to a single helper Pokémon."
+    ],
+    "item_desc_6": [
+      "An especially energizing whistle.\nOne blow, and your team of helpers\nwill gather three hours’ worth of\nBerries and ingredients for you.\nThis will not cause main skills\nto trigger."
+    ],
+    "item_desc_7": [
+      "A special ticket that lets you move\nto another site at any time.\n(You can only move to areas you have\nalready unlocked.)"
+    ],
+    "item_desc_8": [
+      "Lets you borrow a Good Camp Set\nfor seven days to aid your research\nand help you raise Snorlax."
+    ],
+    "item_desc_9": [
+      "A treat that will make a Pokémon a\nlittle more friendly toward you. This\nbiscuit gives one friendship point."
+    ],
+    "item_desc_short_1": [
+      "Doubles the research EXP gained\nafter sleep research."
+    ],
+    "item_desc_short_10": [
+      "A nice treat that will make a\nPokémon quite a bit more friendly.\nGives 3 friendship points."
+    ],
+    "item_desc_short_11": [
+      "A special treat that will make a\nPokémon as friendly as can be.\nMaxes out friendship points."
+    ],
+    "item_desc_short_12": [
+      "A small but very special candy that\ncan be turned into a candy for any\nspecies of Pokémon."
+    ],
+    "item_desc_short_13": [
+      "A very special candy that can be\nturned into a candy for any species\nof Pokémon."
+    ],
+    "item_desc_short_14": [
+      "A large and very special candy that\ncan be turned into a candy for any\nspecies of Pokémon."
+    ],
+    "item_desc_short_15": [
+      "A great ticket you can exchange for\n\u000e\u0002\u0002\u0002",
+      " cooking ingredients."
+    ],
+    "item_desc_short_16": [
+      "A superb ticket you can exchange\nfor \u000e\u0002\u0002\u0002",
+      " cooking ingredients."
+    ],
+    "item_desc_short_17": [
+      "A gourmet ticket you can exchange\nfor \u000e\u0002\u0002\u0002",
+      " cooking ingredients."
+    ],
+    "item_desc_short_18": [
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "촁 Dream \u000e\u0001",
+      "\u001c\nShard\fShards촀."
+    ],
+    "item_desc_short_19": [
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "촁 Dream Shards."
+    ],
+    "item_desc_short_2": [
+      "Doubles the Dream Shards received\nafter sleep research."
+    ],
+    "item_desc_short_20": [
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0004\u0004",
+      "촁 Dream Shards."
+    ],
+    "item_desc_short_21": [
+      "A string exuding a mysterious\nenergy that makes you feel a\nstrange sense of connection."
+    ],
+    "item_desc_short_22": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a fiery orange heart."
+    ],
+    "item_desc_short_23": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is the clear blue of a deep pool."
+    ],
+    "item_desc_short_24": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a thunderbolt pattern in it."
+    ],
+    "item_desc_short_25": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a leaf pattern in it."
+    ],
+    "item_desc_short_26": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a snowflake pattern in it."
+    ],
+    "item_desc_short_27": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is dark like the night sky."
+    ],
+    "item_desc_short_28": [
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt shines with a dazzling light."
+    ],
+    "item_desc_short_29": [
+      "A metallic coating that can make\ncertain species of Pokémon evolve.\nIt is made of a special metal."
+    ],
+    "item_desc_short_3": [
+      "Doubles the EXP that helpers gain\nafter sleep research."
+    ],
+    "item_desc_short_30": [
+      "A peculiar stone that can make a\ncertain species of Pokémon evolve.\nIt is round and smooth."
+    ],
+    "item_desc_short_31": [
+      "A peculiar stone that can make \ncertain species of Pokémon evolve.\nIt is shaped like a crown."
+    ],
+    "item_desc_short_32": [
+      "A mysterious seed that can raise\nthe level of a Pokémon’s main skill\nby one."
+    ],
+    "item_desc_short_33": [
+      "A mysterious seed that can improve\nthe quality of a Pokémon’s random\nsub skill by one."
+    ],
+    "item_desc_short_34": [
+      "Ensures that at least one Pokémon\nwill appear during snack time\nfeeling particularly hungry."
+    ],
+    "item_desc_short_4": [
+      "Doubles the Energy that helpers\nrecover after sleep research."
+    ],
+    "item_desc_short_5": [
+      "A specially made pillow that\nrestores 50 Energy to a single\nhelper Pokémon."
+    ],
+    "item_desc_short_6": [
+      "An especially energizing whistle.\nOne blow, and you’ll get 3 hours’\nworth of Berries and ingredients."
+    ],
+    "item_desc_short_7": [
+      "A special ticket that lets you move\nto another site at any time."
+    ],
+    "item_desc_short_8": [
+      "Lets you borrow a Good Camp Set\nfor seven days to aid your research\nand help you raise Snorlax."
+    ],
+    "item_desc_short_9": [
+      "A treat that will make a Pokémon\na little more friendly toward you.\nGives 1 friendship point."
+    ],
+    "item_name_1": [
+      "Focus Incense"
+    ],
+    "item_name_10": [
+      "Great Biscuit"
+    ],
+    "item_name_11": [
+      "Master Biscuit"
+    ],
+    "item_name_12": [
+      "Handy Candy S"
+    ],
+    "item_name_13": [
+      "Handy Candy M"
+    ],
+    "item_name_14": [
+      "Handy Candy L"
+    ],
+    "item_name_15": [
+      "Ingredient Ticket S"
+    ],
+    "item_name_16": [
+      "Ingredient Ticket M"
+    ],
+    "item_name_17": [
+      "Ingredient Ticket L"
+    ],
+    "item_name_18": [
+      "Dream Cluster S"
+    ],
+    "item_name_19": [
+      "Dream Cluster M"
+    ],
+    "item_name_2": [
+      "Luck Incense"
+    ],
+    "item_name_20": [
+      "Dream Cluster L"
+    ],
+    "item_name_21": [
+      "Linking Cord"
+    ],
+    "item_name_22": [
+      "Fire Stone"
+    ],
+    "item_name_23": [
+      "Water Stone"
+    ],
+    "item_name_24": [
+      "Thunder Stone"
+    ],
+    "item_name_25": [
+      "Leaf Stone"
+    ],
+    "item_name_26": [
+      "Ice Stone"
+    ],
+    "item_name_27": [
+      "Moon Stone"
+    ],
+    "item_name_28": [
+      "Shiny Stone"
+    ],
+    "item_name_29": [
+      "Metal Coat"
+    ],
+    "item_name_3": [
+      "Growth Incense"
+    ],
+    "item_name_30": [
+      "Oval Stone"
+    ],
+    "item_name_31": [
+      "King’s Rock"
+    ],
+    "item_name_32": [
+      "Main Skill Seed"
+    ],
+    "item_name_33": [
+      "Sub Skill Seed"
+    ],
+    "item_name_34": [
+      "Friend Incense"
+    ],
+    "item_name_4": [
+      "Recovery Incense"
+    ],
+    "item_name_5": [
+      "Energy Pillow"
+    ],
+    "item_name_6": [
+      "Helper Whistle"
+    ],
+    "item_name_7": [
+      "E-Zzz Travel Ticket"
+    ],
+    "item_name_8": [
+      "Good Camp Ticket"
+    ],
+    "item_name_9": [
+      "Poké Biscuit"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 102,
+        "size": 718,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 53,
+        "size": 2335,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              28,
+              "item_name_29"
+            ],
+            [
+              62,
+              "item_desc_29"
+            ],
+            [
+              85,
+              "item_desc_short_18"
+            ],
+            [
+              91,
+              "item_desc_short_24"
+            ],
+            [
+              97,
+              "item_desc_short_30"
+            ]
+          ],
+          527
+        ],
+        [
+          [
+            [
+              86,
+              "item_desc_short_19"
+            ],
+            [
+              92,
+              "item_desc_short_25"
+            ],
+            [
+              98,
+              "item_desc_short_31"
+            ]
+          ],
+          596
+        ],
+        [
+          [
+            [
+              93,
+              "item_desc_short_26"
+            ],
+            [
+              99,
+              "item_desc_short_32"
+            ]
+          ],
+          642
+        ],
+        [
+          [
+            [
+              94,
+              "item_desc_short_27"
+            ],
+            [
+              100,
+              "item_desc_short_33"
+            ]
+          ],
+          688
+        ],
+        [
+          [
+            [
+              0,
+              "item_name_1"
+            ],
+            [
+              95,
+              "item_desc_short_28"
+            ],
+            [
+              101,
+              "item_desc_short_34"
+            ]
+          ],
+          750
+        ],
+        [
+          [
+            [
+              1,
+              "item_name_2"
+            ],
+            [
+              96,
+              "item_desc_short_29"
+            ]
+          ],
+          789
+        ],
+        [
+          [
+            [
+              2,
+              "item_name_3"
+            ]
+          ],
+          805
+        ],
+        [
+          [
+            [
+              3,
+              "item_name_4"
+            ]
+          ],
+          821
+        ],
+        [
+          [
+            [
+              4,
+              "item_name_5"
+            ]
+          ],
+          837
+        ],
+        [
+          [
+            [
+              5,
+              "item_name_6"
+            ]
+          ],
+          853
+        ],
+        [
+          [
+            [
+              6,
+              "item_name_7"
+            ]
+          ],
+          869
+        ],
+        [
+          [
+            [
+              7,
+              "item_name_8"
+            ],
+            [
+              68,
+              "item_desc_short_1"
+            ]
+          ],
+          907
+        ],
+        [
+          [
+            [
+              8,
+              "item_name_9"
+            ],
+            [
+              69,
+              "item_desc_short_2"
+            ]
+          ],
+          945
+        ],
+        [
+          [
+            [
+              70,
+              "item_desc_short_3"
+            ]
+          ],
+          967
+        ],
+        [
+          [
+            [
+              71,
+              "item_desc_short_4"
+            ]
+          ],
+          989
+        ],
+        [
+          [
+            [
+              72,
+              "item_desc_short_5"
+            ]
+          ],
+          1011
+        ],
+        [
+          [
+            [
+              73,
+              "item_desc_short_6"
+            ]
+          ],
+          1033
+        ],
+        [
+          [
+            [
+              74,
+              "item_desc_short_7"
+            ]
+          ],
+          1055
+        ],
+        [
+          [
+            [
+              75,
+              "item_desc_short_8"
+            ]
+          ],
+          1077
+        ],
+        [
+          [
+            [
+              76,
+              "item_desc_short_9"
+            ]
+          ],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [
+            [
+              34,
+              "item_desc_1"
+            ]
+          ],
+          1115
+        ],
+        [
+          [
+            [
+              35,
+              "item_desc_2"
+            ]
+          ],
+          1131
+        ],
+        [
+          [
+            [
+              36,
+              "item_desc_3"
+            ]
+          ],
+          1147
+        ],
+        [
+          [
+            [
+              37,
+              "item_desc_4"
+            ]
+          ],
+          1163
+        ],
+        [
+          [
+            [
+              38,
+              "item_desc_5"
+            ]
+          ],
+          1179
+        ],
+        [
+          [
+            [
+              39,
+              "item_desc_6"
+            ]
+          ],
+          1195
+        ],
+        [
+          [
+            [
+              40,
+              "item_desc_7"
+            ]
+          ],
+          1211
+        ],
+        [
+          [
+            [
+              41,
+              "item_desc_8"
+            ]
+          ],
+          1227
+        ],
+        [
+          [
+            [
+              42,
+              "item_desc_9"
+            ]
+          ],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [
+            [
+              9,
+              "item_name_10"
+            ],
+            [
+              43,
+              "item_desc_10"
+            ]
+          ],
+          1277
+        ],
+        [
+          [
+            [
+              10,
+              "item_name_11"
+            ],
+            [
+              44,
+              "item_desc_11"
+            ]
+          ],
+          1311
+        ],
+        [
+          [
+            [
+              11,
+              "item_name_12"
+            ],
+            [
+              45,
+              "item_desc_12"
+            ]
+          ],
+          1345
+        ],
+        [
+          [
+            [
+              12,
+              "item_name_13"
+            ],
+            [
+              46,
+              "item_desc_13"
+            ]
+          ],
+          1379
+        ],
+        [
+          [
+            [
+              13,
+              "item_name_14"
+            ],
+            [
+              19,
+              "item_name_20"
+            ],
+            [
+              47,
+              "item_desc_14"
+            ],
+            [
+              53,
+              "item_desc_20"
+            ]
+          ],
+          1447
+        ],
+        [
+          [
+            [
+              14,
+              "item_name_15"
+            ],
+            [
+              20,
+              "item_name_21"
+            ],
+            [
+              48,
+              "item_desc_15"
+            ],
+            [
+              54,
+              "item_desc_21"
+            ],
+            [
+              77,
+              "item_desc_short_10"
+            ]
+          ],
+          1538
+        ],
+        [
+          [
+            [
+              15,
+              "item_name_16"
+            ],
+            [
+              21,
+              "item_name_22"
+            ],
+            [
+              49,
+              "item_desc_16"
+            ],
+            [
+              55,
+              "item_desc_22"
+            ],
+            [
+              78,
+              "item_desc_short_11"
+            ]
+          ],
+          1629
+        ],
+        [
+          [
+            [
+              16,
+              "item_name_17"
+            ],
+            [
+              22,
+              "item_name_23"
+            ],
+            [
+              50,
+              "item_desc_17"
+            ],
+            [
+              56,
+              "item_desc_23"
+            ],
+            [
+              79,
+              "item_desc_short_12"
+            ]
+          ],
+          1720
+        ],
+        [
+          [
+            [
+              17,
+              "item_name_18"
+            ],
+            [
+              23,
+              "item_name_24"
+            ],
+            [
+              29,
+              "item_name_30"
+            ],
+            [
+              51,
+              "item_desc_18"
+            ],
+            [
+              57,
+              "item_desc_24"
+            ],
+            [
+              63,
+              "item_desc_30"
+            ],
+            [
+              80,
+              "item_desc_short_13"
+            ]
+          ],
+          1845
+        ],
+        [
+          [
+            [
+              18,
+              "item_name_19"
+            ],
+            [
+              24,
+              "item_name_25"
+            ],
+            [
+              30,
+              "item_name_31"
+            ],
+            [
+              52,
+              "item_desc_19"
+            ],
+            [
+              58,
+              "item_desc_25"
+            ],
+            [
+              64,
+              "item_desc_31"
+            ],
+            [
+              81,
+              "item_desc_short_14"
+            ],
+            [
+              87,
+              "item_desc_short_20"
+            ]
+          ],
+          1993
+        ],
+        [
+          [
+            [
+              25,
+              "item_name_26"
+            ],
+            [
+              31,
+              "item_name_32"
+            ],
+            [
+              59,
+              "item_desc_26"
+            ],
+            [
+              65,
+              "item_desc_32"
+            ],
+            [
+              82,
+              "item_desc_short_15"
+            ],
+            [
+              88,
+              "item_desc_short_21"
+            ]
+          ],
+          2107
+        ],
+        [
+          [
+            [
+              26,
+              "item_name_27"
+            ],
+            [
+              32,
+              "item_name_33"
+            ],
+            [
+              60,
+              "item_desc_27"
+            ],
+            [
+              66,
+              "item_desc_33"
+            ],
+            [
+              83,
+              "item_desc_short_16"
+            ],
+            [
+              89,
+              "item_desc_short_22"
+            ]
+          ],
+          2221
+        ],
+        [
+          [
+            [
+              27,
+              "item_name_28"
+            ],
+            [
+              33,
+              "item_name_34"
+            ],
+            [
+              61,
+              "item_desc_28"
+            ],
+            [
+              67,
+              "item_desc_34"
+            ],
+            [
+              84,
+              "item_desc_short_17"
+            ],
+            [
+              90,
+              "item_desc_short_23"
+            ]
+          ],
+          2335
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 102,
+        "size": 13836,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "strings": {
+    "SleepDataListScene_Content_Desc": [
+      "지금까지의 수면 데이터와 리서치 내용을 확인할 수 있습니다"
+    ],
+    "SleepDataListScene_Content_LimitButton": [
+      "30일간 (제한)"
+    ],
+    "SleepDataListScene_Content_Title": [
+      "수면 데이터 리스트"
+    ],
+    "SleepDataListScene_Header_CalendarButton": [
+      "캘린더"
+    ],
+    "SleepDataListScene_Header_ListButton": [
+      "リスト"
+    ],
+    "SleepDataListScene_Header_Title": [
+      "수면 데이터"
+    ],
+    "SleepDataListScene_NoDataDesc": [
+      "아직 수면 데이터가 없습니다"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 7,
+        "size": 53,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 312,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "SleepDataListScene_Content_Title"
+            ]
+          ],
+          77
+        ],
+        [
+          [],
+          77
+        ],
+        [
+          [
+            [
+              4,
+              "SleepDataListScene_Header_CalendarButton"
+            ]
+          ],
+          122
+        ],
+        [
+          [
+            [
+              1,
+              "SleepDataListScene_Content_Desc"
+            ],
+            [
+              5,
+              "SleepDataListScene_Header_ListButton"
+            ],
+            [
+              6,
+              "SleepDataListScene_NoDataDesc"
+            ]
+          ],
+          233
+        ],
+        [
+          [
+            [
+              2,
+              "SleepDataListScene_Content_LimitButton"
+            ],
+            [
+              3,
+              "SleepDataListScene_Header_Title"
+            ]
+          ],
+          312
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 7,
+        "size": 198,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

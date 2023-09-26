@@ -1,0 +1,282 @@
+{
+  "strings": {
+    "CollectionItemCell_Name_Locked": [
+      "???"
+    ],
+    "CollectionItemDetailPopup_CookingCount_Title": [
+      "요리한 횟수"
+    ],
+    "CollectionItemDetailPopup_GetCount_Title": [
+      "획득 수"
+    ],
+    "CollectionItemDetailPopup_GetCount_Value": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "CollectionItemDetailPopup_SectionHeader_Title": [
+      "설명"
+    ],
+    "CollectionItemDetailPopup_Title": [
+      "상세"
+    ],
+    "CollectionItemListScene_Content_SectionHeader_Title": [
+      "표시순 - \u000e\u0003\u0006\u0002",
+      ""
+    ],
+    "CollectionScene_Content_Button_Berry": [
+      "나무열매"
+    ],
+    "CollectionScene_Content_Button_Dish": [
+      "요리"
+    ],
+    "CollectionScene_Content_Button_Ingredient": [
+      "식재료"
+    ],
+    "CollectionScene_Content_Button_Per": [
+      "\u000e\u0002\u0002\u0002",
+      "/\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "CollectionScene_Content_Button_SleepTips": [
+      "수면 Tips"
+    ],
+    "CollectionScene_Content_CompletePer_All": [
+      "ALL: \u000e\u0002\u0002\u0002",
+      "%"
+    ],
+    "CollectionScene_Content_Desc": [
+      "다양한 수집 항목을 열람할 수 있습니다"
+    ],
+    "CollectionScene_Content_Title": [
+      "리서치 노트"
+    ],
+    "CollectionScene_Header_Title": [
+      "리서치 노트"
+    ],
+    "CollectionSleepTipsCell_LabelBg_Number": [
+      "No.\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "CollectionSleepTipsCell_LockedView_Title": [
+      "???"
+    ],
+    "CollectionSleepTipsDetailPopup_Popup_Title_Number": [
+      "수면 Tips \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "Collection_RegisterPopup_Dish_Desc": [
+      "\u000e\u0003\u0003\u0004Ā촀\u000e\b",
+      "\u0002촃\n리서치 노트에 등록되었습니다!"
+    ],
+    "Collection_RegisterPopup_Pickup_Desc": [
+      "\u000e\u0003\u0003\u0004Ā촀\u000e\b",
+      "\u0002촃\n리서치 노트에 등록되었습니다!"
+    ],
+    "Collection_RegisterPopup_Reward_Desc": [
+      "리서치 노트 등록 보너스로\n\u000e\u0003\u0003\u0004Ā촀 \u000e\u0002\u0003\u0004\u0002촁개를 획득했습니다"
+    ],
+    "Collection_RegisterPopup_Title": [
+      "리서치 노트 등록"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 23,
+        "size": 165,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 1073,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "CollectionScene_Content_Title"
+            ],
+            [
+              2,
+              "CollectionScene_Content_Desc"
+            ],
+            [
+              7,
+              "CollectionScene_Content_Button_Dish"
+            ],
+            [
+              20,
+              "Collection_RegisterPopup_Pickup_Desc"
+            ]
+          ],
+          252
+        ],
+        [
+          [
+            [
+              6,
+              "CollectionScene_Content_Button_Ingredient"
+            ],
+            [
+              10,
+              "CollectionItemCell_Name_Locked"
+            ],
+            [
+              14,
+              "CollectionItemDetailPopup_SectionHeader_Title"
+            ],
+            [
+              19,
+              "Collection_RegisterPopup_Dish_Desc"
+            ],
+            [
+              21,
+              "Collection_RegisterPopup_Reward_Desc"
+            ]
+          ],
+          463
+        ],
+        [
+          [
+            [
+              13,
+              "CollectionItemDetailPopup_GetCount_Value"
+            ]
+          ],
+          508
+        ],
+        [
+          [
+            [
+              5,
+              "CollectionScene_Content_Button_Per"
+            ],
+            [
+              11,
+              "CollectionItemDetailPopup_Title"
+            ]
+          ],
+          583
+        ],
+        [
+          [
+            [
+              18,
+              "Collection_RegisterPopup_Title"
+            ]
+          ],
+          618
+        ],
+        [
+          [
+            [
+              3,
+              "CollectionScene_Content_CompletePer_All"
+            ]
+          ],
+          662
+        ],
+        [
+          [
+            [
+              9,
+              "CollectionItemListScene_Content_SectionHeader_Title"
+            ],
+            [
+              12,
+              "CollectionItemDetailPopup_GetCount_Title"
+            ],
+            [
+              15,
+              "CollectionSleepTipsCell_LabelBg_Number"
+            ]
+          ],
+          806
+        ],
+        [
+          [],
+          806
+        ],
+        [
+          [],
+          806
+        ],
+        [
+          [
+            [
+              8,
+              "CollectionScene_Content_Button_SleepTips"
+            ],
+            [
+              17,
+              "CollectionSleepTipsDetailPopup_Popup_Title_Number"
+            ],
+            [
+              22,
+              "CollectionItemDetailPopup_CookingCount_Title"
+            ]
+          ],
+          954
+        ],
+        [
+          [
+            [
+              4,
+              "CollectionScene_Content_Button_Berry"
+            ]
+          ],
+          995
+        ],
+        [
+          [],
+          995
+        ],
+        [
+          [
+            [
+              0,
+              "CollectionScene_Header_Title"
+            ],
+            [
+              16,
+              "CollectionSleepTipsCell_LockedView_Title"
+            ]
+          ],
+          1073
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 23,
+        "size": 600,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

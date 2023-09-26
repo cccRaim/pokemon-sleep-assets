@@ -1,0 +1,143 @@
+{
+  "strings": {
+    "SleepRegularityListScene_NoDataDesc": [
+      "You don’t have any sleep consistency data yet."
+    ],
+    "SleepRegularityList_ContentDesc": [
+      "See how consistent your sleep has been from\nweek to week."
+    ],
+    "SleepRegularityList_ContentTitle": [
+      "Sleep Consistency"
+    ],
+    "SleepRegularityList_HeadTile": [
+      "Sleep Consistency"
+    ],
+    "SleepRegularityList_ItemMidTimeSleep": [
+      "Sleep Midpoint"
+    ],
+    "SleepRegularityList_ItemPeriod": [
+      "\u000e\t",
+      "\u0010\fMMMddd",
+      " to \u000e\t",
+      "\u0010\fMMMddd\u0001"
+    ],
+    "SleepRegularityList_ItemSleepTime": [
+      "Sleep Duration"
+    ],
+    "SleepRegularityList_LimitLabel": [
+      "4 Weeks (max)"
+    ],
+    "SleepRegularityList_SectionHeader": [
+      "\u000e\t",
+      "\u0014\u0010yyyyyMMM",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 9,
+        "size": 67,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 373,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              4,
+              "SleepRegularityList_SectionHeader"
+            ],
+            [
+              5,
+              "SleepRegularityList_ItemPeriod"
+            ]
+          ],
+          113
+        ],
+        [
+          [],
+          113
+        ],
+        [
+          [
+            [
+              2,
+              "SleepRegularityList_LimitLabel"
+            ]
+          ],
+          148
+        ],
+        [
+          [
+            [
+              0,
+              "SleepRegularityList_HeadTile"
+            ],
+            [
+              3,
+              "SleepRegularityList_ContentDesc"
+            ],
+            [
+              7,
+              "SleepRegularityList_ItemMidTimeSleep"
+            ],
+            [
+              8,
+              "SleepRegularityListScene_NoDataDesc"
+            ]
+          ],
+          298
+        ],
+        [
+          [
+            [
+              1,
+              "SleepRegularityList_ContentTitle"
+            ],
+            [
+              6,
+              "SleepRegularityList_ItemSleepTime"
+            ]
+          ],
+          373
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 9,
+        "size": 494,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

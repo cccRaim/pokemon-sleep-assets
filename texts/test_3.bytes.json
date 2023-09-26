@@ -1,0 +1,74 @@
+{
+  "strings": {
+    "NewText": [
+      "Pikachu"
+    ],
+    "NewText_00": [
+      "ピチュー"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 2,
+        "size": 18,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 2,
+        "size": 43,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "NewText"
+            ],
+            [
+              1,
+              "NewText_00"
+            ]
+          ],
+          43
+        ],
+        [
+          [],
+          43
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 2,
+        "size": 34,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

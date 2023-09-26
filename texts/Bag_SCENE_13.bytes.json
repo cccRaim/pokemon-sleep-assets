@@ -1,0 +1,1129 @@
+{
+  "strings": {
+    "BagSceneConsumableItemDetailPopup_Header_Title": [
+      "Informations sur l'objet"
+    ],
+    "BagSceneConsumableItemDetailPopup_Icon_OwnNum": [
+      "× \u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneConsumableItemDetailPopup_SectionHeader_Title": [
+      "Description"
+    ],
+    "BagSceneConsumableItemDetailPopup_UseButton": [
+      "Utiliser"
+    ],
+    "BagSceneConsumableItemRemovePopup_ConfirmPopup_Desc": [
+      "Souhaitez-vous jeter l'objet suivant ?\n\u000e\u0003\u0003\u0004Ā촀\nQuantité : × \u000e\u0002\u0003\u0004\u0002촁"
+    ],
+    "BagSceneConsumableItemRemovePopup_ConfirmPopup_OK": [
+      "Jeter"
+    ],
+    "BagSceneConsumableItemRemovePopup_ConfirmPopup_Title": [
+      "Dernière confirmation"
+    ],
+    "BagSceneConsumableItemRemovePopup_Header_Title": [
+      "Jeter des objets"
+    ],
+    "BagSceneConsumableItemRemovePopup_HeadlineTitle": [
+      "Jeter"
+    ],
+    "BagSceneConsumableItemRemovePopup_OKButton": [
+      "Jeter"
+    ],
+    "BagSceneConsumableItemRemovePopup_RemoveUnit_RemoveCount_Title": [
+      "À jeter"
+    ],
+    "BagSceneConsumableItemRemovePopup_RemoveUnit_RemoveCount_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneConsumableItemRemovePopup_Text_1": [
+      "Suppression"
+    ],
+    "BagSceneConsumableItemRemovePopup_Text_2": [
+      "Suppression de \u000e\u0002\u0003\u0004",
+      "촁 objet\u000e\u0004",
+      "\b",
+      "\u0002s촀."
+    ],
+    "BagSceneConsumableItemUsePopup_Header_Title": [
+      "Nombre d'utilisations"
+    ],
+    "BagSceneConsumableItemUsePopup_Icon_OwnNum": [
+      "× \u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneConsumableItemUsePopup_UseButton": [
+      "Utiliser"
+    ],
+    "BagSceneConsumableItemUsePopup_UseUnit_OwnCount_Title": [
+      "Possédé"
+    ],
+    "BagSceneConsumableItemUsePopup_UseUnit_OwnCount_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": [
+      "Énergie"
+    ],
+    "BagSceneConsumableItemUsePopup_UseUnit_UseCount_Title": [
+      "Utilisations"
+    ],
+    "BagSceneConsumableItemUsePopup_UseUnit_UseCount_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneConsumableItemView_Text_10": [
+      "Objet obtenu : \u000e\u0003\u0003\u0004Ā촀\nQuantité : × \u000e\u0002\u0003\u0004\u0002촁"
+    ],
+    "BagSceneConsumableItemView_Text_12": [
+      "\u000e\u0003\u0001\u0002촀 a récupéré de l'énergie !"
+    ],
+    "BagSceneConsumableItemView_Text_16": [
+      "Le niveau de la Compétence Principale\nde \u000e\u0003\u0001\u0002촀 augmente !"
+    ],
+    "BagSceneConsumableItemView_Text_2": [
+      "obtenu !"
+    ],
+    "BagSceneConsumableItemView_Text_22": [
+      "La qualité de la Compétence\nSecondaire augmente !"
+    ],
+    "BagSceneConsumableItemView_Text_24": [
+      "La qualité des Compétences\nSecondaires de \u000e\u0003\u0001\u0002촀 est déjà\nau maximum !"
+    ],
+    "BagSceneConsumableItemView_Text_25": [
+      "Vous avez reçu l'aide de votre équipe\npendant \u000e\u0002\u0001\u0002",
+      " heure\u000e\u0004",
+      "\b",
+      "\u0002s촀."
+    ],
+    "BagSceneConsumableItemView_Text_26": [
+      "Vous ne pouvez pas vous servir du\nSifflet de Soutien à nouveau car la\nboîte contient encore des Baies et/ou\ndes ingrédients.\nTouchez la boîte à l'écran d'accueil\npour récupérer ce qui reste."
+    ],
+    "BagSceneConsumableItemView_Text_4": [
+      "L'effet de l'objet \u000e\u0003\u0003\u0004Ā촀 est toujours actif."
+    ],
+    "BagSceneConsumableItemView_Text_6": [
+      "L'effet de votre objet \u000e\u0003\u0003\u0004Ā촀 est actif !"
+    ],
+    "BagSceneConsumableItem_Text_1": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_10": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_11": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_12": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_13": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_14": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_15": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_16": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_17": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_18": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_19": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_2": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_20": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_21": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_22": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_23": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_24": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_25": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_26": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_27": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_28": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_29": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_3": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_30": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_31": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_32": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_33": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_4": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_5": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_6": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_7": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_8": [
+      ""
+    ],
+    "BagSceneConsumableItem_Text_9": [
+      ""
+    ],
+    "BagSceneController_Text_1": [
+      "Agrandissement impossible"
+    ],
+    "BagSceneController_Text_2": [
+      "Vous ne pouvez pas agrandir votre Sac\ndavantage."
+    ],
+    "BagSceneController_Text_4": [
+      "Augmenter de \u000e\u0002\u0002\u0002\u0001 la capacité\nde votre Sac pour \u000e\u0002\u0002\u0002",
+      " Diamant\u000e\u0004",
+      "\b",
+      "\u0002s촀 ?"
+    ],
+    "BagSceneController_Text_5": [
+      "Diamants insuffisants"
+    ],
+    "BagSceneController_Text_6": [
+      "Vous n'avez pas assez de Diamants\npour agrandir votre Sac."
+    ],
+    "BagSceneController_Text_7": [
+      "Agrandissement de votre Sac"
+    ],
+    "BagSceneController_Text_8": [
+      "Votre Sac peut maintenant contenir\n\u000e\u0002\u0002\u0002",
+      " objet\u000e\u0004",
+      "\b",
+      "\u0002s촀 en plus !"
+    ],
+    "BagSceneCookingFoodCell_Num": [
+      "× \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "BagSceneCookingFoodSellPopup_Coin_Title": [
+      "Fragments de Rêve"
+    ],
+    "BagSceneCookingFoodSellPopup_Coin_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneCookingFoodSellPopup_HeadlineTitle": [
+      "Sélectionner la quantité à vendre"
+    ],
+    "BagSceneCookingFoodSellPopup_Icon_ItemNum": [
+      "× \u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneCookingFoodSellPopup_OKButton": [
+      "Vendre"
+    ],
+    "BagSceneCookingFoodSellPopup_OwnCount_Title": [
+      "Possédé"
+    ],
+    "BagSceneCookingFoodSellPopup_OwnCount_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneCookingFoodSellPopup_SellCount_Title": [
+      "À vendre"
+    ],
+    "BagSceneCookingFoodSellPopup_SellCount_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneCookingFoodSellPopup_Title": [
+      "Vendre des ingrédients"
+    ],
+    "BagSceneCookingFoodSellResultPopup_Desc": [
+      "Vente terminée !\nVous recevez des Fragments de Rêve."
+    ],
+    "BagSceneCookingFoodSellResultPopup_Header_Title": [
+      "Ingrédients vendus"
+    ],
+    "BagSceneCookingFoodSellResultPopup_ResultNum": [
+      "× \u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "BagSceneRareCandyUsePopup_Text_1": [
+      "Utilisation"
+    ],
+    "BagSceneRareCandyUsePopup_Text_2": [
+      "Conversion de :\n\u000e\u0003\u0003\u0004Ā촀 × \u000e\u0002\u0003\u0004\u0002촁\nen :\n\u000e\u0003\u0003\u0004Ѓ촀 × \u000e\u0002\u0003\u0004\u0005촁\n"
+    ],
+    "BagSceneSortPopup_Header_Title": [
+      "Trier le contenu"
+    ],
+    "BagSceneSortPopup_Headline_Title": [
+      "Choisissez un critère de tri"
+    ],
+    "BagScene_CandyMaxOverPopup_Text": [
+      "La quantité maximale de Bonbons que\nvous pouvez posséder est de 9 999.\nTout surplus sera supprimé.\nSouhaitez-vous continuer ?"
+    ],
+    "BagScene_CandyMaxOverPopup_Title": [
+      "Trop de Bonbons"
+    ],
+    "BagScene_CannotUseItem_PopupTitle": [
+      "Utilisation impossible"
+    ],
+    "BagScene_CannotUseMainSkillItem_PopupMessage": [
+      "Vous ne pouvez pas utiliser cet objet\nsur ce Pokémon, car le niveau de\nsa Compétence Principale est déjà\nau maximum."
+    ],
+    "BagScene_CannotUseRecoverItem_PopupMessage": [
+      "L'énergie de ce Pokémon est au\nmaximum."
+    ],
+    "BagScene_CannotUseSubSkillItem_PopupMessage": [
+      "Vous ne pouvez pas utiliser cet objet\nsur ce Pokémon, car il ne possède pas\nde Compétence Secondaire pouvant\nêtre améliorée."
+    ],
+    "BagScene_Content_Count": [
+      "\u000e\u0002\u0002\u0002",
+      "/\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "BagScene_Content_SectionHeader_Title": [
+      "Trié par : \u000e\u0003\u0006\u0002",
+      ""
+    ],
+    "BagScene_Content_Tab_Desc_Food": [
+      "Voici la liste de vos ingrédients."
+    ],
+    "BagScene_Content_Tab_Desc_Item": [
+      "Utilisez ou gérez vos objets ici."
+    ],
+    "BagScene_Content_Tab_Ttile_Food": [
+      "Ingrédients"
+    ],
+    "BagScene_Content_Tab_Ttile_Item": [
+      "Objets"
+    ],
+    "BagScene_Content_Title_Food": [
+      "Ingrédients"
+    ],
+    "BagScene_Content_Title_Item": [
+      "Objets"
+    ],
+    "BagScene_FoodMaxOverPopup_Text": [
+      "La poche à ingrédients de votre Sac\nest pleine.\nVous devez y faire de la place pour\nutiliser cet objet."
+    ],
+    "BagScene_FoodMaxOverPopup_Title": [
+      "Utilisation impossible"
+    ],
+    "BagScene_Header_ExpandButton_Title": [
+      "Agrandir"
+    ],
+    "BagScene_Header_Title": [
+      "Sac"
+    ],
+    "BagScene_UseItem_PopupTitle": [
+      "Objet utilisé"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 109,
+        "size": 767,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 59,
+        "size": 4866,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "BagScene_Content_SectionHeader_Title"
+            ],
+            [
+              71,
+              "BagSceneCookingFoodSellPopup_OKButton"
+            ]
+          ],
+          555
+        ],
+        [
+          [],
+          555
+        ],
+        [
+          [
+            [
+              35,
+              "BagScene_Content_Tab_Desc_Item"
+            ],
+            [
+              47,
+              "BagScene_CannotUseItem_PopupTitle"
+            ],
+            [
+              52,
+              "BagScene_CannotUseMainSkillItem_PopupMessage"
+            ]
+          ],
+          677
+        ],
+        [
+          [
+            [
+              21,
+              "BagSceneConsumableItemDetailPopup_SectionHeader_Title"
+            ]
+          ],
+          735
+        ],
+        [
+          [
+            [
+              60,
+              "BagScene_FoodMaxOverPopup_Text"
+            ]
+          ],
+          770
+        ],
+        [
+          [
+            [
+              19,
+              "BagSceneConsumableItemDetailPopup_Header_Title"
+            ]
+          ],
+          821
+        ],
+        [
+          [
+            [
+              28,
+              "BagSceneConsumableItemUsePopup_UseButton"
+            ]
+          ],
+          866
+        ],
+        [
+          [
+            [
+              18,
+              "BagSceneCookingFoodSellResultPopup_ResultNum"
+            ]
+          ],
+          915
+        ],
+        [
+          [
+            [
+              1,
+              "BagScene_Content_Title_Food"
+            ]
+          ],
+          947
+        ],
+        [
+          [
+            [
+              14,
+              "BagSceneCookingFoodSellPopup_Coin_Title"
+            ]
+          ],
+          991
+        ],
+        [
+          [
+            [
+              59,
+              "BagScene_FoodMaxOverPopup_Title"
+            ]
+          ],
+          1027
+        ],
+        [
+          [
+            [
+              25,
+              "BagSceneConsumableItemUsePopup_UseUnit_UseCount_Value"
+            ]
+          ],
+          1085
+        ],
+        [
+          [
+            [
+              55,
+              "BagSceneConsumableItemView_Text_22"
+            ],
+            [
+              102,
+              "BagSceneConsumableItem_Text_30"
+            ]
+          ],
+          1159
+        ],
+        [
+          [
+            [
+              103,
+              "BagSceneConsumableItem_Text_31"
+            ]
+          ],
+          1194
+        ],
+        [
+          [
+            [
+              7,
+              "BagScene_Content_Count"
+            ],
+            [
+              56,
+              "BagSceneConsumableItemView_Text_24"
+            ],
+            [
+              104,
+              "BagSceneConsumableItem_Text_32"
+            ]
+          ],
+          1295
+        ],
+        [
+          [
+            [
+              54,
+              "BagScene_CannotUseSubSkillItem_PopupMessage"
+            ],
+            [
+              57,
+              "BagSceneConsumableItemView_Text_25"
+            ],
+            [
+              105,
+              "BagSceneConsumableItem_Text_33"
+            ]
+          ],
+          1417
+        ],
+        [
+          [
+            [
+              22,
+              "BagSceneConsumableItemUsePopup_Header_Title"
+            ],
+            [
+              23,
+              "BagSceneConsumableItemUsePopup_Icon_OwnNum"
+            ],
+            [
+              58,
+              "BagSceneConsumableItemView_Text_26"
+            ]
+          ],
+          1551
+        ],
+        [
+          [
+            [
+              73,
+              "BagSceneConsumableItem_Text_1"
+            ]
+          ],
+          1585
+        ],
+        [
+          [
+            [
+              17,
+              "BagSceneCookingFoodSellResultPopup_Desc"
+            ],
+            [
+              74,
+              "BagSceneConsumableItem_Text_2"
+            ],
+            [
+              106,
+              "BagSceneSortPopup_Header_Title"
+            ]
+          ],
+          1698
+        ],
+        [
+          [
+            [
+              75,
+              "BagSceneConsumableItem_Text_3"
+            ]
+          ],
+          1732
+        ],
+        [
+          [
+            [
+              50,
+              "BagSceneConsumableItemView_Text_10"
+            ],
+            [
+              76,
+              "BagSceneConsumableItem_Text_4"
+            ]
+          ],
+          1805
+        ],
+        [
+          [
+            [
+              77,
+              "BagSceneConsumableItem_Text_5"
+            ]
+          ],
+          1839
+        ],
+        [
+          [
+            [
+              51,
+              "BagSceneConsumableItemView_Text_12"
+            ],
+            [
+              78,
+              "BagSceneConsumableItem_Text_6"
+            ],
+            [
+              92,
+              "BagSceneConsumableItem_Text_20"
+            ]
+          ],
+          1947
+        ],
+        [
+          [
+            [
+              46,
+              "BagScene_UseItem_PopupTitle"
+            ],
+            [
+              79,
+              "BagSceneConsumableItem_Text_7"
+            ],
+            [
+              93,
+              "BagSceneConsumableItem_Text_21"
+            ]
+          ],
+          2048
+        ],
+        [
+          [
+            [
+              32,
+              "BagSceneConsumableItemRemovePopup_ConfirmPopup_Title"
+            ],
+            [
+              80,
+              "BagSceneConsumableItem_Text_8"
+            ],
+            [
+              94,
+              "BagSceneConsumableItem_Text_22"
+            ]
+          ],
+          2174
+        ],
+        [
+          [
+            [
+              5,
+              "BagScene_Content_Tab_Desc_Food"
+            ],
+            [
+              81,
+              "BagSceneConsumableItem_Text_9"
+            ],
+            [
+              95,
+              "BagSceneConsumableItem_Text_23"
+            ]
+          ],
+          2278
+        ],
+        [
+          [
+            [
+              4,
+              "BagScene_Content_Tab_Ttile_Item"
+            ],
+            [
+              20,
+              "BagSceneConsumableItemDetailPopup_Icon_OwnNum"
+            ],
+            [
+              53,
+              "BagSceneConsumableItemView_Text_16"
+            ],
+            [
+              96,
+              "BagSceneConsumableItem_Text_24"
+            ]
+          ],
+          2438
+        ],
+        [
+          [
+            [
+              97,
+              "BagSceneConsumableItem_Text_25"
+            ]
+          ],
+          2473
+        ],
+        [
+          [
+            [
+              43,
+              "BagSceneConsumableItemRemovePopup_Text_1"
+            ],
+            [
+              98,
+              "BagSceneConsumableItem_Text_26"
+            ]
+          ],
+          2553
+        ],
+        [
+          [
+            [
+              44,
+              "BagSceneConsumableItemRemovePopup_Text_2"
+            ],
+            [
+              99,
+              "BagSceneConsumableItem_Text_27"
+            ]
+          ],
+          2633
+        ],
+        [
+          [
+            [
+              100,
+              "BagSceneConsumableItem_Text_28"
+            ]
+          ],
+          2668
+        ],
+        [
+          [
+            [
+              8,
+              "BagSceneCookingFoodSellPopup_Title"
+            ],
+            [
+              26,
+              "BagSceneConsumableItemUsePopup_UseUnit_OwnCount_Title"
+            ],
+            [
+              101,
+              "BagSceneConsumableItem_Text_29"
+            ]
+          ],
+          2800
+        ],
+        [
+          [
+            [
+              33,
+              "BagSceneConsumableItemRemovePopup_ConfirmPopup_Desc"
+            ],
+            [
+              82,
+              "BagSceneConsumableItem_Text_10"
+            ]
+          ],
+          2891
+        ],
+        [
+          [
+            [
+              10,
+              "BagSceneCookingFoodSellPopup_SellCount_Title"
+            ],
+            [
+              29,
+              "BagSceneConsumableItemRemovePopup_Header_Title"
+            ],
+            [
+              83,
+              "BagSceneConsumableItem_Text_11"
+            ]
+          ],
+          3026
+        ],
+        [
+          [
+            [
+              70,
+              "BagSceneCookingFoodSellPopup_HeadlineTitle"
+            ],
+            [
+              84,
+              "BagSceneConsumableItem_Text_12"
+            ]
+          ],
+          3108
+        ],
+        [
+          [
+            [
+              30,
+              "BagSceneConsumableItemRemovePopup_RemoveUnit_RemoveCount_Title"
+            ],
+            [
+              85,
+              "BagSceneConsumableItem_Text_13"
+            ]
+          ],
+          3210
+        ],
+        [
+          [
+            [
+              15,
+              "BagSceneCookingFoodSellPopup_Coin_Value"
+            ],
+            [
+              66,
+              "BagSceneConsumableItemDetailPopup_UseButton"
+            ],
+            [
+              86,
+              "BagSceneConsumableItem_Text_14"
+            ]
+          ],
+          3337
+        ],
+        [
+          [
+            [
+              61,
+              "BagScene_CandyMaxOverPopup_Title"
+            ],
+            [
+              68,
+              "BagSceneConsumableItemRemovePopup_OKButton"
+            ],
+            [
+              87,
+              "BagSceneConsumableItem_Text_15"
+            ]
+          ],
+          3456
+        ],
+        [
+          [
+            [
+              45,
+              "BagSceneConsumableItemView_Text_2"
+            ],
+            [
+              67,
+              "BagSceneConsumableItemRemovePopup_HeadlineTitle"
+            ],
+            [
+              88,
+              "BagSceneConsumableItem_Text_16"
+            ]
+          ],
+          3581
+        ],
+        [
+          [
+            [
+              12,
+              "BagSceneCookingFoodSellPopup_OwnCount_Title"
+            ],
+            [
+              36,
+              "BagSceneController_Text_1"
+            ],
+            [
+              89,
+              "BagSceneConsumableItem_Text_17"
+            ]
+          ],
+          3694
+        ],
+        [
+          [
+            [
+              37,
+              "BagSceneController_Text_2"
+            ],
+            [
+              48,
+              "BagSceneConsumableItemView_Text_4"
+            ],
+            [
+              69,
+              "BagSceneCookingFoodCell_Num"
+            ],
+            [
+              90,
+              "BagSceneConsumableItem_Text_18"
+            ]
+          ],
+          3829
+        ],
+        [
+          [
+            [
+              91,
+              "BagSceneConsumableItem_Text_19"
+            ]
+          ],
+          3864
+        ],
+        [
+          [
+            [
+              38,
+              "BagSceneController_Text_4"
+            ],
+            [
+              49,
+              "BagSceneConsumableItemView_Text_6"
+            ]
+          ],
+          3932
+        ],
+        [
+          [
+            [
+              24,
+              "BagSceneConsumableItemUsePopup_UseUnit_UseCount_Title"
+            ],
+            [
+              39,
+              "BagSceneController_Text_5"
+            ],
+            [
+              65,
+              "BagScene_Header_Title"
+            ]
+          ],
+          4046
+        ],
+        [
+          [
+            [
+              2,
+              "BagScene_Content_Title_Item"
+            ],
+            [
+              40,
+              "BagSceneController_Text_6"
+            ],
+            [
+              63,
+              "BagSceneRareCandyUsePopup_Text_1"
+            ],
+            [
+              107,
+              "BagSceneSortPopup_Headline_Title"
+            ]
+          ],
+          4182
+        ],
+        [
+          [
+            [
+              41,
+              "BagSceneController_Text_7"
+            ],
+            [
+              64,
+              "BagSceneRareCandyUsePopup_Text_2"
+            ]
+          ],
+          4249
+        ],
+        [
+          [
+            [
+              0,
+              "BagScene_Header_ExpandButton_Title"
+            ],
+            [
+              42,
+              "BagSceneController_Text_8"
+            ]
+          ],
+          4318
+        ],
+        [
+          [
+            [
+              16,
+              "BagSceneCookingFoodSellResultPopup_Header_Title"
+            ]
+          ],
+          4370
+        ],
+        [
+          [
+            [
+              108,
+              "BagSceneConsumableItemUsePopup_UseUnit_Power_Title"
+            ]
+          ],
+          4425
+        ],
+        [
+          [
+            [
+              3,
+              "BagScene_Content_Tab_Ttile_Food"
+            ],
+            [
+              72,
+              "BagScene_CannotUseRecoverItem_PopupMessage"
+            ]
+          ],
+          4508
+        ],
+        [
+          [],
+          4508
+        ],
+        [
+          [
+            [
+              9,
+              "BagSceneCookingFoodSellPopup_Icon_ItemNum"
+            ]
+          ],
+          4554
+        ],
+        [
+          [
+            [
+              11,
+              "BagSceneCookingFoodSellPopup_SellCount_Value"
+            ]
+          ],
+          4603
+        ],
+        [
+          [],
+          4603
+        ],
+        [
+          [
+            [
+              31,
+              "BagSceneConsumableItemRemovePopup_RemoveUnit_RemoveCount_Value"
+            ],
+            [
+              62,
+              "BagScene_CandyMaxOverPopup_Text"
+            ]
+          ],
+          4706
+        ],
+        [
+          [
+            [
+              34,
+              "BagSceneConsumableItemRemovePopup_ConfirmPopup_OK"
+            ]
+          ],
+          4760
+        ],
+        [
+          [],
+          4760
+        ],
+        [
+          [],
+          4760
+        ],
+        [
+          [
+            [
+              13,
+              "BagSceneCookingFoodSellPopup_OwnCount_Value"
+            ],
+            [
+              27,
+              "BagSceneConsumableItemUsePopup_UseUnit_OwnCount_Value"
+            ]
+          ],
+          4866
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 109,
+        "size": 5144,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

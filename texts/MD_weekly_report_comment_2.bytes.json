@@ -1,0 +1,125 @@
+{
+  "strings": {
+    "md_weekly_report_comment_comment_1": [
+      "看來這週沒能掌握良好的睡眠節奏呢。\n「固定睡眠時段」\n「統一睡眠時長」\n意識這兩點，以良好的睡眠節奏作為目標吧。"
+    ],
+    "md_weekly_report_comment_comment_2": [
+      "每天的睡眠時段穩定下來了。\n接下來統一睡眠時長，\n來掌握更佳的睡眠節奏吧。"
+    ],
+    "md_weekly_report_comment_comment_3": [
+      "每天的睡眠時長穩定下來了。\n接下來固定每天睡眠的時段，\n來掌握更佳的睡眠節奏吧。"
+    ],
+    "md_weekly_report_comment_comment_4": [
+      "這一週的睡眠非常地規律。\n距離最佳的睡眠節奏就差一點了！\n接下來，在每日的睡眠中繼續去意識\n「睡眠時長」與「睡眠時段」吧。"
+    ],
+    "md_weekly_report_comment_comment_5": [
+      "這一週的睡眠非常地規律。\n距離最佳的睡眠節奏就剩最後一步了！\n在接下來的睡眠中，\n要防止每天的睡眠時長出現紊亂。"
+    ],
+    "md_weekly_report_comment_comment_6": [
+      "這一週的睡眠非常地規律。\n距離最佳的睡眠節奏就剩最後一步了！\n在接下來的睡眠中，\n要防止每天的睡眠時段出現紊亂。"
+    ],
+    "md_weekly_report_comment_comment_7": [
+      "這一週掌握了最佳的睡眠節奏！\n就這樣繼續保持良好的睡眠習慣吧。"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 7,
+        "size": 53,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 313,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "md_weekly_report_comment_comment_4"
+            ]
+          ],
+          79
+        ],
+        [
+          [
+            [
+              4,
+              "md_weekly_report_comment_comment_5"
+            ]
+          ],
+          118
+        ],
+        [
+          [
+            [
+              0,
+              "md_weekly_report_comment_comment_1"
+            ],
+            [
+              5,
+              "md_weekly_report_comment_comment_6"
+            ]
+          ],
+          196
+        ],
+        [
+          [
+            [
+              1,
+              "md_weekly_report_comment_comment_2"
+            ],
+            [
+              6,
+              "md_weekly_report_comment_comment_7"
+            ]
+          ],
+          274
+        ],
+        [
+          [
+            [
+              2,
+              "md_weekly_report_comment_comment_3"
+            ]
+          ],
+          313
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 7,
+        "size": 716,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

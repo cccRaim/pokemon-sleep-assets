@@ -1,0 +1,118 @@
+{
+  "strings": {
+    "AMPM_1": [
+      "a.m."
+    ],
+    "AMPM_1_NoPeriod": [
+      "am"
+    ],
+    "AMPM_1_Upper_NoPeriod": [
+      "AM"
+    ],
+    "AMPM_2": [
+      "p.m."
+    ],
+    "AMPM_2_NoPeriod": [
+      "pm"
+    ],
+    "AMPM_2_Upper_NoPeriod": [
+      "PM"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 154,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "AMPM_2"
+            ],
+            [
+              4,
+              "AMPM_1_Upper_NoPeriod"
+            ]
+          ],
+          77
+        ],
+        [
+          [
+            [
+              5,
+              "AMPM_2_Upper_NoPeriod"
+            ]
+          ],
+          103
+        ],
+        [
+          [
+            [
+              3,
+              "AMPM_2_NoPeriod"
+            ]
+          ],
+          123
+        ],
+        [
+          [
+            [
+              2,
+              "AMPM_1_NoPeriod"
+            ]
+          ],
+          143
+        ],
+        [
+          [
+            [
+              0,
+              "AMPM_1"
+            ]
+          ],
+          154
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 68,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

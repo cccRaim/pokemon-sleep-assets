@@ -1,0 +1,132 @@
+{
+  "strings": {
+    "TutorialSetupSceneController_Text_7": [
+      "Decidi a che ora tu e Pikachu volete\nandare a dormire ogni giorno per fare\nla ricerca sul sonno.\nSe vai a letto entro l'orario stabilito,\notterrai una ricompensa!"
+    ],
+    "TutorialStoryScene_Header_HeaderBg": [
+      "Cominciamo"
+    ],
+    "TutorialStoryScene_NameView_Name": [
+      "Professor Neroli"
+    ],
+    "TutorialStoryScene_PokemonGet_Content_Title": [
+      "Hai trovato un nuovo amico!"
+    ],
+    "TutorialStoryScene_PokemonGet_Dialog_Content_Message": [
+      "Da oggi, questo Pikachu ti aiuterà\nnella ricerca! Ma prima di tutto,\nperché non gli dai un soprannome?"
+    ],
+    "TutorialStoryScene_PokemonGet_Dialog_Header_Title": [
+      "Pikachu"
+    ],
+    "TutorialStoryScene_PokemonGet_Header_Title": [
+      "Nuovo amico!"
+    ],
+    "TutorialStoryScene_SetupSleepTime_Header_Title": [
+      "Ora di dormire"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 8,
+        "size": 60,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 413,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "TutorialStoryScene_Header_HeaderBg"
+            ],
+            [
+              2,
+              "TutorialStoryScene_PokemonGet_Content_Title"
+            ]
+          ],
+          127
+        ],
+        [
+          [
+            [
+              5,
+              "TutorialStoryScene_SetupSleepTime_Header_Title"
+            ]
+          ],
+          178
+        ],
+        [
+          [
+            [
+              6,
+              "TutorialSetupSceneController_Text_7"
+            ]
+          ],
+          218
+        ],
+        [
+          [
+            [
+              4,
+              "TutorialStoryScene_PokemonGet_Dialog_Content_Message"
+            ],
+            [
+              7,
+              "TutorialStoryScene_NameView_Name"
+            ]
+          ],
+          312
+        ],
+        [
+          [
+            [
+              1,
+              "TutorialStoryScene_PokemonGet_Header_Title"
+            ],
+            [
+              3,
+              "TutorialStoryScene_PokemonGet_Dialog_Header_Title"
+            ]
+          ],
+          413
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 8,
+        "size": 748,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

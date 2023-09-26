@@ -1,0 +1,249 @@
+{
+  "strings": {
+    "SleepRegularityDetail_ContentDesc_1": [
+      "Il tuo sonno è stato piuttosto regolare la scorsa\nsettimana! Cerca di mantenere un sonno regolare\nanche in questa."
+    ],
+    "SleepRegularityDetail_ContentDesc_InvalidData": [
+      "Non hai abbastanza dati del sonno.\nPer valutare la regolarità del sonno occorrono\ndati di almeno quattro giorni in una settimana."
+    ],
+    "SleepRegularityDetail_ContentDesc_NoData": [
+      "Non ci sono dati del sonno per questo periodo.\nPer valutare la regolarità del sonno occorrono\ndati di almeno quattro giorni in una settimana."
+    ],
+    "SleepRegularityDetail_DataTitle": [
+      "Dati complessivi di una settimana"
+    ],
+    "SleepRegularityDetail_GraphDayOfWeek": [
+      "\u000e\t\u0001\u0004Ā촀"
+    ],
+    "SleepRegularityDetail_GraphOverlay_Date": [
+      "\u000e\t",
+      "\u0018\u0014MMMddd_aaa",
+      ""
+    ],
+    "SleepRegularityDetail_GraphOverlay_Duration": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "SleepRegularityDetail_GraphOverlay_Time": [
+      "dalle \u000e\t",
+      "\u0010\fhhhmmm",
+      " alle \u000e\t",
+      "\u0010\fhhhmmm\u0001"
+    ],
+    "SleepRegularityDetail_GraphTimeScale": [
+      "\u000e\t",
+      "\f\bh:mm",
+      ""
+    ],
+    "SleepRegularityDetail_HeadPeriod": [
+      "da \u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      " a \u000e\t",
+      "\u001a\u0016yyyyyMMMddd\u0001"
+    ],
+    "SleepRegularityDetail_HeadTile": [
+      "Regolarità del sonno"
+    ],
+    "SleepRegularityDetail_Label_NoData": [
+      "Nessun dato"
+    ],
+    "SleepRegularityDetail_MidTimeSleepLabel": [
+      "Sonno medio"
+    ],
+    "SleepRegularityDetail_SleepTimeLabel": [
+      "Durata del sonno"
+    ],
+    "SleepRegularityDetail_WeekItemDate": [
+      "\u000e\t",
+      "\u0018\u0014MMMddd_aaa",
+      ""
+    ],
+    "SleepRegularityDetail_WeekItemDateNum": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SleepRegularityDetail_WeekItemSleepTime": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "SleepRegularityDetail_WeekTitle": [
+      "\u000e\u0002",
+      "\u0002촁ª settimana di \u000e\t",
+      "\u0014\u0010yyyyyMMM",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 18,
+        "size": 130,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 834,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              8,
+              "SleepRegularityDetail_ContentDesc_1"
+            ],
+            [
+              11,
+              "SleepRegularityDetail_MidTimeSleepLabel"
+            ],
+            [
+              14,
+              "SleepRegularityDetail_WeekItemDate"
+            ]
+          ],
+          211
+        ],
+        [
+          [
+            [
+              13,
+              "SleepRegularityDetail_WeekItemDateNum"
+            ]
+          ],
+          253
+        ],
+        [
+          [
+            [
+              1,
+              "SleepRegularityDetail_ContentDesc_NoData"
+            ],
+            [
+              4,
+              "SleepRegularityDetail_GraphOverlay_Duration"
+            ]
+          ],
+          346
+        ],
+        [
+          [],
+          346
+        ],
+        [
+          [],
+          346
+        ],
+        [
+          [
+            [
+              3,
+              "SleepRegularityDetail_GraphOverlay_Date"
+            ],
+            [
+              5,
+              "SleepRegularityDetail_GraphOverlay_Time"
+            ],
+            [
+              9,
+              "SleepRegularityDetail_DataTitle"
+            ]
+          ],
+          470
+        ],
+        [
+          [
+            [
+              2,
+              "SleepRegularityDetail_Label_NoData"
+            ],
+            [
+              6,
+              "SleepRegularityDetail_HeadTile"
+            ],
+            [
+              10,
+              "SleepRegularityDetail_SleepTimeLabel"
+            ],
+            [
+              17,
+              "SleepRegularityDetail_GraphTimeScale"
+            ]
+          ],
+          626
+        ],
+        [
+          [
+            [
+              0,
+              "SleepRegularityDetail_ContentDesc_InvalidData"
+            ],
+            [
+              7,
+              "SleepRegularityDetail_HeadPeriod"
+            ]
+          ],
+          713
+        ],
+        [
+          [],
+          713
+        ],
+        [
+          [
+            [
+              12,
+              "SleepRegularityDetail_WeekTitle"
+            ],
+            [
+              16,
+              "SleepRegularityDetail_GraphDayOfWeek"
+            ]
+          ],
+          790
+        ],
+        [
+          [
+            [
+              15,
+              "SleepRegularityDetail_WeekItemSleepTime"
+            ]
+          ],
+          834
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 18,
+        "size": 1436,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

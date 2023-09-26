@@ -1,0 +1,245 @@
+{
+  "strings": {
+    "BackToTitle_Message": [
+      "Se ha producido un error. La aplicación\nregresará a la pantalla del título.\nDisculpa las molestias.\n\nCódigo de error: \u000e\u0002\u0005\u0004Ā촀"
+    ],
+    "CommonError_AdmissionRestriction_Button": [
+      "Leer aviso"
+    ],
+    "CommonError_AdmissionRestriction_Text_AlreadyUser": [
+      "Debido a un alto volumen de tráfico en\nel servidor, se ha limitado de forma\ntemporal el uso de la aplicación.\nEspera un poco e inténtalo de nuevo."
+    ],
+    "CommonError_AdmissionRestriction_Text_NewUser": [
+      "Debido a un alto volumen de tráfico en\nel servidor, se ha suspendido de forma\ntemporal el registro de nuevos usuarios.\nEspera un poco e inténtalo de nuevo."
+    ],
+    "CommonError_AdmissionRestriction_Title": [
+      "Sobrecarga en el servidor"
+    ],
+    "CommonError_MaybeTimeSettingWrong_Text": [
+      "端末の日付・時刻設定が\n合っていない可能性があります\n端末の日付・時刻設定をご確認の上\n少し時間をおいてから、再度お試しください\nエラーコード：\u000e\u0002\u0005\u0004Ā촀"
+    ],
+    "CommonError_NickNameCharNotAllowedPopup_Text": [
+      "Este mote incluye caracteres que no\nse pueden usar. Introduce otro mote."
+    ],
+    "CommonError_NickNameCharSetNotAllowedPopup_Text": [
+      "El mote introducido no se puede usar.\nEscoge otro."
+    ],
+    "CommonError_NickNameNgWordPopup_Text": [
+      "El mote introducido no se puede usar.\nEscoge otro."
+    ],
+    "CommonError_NickNameTooLongPopup_Text": [
+      "El mote introducido es demasiado\nlargo. Puedes usar un máximo de\n12 caracteres."
+    ],
+    "CommonError_ServerBusy": [
+      "Hay una sobrecarga en el servidor. La\naplicación regresará a la pantalla del\ntítulo. Espera un tiempo antes de\nvolver a iniciarla.\n\nCódigo de error: \u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "CommonError_SleepMemoNGWordPopup_Text": [
+      "El texto introducido contiene alguna\npalabra que no se puede usar.\nModifícalo."
+    ],
+    "CommonError_TeamNameNgWordPopup_Text": [
+      "El nombre de equipo introducido no se\npuede usar. Elige otro nombre."
+    ],
+    "CommonError_TimeProblem": [
+      "La fecha u hora en tu dispositivo móvil\nestá atrasada.\n\nConfigura la fecha y hora actuales en\ntu dispositivo y regresa a la pantalla\ndel título de la aplicación."
+    ],
+    "ErrorCode_Text": [
+      "Código de error"
+    ],
+    "NormalError_Title": [
+      "Error"
+    ],
+    "StringInputError_CharNotAllowed": [
+      "Este nombre de usuario incluye\ncaracteres que no se pueden usar.\nIntroduce otro nombre."
+    ],
+    "StringInputError_CharSetNotAllowed": [
+      "Este nombre de usuario no se puede\nutilizar. Introduce otro nombre."
+    ],
+    "StringInputError_NgWord": [
+      "Este nombre de usuario no se puede\nutilizar. Introduce otro nombre."
+    ],
+    "StringInputError_TooLong": [
+      "El nombre de usuario introducido es\ndemasiado largo. Puedes usar un\nmáximo de 12 caracteres."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 20,
+        "size": 144,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 841,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          88
+        ],
+        [
+          [
+            [
+              6,
+              "StringInputError_NgWord"
+            ],
+            [
+              18,
+              "CommonError_AdmissionRestriction_Button"
+            ]
+          ],
+          160
+        ],
+        [
+          [
+            [
+              12,
+              "CommonError_TeamNameNgWordPopup_Text"
+            ]
+          ],
+          201
+        ],
+        [
+          [
+            [
+              1,
+              "ErrorCode_Text"
+            ]
+          ],
+          220
+        ],
+        [
+          [
+            [
+              0,
+              "NormalError_Title"
+            ],
+            [
+              8,
+              "CommonError_NickNameCharNotAllowedPopup_Text"
+            ]
+          ],
+          291
+        ],
+        [
+          [
+            [
+              19,
+              "CommonError_MaybeTimeSettingWrong_Text"
+            ]
+          ],
+          334
+        ],
+        [
+          [],
+          334
+        ],
+        [
+          [
+            [
+              3,
+              "StringInputError_TooLong"
+            ],
+            [
+              7,
+              "CommonError_NickNameTooLongPopup_Text"
+            ],
+            [
+              10,
+              "CommonError_NickNameNgWordPopup_Text"
+            ],
+            [
+              14,
+              "CommonError_ServerBusy"
+            ],
+            [
+              16,
+              "CommonError_AdmissionRestriction_Text_NewUser"
+            ],
+            [
+              17,
+              "CommonError_AdmissionRestriction_Text_AlreadyUser"
+            ]
+          ],
+          577
+        ],
+        [
+          [
+            [
+              11,
+              "CommonError_SleepMemoNGWordPopup_Text"
+            ]
+          ],
+          619
+        ],
+        [
+          [
+            [
+              2,
+              "BackToTitle_Message"
+            ],
+            [
+              4,
+              "StringInputError_CharNotAllowed"
+            ],
+            [
+              5,
+              "StringInputError_CharSetNotAllowed"
+            ]
+          ],
+          718
+        ],
+        [
+          [
+            [
+              9,
+              "CommonError_NickNameCharSetNotAllowedPopup_Text"
+            ],
+            [
+              13,
+              "CommonError_TimeProblem"
+            ],
+            [
+              15,
+              "CommonError_AdmissionRestriction_Title"
+            ]
+          ],
+          841
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 20,
+        "size": 3288,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "strings": {
+    "NSBluetoothAlwaysUsageDescription": [
+      "與Pokémon GO Plus +的連線中會使用藍牙。"
+    ],
+    "NSBluetoothPeripheralUsageDescription": [
+      "與Pokémon GO Plus +的連線中會使用藍牙。"
+    ],
+    "NSCameraUsageDescription": [
+      "為了讀取朋友編號，會使用相機。"
+    ],
+    "NSMicrophoneUsageDescription": [
+      "為了測量睡眠，會使用麥克風。"
+    ],
+    "NSPhotoLibraryAddUsageDescription": [
+      "同意之後，便可以在相簿裡儲存相片。"
+    ],
+    "NSUserTrackingUsageDescription": [
+      "取得的廣告識別碼等資訊，將使用於本服務的使用動向調查、本服務的有效運營與防止詐欺行為。"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 255,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "NSBluetoothPeripheralUsageDescription"
+            ]
+          ],
+          82
+        ],
+        [
+          [
+            [
+              2,
+              "NSUserTrackingUsageDescription"
+            ],
+            [
+              3,
+              "NSCameraUsageDescription"
+            ],
+            [
+              4,
+              "NSMicrophoneUsageDescription"
+            ]
+          ],
+          179
+        ],
+        [
+          [
+            [
+              0,
+              "NSBluetoothAlwaysUsageDescription"
+            ]
+          ],
+          217
+        ],
+        [
+          [
+            [
+              5,
+              "NSPhotoLibraryAddUsageDescription"
+            ]
+          ],
+          255
+        ],
+        [
+          [],
+          255
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 326,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

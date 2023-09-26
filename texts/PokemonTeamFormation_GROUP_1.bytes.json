@@ -1,0 +1,372 @@
+{
+  "strings": {
+    "AutoTeamFormationPopup_CookingButton": [
+      "食材"
+    ],
+    "AutoTeamFormationPopup_Desc": [
+      "洛托姆會根據您選擇的項目，\n幫忙選擇幫手寶可夢。"
+    ],
+    "AutoTeamFormationPopup_FoodButton": [
+      "樹果"
+    ],
+    "AutoTeamFormationPopup_HeadlineTitle": [
+      "優先幫忙的項目"
+    ],
+    "AutoTeamFormationPopup_SkillButton": [
+      "主技能"
+    ],
+    "AutoTeamFormationPopup_Title": [
+      "自動組隊"
+    ],
+    "PokemonChangeConfirmPopup_LevelNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonChangeConfirmPopup_LevelUnit": [
+      "Lv."
+    ],
+    "PokemonChangeConfirmPopup_Name": [
+      "屬性"
+    ],
+    "PokemonChangeConfirmPopup_Name_2": [
+      "性別"
+    ],
+    "PokemonChangeConfirmPopup_Name_3": [
+      "專長"
+    ],
+    "PokemonChangeConfirmPopup_NormalLabel": [
+      "樹果"
+    ],
+    "PokemonChangeConfirmPopup_Num": [
+      "×\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonChangeConfirmPopup_Num_2": [
+      "×\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonChangeConfirmPopup_OKButton": [
+      "替換"
+    ],
+    "PokemonChangeConfirmPopup_RareLabel": [
+      "食材"
+    ],
+    "PokemonChangeConfirmPopup_TimeLabel": [
+      "距離全滿還需"
+    ],
+    "PokemonChangeConfirmPopup_Title_2": [
+      "拾取物"
+    ],
+    "PokemonChangeConfirmPopup_UnlockLevel": [
+      "Lv.\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonTeamCell_LeaderIcon": [
+      "隊長"
+    ],
+    "PokemonTeamCell_LevelNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonTeamCell_LevelNum_2": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "PokemonTeamCell_LevelUnit": [
+      "Lv."
+    ],
+    "PokemonTeamCell_SPNum": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "PokemonTeamCell_SPUnit": [
+      "SP"
+    ],
+    "PokemonTeamSelectPopup_Desc": [
+      "已設定為\n目前的幫手隊伍"
+    ],
+    "PokemonTeamSelectPopup_Title": [
+      "完成"
+    ],
+    "PokemonTeamStatusPopup_HeadlineTitle": [
+      "樹果"
+    ],
+    "PokemonTeamStatusPopup_HeadlineTitle_2": [
+      "食材"
+    ],
+    "PokemonTeamStatusPopup_HeadlineTitle_3": [
+      "主技能"
+    ],
+    "PokemonTeamStatusPopup_SlotNumber": [
+      "欄位\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "PokemonTeamStatusPopup_Title": [
+      "能力一覽"
+    ],
+    "PokemonTeamStatusSkillCell_SkillLevel": [
+      "Lv.\u000e\u0002\u0002\u0002",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 33,
+        "size": 235,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 1338,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          136
+        ],
+        [
+          [
+            [
+              3,
+              "AutoTeamFormationPopup_FoodButton"
+            ],
+            [
+              14,
+              "PokemonChangeConfirmPopup_RareLabel"
+            ],
+            [
+              18,
+              "PokemonChangeConfirmPopup_OKButton"
+            ],
+            [
+              25,
+              "PokemonTeamSelectPopup_Title"
+            ],
+            [
+              26,
+              "PokemonTeamSelectPopup_Desc"
+            ]
+          ],
+          318
+        ],
+        [
+          [],
+          318
+        ],
+        [
+          [],
+          318
+        ],
+        [
+          [
+            [
+              32,
+              "PokemonTeamStatusPopup_SlotNumber"
+            ]
+          ],
+          356
+        ],
+        [
+          [
+            [
+              2,
+              "AutoTeamFormationPopup_HeadlineTitle"
+            ],
+            [
+              20,
+              "PokemonTeamCell_LevelUnit"
+            ]
+          ],
+          427
+        ],
+        [
+          [],
+          427
+        ],
+        [
+          [
+            [
+              12,
+              "PokemonChangeConfirmPopup_NormalLabel"
+            ],
+            [
+              29,
+              "PokemonTeamStatusPopup_HeadlineTitle_2"
+            ]
+          ],
+          512
+        ],
+        [
+          [
+            [
+              16,
+              "PokemonChangeConfirmPopup_Num_2"
+            ],
+            [
+              24,
+              "PokemonTeamCell_LevelNum_2"
+            ],
+            [
+              30,
+              "PokemonTeamStatusPopup_HeadlineTitle_3"
+            ]
+          ],
+          622
+        ],
+        [
+          [
+            [
+              13,
+              "PokemonChangeConfirmPopup_Num"
+            ]
+          ],
+          656
+        ],
+        [
+          [
+            [
+              7,
+              "PokemonChangeConfirmPopup_LevelNum"
+            ],
+            [
+              9,
+              "PokemonChangeConfirmPopup_Name_2"
+            ],
+            [
+              21,
+              "PokemonTeamCell_SPUnit"
+            ],
+            [
+              28,
+              "PokemonTeamStatusPopup_HeadlineTitle"
+            ]
+          ],
+          800
+        ],
+        [
+          [
+            [
+              10,
+              "PokemonChangeConfirmPopup_Name_3"
+            ],
+            [
+              23,
+              "PokemonTeamCell_LeaderIcon"
+            ]
+          ],
+          868
+        ],
+        [
+          [
+            [
+              5,
+              "AutoTeamFormationPopup_SkillButton"
+            ],
+            [
+              15,
+              "PokemonChangeConfirmPopup_TimeLabel"
+            ],
+            [
+              27,
+              "PokemonTeamStatusPopup_Title"
+            ]
+          ],
+          980
+        ],
+        [
+          [
+            [
+              1,
+              "AutoTeamFormationPopup_Desc"
+            ],
+            [
+              4,
+              "AutoTeamFormationPopup_CookingButton"
+            ],
+            [
+              11,
+              "PokemonChangeConfirmPopup_Title_2"
+            ],
+            [
+              22,
+              "PokemonTeamCell_SPNum"
+            ]
+          ],
+          1117
+        ],
+        [
+          [
+            [
+              8,
+              "PokemonChangeConfirmPopup_Name"
+            ],
+            [
+              17,
+              "PokemonChangeConfirmPopup_UnlockLevel"
+            ],
+            [
+              19,
+              "PokemonTeamCell_LevelNum"
+            ]
+          ],
+          1223
+        ],
+        [
+          [
+            [
+              6,
+              "PokemonChangeConfirmPopup_LevelUnit"
+            ]
+          ],
+          1263
+        ],
+        [
+          [
+            [
+              0,
+              "AutoTeamFormationPopup_Title"
+            ],
+            [
+              31,
+              "PokemonTeamStatusSkillCell_SkillLevel"
+            ]
+          ],
+          1338
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 33,
+        "size": 508,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

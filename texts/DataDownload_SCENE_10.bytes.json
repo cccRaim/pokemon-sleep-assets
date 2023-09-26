@@ -1,0 +1,126 @@
+{
+  "strings": {
+    "DataDownloadSceneController_Text_1": [
+      "Erreur de téléchargement"
+    ],
+    "DataDownloadSceneController_Text_2": [
+      "Une erreur est survenue pendant le\ntéléchargement. Veuillez réessayer\nultérieurement."
+    ],
+    "DataDownloadSceneController_Text_4": [
+      "Votre appareil ne dispose pas de\nsuffisamment d'espace de stockage.\nLibérez de l'espace, puis réessayez."
+    ],
+    "DataDownloadSceneController_Text_5": [
+      "Erreur de téléchargement"
+    ],
+    "DataDownloadSceneController_Text_6": [
+      "Une erreur est survenue pendant le\ntéléchargement. Veuillez réessayer\nultérieurement."
+    ],
+    "DataDownloadSceneController_Text_8": [
+      "Le téléchargement est terminé."
+    ],
+    "DataDownloadScene_DownloadProgressView_ProgressText": [
+      "\u000e\u0002\u0002\u0002",
+      " % (\u000e\u0002\t\u0004\u0001촁/\u000e\u0002\t\u0004\u0002촁 Mo)"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 7,
+        "size": 53,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 330,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "DataDownloadSceneController_Text_1"
+            ],
+            [
+              4,
+              "DataDownloadSceneController_Text_6"
+            ]
+          ],
+          118
+        ],
+        [
+          [
+            [
+              1,
+              "DataDownloadSceneController_Text_2"
+            ]
+          ],
+          157
+        ],
+        [
+          [
+            [
+              5,
+              "DataDownloadSceneController_Text_8"
+            ]
+          ],
+          196
+        ],
+        [
+          [
+            [
+              2,
+              "DataDownloadSceneController_Text_4"
+            ]
+          ],
+          235
+        ],
+        [
+          [
+            [
+              3,
+              "DataDownloadSceneController_Text_5"
+            ],
+            [
+              6,
+              "DataDownloadScene_DownloadProgressView_ProgressText"
+            ]
+          ],
+          330
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 7,
+        "size": 798,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

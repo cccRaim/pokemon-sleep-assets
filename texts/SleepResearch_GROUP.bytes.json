@@ -1,0 +1,256 @@
+{
+  "strings": {
+    "FriendPointLevelUpPopup_BonusTitle": [
+      "색이 다른 \u000e\u0003\u0001\u0002촀\u000e\b",
+      "\u0002촃\n출현할 확률이 아주 조금 올랐습니다"
+    ],
+    "FriendPointLevelUpPopup_FriendLevelNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "FriendPointLevelUpPopup_LevelupDesc": [
+      "\u000e\u0003\u0001\u0002촀\u000e\b",
+      "\u0002촁 이 리서치 캠프가\n더욱 마음에 든 모양입니다"
+    ],
+    "FriendPointLevelUpPopup_Title": [
+      "프렌드 레벨업"
+    ],
+    "FriendPointWindow_FriendMaxText": [
+      "프렌드 레벨업"
+    ],
+    "FriendPointWindow_Level": [
+      "프렌드 레벨 \u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "FriendPointWindow_PointText": [
+      "+\u000e\u0002\u0001\u0002",
+      " Point"
+    ],
+    "NewResearchView_LibraryNumber": [
+      "잠자는 모습 도감 No.\u000e\u0002\u0003\u0004",
+      "촁-\u000e\u0002\u0001\u0002\u0001"
+    ],
+    "NewResearchView_LibrarySleepingFace": [
+      "ID: \u000e\u0002\u0002\u0002",
+      " \u000e\u0003\r\u0002\u0001"
+    ],
+    "NewResearchView_LockedView": [
+      "???"
+    ],
+    "NewResearchView_NewPokemonText": [
+      "새로운 포켓몬 발견"
+    ],
+    "NewResearchView_PokedexNumberText": [
+      "No.\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "NewResearchView_PokemonText": [
+      "새로운 잠자는 모습 발견"
+    ],
+    "NewResearchView_SleepTypeText": [
+      "\u000e\u0003\u0004\u0002",
+      " 타입"
+    ],
+    "NewResearchView_Title": [
+      "포켓몬 잠자는 모습 도감"
+    ],
+    "NewResearchView_Title_2": [
+      "잠자는 모습 일람"
+    ],
+    "ResearchPhotoPopup_Num": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "ResearchPhotoPopup_Num_2": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "ResearchPhotoPopup_SleepTypeText": [
+      "No.\u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0003\u0001\u0002촁 / \u000e\u0003\u0004\u0002\u0002"
+    ],
+    "ResearchPhotoPopup_SleepingFaceName_Prefix": [
+      "#"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 20,
+        "size": 144,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 778,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          88
+        ],
+        [
+          [
+            [
+              3,
+              "FriendPointLevelUpPopup_FriendLevelNum"
+            ]
+          ],
+          131
+        ],
+        [
+          [
+            [
+              0,
+              "NewResearchView_PokemonText"
+            ],
+            [
+              6,
+              "FriendPointLevelUpPopup_BonusTitle"
+            ],
+            [
+              14,
+              "NewResearchView_LockedView"
+            ]
+          ],
+          233
+        ],
+        [
+          [
+            [
+              5,
+              "FriendPointLevelUpPopup_LevelupDesc"
+            ],
+            [
+              10,
+              "NewResearchView_NewPokemonText"
+            ],
+            [
+              18,
+              "ResearchPhotoPopup_SleepingFaceName_Prefix"
+            ]
+          ],
+          355
+        ],
+        [
+          [],
+          355
+        ],
+        [
+          [
+            [
+              16,
+              "ResearchPhotoPopup_Num"
+            ]
+          ],
+          382
+        ],
+        [
+          [
+            [
+              1,
+              "NewResearchView_Title"
+            ],
+            [
+              7,
+              "FriendPointWindow_Level"
+            ],
+            [
+              13,
+              "NewResearchView_PokedexNumberText"
+            ],
+            [
+              17,
+              "ResearchPhotoPopup_Num_2"
+            ]
+          ],
+          503
+        ],
+        [
+          [
+            [
+              8,
+              "FriendPointWindow_PointText"
+            ],
+            [
+              15,
+              "ResearchPhotoPopup_SleepTypeText"
+            ]
+          ],
+          572
+        ],
+        [
+          [
+            [
+              4,
+              "FriendPointLevelUpPopup_Title"
+            ]
+          ],
+          606
+        ],
+        [
+          [
+            [
+              2,
+              "NewResearchView_Title_2"
+            ],
+            [
+              11,
+              "NewResearchView_LibraryNumber"
+            ]
+          ],
+          668
+        ],
+        [
+          [
+            [
+              9,
+              "FriendPointWindow_FriendMaxText"
+            ],
+            [
+              12,
+              "NewResearchView_SleepTypeText"
+            ],
+            [
+              19,
+              "NewResearchView_LibrarySleepingFace"
+            ]
+          ],
+          778
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 20,
+        "size": 626,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

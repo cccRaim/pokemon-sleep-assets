@@ -1,0 +1,226 @@
+{
+  "strings": {
+    "Abandoned_Day4_Notify_Message": [
+      "\u000e\u0003\n\u0002촀があなたのことを恋しがっている！"
+    ],
+    "Abandoned_Day4_Notify_Title": [
+      "\u000e\u0003\n\u0002촀のようす"
+    ],
+    "Abandoned_Day7_Notify_Message": [
+      "最近、規則正しく眠れていますか？計測を再開して、日々の睡眠をチェックしましょう。"
+    ],
+    "Abandoned_Day7_Notify_Title": [
+      "睡眠計測を再開しましょう"
+    ],
+    "Berry_Full_Notify_Message": [
+      "\u000e\u0003\n\u0002촀たちが、きのみをたくさん集めてくれています"
+    ],
+    "Berry_Full_Notify_Title": [
+      "きのみがいっぱいです"
+    ],
+    "Fields_Move_Notify_Message": [
+      "1週間の睡眠リサーチお疲れ様でした。結果を報告して次のフィールドに移動しましょう。"
+    ],
+    "Fields_Move_Notify_Title": [
+      "次のフィールドに移動しましょう"
+    ],
+    "SleepAnalyzeFinished_Message": [
+      "アプリが閉じられたため、睡眠計測が終了しました。睡眠計測はアプリを開いたまま行ってください"
+    ],
+    "SleepAnalyzeFinished_Title": [
+      "睡眠計測が終了しました"
+    ],
+    "SleepAnalyzeNow_Message": [
+      "計測ミスを防ぐために、睡眠計測はアプリを開いたまま行ってください"
+    ],
+    "SleepAnalyzeNow_Title": [
+      "睡眠計測中です"
+    ],
+    "Sleep_PromiseTime_Notify_Message_01": [
+      "\u000e\u0003\n\u0002촀がねむそう…。\u000e\u0002\u0001\u0002\u0001時\u000e\u0002\u0001\u0002\u0002分までに睡眠計測して約束を達成しよう！"
+    ],
+    "Sleep_PromiseTime_Notify_Message_02": [
+      "\u000e\u0003\n\u0002촀は、\u000e\u0003",
+      "",
+      "と一緒に眠れるのが楽しみなようです。そろそろ眠りにつきますか？"
+    ],
+    "Sleep_PromiseTime_Notify_Title": [
+      "ねむりの約束の時間です"
+    ],
+    "UnReported_Notify_Message": [
+      "[\u000e\u0002\u0001\u0002",
+      "月\u000e\u0002\u0001\u0002\u0001日 睡眠時間 \u000e\u0002\u0001\u0002\u0002時間\u000e\u0002\u0001\u0002\u0003分]未報告のリサーチ結果があります。"
+    ],
+    "UnReported_Notify_Title": [
+      "リサーチ結果を報告しましょう"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 17,
+        "size": 123,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 629,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          88
+        ],
+        [
+          [
+            [
+              5,
+              "Sleep_PromiseTime_Notify_Message_01"
+            ]
+          ],
+          128
+        ],
+        [
+          [
+            [
+              6,
+              "Sleep_PromiseTime_Notify_Message_02"
+            ],
+            [
+              11,
+              "Abandoned_Day7_Notify_Title"
+            ]
+          ],
+          200
+        ],
+        [
+          [
+            [
+              15,
+              "SleepAnalyzeFinished_Title"
+            ]
+          ],
+          231
+        ],
+        [
+          [
+            [
+              3,
+              "UnReported_Notify_Message"
+            ],
+            [
+              9,
+              "Abandoned_Day4_Notify_Title"
+            ]
+          ],
+          293
+        ],
+        [
+          [
+            [
+              1,
+              "Fields_Move_Notify_Message"
+            ],
+            [
+              2,
+              "UnReported_Notify_Title"
+            ],
+            [
+              10,
+              "Abandoned_Day4_Notify_Message"
+            ]
+          ],
+          386
+        ],
+        [
+          [
+            [
+              0,
+              "Fields_Move_Notify_Title"
+            ],
+            [
+              7,
+              "Berry_Full_Notify_Title"
+            ],
+            [
+              12,
+              "Abandoned_Day7_Notify_Message"
+            ],
+            [
+              13,
+              "SleepAnalyzeNow_Title"
+            ]
+          ],
+          503
+        ],
+        [
+          [
+            [
+              16,
+              "SleepAnalyzeFinished_Message"
+            ]
+          ],
+          536
+        ],
+        [
+          [
+            [
+              4,
+              "Sleep_PromiseTime_Notify_Title"
+            ],
+            [
+              14,
+              "SleepAnalyzeNow_Message"
+            ]
+          ],
+          599
+        ],
+        [
+          [
+            [
+              8,
+              "Berry_Full_Notify_Message"
+            ]
+          ],
+          629
+        ],
+        [
+          [],
+          629
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 17,
+        "size": 956,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

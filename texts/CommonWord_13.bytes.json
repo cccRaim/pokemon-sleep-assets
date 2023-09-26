@@ -1,0 +1,101 @@
+{
+  "strings": {
+    "BonusBaitBall": [
+      "Galleta Extra"
+    ],
+    "BonusBaitBallPlus": [
+      "Galleta Extra Prémium"
+    ],
+    "DrNerori": [
+      "Profesor Neroli"
+    ],
+    "PokemonGoPlus": [
+      "Pokémon GO Plus +"
+    ],
+    "You": [
+      "Tú"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 5,
+        "size": 39,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 103,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "BonusBaitBallPlus"
+            ],
+            [
+              4,
+              "You"
+            ]
+          ],
+          54
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonGoPlus"
+            ],
+            [
+              2,
+              "BonusBaitBall"
+            ]
+          ],
+          90
+        ],
+        [
+          [
+            [
+              1,
+              "DrNerori"
+            ]
+          ],
+          103
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 5,
+        "size": 166,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

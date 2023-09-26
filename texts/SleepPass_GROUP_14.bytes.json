@@ -1,0 +1,160 @@
+{
+  "strings": {
+    "PointHistoryListCell_Date": [
+      "\u000e\t",
+      "\"\u001eyyyyyMMMddd_aaa",
+      ""
+    ],
+    "PointHistoryListCell_PassType_Bonus": [
+      "Bonus"
+    ],
+    "PointHistoryListCell_PassType_Normal": [
+      "Regular"
+    ],
+    "PointHistoryListCell_PassType_Premium": [
+      "Premium"
+    ],
+    "PointHistoryListCell_Point": [
+      "\u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u001c\npoint\fpoints촀"
+    ],
+    "PointHistoryListCell_Score": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PremiumPassCannotUsePopup_Title": [
+      "Premium Pass"
+    ],
+    "PremiumPassInfoPopup_Title": [
+      "Precautions"
+    ],
+    "PremiumPassPopup_Title": [
+      "Your Premium Pass"
+    ],
+    "PremiumPassPopup_Title_2": [
+      "Premium Pass"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 10,
+        "size": 74,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 7,
+        "size": 394,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          56
+        ],
+        [
+          [
+            [
+              7,
+              "PremiumPassInfoPopup_Title"
+            ]
+          ],
+          87
+        ],
+        [
+          [
+            [
+              6,
+              "PremiumPassCannotUsePopup_Title"
+            ],
+            [
+              9,
+              "PremiumPassPopup_Title_2"
+            ]
+          ],
+          152
+        ],
+        [
+          [
+            [
+              0,
+              "PointHistoryListCell_Score"
+            ]
+          ],
+          183
+        ],
+        [
+          [
+            [
+              2,
+              "PointHistoryListCell_Point"
+            ]
+          ],
+          214
+        ],
+        [
+          [
+            [
+              1,
+              "PointHistoryListCell_Date"
+            ],
+            [
+              4,
+              "PointHistoryListCell_PassType_Premium"
+            ],
+            [
+              5,
+              "PointHistoryListCell_PassType_Bonus"
+            ]
+          ],
+          326
+        ],
+        [
+          [
+            [
+              3,
+              "PointHistoryListCell_PassType_Normal"
+            ],
+            [
+              8,
+              "PremiumPassPopup_Title"
+            ]
+          ],
+          394
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 10,
+        "size": 302,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

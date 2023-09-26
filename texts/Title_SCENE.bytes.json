@@ -1,0 +1,285 @@
+{
+  "strings": {
+    "TitleSceneController_Ask_GPP_Sync_Desc": [
+      "수면 데이터를 읽습니다"
+    ],
+    "TitleSceneController_Ask_GPP_Sync_OK": [
+      "동기화한다"
+    ],
+    "TitleSceneController_Text_1": [
+      "데이터가 갱신되었습니다\n(약 \u000e\u0002\t\u0004",
+      "촁MB)"
+    ],
+    "TitleSceneController_Text_10": [
+      "수면 데이터 복구"
+    ],
+    "TitleSceneController_Text_11": [
+      "수면 계측 도중에 앱이 종료된 것 같습니다\n서버에 다시 접속합니다"
+    ],
+    "TitleSceneController_Text_2": [
+      "데이터 다운로드"
+    ],
+    "TitleSceneController_Text_4": [
+      "갱신 데이터 체크에 실패했습니다\n통신 상황을 확인하고 다시 시도해 주십시오"
+    ],
+    "TitleSceneController_Text_5": [
+      "수면 결과"
+    ],
+    "TitleSceneController_Text_6": [
+      "지난번 수면 결과 화면부터\n다시 시작합니다"
+    ],
+    "TitleSceneController_Text_7": [
+      "Pokémon GO Plus +와\n동기화하겠습니까?"
+    ],
+    "TitleSceneController_Text_8": [
+      "데이터 갱신"
+    ],
+    "TitleSceneController_Text_9": [
+      "지난번 통신이 도중에 종료된 것 같습니다\n서버에 다시 접속합니다"
+    ],
+    "TitleSceneController_UserDataDownloadPopup_Message": [
+      "이어받기 위해 필요한 데이터를\n다운로드합니다"
+    ],
+    "TitleSceneController_UserDataDownloadPopup_Title": [
+      "데이터 다운로드"
+    ],
+    "TitleScene_DownloadProgress": [
+      "Now Loading...(\u000e\u0002\u0002\u0002",
+      "%)"
+    ],
+    "TitleScene_Footer_Rights": [
+      "©2023 Pokémon. ©1995-2023 Nintendo/Creatures Inc. /GAME FREAK inc. \nDeveloped by SELECT BUTTON inc."
+    ],
+    "TitleScene_Header_MenuButton": [
+      "MENU"
+    ],
+    "TitleScene_Header_UserId": [
+      "서포트 ID: 탭해서 표시"
+    ],
+    "TitleScene_Header_Version": [
+      "Ver.\u000e\u0002\u0001\u0002",
+      ".\u000e\u0002\u0002\u0002\u0001.\u000e\u0002\u0002\u0002\u0002"
+    ],
+    "TitleScene_LoadingText": [
+      "데이터를 불러오고 있습니다..."
+    ],
+    "TitleScene_StartButton": [
+      "탭해서 시작"
+    ],
+    "TitleScene_TutorialAndMaintenance_Text": [
+      "점검 중에 계측한\n수면 데이터를 발견했습니다\n수면 리서치를 시작합니다"
+    ],
+    "TitleScene_TutorialAndMaintenance_Title": [
+      "수면 리서치 시작"
+    ],
+    "TitleScene_ValidationProgress": [
+      "데이터를 확인하고 있습니다..."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 24,
+        "size": 172,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 946,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          104
+        ],
+        [
+          [
+            [
+              11,
+              "TitleScene_TutorialAndMaintenance_Text"
+            ]
+          ],
+          147
+        ],
+        [
+          [],
+          147
+        ],
+        [
+          [
+            [
+              0,
+              "TitleSceneController_Text_1"
+            ],
+            [
+              8,
+              "TitleSceneController_Text_10"
+            ],
+            [
+              16,
+              "TitleScene_LoadingText"
+            ],
+            [
+              18,
+              "TitleScene_ValidationProgress"
+            ]
+          ],
+          273
+        ],
+        [
+          [
+            [
+              1,
+              "TitleSceneController_Text_2"
+            ],
+            [
+              9,
+              "TitleSceneController_Text_11"
+            ],
+            [
+              12,
+              "TitleScene_Header_MenuButton"
+            ]
+          ],
+          371
+        ],
+        [
+          [
+            [
+              10,
+              "TitleScene_TutorialAndMaintenance_Title"
+            ]
+          ],
+          415
+        ],
+        [
+          [
+            [
+              2,
+              "TitleSceneController_Text_4"
+            ],
+            [
+              17,
+              "TitleScene_DownloadProgress"
+            ],
+            [
+              19,
+              "TitleScene_Footer_Rights"
+            ],
+            [
+              22,
+              "TitleSceneController_UserDataDownloadPopup_Title"
+            ]
+          ],
+          561
+        ],
+        [
+          [
+            [
+              3,
+              "TitleSceneController_Text_5"
+            ]
+          ],
+          593
+        ],
+        [
+          [
+            [
+              4,
+              "TitleSceneController_Text_6"
+            ],
+            [
+              21,
+              "TitleSceneController_Ask_GPP_Sync_OK"
+            ]
+          ],
+          666
+        ],
+        [
+          [
+            [
+              5,
+              "TitleSceneController_Text_7"
+            ],
+            [
+              20,
+              "TitleSceneController_Ask_GPP_Sync_Desc"
+            ]
+          ],
+          741
+        ],
+        [
+          [
+            [
+              6,
+              "TitleSceneController_Text_8"
+            ],
+            [
+              14,
+              "TitleScene_Header_UserId"
+            ]
+          ],
+          802
+        ],
+        [
+          [
+            [
+              7,
+              "TitleSceneController_Text_9"
+            ],
+            [
+              15,
+              "TitleScene_StartButton"
+            ],
+            [
+              23,
+              "TitleSceneController_UserDataDownloadPopup_Message"
+            ]
+          ],
+          916
+        ],
+        [
+          [
+            [
+              13,
+              "TitleScene_Header_Version"
+            ]
+          ],
+          946
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 24,
+        "size": 1168,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

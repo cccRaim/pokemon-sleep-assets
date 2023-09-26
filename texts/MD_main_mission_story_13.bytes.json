@@ -1,0 +1,845 @@
+{
+  "strings": {
+    "md_main_mission_story_1_1": [
+      "Sieh mal einer an, toll gemacht!\nDu hast \u000e\u0002\u0003\u0004",
+      "촁 Schlafposen\nin deinem Schlafdex registriert!"
+    ],
+    "md_main_mission_story_1_2": [
+      "Und während du fleißig geforscht\nhast, hatte ich die Gelegenheit,\nmehr darüber zu lernen, \u000e",
+      "\u0003\u0004毿Ｗwie\nPokémon stärker werden\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "md_main_mission_story_1_3": [
+      "Wir wussten bereits, dass die\nPokémon dieser Region \u000e",
+      "\u0003\u0004毿Ｗdurch\nSchlaf groß und stark werden\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "md_main_mission_story_1_4": [
+      "Aber jetzt weiß ich mit Gewissheit,\ndass sie mit einer ordentlichen\nPortion \u000e",
+      "\u0003\u0004毿ＷPokémon-Bonbons\u000e",
+      "\u0003\u0004",
+      "＀ und\n\u000e",
+      "\u0003\u0004毿ＷTraumsplittern\u000e",
+      "\u0003\u0004",
+      "＀ auch stärker\nwerden können!"
+    ],
+    "md_main_mission_story_1_5": [
+      "Du könntest zum Beispiel das\nPikachu, das ich dir anfangs\ngeschenkt habe, mit\n\u000e",
+      "\u0003\u0004毿ＷPikachu-Bonbons\u000e",
+      "\u0003\u0004",
+      "＀ und ein paar\n\u000e",
+      "\u0003\u0004毿ＷTraumsplittern\u000e",
+      "\u0003\u0004",
+      "＀ verstärken."
+    ],
+    "md_main_mission_story_1_6": [
+      "Versuch doch mal, die Level deiner\nHelfer zu erhöhen. So erreicht du\ndein nächstes Dex-Ziel, das\nRegistrieren von \u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
+      "촁\nSchlafposen\u000e",
+      "\u0003\u0004",
+      "＀, umso schneller!"
+    ],
+    "md_main_mission_story_1_7": [
+      "Während du darauf hinarbeitest,\nwerde ich meine eigenen\nNachforschungen anstellen, die\ndir weiterhelfen könnten."
+    ],
+    "md_main_mission_story_1_8": [
+      "Weiter so mit der super\nSchlafforschung!"
+    ],
+    "md_main_mission_story_2_1": [
+      "Klasse, toll gemacht!\nDu hast \u000e\u0002\u0003\u0004",
+      "촁 Schlafposen in\ndeinem Schlafdex registriert!"
+    ],
+    "md_main_mission_story_2_2": [
+      "Während du fleißig warst, war ich\nauch nicht untätig. Ich habe alles\nvorbereitet, damit du jetzt\n\u000e",
+      "\u0003\u0004毿Ｗkochen kannst, was du willst\u000e",
+      "\u0003\u0004",
+      "＀!"
+    ],
+    "md_main_mission_story_2_3": [
+      "Bis jetzt hast du dich beim Kochen\nauf Rotom verlassen, indem du die\nFunktion „\u000e",
+      "\u0003\u0004毿ＷAuto-Kochen\u000e",
+      "\u0003\u0004",
+      "＀“ benutzt\nhast, richtig?"
+    ],
+    "md_main_mission_story_2_4": [
+      "Nun, da ich ein paar hochwertige\nKochutensilien für dich besorgt\nhabe, kannst du die Zutaten, die\ndu verwenden möchtest, \u000e",
+      "\u0003\u0004毿Ｗfrei wählen\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "md_main_mission_story_2_5": [
+      "Mit der richtigen Kombination von\nZutaten solltest du in der Lage \nsein, Gerichte und Snacks\nzuzubereiten, die Relaxos Stärke\nin die Höhe schnellen lassen."
+    ],
+    "md_main_mission_story_2_6": [
+      "Probiere doch ein paar neue\nKombinationen aus, während du\nauf dein nächstes Ziel\nhinarbeitest: \u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
+      "촁 Schlafposen\u000e",
+      "\u0003\u0004",
+      "＀ in\ndeinem Schlafdex!"
+    ],
+    "md_main_mission_story_2_7": [
+      "In der Zwischenzeit werde ich\nmich darum kümmern, dass wir\nZugang zu einem neuen\n\u000e",
+      "\u0003\u0004毿ＷForschungsgebiet\u000e",
+      "\u0003\u0004",
+      "＀ bekommen..."
+    ],
+    "md_main_mission_story_2_8": [
+      "Weiter so mit der super\nSchlafforschung!"
+    ],
+    "md_main_mission_story_3_1": [
+      "Klasse, toll gemacht!\nDu hast \u000e\u0002\u0003\u0004",
+      "촁 Schlafposen in\ndeinem Schlafdex registriert!"
+    ],
+    "md_main_mission_story_3_2": [
+      "Du hast dich beim Erforschen\ndieses Gebiets wirklich ins Zeug\ngelegt!"
+    ],
+    "md_main_mission_story_3_3": [
+      "In der Zwischenzeit habe ich dafür\ngesorgt, dass du ein \u000e",
+      "\u0003\u0004毿Ｗneues Gebiet\u000e",
+      "\u0003\u0004",
+      "＀\nin Angriff nehmen kannst!\nEs heißt \u000e",
+      "\u0003\u0004毿ＷCyan-Strand\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "md_main_mission_story_3_4": [
+      "Der Cyan-Strand ist bekannt für\nseinen langen Sandstrand und\nseine fröhliche Atmosphäre."
+    ],
+    "md_main_mission_story_3_5": [
+      "Dort könntest du vielleicht einige\nPokémon vom \u000e",
+      "\u0003\u0004毿ＷTyp Wasser\u000e",
+      "\u0003\u0004",
+      "＀ finden,\ndie du bisher noch nicht entdeckt\nhast."
+    ],
+    "md_main_mission_story_3_6": [
+      "Du solltest ihn auf jeden Fall\nbesuchen, wenn du dein nächstes\nZiel anstrebst: \u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
+      "촁 Schlafposen\n\u000e",
+      "\u0003\u0004",
+      "＀in deinem Schlafdex."
+    ],
+    "md_main_mission_story_3_7": [
+      "Keine Sorge - ich werde mich\nweiterhin bemühen, \u000e",
+      "\u0003\u0004毿Ｗneue Mittel\n\u000e",
+      "\u0003\u0004",
+      "＀zu finden, deine Forschung\nvoranzubringen!"
+    ],
+    "md_main_mission_story_3_8": [
+      "Deine Schlafforschung entwickelt\nsich prächtig! Weiter so!"
+    ],
+    "md_main_mission_story_4_1": [
+      "Klasse, toll gemacht!\nDu hast \u000e\u0002\u0003\u0004",
+      "촁 Schlafposen in\ndeinem Schlafdex registriert!"
+    ],
+    "md_main_mission_story_4_2": [
+      "Ich habe in der Zwischenzeit\nherausgefunden, wie du \u000e",
+      "\u0003\u0004毿Ｗdeinen\nKochtopf vergrößern kannst\u000e",
+      "\u0003\u0004",
+      "＀!"
+    ],
+    "md_main_mission_story_4_3": [
+      "Hast du bemerkt, dass nur eine\nbestimmte Anzahl an Zutaten in\nden Topf passt, wenn du kochst?"
+    ],
+    "md_main_mission_story_4_4": [
+      "Durch den Einsatz von\n\u000e",
+      "\u0003\u0004毿ＷTraumsplittern\u000e",
+      "\u0003\u0004",
+      "＀ kannst du nun\ndieses \u000e",
+      "\u0003\u0004毿ＷLimit erhöhen\u000e",
+      "\u0003\u0004",
+      "＀, sodass du\nmehr Zutaten hinzufügen kannst!"
+    ],
+    "md_main_mission_story_4_5": [
+      "Für manche Gerichte und Snacks\nbraucht man \u000e",
+      "\u0003\u0004毿Ｗeine ganze Menge\nZutaten\u000e",
+      "\u0003\u0004",
+      "＀ und dein Topf muss groß\ngenug dafür sein."
+    ],
+    "md_main_mission_story_4_6": [
+      "Vergrößere also deinen Topf,\nwährend du auf dein nächstes Ziel\nhinarbeitest: \u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
+      "촁 Schlafposen\n\u000e",
+      "\u0003\u0004",
+      "＀im Schlafdex zu registrieren."
+    ],
+    "md_main_mission_story_4_7": [
+      "Ich werde mich währenddessen\nwieder um ein \u000e",
+      "\u0003\u0004毿Ｗneues Gebiet\u000e",
+      "\u0003\u0004",
+      "＀\nbemühen!"
+    ],
+    "md_main_mission_story_4_8": [
+      "Weiter so mit der super\nSchlafforschung!"
+    ],
+    "md_main_mission_story_5_1": [
+      "Klasse, toll gemacht!\nDu hast \u000e\u0002\u0003\u0004",
+      "촁 Schlafposen in\ndeinem Schlafdex registriert!"
+    ],
+    "md_main_mission_story_5_2": [
+      "Ich habe uns in der Zwischenzeit\nein \u000e",
+      "\u0003\u0004毿Ｗneues Gebiet \u000e",
+      "\u0003\u0004",
+      "＀gesichert."
+    ],
+    "md_main_mission_story_5_3": [
+      "Du kannst jetzt die \u000e",
+      "\u0003\u0004毿ＷTaupe-Höhle\n\u000e",
+      "\u0003\u0004",
+      "＀für deine zukünftige Forschung\nbesuchen!"
+    ],
+    "md_main_mission_story_5_4": [
+      "Die Taupe-Höhle hat etwas\nMystisches an sich, wie das Licht\nso von oben durch das Loch in der\nDecke hineinströmt."
+    ],
+    "md_main_mission_story_5_5": [
+      "Dort könntest du vielleicht einige\nPokémon vom \u000e",
+      "\u0003\u0004毿ＷTyp Boden\u000e",
+      "\u0003\u0004",
+      "＀ und\n\u000e",
+      "\u0003\u0004毿ＷGestein\u000e",
+      "\u0003\u0004",
+      "＀ finden, die du bisher noch\nnicht entdeckt hast."
+    ],
+    "md_main_mission_story_5_6": [
+      "Schau mal da vorbei, während du\ndein nächstes Ziel ansteuerst:\nInsgesamt \u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
+      "촁 Schlafposen\u000e",
+      "\u0003\u0004",
+      "＀ in \ndeinem Schlafdex!"
+    ],
+    "md_main_mission_story_5_7": [
+      "Während du etwas erkundest,\nsuche ich weiter nach \u000e",
+      "\u0003\u0004毿Ｗneuen\nMitteln\u000e",
+      "\u0003\u0004",
+      "＀, deine Forschung zu\nerleichtern!"
+    ],
+    "md_main_mission_story_5_8": [
+      "Weiter so mit der super\nSchlafforschung!"
+    ],
+    "md_main_mission_story_6_1": [
+      "Klasse, toll gemacht!\nDu hast \u000e\u0002\u0003\u0004",
+      "촁 Schlafposen in\ndeinem Schlafdex registriert!"
+    ],
+    "md_main_mission_story_6_2": [
+      "Wer so fleißig ist wie du hat eine\nschöne Belohnung verdient.\nBitte schön, ein \u000e",
+      "\u0003\u0004毿ＷDonnerstein\u000e",
+      "\u0003\u0004",
+      "＀!"
+    ],
+    "md_main_mission_story_6_3": [
+      "Wie du vielleicht weißt, können\nsich das Aussehen und die Werte\neines Pokémon durch eine\nEntwicklung enorm verändern."
+    ],
+    "md_main_mission_story_6_4": [
+      "Und \u000e",
+      "\u0003\u0004毿ＷDonnersteine\u000e",
+      "\u0003\u0004",
+      "＀ wie dieser\nkönnen dazu führen, dass sich\nbestimmte Arten von Pokémon\nentwickeln. Welch äußerst\ngeheimnisvolle Items!"
+    ],
+    "md_main_mission_story_6_5": [
+      "Das heißt nicht, dass Items die\neinzige Möglichkeit für Pokémon\nsind, sich zu entwicklen.\nEs gibt nämlich viele verschiedene\nMethoden der Entwicklung!"
+    ],
+    "md_main_mission_story_6_6": [
+      "Vielleicht kannst du ein paar\ndeiner Helfer-Pokémon entwickeln,\nwährend du dein nächstes Ziel\nanpeilst: \u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
+      "촁 Schlafposen\u000e",
+      "\u0003\u0004",
+      "＀!"
+    ],
+    "md_main_mission_story_6_7": [
+      "Ich werde mich inzwischen wieder\nan die Arbeit machen, ein \u000e",
+      "\u0003\u0004毿Ｗneues\nGebiet\u000e",
+      "\u0003\u0004",
+      "＀ zu organisieren!"
+    ],
+    "md_main_mission_story_6_8": [
+      "Weiter so mit der super\nSchlafforschung!"
+    ],
+    "md_main_mission_story_7_1": [
+      "Klasse, toll gemacht!\nDu hast \u000e\u0002\u0003\u0004",
+      "촁 Schlafposen in\ndeinem Schlafdex registriert!"
+    ],
+    "md_main_mission_story_7_2": [
+      "Erinnerst du dich an das \u000e",
+      "\u0003\u0004毿Ｗneue\nGebiet\u000e",
+      "\u0003\u0004",
+      "＀, dass ich letztes Mal\nerwähnt hatte?"
+    ],
+    "md_main_mission_story_7_3": [
+      "Nun, ich habe es für dich\nvorbereitet, während du dich auf\ndeine Forschung konzentriert hast.\nJetzt kannst du dich in die\n\u000e",
+      "\u0003\u0004毿ＷSchneeweiß-Tundra\u000e",
+      "\u0003\u0004",
+      "＀ begeben!"
+    ],
+    "md_main_mission_story_7_4": [
+      "Die Schneeweiß-Tundra ist\nbekannt für den ständigen\nSchneefall dort, der sich zu\nVerwehungen auftürmt. Du kannst\ndie Stille dort buchstäblich spüren."
+    ],
+    "md_main_mission_story_7_5": [
+      "Dort könntest du vielleicht einige\nPokémon vom \u000e",
+      "\u0003\u0004毿ＷTyp Eis\u000e",
+      "\u0003\u0004",
+      "＀ finden, die\ndu bisher noch nicht entdeckt hast."
+    ],
+    "md_main_mission_story_7_6": [
+      "Dein nächstes Ziel ist es, \u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
+      "촁\nSchlafposen \u000e",
+      "\u0003\u0004",
+      "＀in deinem Schlafdex\nzu registrieren, also geh doch im\nneuen Gebiet auf Entdeckungsreise!"
+    ],
+    "md_main_mission_story_7_7": [
+      "Inzwischen werde ich mich wieder\nauf die Suche nach \u000e",
+      "\u0003\u0004毿Ｗneuen\nMethoden\u000e",
+      "\u0003\u0004",
+      "＀ machen, deine\nForschung voranzutreiben!"
+    ],
+    "md_main_mission_story_7_8": [
+      "Weiter so mit der super\nSchlafforschung!"
+    ],
+    "md_main_mission_story_8_1": [
+      "Klasse, toll gemacht!\nDu hast \u000e\u0002\u0003\u0004",
+      "촁 Schlafposen in\ndeinem Schlafdex registriert!"
+    ],
+    "md_main_mission_story_8_2": [
+      "Hier ist ein \u000e",
+      "\u0003\u0004毿ＷProfi-Camping-Ticket\n\u000e",
+      "\u0003\u0004",
+      "＀für deinen Fleiß!"
+    ],
+    "md_main_mission_story_8_3": [
+      "Ein Profi-Camping-Ticket kann\nsowohl bei der \u000e",
+      "\u0003\u0004毿ＷPflege von Relaxo\u000e",
+      "\u0003\u0004",
+      "＀\nals auch bei der \u000e",
+      "\u0003\u0004毿ＷSchlafforschung\u000e",
+      "\u0003\u0004",
+      "＀\neine große Hilfe sein."
+    ],
+    "md_main_mission_story_8_4": [
+      "Dieses praktische Item ermöglicht\nes dir, für \u000e",
+      "\u0003\u0004毿Ｗsieben Tage\u000e",
+      "\u0003\u0004",
+      "＀ ein\nProfi-Camping-Set auszuleihen,\nbeginnend mit dem Tag der\nVerwendung.\n"
+    ],
+    "md_main_mission_story_8_5": [
+      "Wenn du dieses Set verwendest,\nwird jedes Mal, wenn du schläfst,\n\u000e",
+      "\u0003\u0004毿Ｗein zusätzliches Pokémon\u000e",
+      "\u0003\u0004",
+      "＀\nerscheinen. Außerdem werden dir\ndeine Helfer \u000e",
+      "\u0003\u0004毿Ｗschneller aushelfen\u000e",
+      "\u0003\u0004",
+      "＀!"
+    ],
+    "md_main_mission_story_8_6": [
+      "Probier es doch mal aus, wenn du\ndein nächstes Ziel anvisierst:\n\u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
+      "촁 Schlafposen\u000e",
+      "\u0003\u0004",
+      "＀ in deinem\nSchlafdex."
+    ],
+    "md_main_mission_story_8_7": [
+      "Das ist mein Stichwort, ein\nweiteres \u000e",
+      "\u0003\u0004毿Ｗneues Gebiet\u000e",
+      "\u0003\u0004",
+      "＀ in Angriff\nzu nehmen!"
+    ],
+    "md_main_mission_story_8_8": [
+      "Weiter so mit der super\nSchlafforschung!"
+    ],
+    "md_main_mission_story_waiting_update": [
+      "Hier, das wird dir bei deiner\nzukünftigen Schlafdex-Forschung\nsicher von Nutzen sein!"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 65,
+        "size": 459,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 37,
+        "size": 2257,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "md_main_mission_story_1_7"
+            ],
+            [
+              59,
+              "md_main_mission_story_8_4"
+            ]
+          ],
+          356
+        ],
+        [
+          [
+            [
+              7,
+              "md_main_mission_story_1_8"
+            ],
+            [
+              32,
+              "md_main_mission_story_5_1"
+            ],
+            [
+              60,
+              "md_main_mission_story_8_5"
+            ]
+          ],
+          446
+        ],
+        [
+          [
+            [
+              33,
+              "md_main_mission_story_5_2"
+            ],
+            [
+              61,
+              "md_main_mission_story_8_6"
+            ]
+          ],
+          506
+        ],
+        [
+          [
+            [
+              34,
+              "md_main_mission_story_5_3"
+            ],
+            [
+              62,
+              "md_main_mission_story_8_7"
+            ]
+          ],
+          566
+        ],
+        [
+          [
+            [
+              35,
+              "md_main_mission_story_5_4"
+            ],
+            [
+              63,
+              "md_main_mission_story_8_8"
+            ]
+          ],
+          626
+        ],
+        [
+          [
+            [
+              8,
+              "md_main_mission_story_2_1"
+            ],
+            [
+              36,
+              "md_main_mission_story_5_5"
+            ]
+          ],
+          686
+        ],
+        [
+          [
+            [
+              9,
+              "md_main_mission_story_2_2"
+            ],
+            [
+              37,
+              "md_main_mission_story_5_6"
+            ]
+          ],
+          746
+        ],
+        [
+          [
+            [
+              10,
+              "md_main_mission_story_2_3"
+            ],
+            [
+              38,
+              "md_main_mission_story_5_7"
+            ]
+          ],
+          806
+        ],
+        [
+          [
+            [
+              11,
+              "md_main_mission_story_2_4"
+            ],
+            [
+              39,
+              "md_main_mission_story_5_8"
+            ]
+          ],
+          866
+        ],
+        [
+          [
+            [
+              12,
+              "md_main_mission_story_2_5"
+            ]
+          ],
+          896
+        ],
+        [
+          [
+            [
+              13,
+              "md_main_mission_story_2_6"
+            ]
+          ],
+          926
+        ],
+        [
+          [
+            [
+              14,
+              "md_main_mission_story_2_7"
+            ]
+          ],
+          956
+        ],
+        [
+          [
+            [
+              15,
+              "md_main_mission_story_2_8"
+            ],
+            [
+              40,
+              "md_main_mission_story_6_1"
+            ]
+          ],
+          1016
+        ],
+        [
+          [
+            [
+              41,
+              "md_main_mission_story_6_2"
+            ]
+          ],
+          1046
+        ],
+        [
+          [
+            [
+              42,
+              "md_main_mission_story_6_3"
+            ]
+          ],
+          1076
+        ],
+        [
+          [
+            [
+              43,
+              "md_main_mission_story_6_4"
+            ]
+          ],
+          1106
+        ],
+        [
+          [
+            [
+              16,
+              "md_main_mission_story_3_1"
+            ],
+            [
+              44,
+              "md_main_mission_story_6_5"
+            ]
+          ],
+          1166
+        ],
+        [
+          [
+            [
+              17,
+              "md_main_mission_story_3_2"
+            ],
+            [
+              45,
+              "md_main_mission_story_6_6"
+            ]
+          ],
+          1226
+        ],
+        [
+          [
+            [
+              18,
+              "md_main_mission_story_3_3"
+            ],
+            [
+              46,
+              "md_main_mission_story_6_7"
+            ]
+          ],
+          1286
+        ],
+        [
+          [
+            [
+              19,
+              "md_main_mission_story_3_4"
+            ],
+            [
+              47,
+              "md_main_mission_story_6_8"
+            ],
+            [
+              64,
+              "md_main_mission_story_waiting_update"
+            ]
+          ],
+          1387
+        ],
+        [
+          [
+            [
+              20,
+              "md_main_mission_story_3_5"
+            ]
+          ],
+          1417
+        ],
+        [
+          [
+            [
+              21,
+              "md_main_mission_story_3_6"
+            ]
+          ],
+          1447
+        ],
+        [
+          [
+            [
+              22,
+              "md_main_mission_story_3_7"
+            ]
+          ],
+          1477
+        ],
+        [
+          [
+            [
+              23,
+              "md_main_mission_story_3_8"
+            ],
+            [
+              48,
+              "md_main_mission_story_7_1"
+            ]
+          ],
+          1537
+        ],
+        [
+          [
+            [
+              49,
+              "md_main_mission_story_7_2"
+            ]
+          ],
+          1567
+        ],
+        [
+          [
+            [
+              50,
+              "md_main_mission_story_7_3"
+            ]
+          ],
+          1597
+        ],
+        [
+          [
+            [
+              51,
+              "md_main_mission_story_7_4"
+            ]
+          ],
+          1627
+        ],
+        [
+          [
+            [
+              24,
+              "md_main_mission_story_4_1"
+            ],
+            [
+              52,
+              "md_main_mission_story_7_5"
+            ]
+          ],
+          1687
+        ],
+        [
+          [
+            [
+              25,
+              "md_main_mission_story_4_2"
+            ],
+            [
+              53,
+              "md_main_mission_story_7_6"
+            ]
+          ],
+          1747
+        ],
+        [
+          [
+            [
+              26,
+              "md_main_mission_story_4_3"
+            ],
+            [
+              54,
+              "md_main_mission_story_7_7"
+            ]
+          ],
+          1807
+        ],
+        [
+          [
+            [
+              27,
+              "md_main_mission_story_4_4"
+            ],
+            [
+              55,
+              "md_main_mission_story_7_8"
+            ]
+          ],
+          1867
+        ],
+        [
+          [
+            [
+              0,
+              "md_main_mission_story_1_1"
+            ],
+            [
+              28,
+              "md_main_mission_story_4_5"
+            ]
+          ],
+          1927
+        ],
+        [
+          [
+            [
+              1,
+              "md_main_mission_story_1_2"
+            ],
+            [
+              29,
+              "md_main_mission_story_4_6"
+            ]
+          ],
+          1987
+        ],
+        [
+          [
+            [
+              2,
+              "md_main_mission_story_1_3"
+            ],
+            [
+              30,
+              "md_main_mission_story_4_7"
+            ]
+          ],
+          2047
+        ],
+        [
+          [
+            [
+              3,
+              "md_main_mission_story_1_4"
+            ],
+            [
+              31,
+              "md_main_mission_story_4_8"
+            ],
+            [
+              56,
+              "md_main_mission_story_8_1"
+            ]
+          ],
+          2137
+        ],
+        [
+          [
+            [
+              4,
+              "md_main_mission_story_1_5"
+            ],
+            [
+              57,
+              "md_main_mission_story_8_2"
+            ]
+          ],
+          2197
+        ],
+        [
+          [
+            [
+              5,
+              "md_main_mission_story_1_6"
+            ],
+            [
+              58,
+              "md_main_mission_story_8_3"
+            ]
+          ],
+          2257
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 65,
+        "size": 14276,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

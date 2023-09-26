@@ -1,0 +1,2506 @@
+{
+  "strings": {
+    "HomeMenuScene_GraphScorePerDay": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "HomeMenuScene_HomeMenuView_AddSleepData": [
+      "Add Sleep Data"
+    ],
+    "HomeMenuScene_HomeMenuView_AverageSleepTime_Title": [
+      "Average Sleep\nTime This Week"
+    ],
+    "HomeMenuScene_HomeMenuView_AverageSleepTime_Value": [
+      "\u000e\t",
+      "\u001a\u0016hhh:mmm:sss",
+      ""
+    ],
+    "HomeMenuScene_HomeMenuView_BagButton": [
+      "Bag"
+    ],
+    "HomeMenuScene_HomeMenuView_Day": [
+      "\u000e\t",
+      "\b\u0004dd",
+      ""
+    ],
+    "HomeMenuScene_HomeMenuView_MapButton": [
+      "Map"
+    ],
+    "HomeMenuScene_HomeMenuView_MenuButton": [
+      "Settings\nand More"
+    ],
+    "HomeMenuScene_HomeMenuView_PokedexButton": [
+      "Sleep\nStyle Dex"
+    ],
+    "HomeMenuScene_HomeMenuView_ResearchNoteButton": [
+      "Notes"
+    ],
+    "HomeMenuScene_HomeMenuView_SleepAnalysisButton": [
+      "Sleep\nTrends"
+    ],
+    "HomeMenuScene_HomeMenuView_SleepDataButton": [
+      "Sleep Data"
+    ],
+    "HomeMenuScene_HomeMenuView_SocialButton": [
+      "Research\nCommunity"
+    ],
+    "HomeMenuScene_HomeMenuView_Title": [
+      "Features"
+    ],
+    "HomeMenuScene_HomeMenuView_Title_2": [
+      "Main Menu"
+    ],
+    "HomeMenuScene_HomeMenuView_Title_small": [
+      "Pokémon Sleep"
+    ],
+    "HomeMenuScene_HomeMenuView_WeekDay": [
+      "\u000e\t\u0001\u0004Ā촀"
+    ],
+    "HomeMenuScene_HomeMenuView_Y_Axis_Score_0": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "HomeMenuScene_HomeMenuView_Y_Axis_Score_100": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "HomeMenuScene_HomeMenuView_Y_Axis_Score_50": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "HomeMenuSubMenuPopup_Headline_GPP": [
+      "Pokémon GO Plus +"
+    ],
+    "HomeMenuSubMenuPopup_Headline_General": [
+      "Settings"
+    ],
+    "HomeMenuSubMenuPopup_Headline_Others": [
+      "Other"
+    ],
+    "HomeMenuSubMenuPopup_Title": [
+      "Settings and More"
+    ],
+    "HomeMenuSubMenuPopup_Title_10": [
+      "Terms of Use"
+    ],
+    "HomeMenuSubMenuPopup_Title_11": [
+      "Privacy Notice"
+    ],
+    "HomeMenuSubMenuPopup_Title_12": [
+      "Staff Credits"
+    ],
+    "HomeMenuSubMenuPopup_Title_13": [
+      "Copyright Info"
+    ],
+    "HomeMenuSubMenuPopup_Title_14": [
+      "Contact Us"
+    ],
+    "HomeMenuSubMenuPopup_Title_15": [
+      "Unpair a Device"
+    ],
+    "HomeMenuSubMenuPopup_Title_2": [
+      "User Manual"
+    ],
+    "HomeMenuSubMenuPopup_Title_4": [
+      "Pair a Device"
+    ],
+    "HomeMenuSubMenuPopup_Title_5": [
+      "Help Articles"
+    ],
+    "HomeMenuSubMenuPopup_Title_6": [
+      "Support Website"
+    ],
+    "HomeMenuSubMenuPopup_Title_7": [
+      "General Settings"
+    ],
+    "HomeMenuSubMenuPopup_Title_8": [
+      "Language Settings"
+    ],
+    "HomeMenuSubMenuPopup_Title_9": [
+      "Link Accounts"
+    ],
+    "HomeMenu_SCENE_AccountLinkage": [
+      "Link Accounts"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_AppleUnlinkDialog_Text": [
+      "Proceeding will remove\nthe link between this\nprofile and your Apple ID."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_FacebookUnlinkDialog_Text": [
+      "Proceeding will remove the\nlink between this profile\nand your Facebook account."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_1_1": [
+      "We were not able to link this\nprofile to your Apple ID."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_1_2": [
+      "We were not able to link this profile\nto your Google Account."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_1_3": [
+      "We were not able to link this profile\nto your Facebook account."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_2": [
+      "The account could not be linked."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_3": [
+      "This account is already linked to a\ndifferent Pokémon Sleep profile."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_FailureDialog_Title": [
+      "Linking Failed"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_GoogleUnlinkDialog_Text": [
+      "Proceeding will remove the\nlink between this profile\nand your Google Account."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_Heading1": [
+      "Social Media Accounts"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_Heading2": [
+      "Support ID and Transfer Code"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordConfirmButton": [
+      "Check Transfer Code"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordConfirmSuccessDialog_Text_1": [
+      "Transfer Code generated!"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordConfirmSuccessDialog_Text_2": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆDo not share your Transfer Code with any\nthird party or otherwise make it public, as\nyou may later become unable to continue\nplaying using this play data.\n\u000e",
+      "\u0003\u0004",
+      "＀\u000e",
+      "\u0003\u0004毿ＷBe sure to keep your Transfer Code private!\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordConfirmSuccessDialog_Title": [
+      "Code Generated"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Heading": [
+      "Notes about Transfer Codes"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDialog_IssueButton": [
+      "Issue Code"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Text_1": [
+      "Generating a Transfer Code makes it possible\nto transfer your play data to another device.\nTo transfer data, you will need the \u000e",
+      "\u0003\u0004毿ＷTransfer\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿ＷCode \u000e",
+      "\u0003\u0004",
+      "＀issued here and your \u000e",
+      "\u0003\u0004毿ＷSupport ID\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Text_2": [
+      "Do not share your Transfer Code with any\nthird party or otherwise make it public, as\nyou may later become unable to continue\nplaying using this play data.\n\u000e",
+      "\u0003\u0004毿ＷBe sure to keep your Transfer Code private!\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Text_3": [
+      "You can generate new Transfer Codes as\nneeded. If you do, the previously generated\nTransfer Code will become defunct."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Title": [
+      "Generate Transfer Code"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Heading_1": [
+      "Transferring Play Data"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Heading_2": [
+      "Support ID"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Heading_3": [
+      "Transfer Code"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_IssueButton": [
+      "Get New Transfer Code"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_SaveButton": [
+      "Take Screenshot"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Text_1": [
+      "You will need both the Support ID and the\nTransfer Code below to transfer your play\ndata to a different device."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Text_2": [
+      "Make sure to write them down, screenshot \nthis page, or otherwise save this info!"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Title": [
+      "Transfer Info"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveFailure_Popup_Text": [
+      "The screenshot couldn’t be saved."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveFailure_Popup_Title": [
+      "Saving Failed"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveSuccess_Popup_Text": [
+      "The screenshot was\nsaved as an image!"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveSuccess_Popup_Title": [
+      "Screenshot Saved"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordIssueButton": [
+      "Issue a Transfer Code"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Button": [
+      "Continue"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Text_1": [
+      "You are about to generate a new Transfer\nCode. Do you wish to continue?"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Text_2": [
+      "\u000e",
+      "\u0003\u0004毿ＷRemember that your previously\ngenerated Transfer Code will\nno longer work once you do!\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Title": [
+      "Confirm"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_1": [
+      "You can only generate a new\nTransfer Code once per hour."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_2": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆPlease try again later.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Title": [
+      "Action Unavailable"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_ReissueSuccessDialog_Text_1": [
+      "A new Transfer Code was generated!"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_ReissueSuccessDialog_Text_2": [
+      "Do not share your Transfer Code\nwith any third party or otherwise\nmake it public, as you may later\nbecome unable to continue playing\nusing this play data. \u000e",
+      "\u0003\u0004毿ＷBe sure to keep\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗyour Transfer Code private!\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_ReissueSuccessDialog_Title": [
+      "Success"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_SNS_AppleButton_Already": [
+      "Unlink Apple ID"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_SNS_FacebookButton_Already": [
+      "Unlink Facebook Account"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_SNS_GoogleButton_Already": [
+      "Unlink Google Account"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_1": [
+      "You’ve successfully\nlinked your Apple ID!"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_2": [
+      "You’ve successfully linked your\nGoogle Account!"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_3": [
+      "You’ve successfully linked your\nFacebook account!"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_4": [
+      "When you start the app on a new\ndevice, you can transfer your data\nto it using the “Transfer Existing\nSave Data” option."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Title": [
+      "Successfully Linked"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_Text": [
+      "By linking accounts, you will be able to carry over\nyour play data if you change devices."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_UnlinkDialog_Text": [
+      "Would you like to unlink this account?"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_UnlinkDialog_Title": [
+      "Unlink Account"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_UnlinkFailureDialog_Text": [
+      "We were unable to remove the link."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_UnlinkFailureDialog_Title": [
+      "Unlinking Failed"
+    ],
+    "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Text_1": [
+      "The link to your Apple ID\nhas been removed."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Text_2": [
+      "The link to your Google Account\nhas been removed."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Text_3": [
+      "The link to your Facebook account\nhas been removed."
+    ],
+    "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Title": [
+      "Successfully Unlinked"
+    ],
+    "HomeMenu_SCENE_LanguageOption_Chinese": [
+      "繁體中文"
+    ],
+    "HomeMenu_SCENE_LanguageOption_ConfirmPopup_Text": [
+      "Change to the above language?"
+    ],
+    "HomeMenu_SCENE_LanguageOption_ConfirmPopup_Title": [
+      "Confirm"
+    ],
+    "HomeMenu_SCENE_LanguageOption_English": [
+      "English"
+    ],
+    "HomeMenu_SCENE_LanguageOption_FinishedPopup_Text_1": [
+      "Your language settings have been changed!"
+    ],
+    "HomeMenu_SCENE_LanguageOption_FinishedPopup_Text_2": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆThe application will now restart.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_LanguageOption_FinishedPopup_Title": [
+      "Language Changed"
+    ],
+    "HomeMenu_SCENE_LanguageOption_French": [
+      "Français"
+    ],
+    "HomeMenu_SCENE_LanguageOption_German": [
+      "Deutsch"
+    ],
+    "HomeMenu_SCENE_LanguageOption_Heading": [
+      "Languages"
+    ],
+    "HomeMenu_SCENE_LanguageOption_Italian": [
+      "Italiano"
+    ],
+    "HomeMenu_SCENE_LanguageOption_Japanese": [
+      "日本語"
+    ],
+    "HomeMenu_SCENE_LanguageOption_Korean": [
+      "한국어"
+    ],
+    "HomeMenu_SCENE_LanguageOption_Spanish": [
+      "Español"
+    ],
+    "HomeMenu_SCENE_LanguageOption_Text_1": [
+      "Choose your language below."
+    ],
+    "HomeMenu_SCENE_LanguageOption_Text_2": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆNote: The app will automatically restart\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004蚆ﾆafter changing your language.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_LanguageOption_Title": [
+      "Language Settings"
+    ],
+    "HomeMenu_SCENE_Option_AccountDelete_Button": [
+      "Delete My Account"
+    ],
+    "HomeMenu_SCENE_Option_AccountDelete_Text": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆThis option will delete all data associated with\nthis account. It cannot be undone!\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Button": [
+      "Delete Account"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Button": [
+      "Delete Account"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Text_1": [
+      "Data associated with this account will\nbe permanently lost if you delete it."
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Text_2": [
+      "\u000e",
+      "\u0003\u0004毿ＷThere will be no way to restore your data\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗfor any reason\u000e",
+      "\u0003\u0004",
+      "＀.\nAre you certain you want to continue?"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Text_3": [
+      "I understand the above"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Title": [
+      "Final Confirmation"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Finished_Button": [
+      "To Title Screen"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Finished_Text_1": [
+      "Your account has been deleted."
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Finished_Text_2": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆPlease close the app.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Finished_Title": [
+      "Account Deleted"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Heading_1": [
+      "Data To Be Deleted"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Heading_2": [
+      "Note for Premium Pass Subscribers"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Text_1": [
+      "If you delete your account, your data\nwill be permanently lost.\nThere will be no way to restore it.\nDeletion may take up to 24 hours."
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Text_2": [
+      "All play records and data"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Text_3": [
+      "All items (including diamonds)"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Text_4": [
+      "Premium Pass rewards"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Text_5": [
+      "Data from Pokémon GO Plus +"
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Text_6": [
+      "Deleting your account \u000e",
+      "\u0003\u0004毿Ｗwill not automatically\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗcancel your Premium Pass\u000e",
+      "\u0003\u0004",
+      "＀. You must cancel it\nthrough the store where you purchased it."
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Text_7": [
+      "To cancel your plan, open the \u000e",
+      "\u0003\u0004毿ＷSettings\u000e",
+      "\u0003\u0004",
+      "＀\napplication on your device, then select your\n\u000e",
+      "\u0003\u0004毿ＷApple ID\u000e",
+      "\u0003\u0004",
+      "＀, followed by \u000e",
+      "\u0003\u0004毿ＷSubscriptions\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Text_8": [
+      "To cancel your plan, open the \u000e",
+      "\u0003\u0004毿ＷPlay Store\u000e",
+      "\u0003\u0004",
+      "＀\napplication on your device, then tap your \u000e",
+      "\u0003\u0004毿Ｗprofile\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗicon\u000e",
+      "\u0003\u0004",
+      "＀ in the upper-right corner. In the list, select\n\u000e",
+      "\u0003\u0004毿ＷPayments & subscriptions\u000e",
+      "\u0003\u0004",
+      "＀, then \u000e",
+      "\u0003\u0004毿ＷSubscriptions\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "HomeMenu_SCENE_Option_DeleteDialog_Title": [
+      "Delete Account"
+    ],
+    "HomeMenu_SCENE_Option_InformationButton": [
+      "Regarding Data Sharing"
+    ],
+    "HomeMenu_SCENE_Option_Information_Text": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆBy providing information about your gameplay,\nyou can help the developer improve the app.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_Option_InitialSettingButton": [
+      "Restore Default Settings"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Detail_1": [
+      "Bedtime reminders"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Detail_2": [
+      "Sleep tracking reminders"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Detail_3": [
+      "Unreviewed reports"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Detail_4": [
+      "Berry inventory full"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Detail_5": [
+      "Time to move sites"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Detail_6": [
+      "Notifications from developer"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Heading_1": [
+      "Notifications"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Heading_2": [
+      "Notifications from the Developer"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Heading_3": [
+      "Restore Defaults"
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_1": [
+      "A notification will be sent 30 minutes\nbefore your designated bedtime."
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_2": [
+      "A notification will be sent when you\nhaven’t tracked any sleep sessions\nfor a while."
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_3": [
+      "A notification will be sent when \nyou’ve left a sleep research report\nunreviewed for a while."
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_4": [
+      "A notification will be sent when a\nhelper has gathered as many Berries\nor ingredients as they can carry,\nbut you still haven’t collected them."
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_5": [
+      "A notification will be sent when\nyou’re overdue to change sites."
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_1": [
+      "Bedtime Reminders"
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_2": [
+      "Sleep Tracking Reminders"
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_3": [
+      "Unreviewed Reports"
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_4": [
+      "Berry Inventory Full"
+    ],
+    "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_5": [
+      "Time to Move Sites"
+    ],
+    "HomeMenu_SCENE_Option_Notification_Text": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆOccasional notifications may be sent about events,\nspecial campaigns, performance issues, etc.\nNote: Even if you disable these notifications, you\nmay still receive messages that are deemed critical.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_Option_Notification_TimeZone": [
+      "Enable Do-Not-Disturb hours"
+    ],
+    "HomeMenu_SCENE_Option_Notification_TimeZone_End": [
+      "Set End Time"
+    ],
+    "HomeMenu_SCENE_Option_Notification_TimeZone_Error_Text": [
+      "The start and end time must differ!"
+    ],
+    "HomeMenu_SCENE_Option_Notification_TimeZone_Error_Title": [
+      "Error"
+    ],
+    "HomeMenu_SCENE_Option_Notification_TimeZone_Start": [
+      "Set Start Time"
+    ],
+    "HomeMenu_SCENE_Option_Notification_TimeZone_Symbol": [
+      "to"
+    ],
+    "HomeMenu_SCENE_Option_Others_Heading_1": [
+      "Performance Settings"
+    ],
+    "HomeMenu_SCENE_Option_Others_Heading_2": [
+      "Data Sharing"
+    ],
+    "HomeMenu_SCENE_Option_Others_Heading_3": [
+      "Delete Account"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_FPS": [
+      "Frame Rate"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_FPS_Choice_1": [
+      "60 FPS"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_FPS_Choice_2": [
+      "30 FPS"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_Screen": [
+      "Graphic Quality"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_1": [
+      "Standard"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_2": [
+      "Reduced"
+    ],
+    "HomeMenu_SCENE_Option_Others_Quality_Text": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆYou may be able to improve game performance and\nreduce battery drain by lowering these settings.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_Option_Sound_BGM": [
+      "Music"
+    ],
+    "HomeMenu_SCENE_Option_Sound_BGM_Value": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "HomeMenu_SCENE_Option_Sound_Heading": [
+      "Volume Settings"
+    ],
+    "HomeMenu_SCENE_Option_Sound_PokemonVoice": [
+      "Pokémon Cries"
+    ],
+    "HomeMenu_SCENE_Option_Sound_PokemonVoice_Value": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "HomeMenu_SCENE_Option_Sound_SE": [
+      "Sound Effects"
+    ],
+    "HomeMenu_SCENE_Option_Sound_SE_Value": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "HomeMenu_SCENE_Option_Sound_Text": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆVolume can be set from 0 (muted) to 10 (loudest).\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_Option_Tab_1": [
+      "Notifications"
+    ],
+    "HomeMenu_SCENE_Option_Tab_2": [
+      "Sounds"
+    ],
+    "HomeMenu_SCENE_Option_Tab_3": [
+      "Other"
+    ],
+    "HomeMenu_SCENE_Option_Title": [
+      "General Settings"
+    ],
+    "HomeMenu_SCENE_SDKAgreePopup_Button_1": [
+      "Change"
+    ],
+    "HomeMenu_SCENE_SDKAgreePopup_Heading": [
+      "Request to Use Information"
+    ],
+    "HomeMenu_SCENE_SDKAgreePopup_Text_1": [
+      "In order to improve our service and provide\nadvertisements and information tailored to\nplayers, Pokémon Sleep collects the\nfollowing types of information:"
+    ],
+    "HomeMenu_SCENE_SDKAgreePopup_Text_2": [
+      "Login information and play data"
+    ],
+    "HomeMenu_SCENE_SDKAgreePopup_Text_3": [
+      "Performance-related errors"
+    ],
+    "HomeMenu_SCENE_SDKAgreePopup_Text_4": [
+      "We would appreciate if you would agree to\nthis use of your data so that we can\nimprove the service we provide."
+    ],
+    "HomeMenu_SCENE_SDKAgreePopup_Text_5": [
+      "Even if you don’t agree, you’ll still be able\nto use Pokémon Sleep."
+    ],
+    "HomeMenu_SCENE_SDKAgreePopup_Text_6": [
+      "Agree to Data Use"
+    ],
+    "HomeMenu_SCENE_SDKAgreeRebootPopup_Text_1": [
+      "Data sharing has been turned off."
+    ],
+    "HomeMenu_SCENE_SDKAgreeRebootPopup_Text_2": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆThe application will now restart.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_SDKAgreeRebootPopup_Title": [
+      "Setting Changed"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Button": [
+      "To Form"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_CopyButton": [
+      "Copy"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_CopySuccess_Text": [
+      "Copied"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Heading": [
+      "Usage Environment Information"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Text_1": [
+      "We appreciate your cooperation in providing\nthis information, which will help us investigate\nand support you with any encountered issues."
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Text_2": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆIn some cases, the information below will be entered automatically.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Text_3": [
+      "Support ID"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Text_5": [
+      "App Version"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Text_6": [
+      "Version \u000e\u0002\u0001\u0002",
+      ".\u000e\u0002\u0002\u0002\u0001.\u000e\u0002\u0002\u0002\u0002"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Text_7": [
+      "Device OS"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Text_9": [
+      "Device Model"
+    ],
+    "HomeMenu_SCENE_SupportContactPopup_Title": [
+      "Contact Us"
+    ],
+    "ManualReportConfirmPopup_Desc": [
+      "You cannot edit or delete sleep\nsessions that you added manually."
+    ],
+    "ManualReportConfirmPopup_SleepTileValue": [
+      "\u000e\t\u0001\u0004ā촀 \u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      "  \u000e\u0002\u0001\u0002\u0002:\u000e\u0002\u0001\u0002ă"
+    ],
+    "ManualReportConfirmPopup_Title": [
+      "Confirm Data"
+    ],
+    "ManualReportDescPopup_Desc": [
+      "Forgot to track your sleep?\nYou can enter the data manually!"
+    ],
+    "ManualReportDescPopup_Section_Desc_1": [
+      "You can’t do sleep research or receive the usual rewards, but you’ll get a \u000e",
+      "\u0003\u0004毿Ｗsmall reward\u000e",
+      "\u0003\u0004",
+      "＀ for the first sleep session logged on a day."
+    ],
+    "ManualReportDescPopup_Section_Desc_2": [
+      "\u000e",
+      "\u0003\u0004毿ＷPremium Pass subscribers\u000e",
+      "\u0003\u0004",
+      "＀ will receive their bonus sleep points just as they would for tracking a sleep session normally."
+    ],
+    "ManualReportDescPopup_Section_Desc_3": [
+      "No rewards will be given out for the second sleep session added in a given day."
+    ],
+    "ManualReportDescPopup_Section_Desc_RegisterButton": [
+      "Add Data"
+    ],
+    "ManualReportDescPopup_Section_Title": [
+      "Important Notes"
+    ],
+    "ManualReportDescPopup_Title": [
+      "Manual Addition of Sleep Data"
+    ],
+    "ManualReportErrorPopup_Text_1": [
+      "You can only add sleep sessions that\nfell within the past 30 hours.\nPlease check your sleep time."
+    ],
+    "ManualReportErrorPopup_Text_2_1": [
+      "The time that you said you went to\nsleep falls after the time that you\nsaid you woke up!"
+    ],
+    "ManualReportErrorPopup_Text_2_2": [
+      "The time that you said you woke up\nfalls before the time that you said\nyou went to sleep!"
+    ],
+    "ManualReportErrorPopup_Text_2_3": [
+      "You can’t add sleep sessions for a\ntime that’s still in the future."
+    ],
+    "ManualReportErrorPopup_Text_2_4": [
+      "If you want to add a sleep session,\nit must be at least 90 minutes long.\nPlease check the data you entered."
+    ],
+    "ManualReportErrorPopup_Text_2_5": [
+      "If you want to add a sleep session,\nit cannot be longer than 12 hours.\nPlease check the data you entered."
+    ],
+    "ManualReportErrorPopup_Text_3": [
+      "You can only track or add two sleep\nsessions per day. You’ve already\nreached your limit for today."
+    ],
+    "ManualReportErrorPopup_Text_4": [
+      "The times you’ve entered overlap with\nanother sleep session you’ve already\nadded or tracked, so this data can’t\nbe saved. Please check the times you\nentered and try again."
+    ],
+    "ManualReportErrorPopup_Text_5": [
+      "This sleep session would fall before\none you’ve already added or tracked,\nso it cannot be saved. Please check\nthe times you entered and try again."
+    ],
+    "ManualReportErrorPopup_Text_6": [
+      "Please check the data you’ve\nentered and try again."
+    ],
+    "ManualReportErrorPopup_Text_7": [
+      "Before trying to manually add data,\nplease review any pending reports!"
+    ],
+    "ManualReportErrorPopup_Title_1": [
+      "Data Too Old"
+    ],
+    "ManualReportErrorPopup_Title_2": [
+      "Invalid Data"
+    ],
+    "ManualReportErrorPopup_Title_3": [
+      "Too Many Sessions"
+    ],
+    "ManualReportErrorPopup_Title_4": [
+      "Data Conflict"
+    ],
+    "ManualReportErrorPopup_Title_5": [
+      "Data Not Most Current"
+    ],
+    "ManualReportErrorPopup_Title_6": [
+      "Data Error"
+    ],
+    "ManualReportErrorPopup_Title_7": [
+      "Review Pending"
+    ],
+    "ManualReportFinishPopup_Content_Desc_1": [
+      "Your helpers had their \u000e",
+      "\u0003\u0004毿ＷEnergy restored\u000e",
+      "\u0003\u0004",
+      "＀!"
+    ],
+    "ManualReportFinishPopup_Content_Desc_2": [
+      "You’ll get \u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002",
+      "\u0002촀 Bonus \u000e\u0001",
+      "$\u000eBiscuit\u0010Biscuits촀\u000e",
+      "\u0003\u0004",
+      "＀ (\u000e",
+      "\u0003\u0004毿Ｗone more than\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗusual\u000e",
+      "\u0003\u0004",
+      "＀) from the next sleep session you\ntrack after today!"
+    ],
+    "ManualReportFinishPopup_Content_Desc_NoReward": [
+      "This is your second sleep session for\ntoday, so you’ll receive no rewards."
+    ],
+    "ManualReportFinishPopup_Content_Title": [
+      "Your data has been added and\nyou received some rewards!"
+    ],
+    "ManualReportFinishPopup_Content_Title_NoReward": [
+      "Your session has been added!"
+    ],
+    "ManualReportFinishPopup_Header_Title": [
+      "Data Added"
+    ],
+    "ManualReportGPPNotificationPopup_Button_1": [
+      "Proceed"
+    ],
+    "ManualReportGPPNotificationPopup_Button_2": [
+      "Sync Data"
+    ],
+    "ManualReportGPPNotificationPopup_Text": [
+      "If you have sleep data on your\nPokémon GO Plus + that you haven’t\nyet reported, please synchronize with\nyour Pokémon GO Plus + first."
+    ],
+    "ManualReportGPPNotificationPopup_Title": [
+      "Confirmation"
+    ],
+    "ManualReportNoBonusDescPopup_Message": [
+      "This will be your second set of sleep\ndata for today, so you won’t receive\nthe following rewards:\n- Sleep points\n- Pokémon energy recovery\n- Pokémon EXP"
+    ],
+    "ManualReportNoBonusDescPopup_Title": [
+      "Confirmation"
+    ],
+    "ManualReportRegisterPopup_Desc": [
+      "You can enter data for times you\nslept within the past 30 hours."
+    ],
+    "ManualReportRegisterPopup_RegisterButton": [
+      "Save"
+    ],
+    "ManualReportRegisterPopup_SleepEndTime_Title": [
+      "Time You Woke Up"
+    ],
+    "ManualReportRegisterPopup_SleepStartTime_Title": [
+      "Time You Went to Sleep"
+    ],
+    "ManualReportRegisterPopup_SleepTimeValue": [
+      "\u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      " \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă"
+    ],
+    "ManualReportRegisterPopup_SleepTimeValue_AMPM": [
+      "\u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      " \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă \u000e\t\u0003\u0002촃"
+    ],
+    "ManualReportRegisterPopup_Title": [
+      "Manual Data Entry"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 260,
+        "size": 1824,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 101,
+        "size": 13226,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              2,
+              "HomeMenuScene_HomeMenuView_Y_Axis_Score_50"
+            ],
+            [
+              153,
+              "HomeMenu_SCENE_AccountLinkage_SNS_GoogleButton_Already"
+            ]
+          ],
+          914
+        ],
+        [
+          [
+            [
+              27,
+              "HomeMenuSubMenuPopup_Headline_General"
+            ],
+            [
+              97,
+              "HomeMenu_SCENE_Option_Sound_BGM"
+            ],
+            [
+              172,
+              "HomeMenu_SCENE_AccountLinkage_GoogleUnlinkDialog_Text"
+            ]
+          ],
+          1050
+        ],
+        [
+          [
+            [
+              185,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDialog_IssueButton"
+            ]
+          ],
+          1111
+        ],
+        [
+          [
+            [
+              57,
+              "HomeMenu_SCENE_LanguageOption_Korean"
+            ],
+            [
+              130,
+              "HomeMenu_SCENE_Option_DeleteDialog_Heading_1"
+            ]
+          ],
+          1201
+        ],
+        [
+          [
+            [
+              121,
+              "HomeMenu_SCENE_SDKAgreePopup_Button_1"
+            ],
+            [
+              135,
+              "HomeMenu_SCENE_Option_DeleteDialog_Heading_2"
+            ]
+          ],
+          1292
+        ],
+        [
+          [
+            [
+              76,
+              "HomeMenu_SCENE_Option_Notification_Detail_1"
+            ],
+            [
+              126,
+              "HomeMenu_SCENE_Option_AccountDelete_Text"
+            ],
+            [
+              256,
+              "ManualReportGPPNotificationPopup_Title"
+            ]
+          ],
+          1428
+        ],
+        [
+          [
+            [
+              77,
+              "HomeMenu_SCENE_Option_Notification_Detail_2"
+            ],
+            [
+              81,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_1"
+            ],
+            [
+              92,
+              "HomeMenu_SCENE_Option_Notification_Text"
+            ],
+            [
+              227,
+              "ManualReportConfirmPopup_Title"
+            ]
+          ],
+          1612
+        ],
+        [
+          [
+            [
+              78,
+              "HomeMenu_SCENE_Option_Notification_Detail_3"
+            ],
+            [
+              82,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_2"
+            ]
+          ],
+          1717
+        ],
+        [
+          [
+            [
+              20,
+              "HomeMenuSubMenuPopup_Title_2"
+            ],
+            [
+              65,
+              "HomeMenu_SCENE_Option_Tab_1"
+            ],
+            [
+              79,
+              "HomeMenu_SCENE_Option_Notification_Detail_4"
+            ],
+            [
+              83,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_3"
+            ],
+            [
+              141,
+              "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Text_1"
+            ]
+          ],
+          1941
+        ],
+        [
+          [
+            [
+              66,
+              "HomeMenu_SCENE_Option_Tab_2"
+            ],
+            [
+              80,
+              "HomeMenu_SCENE_Option_Notification_Detail_5"
+            ],
+            [
+              84,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_4"
+            ],
+            [
+              142,
+              "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Text_2"
+            ]
+          ],
+          2132
+        ],
+        [
+          [
+            [
+              21,
+              "HomeMenuSubMenuPopup_Title_4"
+            ],
+            [
+              67,
+              "HomeMenu_SCENE_Option_Tab_3"
+            ],
+            [
+              85,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Title_5"
+            ],
+            [
+              93,
+              "HomeMenu_SCENE_Option_Notification_Detail_6"
+            ],
+            [
+              143,
+              "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Text_3"
+            ],
+            [
+              216,
+              "ManualReportDescPopup_Section_Desc_1"
+            ]
+          ],
+          2397
+        ],
+        [
+          [
+            [
+              24,
+              "HomeMenuSubMenuPopup_Title_5"
+            ],
+            [
+              146,
+              "HomeMenu_SCENE_Option_DeleteDialog_Finished_Text_1"
+            ],
+            [
+              217,
+              "ManualReportDescPopup_Section_Desc_2"
+            ]
+          ],
+          2526
+        ],
+        [
+          [
+            [
+              1,
+              "HomeMenuScene_HomeMenuView_Y_Axis_Score_100"
+            ],
+            [
+              25,
+              "HomeMenuSubMenuPopup_Title_6"
+            ],
+            [
+              147,
+              "HomeMenu_SCENE_Option_DeleteDialog_Finished_Text_2"
+            ],
+            [
+              174,
+              "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Title"
+            ],
+            [
+              218,
+              "ManualReportDescPopup_Section_Desc_3"
+            ]
+          ],
+          2763
+        ],
+        [
+          [
+            [
+              28,
+              "HomeMenuSubMenuPopup_Title_7"
+            ]
+          ],
+          2796
+        ],
+        [
+          [
+            [
+              29,
+              "HomeMenuSubMenuPopup_Title_8"
+            ],
+            [
+              206,
+              "HomeMenu_SCENE_AccountLinkage_ReissueSuccessDialog_Text_1"
+            ]
+          ],
+          2891
+        ],
+        [
+          [
+            [
+              16,
+              "HomeMenuScene_HomeMenuView_Title_small"
+            ],
+            [
+              30,
+              "HomeMenuSubMenuPopup_Title_9"
+            ],
+            [
+              68,
+              "HomeMenu_SCENE_Option_InitialSettingButton"
+            ],
+            [
+              207,
+              "HomeMenu_SCENE_AccountLinkage_ReissueSuccessDialog_Text_2"
+            ],
+            [
+              225,
+              "ManualReportDescPopup_Section_Desc_RegisterButton"
+            ],
+            [
+              257,
+              "ManualReportGPPNotificationPopup_Text"
+            ]
+          ],
+          3172
+        ],
+        [
+          [
+            [
+              3,
+              "HomeMenuScene_HomeMenuView_Y_Axis_Score_0"
+            ],
+            [
+              99,
+              "HomeMenu_SCENE_Option_Sound_SE"
+            ],
+            [
+              220,
+              "ManualReportRegisterPopup_Desc"
+            ]
+          ],
+          3288
+        ],
+        [
+          [
+            [
+              10,
+              "HomeMenuScene_HomeMenuView_SleepDataButton"
+            ]
+          ],
+          3335
+        ],
+        [
+          [
+            [
+              164,
+              "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_1_1"
+            ],
+            [
+              169,
+              "HomeMenu_SCENE_AccountLinkage_UnlinkDialog_Title"
+            ],
+            [
+              229,
+              "ManualReportConfirmPopup_Desc"
+            ]
+          ],
+          3479
+        ],
+        [
+          [
+            [
+              37,
+              "HomeMenu_SCENE_SupportContactPopup_Text_1"
+            ],
+            [
+              64,
+              "HomeMenu_SCENE_Option_Title"
+            ],
+            [
+              165,
+              "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_1_2"
+            ],
+            [
+              205,
+              "HomeMenu_SCENE_AccountLinkage_ReissueSuccessDialog_Title"
+            ]
+          ],
+          3675
+        ],
+        [
+          [
+            [
+              38,
+              "HomeMenu_SCENE_SupportContactPopup_Text_2"
+            ],
+            [
+              72,
+              "HomeMenu_SCENE_Option_Notification_TimeZone_Start"
+            ],
+            [
+              95,
+              "HomeMenu_SCENE_Option_Sound_Heading"
+            ],
+            [
+              166,
+              "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_1_3"
+            ],
+            [
+              173,
+              "HomeMenu_SCENE_AccountLinkage_FacebookUnlinkDialog_Text"
+            ]
+          ],
+          3932
+        ],
+        [
+          [
+            [
+              5,
+              "HomeMenuScene_HomeMenuView_Day"
+            ],
+            [
+              39,
+              "HomeMenu_SCENE_SupportContactPopup_Text_3"
+            ],
+            [
+              47,
+              "HomeMenu_SCENE_LanguageOption_Title"
+            ],
+            [
+              112,
+              "HomeMenu_SCENE_Option_Information_Text"
+            ],
+            [
+              197,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveSuccess_Popup_Title"
+            ]
+          ],
+          4169
+        ],
+        [
+          [
+            [
+              7,
+              "HomeMenuScene_HomeMenuView_AverageSleepTime_Value"
+            ],
+            [
+              53,
+              "HomeMenu_SCENE_LanguageOption_French"
+            ],
+            [
+              189,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Title"
+            ],
+            [
+              202,
+              "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Text_1"
+            ]
+          ],
+          4396
+        ],
+        [
+          [
+            [
+              14,
+              "HomeMenuScene_HomeMenuView_SocialButton"
+            ],
+            [
+              40,
+              "HomeMenu_SCENE_SupportContactPopup_Text_5"
+            ],
+            [
+              109,
+              "HomeMenu_SCENE_Option_Others_Quality_FPS_Choice_1"
+            ],
+            [
+              203,
+              "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Text_2"
+            ]
+          ],
+          4610
+        ],
+        [
+          [
+            [
+              0,
+              "HomeMenuScene_HomeMenuView_MenuButton"
+            ],
+            [
+              41,
+              "HomeMenu_SCENE_SupportContactPopup_Text_6"
+            ],
+            [
+              110,
+              "HomeMenu_SCENE_Option_Others_Quality_FPS_Choice_2"
+            ]
+          ],
+          4752
+        ],
+        [
+          [
+            [
+              42,
+              "HomeMenu_SCENE_SupportContactPopup_Text_7"
+            ],
+            [
+              113,
+              "HomeMenu_SCENE_Option_InformationButton"
+            ],
+            [
+              167,
+              "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_2"
+            ]
+          ],
+          4897
+        ],
+        [
+          [
+            [
+              168,
+              "HomeMenu_SCENE_AccountLinkage_FailureDialog_Text_3"
+            ],
+            [
+              179,
+              "HomeMenu_SCENE_AccountLinkage_UnlinkFailureDialog_Text"
+            ]
+          ],
+          5011
+        ],
+        [
+          [
+            [
+              43,
+              "HomeMenu_SCENE_SupportContactPopup_Text_9"
+            ],
+            [
+              148,
+              "HomeMenu_SCENE_Option_DeleteDialog_Finished_Button"
+            ],
+            [
+              154,
+              "HomeMenu_SCENE_AccountLinkage_SNS_FacebookButton_Already"
+            ],
+            [
+              198,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveSuccess_Popup_Text"
+            ]
+          ],
+          5245
+        ],
+        [
+          [
+            [
+              19,
+              "HomeMenuSubMenuPopup_Headline_GPP"
+            ],
+            [
+              221,
+              "ManualReportRegisterPopup_SleepStartTime_Title"
+            ]
+          ],
+          5334
+        ],
+        [
+          [
+            [
+              228,
+              "ManualReportConfirmPopup_SleepTileValue"
+            ]
+          ],
+          5378
+        ],
+        [
+          [
+            [
+              74,
+              "HomeMenu_SCENE_Option_Notification_TimeZone_Error_Title"
+            ],
+            [
+              212,
+              "HomeMenuScene_HomeMenuView_AddSleepData"
+            ]
+          ],
+          5482
+        ],
+        [
+          [
+            [
+              59,
+              "HomeMenu_SCENE_LanguageOption_ConfirmPopup_Title"
+            ],
+            [
+              129,
+              "HomeMenu_SCENE_Option_DeleteDialog_Text_1"
+            ],
+            [
+              192,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Text_1"
+            ]
+          ],
+          5644
+        ],
+        [
+          [
+            [
+              131,
+              "HomeMenu_SCENE_Option_DeleteDialog_Text_2"
+            ],
+            [
+              157,
+              "HomeMenu_SCENE_AccountLinkage_PasswordConfirmButton"
+            ],
+            [
+              191,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Heading_1"
+            ],
+            [
+              193,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Text_2"
+            ]
+          ],
+          5875
+        ],
+        [
+          [
+            [
+              6,
+              "HomeMenuScene_HomeMenuView_AverageSleepTime_Title"
+            ],
+            [
+              132,
+              "HomeMenu_SCENE_Option_DeleteDialog_Text_3"
+            ],
+            [
+              194,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Heading_2"
+            ]
+          ],
+          6041
+        ],
+        [
+          [
+            [
+              101,
+              "HomeMenu_SCENE_Option_Sound_PokemonVoice"
+            ],
+            [
+              127,
+              "HomeMenu_SCENE_Option_AccountDelete_Button"
+            ],
+            [
+              133,
+              "HomeMenu_SCENE_Option_DeleteDialog_Text_4"
+            ],
+            [
+              195,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_Heading_3"
+            ],
+            [
+              222,
+              "ManualReportRegisterPopup_SleepTimeValue"
+            ]
+          ],
+          6290
+        ],
+        [
+          [
+            [
+              44,
+              "HomeMenu_SCENE_SupportContactPopup_Button"
+            ],
+            [
+              46,
+              "HomeMenu_SCENE_SupportContactPopup_CopySuccess_Text"
+            ],
+            [
+              108,
+              "HomeMenu_SCENE_Option_Others_Quality_FPS"
+            ],
+            [
+              134,
+              "HomeMenu_SCENE_Option_DeleteDialog_Text_5"
+            ]
+          ],
+          6483
+        ],
+        [
+          [
+            [
+              104,
+              "HomeMenu_SCENE_Option_Others_Quality_Text"
+            ],
+            [
+              136,
+              "HomeMenu_SCENE_Option_DeleteDialog_Text_6"
+            ]
+          ],
+          6575
+        ],
+        [
+          [
+            [
+              137,
+              "HomeMenu_SCENE_Option_DeleteDialog_Text_7"
+            ]
+          ],
+          6621
+        ],
+        [
+          [
+            [
+              138,
+              "HomeMenu_SCENE_Option_DeleteDialog_Text_8"
+            ],
+            [
+              159,
+              "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_1"
+            ],
+            [
+              230,
+              "ManualReportFinishPopup_Header_Title"
+            ]
+          ],
+          6763
+        ],
+        [
+          [
+            [
+              45,
+              "HomeMenu_SCENE_SupportContactPopup_CopyButton"
+            ],
+            [
+              160,
+              "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_2"
+            ],
+            [
+              163,
+              "HomeMenu_SCENE_AccountLinkage_FailureDialog_Title"
+            ]
+          ],
+          6922
+        ],
+        [
+          [
+            [
+              161,
+              "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_3"
+            ]
+          ],
+          6977
+        ],
+        [
+          [
+            [
+              162,
+              "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Text_4"
+            ]
+          ],
+          7032
+        ],
+        [
+          [
+            [
+              151,
+              "HomeMenu_SCENE_AccountLinkage_Heading1"
+            ]
+          ],
+          7075
+        ],
+        [
+          [
+            [
+              103,
+              "HomeMenu_SCENE_Option_Others_Heading_1"
+            ],
+            [
+              155,
+              "HomeMenu_SCENE_AccountLinkage_Heading2"
+            ]
+          ],
+          7161
+        ],
+        [
+          [
+            [
+              11,
+              "HomeMenuScene_HomeMenuView_ResearchNoteButton"
+            ],
+            [
+              75,
+              "HomeMenu_SCENE_Option_Notification_TimeZone_Error_Text"
+            ],
+            [
+              111,
+              "HomeMenu_SCENE_Option_Others_Heading_2"
+            ]
+          ],
+          7313
+        ],
+        [
+          [
+            [
+              71,
+              "HomeMenu_SCENE_Option_Notification_TimeZone_Symbol"
+            ],
+            [
+              98,
+              "HomeMenu_SCENE_Option_Sound_BGM_Value"
+            ],
+            [
+              125,
+              "HomeMenu_SCENE_Option_Others_Heading_3"
+            ],
+            [
+              219,
+              "ManualReportRegisterPopup_Title"
+            ]
+          ],
+          7489
+        ],
+        [
+          [
+            [
+              35,
+              "HomeMenu_SCENE_SupportContactPopup_Title"
+            ]
+          ],
+          7534
+        ],
+        [
+          [
+            [
+              48,
+              "HomeMenu_SCENE_LanguageOption_Text_1"
+            ],
+            [
+              139,
+              "HomeMenu_SCENE_Option_DeleteDialog_Button"
+            ],
+            [
+              223,
+              "ManualReportRegisterPopup_SleepTimeValue_AMPM"
+            ]
+          ],
+          7671
+        ],
+        [
+          [
+            [
+              49,
+              "HomeMenu_SCENE_LanguageOption_Text_2"
+            ],
+            [
+              182,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Text_1"
+            ],
+            [
+              254,
+              "ManualReportNoBonusDescPopup_Title"
+            ]
+          ],
+          7807
+        ],
+        [
+          [
+            [
+              183,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Text_2"
+            ],
+            [
+              214,
+              "ManualReportDescPopup_Desc"
+            ]
+          ],
+          7894
+        ],
+        [
+          [
+            [
+              51,
+              "HomeMenu_SCENE_LanguageOption_English"
+            ],
+            [
+              184,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Text_3"
+            ],
+            [
+              186,
+              "HomeMenu_SCENE_AccountLinkage_PasswordConfirmSuccessDialog_Title"
+            ],
+            [
+              211,
+              "HomeMenuScene_GraphScorePerDay"
+            ]
+          ],
+          8096
+        ],
+        [
+          [],
+          8096
+        ],
+        [
+          [],
+          8096
+        ],
+        [
+          [],
+          8096
+        ],
+        [
+          [
+            [
+              86,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_1"
+            ]
+          ],
+          8152
+        ],
+        [
+          [
+            [
+              87,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_2"
+            ],
+            [
+              156,
+              "HomeMenu_SCENE_AccountLinkage_PasswordIssueButton"
+            ]
+          ],
+          8262
+        ],
+        [
+          [
+            [
+              88,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_3"
+            ],
+            [
+              105,
+              "HomeMenu_SCENE_Option_Others_Quality_Screen"
+            ],
+            [
+              150,
+              "HomeMenu_SCENE_AccountLinkage_Text"
+            ]
+          ],
+          8405
+        ],
+        [
+          [
+            [
+              89,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_4"
+            ],
+            [
+              144,
+              "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Button"
+            ],
+            [
+              234,
+              "ManualReportFinishPopup_Content_Desc_NoReward"
+            ],
+            [
+              243,
+              "ManualReportErrorPopup_Text_1"
+            ]
+          ],
+          8599
+        ],
+        [
+          [
+            [
+              31,
+              "HomeMenuSubMenuPopup_Title_10"
+            ],
+            [
+              90,
+              "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_5"
+            ],
+            [
+              232,
+              "ManualReportFinishPopup_Content_Desc_1"
+            ]
+          ],
+          8732
+        ],
+        [
+          [
+            [
+              32,
+              "HomeMenuSubMenuPopup_Title_11"
+            ],
+            [
+              60,
+              "HomeMenu_SCENE_LanguageOption_ConfirmPopup_Text"
+            ],
+            [
+              73,
+              "HomeMenu_SCENE_Option_Notification_TimeZone_End"
+            ],
+            [
+              233,
+              "ManualReportFinishPopup_Content_Desc_2"
+            ],
+            [
+              249,
+              "ManualReportErrorPopup_Text_3"
+            ]
+          ],
+          8947
+        ],
+        [
+          [
+            [
+              33,
+              "HomeMenuSubMenuPopup_Title_12"
+            ],
+            [
+              250,
+              "ManualReportErrorPopup_Text_4"
+            ]
+          ],
+          9015
+        ],
+        [
+          [
+            [
+              34,
+              "HomeMenuSubMenuPopup_Title_13"
+            ],
+            [
+              251,
+              "ManualReportErrorPopup_Text_5"
+            ]
+          ],
+          9083
+        ],
+        [
+          [
+            [
+              26,
+              "HomeMenuSubMenuPopup_Title_14"
+            ],
+            [
+              252,
+              "ManualReportErrorPopup_Text_6"
+            ]
+          ],
+          9151
+        ],
+        [
+          [
+            [
+              22,
+              "HomeMenuSubMenuPopup_Title_15"
+            ],
+            [
+              115,
+              "HomeMenu_SCENE_SDKAgreePopup_Text_1"
+            ],
+            [
+              181,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Heading"
+            ],
+            [
+              253,
+              "ManualReportErrorPopup_Text_7"
+            ]
+          ],
+          9316
+        ],
+        [
+          [
+            [
+              102,
+              "HomeMenu_SCENE_Option_Sound_PokemonVoice_Value"
+            ],
+            [
+              116,
+              "HomeMenu_SCENE_SDKAgreePopup_Text_2"
+            ],
+            [
+              140,
+              "HomeMenu_SCENE_Option_DeleteDialog_Confirm_Title"
+            ],
+            [
+              175,
+              "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Text_1"
+            ],
+            [
+              196,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_SaveButton"
+            ]
+          ],
+          9588
+        ],
+        [
+          [
+            [
+              117,
+              "HomeMenu_SCENE_SDKAgreePopup_Text_3"
+            ],
+            [
+              176,
+              "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Text_2"
+            ]
+          ],
+          9689
+        ],
+        [
+          [
+            [
+              118,
+              "HomeMenu_SCENE_SDKAgreePopup_Text_4"
+            ],
+            [
+              177,
+              "HomeMenu_SCENE_AccountLinkage_UnlinkSuccessDialog_Text_3"
+            ]
+          ],
+          9790
+        ],
+        [
+          [
+            [
+              55,
+              "HomeMenu_SCENE_LanguageOption_Italian"
+            ],
+            [
+              119,
+              "HomeMenu_SCENE_SDKAgreePopup_Text_5"
+            ]
+          ],
+          9872
+        ],
+        [
+          [
+            [
+              120,
+              "HomeMenu_SCENE_SDKAgreePopup_Text_6"
+            ],
+            [
+              171,
+              "HomeMenu_SCENE_AccountLinkage_AppleUnlinkDialog_Text"
+            ],
+            [
+              180,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDialog_Title"
+            ],
+            [
+              209,
+              "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_1"
+            ]
+          ],
+          10086
+        ],
+        [
+          [
+            [
+              70,
+              "HomeMenu_SCENE_Option_Notification_TimeZone"
+            ],
+            [
+              128,
+              "HomeMenu_SCENE_Option_DeleteDialog_Title"
+            ],
+            [
+              210,
+              "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_2"
+            ]
+          ],
+          10241
+        ],
+        [
+          [
+            [
+              158,
+              "HomeMenu_SCENE_AccountLinkage_SuccessDialog_Title"
+            ],
+            [
+              170,
+              "HomeMenu_SCENE_AccountLinkage_UnlinkDialog_Text"
+            ]
+          ],
+          10347
+        ],
+        [
+          [
+            [
+              100,
+              "HomeMenu_SCENE_Option_Sound_SE_Value"
+            ],
+            [
+              204,
+              "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Button"
+            ]
+          ],
+          10458
+        ],
+        [
+          [
+            [
+              200,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveFailure_Popup_Text"
+            ]
+          ],
+          10530
+        ],
+        [
+          [
+            [
+              12,
+              "HomeMenuScene_HomeMenuView_SleepAnalysisButton"
+            ],
+            [
+              236,
+              "ManualReportErrorPopup_Title_1"
+            ]
+          ],
+          10616
+        ],
+        [
+          [
+            [
+              145,
+              "HomeMenu_SCENE_Option_DeleteDialog_Finished_Title"
+            ],
+            [
+              237,
+              "ManualReportErrorPopup_Title_2"
+            ]
+          ],
+          10705
+        ],
+        [
+          [
+            [
+              201,
+              "HomeMenu_SCENE_AccountLinkage_PasswordReissueConfirmDialog_Title"
+            ],
+            [
+              238,
+              "ManualReportErrorPopup_Title_3"
+            ]
+          ],
+          10809
+        ],
+        [
+          [
+            [
+              239,
+              "ManualReportErrorPopup_Title_4"
+            ]
+          ],
+          10844
+        ],
+        [
+          [
+            [
+              13,
+              "HomeMenuScene_HomeMenuView_BagButton"
+            ],
+            [
+              240,
+              "ManualReportErrorPopup_Title_5"
+            ]
+          ],
+          10920
+        ],
+        [
+          [
+            [
+              4,
+              "HomeMenuScene_HomeMenuView_WeekDay"
+            ],
+            [
+              241,
+              "ManualReportErrorPopup_Title_6"
+            ]
+          ],
+          10994
+        ],
+        [
+          [
+            [
+              58,
+              "HomeMenu_SCENE_LanguageOption_Chinese"
+            ],
+            [
+              213,
+              "ManualReportDescPopup_Title"
+            ],
+            [
+              242,
+              "ManualReportErrorPopup_Title_7"
+            ]
+          ],
+          11103
+        ],
+        [
+          [
+            [
+              123,
+              "HomeMenu_SCENE_SDKAgreeRebootPopup_Text_1"
+            ]
+          ],
+          11149
+        ],
+        [
+          [
+            [
+              106,
+              "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_1"
+            ],
+            [
+              124,
+              "HomeMenu_SCENE_SDKAgreeRebootPopup_Text_2"
+            ]
+          ],
+          11252
+        ],
+        [
+          [
+            [
+              52,
+              "HomeMenu_SCENE_LanguageOption_Spanish"
+            ],
+            [
+              96,
+              "HomeMenu_SCENE_Option_Sound_Text"
+            ],
+            [
+              107,
+              "HomeMenu_SCENE_Option_Others_Quality_Screen_Choice_2"
+            ],
+            [
+              178,
+              "HomeMenu_SCENE_AccountLinkage_UnlinkFailureDialog_Title"
+            ]
+          ],
+          11448
+        ],
+        [
+          [],
+          11448
+        ],
+        [
+          [],
+          11448
+        ],
+        [
+          [
+            [
+              17,
+              "HomeMenuScene_HomeMenuView_Title_2"
+            ]
+          ],
+          11487
+        ],
+        [
+          [
+            [
+              56,
+              "HomeMenu_SCENE_LanguageOption_Japanese"
+            ],
+            [
+              215,
+              "ManualReportDescPopup_Section_Title"
+            ],
+            [
+              244,
+              "ManualReportErrorPopup_Text_2_1"
+            ]
+          ],
+          11606
+        ],
+        [
+          [
+            [
+              69,
+              "HomeMenu_SCENE_Option_Notification_Heading_1"
+            ],
+            [
+              187,
+              "HomeMenu_SCENE_AccountLinkage_PasswordConfirmSuccessDialog_Text_1"
+            ],
+            [
+              245,
+              "ManualReportErrorPopup_Text_2_2"
+            ]
+          ],
+          11761
+        ],
+        [
+          [
+            [
+              50,
+              "HomeMenu_SCENE_LanguageOption_Heading"
+            ],
+            [
+              91,
+              "HomeMenu_SCENE_Option_Notification_Heading_2"
+            ],
+            [
+              188,
+              "HomeMenu_SCENE_AccountLinkage_PasswordConfirmSuccessDialog_Text_2"
+            ],
+            [
+              231,
+              "ManualReportFinishPopup_Content_Title"
+            ],
+            [
+              246,
+              "ManualReportErrorPopup_Text_2_3"
+            ]
+          ],
+          12000
+        ],
+        [
+          [
+            [
+              23,
+              "HomeMenuSubMenuPopup_Headline_Others"
+            ],
+            [
+              94,
+              "HomeMenu_SCENE_Option_Notification_Heading_3"
+            ],
+            [
+              208,
+              "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Title"
+            ],
+            [
+              247,
+              "ManualReportErrorPopup_Text_2_4"
+            ]
+          ],
+          12187
+        ],
+        [
+          [
+            [
+              18,
+              "HomeMenuSubMenuPopup_Title"
+            ],
+            [
+              248,
+              "ManualReportErrorPopup_Text_2_5"
+            ],
+            [
+              258,
+              "ManualReportGPPNotificationPopup_Button_1"
+            ]
+          ],
+          12300
+        ],
+        [
+          [
+            [
+              114,
+              "HomeMenu_SCENE_SDKAgreePopup_Heading"
+            ],
+            [
+              199,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplaySaveFailure_Popup_Title"
+            ],
+            [
+              259,
+              "ManualReportGPPNotificationPopup_Button_2"
+            ]
+          ],
+          12460
+        ],
+        [
+          [
+            [
+              9,
+              "HomeMenuScene_HomeMenuView_PokedexButton"
+            ],
+            [
+              36,
+              "HomeMenu_SCENE_SupportContactPopup_Heading"
+            ],
+            [
+              152,
+              "HomeMenu_SCENE_AccountLinkage_SNS_AppleButton_Already"
+            ]
+          ],
+          12610
+        ],
+        [
+          [],
+          12610
+        ],
+        [
+          [
+            [
+              149,
+              "HomeMenu_SCENE_AccountLinkage"
+            ],
+            [
+              190,
+              "HomeMenu_SCENE_AccountLinkage_PasswordDisplayDialog_IssueButton"
+            ]
+          ],
+          12712
+        ],
+        [
+          [],
+          12712
+        ],
+        [
+          [
+            [
+              54,
+              "HomeMenu_SCENE_LanguageOption_German"
+            ],
+            [
+              226,
+              "ManualReportRegisterPopup_RegisterButton"
+            ]
+          ],
+          12798
+        ],
+        [
+          [
+            [
+              224,
+              "ManualReportRegisterPopup_SleepEndTime_Title"
+            ]
+          ],
+          12847
+        ],
+        [
+          [
+            [
+              15,
+              "HomeMenuScene_HomeMenuView_MapButton"
+            ]
+          ],
+          12888
+        ],
+        [
+          [
+            [
+              8,
+              "HomeMenuScene_HomeMenuView_Title"
+            ],
+            [
+              61,
+              "HomeMenu_SCENE_LanguageOption_FinishedPopup_Title"
+            ],
+            [
+              62,
+              "HomeMenu_SCENE_LanguageOption_FinishedPopup_Text_1"
+            ],
+            [
+              122,
+              "HomeMenu_SCENE_SDKAgreeRebootPopup_Title"
+            ],
+            [
+              235,
+              "ManualReportFinishPopup_Content_Title_NoReward"
+            ]
+          ],
+          13130
+        ],
+        [
+          [
+            [
+              63,
+              "HomeMenu_SCENE_LanguageOption_FinishedPopup_Text_2"
+            ],
+            [
+              255,
+              "ManualReportNoBonusDescPopup_Message"
+            ]
+          ],
+          13226
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 260,
+        "size": 22106,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "strings": {
+    "HomeSceneTutorialController_AskCookingTutorialStart_Message": [
+      "要開始料理教學嗎？"
+    ],
+    "HomeSceneTutorialController_AskCookingTutorialStart_OK": [
+      "開始"
+    ],
+    "HomeSceneTutorialController_AskCookingTutorialStart_Title": [
+      "料理教學"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": [
+      "獲得了\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002\n作為報酬。"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": [
+      "料理教學完成"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": [
+      "從博士那裡收下了\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002\n作為料理的食材。"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": [
+      "料理的食材"
+    ],
+    "HomeSceneTutorialController_FooterMessage_FieldChange": [
+      "研究辛苦了。"
+    ],
+    "HomeSceneTutorialController_Text_29": [
+      "教學完成獎勵"
+    ],
+    "HomeSceneTutorialController_Text_30": [
+      "獲得了\n鑽石 x\u000e\u0002\u0003\u0004",
+      "촁。"
+    ],
+    "HomeSceneTutorialController_Text_31": [
+      "這個功能還無法使用"
+    ],
+    "HomeSceneTutorialController_Text_32": [
+      "請點擊皮卡丘或樹果。"
+    ],
+    "HomeSceneTutorialController_Text_7": [
+      "點擊皮卡丘來把樹果\n餵給卡比獸吧！"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 13,
+        "size": 95,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 7,
+        "size": 790,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message"
+            ],
+            [
+              12,
+              "HomeSceneTutorialController_Text_32"
+            ]
+          ],
+          171
+        ],
+        [
+          [
+            [
+              5,
+              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title"
+            ]
+          ],
+          244
+        ],
+        [
+          [
+            [
+              0,
+              "HomeSceneTutorialController_AskCookingTutorialStart_Title"
+            ],
+            [
+              4,
+              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message"
+            ],
+            [
+              8,
+              "HomeSceneTutorialController_Text_7"
+            ]
+          ],
+          418
+        ],
+        [
+          [],
+          418
+        ],
+        [
+          [],
+          418
+        ],
+        [
+          [
+            [
+              1,
+              "HomeSceneTutorialController_AskCookingTutorialStart_Message"
+            ],
+            [
+              3,
+              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title"
+            ],
+            [
+              10,
+              "HomeSceneTutorialController_Text_30"
+            ]
+          ],
+          593
+        ],
+        [
+          [
+            [
+              2,
+              "HomeSceneTutorialController_AskCookingTutorialStart_OK"
+            ],
+            [
+              7,
+              "HomeSceneTutorialController_FooterMessage_FieldChange"
+            ],
+            [
+              9,
+              "HomeSceneTutorialController_Text_29"
+            ],
+            [
+              11,
+              "HomeSceneTutorialController_Text_31"
+            ]
+          ],
+          790
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 13,
+        "size": 364,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

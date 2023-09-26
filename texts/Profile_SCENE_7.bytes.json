@@ -1,0 +1,398 @@
+{
+  "strings": {
+    "ErrorDesc_GenerateFriendCode": [
+      "無法成功取得研究者代碼。\n\n錯誤代碼：\u000e\u0002\t\u0004",
+      "촀"
+    ],
+    "ErrorDesc_ReceiveAchievementReward": [
+      "無法成功領取成就報酬。\n\n錯誤代碼：\u000e\u0002\t\u0004",
+      "촀"
+    ],
+    "ErrorTitle_ReceiveAchievementReward": [
+      "報酬領取出現錯誤"
+    ],
+    "ProfileIconChangeFinishPopup_Text": [
+      "已變更個人頭像。"
+    ],
+    "ProfileIconChangeFinishPopup_Title": [
+      "完成"
+    ],
+    "ProfileIconSettingCell_SelectedLabel": [
+      "選擇中"
+    ],
+    "ProfileIconSettingPopup_ChangeButton": [
+      "變更"
+    ],
+    "ProfileIconSettingPopup_SubTitle_Common": [
+      "一般"
+    ],
+    "ProfileIconSettingPopup_SubTitle_Pokemon": [
+      "寶可夢"
+    ],
+    "ProfileIconSettingPopup_Title": [
+      "個人頭像"
+    ],
+    "Profile_ButtonTapToDisplay": [
+      "點擊來顯示"
+    ],
+    "Profile_CapturedPokemon_Label": [
+      "已成為夥伴的寶可夢"
+    ],
+    "Profile_CapturedPokemon_Value": [
+      "\u000e\u0002\u0005\u0004",
+      "촁/\u000e\u0002\u0005\u0004\u0001촁"
+    ],
+    "Profile_ChangeIcon": [
+      "變更頭像"
+    ],
+    "Profile_CopyIdPopup_Message": [
+      "已複製服務ID。"
+    ],
+    "Profile_CopyIdPopup_Title": [
+      "複製服務ID"
+    ],
+    "Profile_Copy_Button": [
+      "複製"
+    ],
+    "Profile_Header_Title": [
+      "個人資訊"
+    ],
+    "Profile_Id_Label": [
+      "服務ID："
+    ],
+    "Profile_LoginDays_Label": [
+      "登入天數"
+    ],
+    "Profile_LoginDays_Value": [
+      "\u000e\t",
+      "\n\u0006ddd",
+      ""
+    ],
+    "Profile_MaxSleepPower_Label": [
+      "睡意之力的最高紀錄"
+    ],
+    "Profile_MaxSleepPower_Value": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "Profile_RenamePopup_Message": [
+      "已變更用戶名稱。"
+    ],
+    "Profile_RenamePopup_Title": [
+      "變更用戶名稱"
+    ],
+    "Profile_ResearchFace_Label": [
+      "已研究的睡姿"
+    ],
+    "Profile_ResearchFace_Value": [
+      "\u000e\u0002\u0005\u0004",
+      "촁/\u000e\u0002\u0005\u0004\u0001촁"
+    ],
+    "Profile_ResearchRankProgress": [
+      "\u000e\u0002\t\u0004",
+      "촁/\u000e\u0002\t\u0004\u0001촁"
+    ],
+    "Profile_ResearchRank_Label": [
+      "研究階級"
+    ],
+    "Profile_ResearchRank_Value": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "Profile_Title_ArchievementMain": [
+      "成就：整體"
+    ],
+    "Profile_Title_ArchievementPokemon": [
+      "成就：寶可夢屬性"
+    ],
+    "Profile_Title_Records": [
+      "研究紀錄"
+    ],
+    "Profile_TotalSleepTime_Label": [
+      "總睡眠時間"
+    ],
+    "Profile_TotalSleepTime_Value": [
+      "\u000e\t",
+      "\f\bhhhh",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 35,
+        "size": 249,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 1304,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "Profile_Id_Label"
+            ],
+            [
+              23,
+              "Profile_RenamePopup_Title"
+            ],
+            [
+              25,
+              "ErrorTitle_ReceiveAchievementReward"
+            ]
+          ],
+          243
+        ],
+        [
+          [
+            [
+              18,
+              "Profile_LoginDays_Value"
+            ]
+          ],
+          271
+        ],
+        [
+          [
+            [
+              2,
+              "Profile_ChangeIcon"
+            ],
+            [
+              31,
+              "ProfileIconSettingPopup_SubTitle_Pokemon"
+            ],
+            [
+              34,
+              "ProfileIconChangeFinishPopup_Text"
+            ]
+          ],
+          377
+        ],
+        [
+          [],
+          377
+        ],
+        [
+          [
+            [
+              15,
+              "Profile_MaxSleepPower_Label"
+            ],
+            [
+              29,
+              "ProfileIconSettingPopup_Title"
+            ],
+            [
+              30,
+              "ProfileIconSettingPopup_SubTitle_Common"
+            ]
+          ],
+          487
+        ],
+        [
+          [
+            [
+              9,
+              "Profile_TotalSleepTime_Label"
+            ],
+            [
+              12,
+              "Profile_ResearchFace_Value"
+            ],
+            [
+              28,
+              "ProfileIconSettingCell_SelectedLabel"
+            ]
+          ],
+          592
+        ],
+        [
+          [],
+          592
+        ],
+        [
+          [
+            [
+              6,
+              "Profile_ResearchRank_Value"
+            ],
+            [
+              7,
+              "Profile_ResearchRankProgress"
+            ],
+            [
+              14,
+              "Profile_CapturedPokemon_Value"
+            ],
+            [
+              22,
+              "Profile_CopyIdPopup_Message"
+            ]
+          ],
+          722
+        ],
+        [
+          [
+            [
+              0,
+              "Profile_ButtonTapToDisplay"
+            ]
+          ],
+          753
+        ],
+        [
+          [
+            [
+              1,
+              "Profile_Header_Title"
+            ],
+            [
+              17,
+              "Profile_LoginDays_Label"
+            ]
+          ],
+          806
+        ],
+        [
+          [
+            [
+              4,
+              "Profile_Copy_Button"
+            ]
+          ],
+          830
+        ],
+        [
+          [],
+          830
+        ],
+        [
+          [
+            [
+              33,
+              "ProfileIconChangeFinishPopup_Title"
+            ]
+          ],
+          869
+        ],
+        [
+          [
+            [
+              11,
+              "Profile_ResearchFace_Label"
+            ],
+            [
+              26,
+              "ErrorDesc_ReceiveAchievementReward"
+            ]
+          ],
+          939
+        ],
+        [
+          [],
+          939
+        ],
+        [
+          [
+            [
+              5,
+              "Profile_ResearchRank_Label"
+            ],
+            [
+              13,
+              "Profile_CapturedPokemon_Label"
+            ],
+            [
+              16,
+              "Profile_MaxSleepPower_Value"
+            ]
+          ],
+          1036
+        ],
+        [
+          [
+            [
+              8,
+              "Profile_Title_Records"
+            ],
+            [
+              10,
+              "Profile_TotalSleepTime_Value"
+            ],
+            [
+              19,
+              "Profile_Title_ArchievementPokemon"
+            ],
+            [
+              20,
+              "Profile_Title_ArchievementMain"
+            ],
+            [
+              24,
+              "Profile_RenamePopup_Message"
+            ],
+            [
+              27,
+              "ErrorDesc_GenerateFriendCode"
+            ]
+          ],
+          1233
+        ],
+        [
+          [
+            [
+              32,
+              "ProfileIconSettingPopup_ChangeButton"
+            ]
+          ],
+          1274
+        ],
+        [
+          [
+            [
+              21,
+              "Profile_CopyIdPopup_Title"
+            ]
+          ],
+          1304
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 35,
+        "size": 716,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

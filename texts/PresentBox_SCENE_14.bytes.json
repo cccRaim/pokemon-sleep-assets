@@ -1,0 +1,405 @@
+{
+  "strings": {
+    "PresentBox_AboutPopup_Heading": [
+      "說明"
+    ],
+    "PresentBox_AboutPopup_Text_1": [
+      "超過領取期限的禮物\n會被自動刪除。"
+    ],
+    "PresentBox_AboutPopup_Text_2": [
+      "一次最多可領取100個禮物。"
+    ],
+    "PresentBox_AboutPopup_Text_3": [
+      "可由履歷查看\n過去30天領取的禮物。"
+    ],
+    "PresentBox_AboutPopup_Title": [
+      "關於禮物盒"
+    ],
+    "PresentBox_AllGetButton": [
+      "一併領取"
+    ],
+    "PresentBox_Deadline_1": [
+      "還剩\u000e\u0002\u0002\u0002",
+      "天"
+    ],
+    "PresentBox_Deadline_2": [
+      "還剩\u000e\u0002\u0001\u0002",
+      "小時"
+    ],
+    "PresentBox_Deadline_3": [
+      "還剩\u000e\u0002\u0001\u0002",
+      "分鐘"
+    ],
+    "PresentBox_GetButton": [
+      "領取"
+    ],
+    "PresentBox_GetDay": [
+      "接收日期：\u000e\t",
+      "\u0018\u0014yyyy/MM/dd",
+      ""
+    ],
+    "PresentBox_NoPresent": [
+      "沒有可領取的禮物"
+    ],
+    "PresentBox_NoReceivedDialog_All_OverAndExpired_Text": [
+      "由於會超過持有數上限\n或已超過領取期限，\n所以無法領取禮物。"
+    ],
+    "PresentBox_NoReceivedDialog_All_Text": [
+      "會超過持有上限，\n所以無法領取禮物。"
+    ],
+    "PresentBox_NoReceivedDialog_All_Title": [
+      "無法領取"
+    ],
+    "PresentBox_NoReceivedDialog_One_Expired_Text": [
+      "已超過領取期限，\n所以無法領取禮物。"
+    ],
+    "PresentBox_NoReceivedDialog_Part_Expired_Text": [
+      "有些禮物已超過領取期限，\n所以無法領取。"
+    ],
+    "PresentBox_NoReceivedDialog_Part_OverAndExpired_Text": [
+      "有些會超過持有上限\n或超過領取期限的禮物\n無法領取。"
+    ],
+    "PresentBox_NoReceivedDialog_Part_Text": [
+      "有些禮物會超過持有上限，\n所以無法領取。"
+    ],
+    "PresentBox_NoReceivedDialog_Part_Title": [
+      "無法領取部分禮物"
+    ],
+    "PresentBox_PresentDeadlinePopup_Text": [
+      "您有即將超過領取期限的禮物。\n請在禮物過期前領取。"
+    ],
+    "PresentBox_PresentDeadlinePopup_Title": [
+      "請領取禮物"
+    ],
+    "PresentBox_PresentDeletePopup_Text": [
+      "已刪除超過領取期限的禮物。"
+    ],
+    "PresentBox_PresentDeletePopup_Title": [
+      "過期的禮物"
+    ],
+    "PresentBox_PresentReceivePopup_Content": [
+      "\u000e\u0003\u0003\u0004Ā촀×\u000e\u0002\u0007\u0004\u0002촁"
+    ],
+    "PresentBox_PresentReceivePopup_Content_SleepPoint": [
+      "睡眠點數×\u000e\u0002\u0007\u0004",
+      "촁"
+    ],
+    "PresentBox_PresentReceivePopup_Heading": [
+      "已領取的禮物"
+    ],
+    "PresentBox_PresentReceivePopup_Title": [
+      "已領取禮物"
+    ],
+    "PresentBox_Present_Heading": [
+      "可領取的禮物"
+    ],
+    "PresentBox_ReceiptButton": [
+      "履歷"
+    ],
+    "PresentBox_ReceiptPopup_Heading": [
+      "已領取的禮物（過去30天份）"
+    ],
+    "PresentBox_ReceiptPopup_NoReceived": [
+      "過去30天\n沒有領取過禮物"
+    ],
+    "PresentBox_ReceiptPopup_NumberOfItem": [
+      "×\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "PresentBox_ReceiptPopup_ReceiveDay": [
+      "領取日：\u000e\t",
+      "\u0018\u0014yyyy/MM/dd",
+      ""
+    ],
+    "PresentBox_ReceiptPopup_Title": [
+      "領取履歷"
+    ],
+    "PresentBox_Title": [
+      "禮物盒"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 36,
+        "size": 256,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 1488,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "PresentBox_Title"
+            ],
+            [
+              8,
+              "PresentBox_PresentReceivePopup_Content"
+            ]
+          ],
+          216
+        ],
+        [
+          [
+            [
+              29,
+              "PresentBox_Present_Heading"
+            ]
+          ],
+          247
+        ],
+        [
+          [
+            [
+              34,
+              "PresentBox_PresentDeletePopup_Title"
+            ]
+          ],
+          287
+        ],
+        [
+          [
+            [
+              6,
+              "PresentBox_GetButton"
+            ],
+            [
+              16,
+              "PresentBox_AboutPopup_Title"
+            ],
+            [
+              35,
+              "PresentBox_PresentDeletePopup_Text"
+            ]
+          ],
+          383
+        ],
+        [
+          [
+            [
+              17,
+              "PresentBox_AboutPopup_Heading"
+            ],
+            [
+              27,
+              "PresentBox_NoReceivedDialog_All_Text"
+            ]
+          ],
+          458
+        ],
+        [
+          [
+            [
+              9,
+              "PresentBox_PresentReceivePopup_Content_SleepPoint"
+            ],
+            [
+              24,
+              "PresentBox_NoReceivedDialog_Part_Expired_Text"
+            ],
+            [
+              25,
+              "PresentBox_NoReceivedDialog_Part_OverAndExpired_Text"
+            ]
+          ],
+          619
+        ],
+        [
+          [
+            [
+              7,
+              "PresentBox_AllGetButton"
+            ],
+            [
+              12,
+              "PresentBox_ReceiptPopup_Heading"
+            ]
+          ],
+          683
+        ],
+        [
+          [
+            [
+              3,
+              "PresentBox_Deadline_1"
+            ],
+            [
+              23,
+              "PresentBox_NoReceivedDialog_One_Expired_Text"
+            ]
+          ],
+          758
+        ],
+        [
+          [
+            [
+              2,
+              "PresentBox_GetDay"
+            ],
+            [
+              4,
+              "PresentBox_Deadline_2"
+            ]
+          ],
+          806
+        ],
+        [
+          [
+            [
+              5,
+              "PresentBox_Deadline_3"
+            ],
+            [
+              10,
+              "PresentBox_NoPresent"
+            ],
+            [
+              14,
+              "PresentBox_ReceiptPopup_NumberOfItem"
+            ]
+          ],
+          898
+        ],
+        [
+          [],
+          898
+        ],
+        [
+          [
+            [
+              22,
+              "PresentBox_NoReceivedDialog_Part_Text"
+            ],
+            [
+              31,
+              "PresentBox_PresentReceivePopup_Title"
+            ],
+            [
+              33,
+              "PresentBox_PresentDeadlinePopup_Text"
+            ]
+          ],
+          1022
+        ],
+        [
+          [
+            [
+              1,
+              "PresentBox_ReceiptButton"
+            ],
+            [
+              11,
+              "PresentBox_ReceiptPopup_Title"
+            ]
+          ],
+          1085
+        ],
+        [
+          [
+            [
+              15,
+              "PresentBox_ReceiptPopup_ReceiveDay"
+            ]
+          ],
+          1124
+        ],
+        [
+          [
+            [
+              26,
+              "PresentBox_NoReceivedDialog_All_Title"
+            ]
+          ],
+          1166
+        ],
+        [
+          [],
+          1166
+        ],
+        [
+          [
+            [
+              18,
+              "PresentBox_AboutPopup_Text_1"
+            ],
+            [
+              21,
+              "PresentBox_NoReceivedDialog_Part_Title"
+            ],
+            [
+              30,
+              "PresentBox_PresentReceivePopup_Heading"
+            ]
+          ],
+          1285
+        ],
+        [
+          [
+            [
+              13,
+              "PresentBox_ReceiptPopup_NoReceived"
+            ],
+            [
+              19,
+              "PresentBox_AboutPopup_Text_2"
+            ],
+            [
+              32,
+              "PresentBox_PresentDeadlinePopup_Title"
+            ]
+          ],
+          1399
+        ],
+        [
+          [
+            [
+              20,
+              "PresentBox_AboutPopup_Text_3"
+            ],
+            [
+              28,
+              "PresentBox_NoReceivedDialog_All_OverAndExpired_Text"
+            ]
+          ],
+          1488
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 36,
+        "size": 1042,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "strings": {
+    "MapBonusPopup_Desc": [
+      "Voici les différents bonus qui prendront\neffet sur cette zone cette semaine :"
+    ],
+    "MapBonusPopup_ListTitle": [
+      "Bonus de la semaine"
+    ],
+    "MapBonusPopup_Title": [
+      "Bonus de zone hebdomadaire"
+    ],
+    "MapDetailConfirmPopup_Desc": [
+      "Les recherches seront menées dans cette\nzone pendant une semaine. Continuer ?"
+    ],
+    "MapDetailPopup_AppropriateSP": [
+      "PS d'équipe visé"
+    ],
+    "MapDetailPopup_AppropriateSPValue": [
+      "≥ \u000e\u0002\u0007\u0004",
+      "촁"
+    ],
+    "MapDetailPopup_BestEnergy": [
+      "Record de puissance"
+    ],
+    "MapDetailPopup_BestEnergyValue": [
+      "\u000e\u0002\u0006\u0004",
+      "촁"
+    ],
+    "MapDetailPopup_GetPokemons": [
+      "Pokémon amis"
+    ],
+    "MapDetailPopup_InfoToggleButton": [
+      "État des recherches"
+    ],
+    "MapDetailPopup_LibraryToggleButton": [
+      "Zones de recherche"
+    ],
+    "MapDetailPopup_OKButton": [
+      "S'y rendre !"
+    ],
+    "MapDetailPopup_Per": [
+      "\u000e\u0002\u0002\u0002",
+      " %"
+    ],
+    "MapDetailPopup_PokemonCount": [
+      "\u000e\u0002\u0001\u0002",
+      "/\u000e\u0002\u0001\u0002\u0001"
+    ],
+    "MapDetailPopup_PokemonNumber": [
+      "Nº \u000e\u0002\u0003\u0004Ā촀"
+    ],
+    "MapDetailPopup_PokemonUnknown": [
+      "???"
+    ],
+    "MapDetailPopup_ResearchFaces": [
+      "Styles de dodo observés"
+    ],
+    "MapDetailPopup_SleepType": [
+      "Type \u000e\u0003\u0004\u0002",
+      ""
+    ],
+    "MapDetailPopup_SleepTypeCount": [
+      "\u000e\u0002\u0005\u0004",
+      "촁/\u000e\u0002\u0005\u0004\u0001촁"
+    ],
+    "MapDetailPopup_Title": [
+      "\u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "MapDetailPopup_WeekBonus": [
+      "Bonus hebdomadaire"
+    ],
+    "MapObject_CompletePer": [
+      "\u000e\u0002\u0002\u0002",
+      " %"
+    ],
+    "MapObject_FieldBonus": [
+      "Bonus de zone"
+    ],
+    "MapObject_FieldBonus_Per": [
+      "+ \u000e\u0002\u0003\u0004",
+      "촁 %"
+    ],
+    "MapObject_Name": [
+      "Nº \u000e\u0002\u0001\u0002",
+      " : \u000e\u0003\u0003\u0004ȁ촀"
+    ],
+    "MapSceneController_Text_1": [
+      "Aperçu des zones de recherche"
+    ],
+    "MapScene_Content_CompletePer": [
+      "\u000e\u0002\u0002\u0002",
+      " %"
+    ],
+    "MapScene_Header_Title": [
+      "Carte"
+    ],
+    "MapScene_Info_InfoMessage": [
+      "Choisissez une zone pour la semaine."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 29,
+        "size": 207,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 1002,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          136
+        ],
+        [
+          [
+            [
+              19,
+              "MapObject_Name"
+            ],
+            [
+              21,
+              "MapDetailPopup_LibraryToggleButton"
+            ]
+          ],
+          194
+        ],
+        [
+          [
+            [
+              8,
+              "MapDetailPopup_PokemonUnknown"
+            ]
+          ],
+          228
+        ],
+        [
+          [
+            [
+              5,
+              "MapDetailPopup_SleepType"
+            ],
+            [
+              11,
+              "MapBonusPopup_Desc"
+            ],
+            [
+              17,
+              "MapDetailConfirmPopup_Desc"
+            ]
+          ],
+          311
+        ],
+        [
+          [],
+          311
+        ],
+        [
+          [
+            [
+              0,
+              "MapDetailPopup_WeekBonus"
+            ]
+          ],
+          340
+        ],
+        [
+          [
+            [
+              3,
+              "MapDetailPopup_AppropriateSP"
+            ],
+            [
+              12,
+              "MapBonusPopup_ListTitle"
+            ],
+            [
+              18,
+              "MapDetailPopup_Title"
+            ]
+          ],
+          426
+        ],
+        [
+          [
+            [
+              14,
+              "MapScene_Content_CompletePer"
+            ],
+            [
+              15,
+              "MapScene_Header_Title"
+            ],
+            [
+              20,
+              "MapDetailPopup_InfoToggleButton"
+            ]
+          ],
+          521
+        ],
+        [
+          [
+            [
+              27,
+              "MapObject_FieldBonus"
+            ]
+          ],
+          546
+        ],
+        [
+          [
+            [
+              1,
+              "MapDetailPopup_BestEnergy"
+            ],
+            [
+              7,
+              "MapDetailPopup_PokemonNumber"
+            ],
+            [
+              10,
+              "MapBonusPopup_Title"
+            ],
+            [
+              13,
+              "MapSceneController_Text_1"
+            ],
+            [
+              16,
+              "MapScene_Info_InfoMessage"
+            ],
+            [
+              28,
+              "MapObject_FieldBonus_Per"
+            ]
+          ],
+          722
+        ],
+        [
+          [
+            [
+              26,
+              "MapObject_CompletePer"
+            ]
+          ],
+          748
+        ],
+        [
+          [
+            [
+              22,
+              "MapDetailPopup_ResearchFaces"
+            ],
+            [
+              25,
+              "MapDetailPopup_OKButton"
+            ]
+          ],
+          809
+        ],
+        [
+          [],
+          809
+        ],
+        [
+          [
+            [
+              2,
+              "MapDetailPopup_BestEnergyValue"
+            ],
+            [
+              4,
+              "MapDetailPopup_AppropriateSPValue"
+            ],
+            [
+              6,
+              "MapDetailPopup_SleepTypeCount"
+            ]
+          ],
+          916
+        ],
+        [
+          [
+            [
+              9,
+              "MapDetailPopup_PokemonCount"
+            ],
+            [
+              23,
+              "MapDetailPopup_Per"
+            ],
+            [
+              24,
+              "MapDetailPopup_GetPokemons"
+            ]
+          ],
+          1002
+        ],
+        [
+          [],
+          1002
+        ],
+        [
+          [],
+          1002
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 29,
+        "size": 1240,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

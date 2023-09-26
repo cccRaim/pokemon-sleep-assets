@@ -1,0 +1,83 @@
+{
+  "strings": {
+    "PokedexDetailSleepingFaceCell_Text_1": [
+      "研究數量 - \u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "PokedexHeaderToggleButton_Text_1": [
+      "顯示睡姿"
+    ],
+    "PokedexHeaderToggleButton_Text_2": [
+      "顯示寶可夢"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 3,
+        "size": 25,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 2,
+        "size": 131,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "PokedexHeaderToggleButton_Text_2"
+            ]
+          ],
+          53
+        ],
+        [
+          [
+            [
+              0,
+              "PokedexHeaderToggleButton_Text_1"
+            ],
+            [
+              2,
+              "PokedexDetailSleepingFaceCell_Text_1"
+            ]
+          ],
+          131
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 3,
+        "size": 62,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

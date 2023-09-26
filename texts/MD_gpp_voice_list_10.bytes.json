@@ -1,0 +1,481 @@
+{
+  "strings": {
+    "md_gpp_voice_list_name_1": [
+      "Énergique 1"
+    ],
+    "md_gpp_voice_list_name_10": [
+      "Enthousiaste 2"
+    ],
+    "md_gpp_voice_list_name_11": [
+      "Enthousiaste 3"
+    ],
+    "md_gpp_voice_list_name_12": [
+      "Somnolent 1"
+    ],
+    "md_gpp_voice_list_name_13": [
+      "Somnolent 2"
+    ],
+    "md_gpp_voice_list_name_14": [
+      "Somnolent 3"
+    ],
+    "md_gpp_voice_list_name_15": [
+      "Somnolent 4"
+    ],
+    "md_gpp_voice_list_name_16": [
+      "Somnolent 5"
+    ],
+    "md_gpp_voice_list_name_17": [
+      "Somnolent 6"
+    ],
+    "md_gpp_voice_list_name_18": [
+      "Somnolent 7"
+    ],
+    "md_gpp_voice_list_name_19": [
+      "Tonnerre ?"
+    ],
+    "md_gpp_voice_list_name_2": [
+      "Énergique 2"
+    ],
+    "md_gpp_voice_list_name_20": [
+      "Pressé 1"
+    ],
+    "md_gpp_voice_list_name_21": [
+      "Pressé 2"
+    ],
+    "md_gpp_voice_list_name_22": [
+      "Pressé 3"
+    ],
+    "md_gpp_voice_list_name_23": [
+      "Grincheux 1"
+    ],
+    "md_gpp_voice_list_name_24": [
+      "Grincheux 2"
+    ],
+    "md_gpp_voice_list_name_25": [
+      "Grincheux 3"
+    ],
+    "md_gpp_voice_list_name_26": [
+      "Grincheux 4"
+    ],
+    "md_gpp_voice_list_name_27": [
+      "Grincheux 5"
+    ],
+    "md_gpp_voice_list_name_28": [
+      "Grincheux 6"
+    ],
+    "md_gpp_voice_list_name_29": [
+      "Grincheux 7"
+    ],
+    "md_gpp_voice_list_name_3": [
+      "Énergique 3"
+    ],
+    "md_gpp_voice_list_name_30": [
+      "Grincheux 8"
+    ],
+    "md_gpp_voice_list_name_31": [
+      "Amical 1"
+    ],
+    "md_gpp_voice_list_name_32": [
+      "Amical 2"
+    ],
+    "md_gpp_voice_list_name_33": [
+      "Amical 3"
+    ],
+    "md_gpp_voice_list_name_34": [
+      "Capricieux 1"
+    ],
+    "md_gpp_voice_list_name_35": [
+      "Capricieux 2"
+    ],
+    "md_gpp_voice_list_name_36": [
+      "Capricieux 3"
+    ],
+    "md_gpp_voice_list_name_37": [
+      "Chuchotant 1"
+    ],
+    "md_gpp_voice_list_name_38": [
+      "Chuchotant 2"
+    ],
+    "md_gpp_voice_list_name_39": [
+      "Chuchotant 3"
+    ],
+    "md_gpp_voice_list_name_4": [
+      "Énergique 4"
+    ],
+    "md_gpp_voice_list_name_40": [
+      "Fredonnant 1"
+    ],
+    "md_gpp_voice_list_name_41": [
+      "Fredonnant 2"
+    ],
+    "md_gpp_voice_list_name_42": [
+      "Imitation de réveil"
+    ],
+    "md_gpp_voice_list_name_43": [
+      "Sprint"
+    ],
+    "md_gpp_voice_list_name_44": [
+      "Fredonnant 3"
+    ],
+    "md_gpp_voice_list_name_45": [
+      "Fredonnant 4"
+    ],
+    "md_gpp_voice_list_name_5": [
+      "Énergique 5"
+    ],
+    "md_gpp_voice_list_name_6": [
+      "Énergique 6"
+    ],
+    "md_gpp_voice_list_name_7": [
+      "Énergique 7"
+    ],
+    "md_gpp_voice_list_name_8": [
+      "Énergique 8"
+    ],
+    "md_gpp_voice_list_name_9": [
+      "Enthousiaste 1"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 45,
+        "size": 319,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 23,
+        "size": 1525,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              11,
+              "md_gpp_voice_list_name_12"
+            ],
+            [
+              24,
+              "md_gpp_voice_list_name_25"
+            ],
+            [
+              37,
+              "md_gpp_voice_list_name_38"
+            ]
+          ],
+          274
+        ],
+        [
+          [
+            [
+              12,
+              "md_gpp_voice_list_name_13"
+            ],
+            [
+              25,
+              "md_gpp_voice_list_name_26"
+            ],
+            [
+              38,
+              "md_gpp_voice_list_name_39"
+            ]
+          ],
+          364
+        ],
+        [
+          [
+            [
+              13,
+              "md_gpp_voice_list_name_14"
+            ],
+            [
+              26,
+              "md_gpp_voice_list_name_27"
+            ]
+          ],
+          424
+        ],
+        [
+          [
+            [
+              14,
+              "md_gpp_voice_list_name_15"
+            ],
+            [
+              27,
+              "md_gpp_voice_list_name_28"
+            ]
+          ],
+          484
+        ],
+        [
+          [
+            [
+              0,
+              "md_gpp_voice_list_name_1"
+            ],
+            [
+              15,
+              "md_gpp_voice_list_name_16"
+            ],
+            [
+              28,
+              "md_gpp_voice_list_name_29"
+            ]
+          ],
+          573
+        ],
+        [
+          [
+            [
+              1,
+              "md_gpp_voice_list_name_2"
+            ],
+            [
+              16,
+              "md_gpp_voice_list_name_17"
+            ]
+          ],
+          632
+        ],
+        [
+          [
+            [
+              2,
+              "md_gpp_voice_list_name_3"
+            ],
+            [
+              17,
+              "md_gpp_voice_list_name_18"
+            ]
+          ],
+          691
+        ],
+        [
+          [
+            [
+              3,
+              "md_gpp_voice_list_name_4"
+            ],
+            [
+              18,
+              "md_gpp_voice_list_name_19"
+            ]
+          ],
+          750
+        ],
+        [
+          [
+            [
+              4,
+              "md_gpp_voice_list_name_5"
+            ]
+          ],
+          779
+        ],
+        [
+          [
+            [
+              5,
+              "md_gpp_voice_list_name_6"
+            ]
+          ],
+          808
+        ],
+        [
+          [
+            [
+              6,
+              "md_gpp_voice_list_name_7"
+            ]
+          ],
+          837
+        ],
+        [
+          [
+            [
+              7,
+              "md_gpp_voice_list_name_8"
+            ]
+          ],
+          866
+        ],
+        [
+          [
+            [
+              8,
+              "md_gpp_voice_list_name_9"
+            ],
+            [
+              39,
+              "md_gpp_voice_list_name_40"
+            ]
+          ],
+          925
+        ],
+        [
+          [
+            [
+              40,
+              "md_gpp_voice_list_name_41"
+            ]
+          ],
+          955
+        ],
+        [
+          [
+            [
+              41,
+              "md_gpp_voice_list_name_42"
+            ]
+          ],
+          985
+        ],
+        [
+          [
+            [
+              29,
+              "md_gpp_voice_list_name_30"
+            ],
+            [
+              42,
+              "md_gpp_voice_list_name_43"
+            ]
+          ],
+          1045
+        ],
+        [
+          [
+            [
+              30,
+              "md_gpp_voice_list_name_31"
+            ],
+            [
+              43,
+              "md_gpp_voice_list_name_44"
+            ]
+          ],
+          1105
+        ],
+        [
+          [
+            [
+              31,
+              "md_gpp_voice_list_name_32"
+            ],
+            [
+              44,
+              "md_gpp_voice_list_name_45"
+            ]
+          ],
+          1165
+        ],
+        [
+          [
+            [
+              19,
+              "md_gpp_voice_list_name_20"
+            ],
+            [
+              32,
+              "md_gpp_voice_list_name_33"
+            ]
+          ],
+          1225
+        ],
+        [
+          [
+            [
+              20,
+              "md_gpp_voice_list_name_21"
+            ],
+            [
+              33,
+              "md_gpp_voice_list_name_34"
+            ]
+          ],
+          1285
+        ],
+        [
+          [
+            [
+              21,
+              "md_gpp_voice_list_name_22"
+            ],
+            [
+              34,
+              "md_gpp_voice_list_name_35"
+            ]
+          ],
+          1345
+        ],
+        [
+          [
+            [
+              9,
+              "md_gpp_voice_list_name_10"
+            ],
+            [
+              22,
+              "md_gpp_voice_list_name_23"
+            ],
+            [
+              35,
+              "md_gpp_voice_list_name_36"
+            ]
+          ],
+          1435
+        ],
+        [
+          [
+            [
+              10,
+              "md_gpp_voice_list_name_11"
+            ],
+            [
+              23,
+              "md_gpp_voice_list_name_24"
+            ],
+            [
+              36,
+              "md_gpp_voice_list_name_37"
+            ]
+          ],
+          1525
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 45,
+        "size": 1266,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

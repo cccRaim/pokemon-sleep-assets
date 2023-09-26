@@ -1,0 +1,1690 @@
+{
+  "strings": {
+    "md_species_candies_name_1": [
+      "Bisasam-Bonbon"
+    ],
+    "md_species_candies_name_10": [
+      "Raupy-Bonbon"
+    ],
+    "md_species_candies_name_104": [
+      "Tragosso-Bonbon"
+    ],
+    "md_species_candies_name_104_plu": [
+      "Tragosso-Bonbons"
+    ],
+    "md_species_candies_name_10_plu": [
+      "Raupy-Bonbons"
+    ],
+    "md_species_candies_name_115": [
+      "Kangama-Bonbon"
+    ],
+    "md_species_candies_name_115_plu": [
+      "Kangama-Bonbons"
+    ],
+    "md_species_candies_name_127": [
+      "Pinsir-Bonbon"
+    ],
+    "md_species_candies_name_127_plu": [
+      "Pinsir-Bonbons"
+    ],
+    "md_species_candies_name_132": [
+      "Ditto-Bonbon"
+    ],
+    "md_species_candies_name_132_plu": [
+      "Ditto-Bonbons"
+    ],
+    "md_species_candies_name_133": [
+      "Evoli-Bonbon"
+    ],
+    "md_species_candies_name_133_plu": [
+      "Evoli-Bonbons"
+    ],
+    "md_species_candies_name_147": [
+      "Dratini-Bonbon"
+    ],
+    "md_species_candies_name_147_plu": [
+      "Dratini-Bonbons"
+    ],
+    "md_species_candies_name_152": [
+      "Endivie-Bonbon"
+    ],
+    "md_species_candies_name_152_plu": [
+      "Endivie-Bonbons"
+    ],
+    "md_species_candies_name_155": [
+      "Feurigel-Bonbon"
+    ],
+    "md_species_candies_name_155_plu": [
+      "Feurigel-Bonbons"
+    ],
+    "md_species_candies_name_158": [
+      "Karnimani-Bonbon"
+    ],
+    "md_species_candies_name_158_plu": [
+      "Karnimani-Bonbons"
+    ],
+    "md_species_candies_name_175": [
+      "Togepi-Bonbon"
+    ],
+    "md_species_candies_name_175_plu": [
+      "Togepi-Bonbons"
+    ],
+    "md_species_candies_name_179": [
+      "Voltilamm-Bonbon"
+    ],
+    "md_species_candies_name_179_plu": [
+      "Voltilamm-Bonbons"
+    ],
+    "md_species_candies_name_185": [
+      "Mogelbaum-Bonbon"
+    ],
+    "md_species_candies_name_185_plu": [
+      "Mogelbaum-Bonbons"
+    ],
+    "md_species_candies_name_19": [
+      "Rattfratz-Bonbon"
+    ],
+    "md_species_candies_name_19_plu": [
+      "Rattfratz-Bonbons"
+    ],
+    "md_species_candies_name_1_plu": [
+      "Bisasam-Bonbons"
+    ],
+    "md_species_candies_name_202": [
+      "Woingenau-Bonbon"
+    ],
+    "md_species_candies_name_202_plu": [
+      "Woingenau-Bonbons"
+    ],
+    "md_species_candies_name_214": [
+      "Skaraborn-Bonbon"
+    ],
+    "md_species_candies_name_214_plu": [
+      "Skaraborn-Bonbons"
+    ],
+    "md_species_candies_name_228": [
+      "Hunduster-Bonbon"
+    ],
+    "md_species_candies_name_228_plu": [
+      "Hunduster-Bonbons"
+    ],
+    "md_species_candies_name_23": [
+      "Rettan-Bonbon"
+    ],
+    "md_species_candies_name_23_plu": [
+      "Rettan-Bonbons"
+    ],
+    "md_species_candies_name_246": [
+      "Larvitar-Bonbon"
+    ],
+    "md_species_candies_name_246_plu": [
+      "Larvitar-Bonbons"
+    ],
+    "md_species_candies_name_25": [
+      "Pikachu-Bonbon"
+    ],
+    "md_species_candies_name_25_plu": [
+      "Pikachu-Bonbons"
+    ],
+    "md_species_candies_name_287": [
+      "Bummelz-Bonbon"
+    ],
+    "md_species_candies_name_287_plu": [
+      "Bummelz-Bonbons"
+    ],
+    "md_species_candies_name_302": [
+      "Zobiris-Bonbon"
+    ],
+    "md_species_candies_name_302_plu": [
+      "Zobiris-Bonbons"
+    ],
+    "md_species_candies_name_316": [
+      "Schluppuck-Bonbon"
+    ],
+    "md_species_candies_name_316_plu": [
+      "Schluppuck-Bonbons"
+    ],
+    "md_species_candies_name_333": [
+      "Wablu-Bonbon"
+    ],
+    "md_species_candies_name_333_plu": [
+      "Wablu-Bonbons"
+    ],
+    "md_species_candies_name_359": [
+      "Absol-Bonbon"
+    ],
+    "md_species_candies_name_359_plu": [
+      "Absol-Bonbons"
+    ],
+    "md_species_candies_name_363": [
+      "Seemops-Bonbon"
+    ],
+    "md_species_candies_name_363_plu": [
+      "Seemops-Bonbons"
+    ],
+    "md_species_candies_name_39": [
+      "Pummeluff-Bonbon"
+    ],
+    "md_species_candies_name_39_plu": [
+      "Pummeluff-Bonbons"
+    ],
+    "md_species_candies_name_4": [
+      "Glumanda-Bonbon"
+    ],
+    "md_species_candies_name_448": [
+      "Lucario-Bonbon"
+    ],
+    "md_species_candies_name_448_plu": [
+      "Lucario-Bonbons"
+    ],
+    "md_species_candies_name_453": [
+      "Glibunkel-Bonbon"
+    ],
+    "md_species_candies_name_453_plu": [
+      "Glibunkel-Bonbons"
+    ],
+    "md_species_candies_name_4_plu": [
+      "Glumanda-Bonbons"
+    ],
+    "md_species_candies_name_50": [
+      "Digda-Bonbon"
+    ],
+    "md_species_candies_name_50_plu": [
+      "Digda-Bonbons"
+    ],
+    "md_species_candies_name_52": [
+      "Mauzi-Bonbon"
+    ],
+    "md_species_candies_name_52_plu": [
+      "Mauzi-Bonbons"
+    ],
+    "md_species_candies_name_54": [
+      "Enton-Bonbon"
+    ],
+    "md_species_candies_name_54_plu": [
+      "Enton-Bonbons"
+    ],
+    "md_species_candies_name_56": [
+      "Menki-Bonbon"
+    ],
+    "md_species_candies_name_56_plu": [
+      "Menki-Bonbons"
+    ],
+    "md_species_candies_name_58": [
+      "Fukano-Bonbon"
+    ],
+    "md_species_candies_name_58_plu": [
+      "Fukano-Bonbons"
+    ],
+    "md_species_candies_name_69": [
+      "Knofensa-Bonbon"
+    ],
+    "md_species_candies_name_69_plu": [
+      "Knofensa-Bonbons"
+    ],
+    "md_species_candies_name_7": [
+      "Schiggy-Bonbon"
+    ],
+    "md_species_candies_name_74": [
+      "Kleinstein-Bonbon"
+    ],
+    "md_species_candies_name_74_plu": [
+      "Kleinstein-Bonbons"
+    ],
+    "md_species_candies_name_79": [
+      "Flegmon-Bonbon"
+    ],
+    "md_species_candies_name_79_plu": [
+      "Flegmon-Bonbons"
+    ],
+    "md_species_candies_name_7_plu": [
+      "Schiggy-Bonbons"
+    ],
+    "md_species_candies_name_81": [
+      "Magnetilo-Bonbon"
+    ],
+    "md_species_candies_name_81_plu": [
+      "Magnetilo-Bonbons"
+    ],
+    "md_species_candies_name_84": [
+      "Dodu-Bonbon"
+    ],
+    "md_species_candies_name_84_plu": [
+      "Dodu-Bonbons"
+    ],
+    "md_species_candies_name_92": [
+      "Nebulak-Bonbon"
+    ],
+    "md_species_candies_name_92_plu": [
+      "Nebulak-Bonbons"
+    ],
+    "md_species_candies_narrow_name_1": [
+      "Bisasam-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_10": [
+      "Raupy-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_104": [
+      "Tragosso-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_104_plu": [
+      "Tragosso-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_10_plu": [
+      "Raupy-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_115": [
+      "Kangama-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_115_plu": [
+      "Kangama-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_127": [
+      "Pinsir-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_127_plu": [
+      "Pinsir-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_132": [
+      "Ditto-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_132_plu": [
+      "Ditto-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_133": [
+      "Evoli-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_133_plu": [
+      "Evoli-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_147": [
+      "Dratini-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_147_plu": [
+      "Dratini-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_152": [
+      "Endivie-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_152_plu": [
+      "Endivie-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_155": [
+      "Feurigel-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_155_plu": [
+      "Feurigel-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_158": [
+      "Karnimani-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_158_plu": [
+      "Karnimani-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_175": [
+      "Togepi-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_175_plu": [
+      "Togepi-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_179": [
+      "Voltilamm-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_179_plu": [
+      "Voltilamm-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_185": [
+      "Mogelbaum-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_185_plu": [
+      "Mogelbaum-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_19": [
+      "Rattfratz-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_19_plu": [
+      "Rattfratz-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_1_plu": [
+      "Bisasam-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_202": [
+      "Woingenau-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_202_plu": [
+      "Woingenau-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_214": [
+      "Skaraborn-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_214_plu": [
+      "Skaraborn-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_228": [
+      "Hunduster-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_228_plu": [
+      "Hunduster-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_23": [
+      "Rettan-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_23_plu": [
+      "Rettan-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_246": [
+      "Larvitar-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_246_plu": [
+      "Larvitar-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_25": [
+      "Pikachu-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_25_plu": [
+      "Pikachu-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_287": [
+      "Bummelz-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_287_plu": [
+      "Bummelz-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_302": [
+      "Zobiris-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_302_plu": [
+      "Zobiris-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_316": [
+      "Schluppuck-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_316_plu": [
+      "Schluppuck-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_333": [
+      "Wablu-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_333_plu": [
+      "Wablu-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_359": [
+      "Absol-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_359_plu": [
+      "Absol-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_363": [
+      "Seemops-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_363_plu": [
+      "Seemops-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_39": [
+      "Pummeluff-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_39_plu": [
+      "Pummeluff-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_4": [
+      "Glumanda-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_448": [
+      "Lucario-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_448_plu": [
+      "Lucario-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_453": [
+      "Glibunkel-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_453_plu": [
+      "Glibunkel-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_4_plu": [
+      "Glumanda-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_50": [
+      "Digda-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_50_plu": [
+      "Digda-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_52": [
+      "Mauzi-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_52_plu": [
+      "Mauzi-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_54": [
+      "Enton-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_54_plu": [
+      "Enton-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_56": [
+      "Menki-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_56_plu": [
+      "Menki-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_58": [
+      "Fukano-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_58_plu": [
+      "Fukano-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_69": [
+      "Knofensa-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_69_plu": [
+      "Knofensa-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_7": [
+      "Schiggy-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_74": [
+      "Kleinstein-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_74_plu": [
+      "Kleinstein-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_79": [
+      "Flegmon-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_79_plu": [
+      "Flegmon-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_7_plu": [
+      "Schiggy-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_81": [
+      "Magnetilo-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_81_plu": [
+      "Magnetilo-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_84": [
+      "Dodu-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_84_plu": [
+      "Dodu-\nBonbons"
+    ],
+    "md_species_candies_narrow_name_92": [
+      "Nebulak-\nBonbon"
+    ],
+    "md_species_candies_narrow_name_92_plu": [
+      "Nebulak-\nBonbons"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 172,
+        "size": 1208,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 89,
+        "size": 7074,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              38,
+              "md_species_candies_name_127"
+            ],
+            [
+              52,
+              "md_species_candies_name_25"
+            ],
+            [
+              55,
+              "md_species_candies_name_39_plu"
+            ],
+            [
+              82,
+              "md_species_candies_name_448"
+            ],
+            [
+              113,
+              "md_species_candies_narrow_name_74_plu"
+            ]
+          ],
+          884
+        ],
+        [
+          [
+            [
+              57,
+              "md_species_candies_name_175_plu"
+            ]
+          ],
+          920
+        ],
+        [
+          [
+            [
+              41,
+              "md_species_candies_name_132_plu"
+            ],
+            [
+              69,
+              "md_species_candies_name_302_plu"
+            ],
+            [
+              93,
+              "md_species_candies_narrow_name_52_plu"
+            ]
+          ],
+          1034
+        ],
+        [
+          [
+            [
+              81,
+              "md_species_candies_name_185_plu"
+            ],
+            [
+              124,
+              "md_species_candies_narrow_name_69"
+            ]
+          ],
+          1108
+        ],
+        [
+          [],
+          1108
+        ],
+        [
+          [],
+          1108
+        ],
+        [
+          [
+            [
+              150,
+              "md_species_candies_narrow_name_127"
+            ],
+            [
+              164,
+              "md_species_candies_narrow_name_448"
+            ]
+          ],
+          1186
+        ],
+        [
+          [
+            [
+              47,
+              "md_species_candies_name_152_plu"
+            ]
+          ],
+          1222
+        ],
+        [
+          [
+            [
+              0,
+              "md_species_candies_name_1"
+            ],
+            [
+              40,
+              "md_species_candies_name_132"
+            ],
+            [
+              84,
+              "md_species_candies_name_453"
+            ],
+            [
+              103,
+              "md_species_candies_narrow_name_4_plu"
+            ],
+            [
+              157,
+              "md_species_candies_narrow_name_214_plu"
+            ],
+            [
+              159,
+              "md_species_candies_narrow_name_246_plu"
+            ],
+            [
+              165,
+              "md_species_candies_narrow_name_448_plu"
+            ]
+          ],
+          1486
+        ],
+        [
+          [
+            [
+              42,
+              "md_species_candies_name_133"
+            ]
+          ],
+          1518
+        ],
+        [
+          [
+            [
+              27,
+              "md_species_candies_name_79_plu"
+            ]
+          ],
+          1553
+        ],
+        [
+          [
+            [
+              2,
+              "md_species_candies_name_4"
+            ],
+            [
+              112,
+              "md_species_candies_narrow_name_74"
+            ]
+          ],
+          1621
+        ],
+        [
+          [
+            [
+              135,
+              "md_species_candies_narrow_name_92_plu"
+            ]
+          ],
+          1663
+        ],
+        [
+          [
+            [
+              79,
+              "md_species_candies_name_363_plu"
+            ],
+            [
+              139,
+              "md_species_candies_narrow_name_202_plu"
+            ]
+          ],
+          1742
+        ],
+        [
+          [
+            [
+              4,
+              "md_species_candies_name_7"
+            ],
+            [
+              144,
+              "md_species_candies_narrow_name_453"
+            ],
+            [
+              152,
+              "md_species_candies_narrow_name_132"
+            ],
+            [
+              163,
+              "md_species_candies_narrow_name_287_plu"
+            ]
+          ],
+          1893
+        ],
+        [
+          [
+            [
+              88,
+              "md_species_candies_narrow_name_133"
+            ]
+          ],
+          1932
+        ],
+        [
+          [
+            [
+              19,
+              "md_species_candies_name_56_plu"
+            ],
+            [
+              64,
+              "md_species_candies_name_246"
+            ],
+            [
+              104,
+              "md_species_candies_narrow_name_79"
+            ]
+          ],
+          2037
+        ],
+        [
+          [
+            [
+              54,
+              "md_species_candies_name_39"
+            ]
+          ],
+          2068
+        ],
+        [
+          [
+            [
+              96,
+              "md_species_candies_narrow_name_10"
+            ],
+            [
+              151,
+              "md_species_candies_narrow_name_127_plu"
+            ]
+          ],
+          2149
+        ],
+        [
+          [
+            [
+              95,
+              "md_species_candies_narrow_name_1_plu"
+            ]
+          ],
+          2190
+        ],
+        [
+          [],
+          2190
+        ],
+        [
+          [
+            [
+              146,
+              "md_species_candies_narrow_name_81"
+            ]
+          ],
+          2228
+        ],
+        [
+          [
+            [
+              67,
+              "md_species_candies_name_287_plu"
+            ],
+            [
+              107,
+              "md_species_candies_narrow_name_158_plu"
+            ],
+            [
+              158,
+              "md_species_candies_narrow_name_246"
+            ]
+          ],
+          2346
+        ],
+        [
+          [
+            [
+              74,
+              "md_species_candies_name_359"
+            ],
+            [
+              127,
+              "md_species_candies_narrow_name_179_plu"
+            ],
+            [
+              149,
+              "md_species_candies_narrow_name_115_plu"
+            ],
+            [
+              155,
+              "md_species_candies_narrow_name_147_plu"
+            ]
+          ],
+          2507
+        ],
+        [
+          [
+            [
+              117,
+              "md_species_candies_narrow_name_104_plu"
+            ],
+            [
+              132,
+              "md_species_candies_narrow_name_84"
+            ]
+          ],
+          2588
+        ],
+        [
+          [
+            [
+              121,
+              "md_species_candies_narrow_name_58_plu"
+            ]
+          ],
+          2630
+        ],
+        [
+          [
+            [
+              44,
+              "md_species_candies_name_147"
+            ],
+            [
+              105,
+              "md_species_candies_narrow_name_79_plu"
+            ]
+          ],
+          2704
+        ],
+        [
+          [
+            [
+              90,
+              "md_species_candies_narrow_name_19"
+            ]
+          ],
+          2742
+        ],
+        [
+          [
+            [
+              5,
+              "md_species_candies_name_7_plu"
+            ],
+            [
+              7,
+              "md_species_candies_name_10_plu"
+            ],
+            [
+              25,
+              "md_species_candies_name_74_plu"
+            ]
+          ],
+          2846
+        ],
+        [
+          [
+            [
+              145,
+              "md_species_candies_narrow_name_453_plu"
+            ],
+            [
+              160,
+              "md_species_candies_narrow_name_359"
+            ]
+          ],
+          2928
+        ],
+        [
+          [
+            [
+              78,
+              "md_species_candies_name_363"
+            ]
+          ],
+          2960
+        ],
+        [
+          [],
+          2960
+        ],
+        [
+          [
+            [
+              123,
+              "md_species_candies_narrow_name_56_plu"
+            ],
+            [
+              154,
+              "md_species_candies_narrow_name_147"
+            ]
+          ],
+          3041
+        ],
+        [
+          [
+            [
+              75,
+              "md_species_candies_name_359_plu"
+            ],
+            [
+              119,
+              "md_species_candies_narrow_name_155_plu"
+            ]
+          ],
+          3120
+        ],
+        [
+          [
+            [
+              12,
+              "md_species_candies_name_50"
+            ],
+            [
+              46,
+              "md_species_candies_name_152"
+            ],
+            [
+              71,
+              "md_species_candies_name_316_plu"
+            ],
+            [
+              114,
+              "md_species_candies_narrow_name_23"
+            ]
+          ],
+          3257
+        ],
+        [
+          [
+            [
+              89,
+              "md_species_candies_narrow_name_133_plu"
+            ],
+            [
+              134,
+              "md_species_candies_narrow_name_92"
+            ]
+          ],
+          3338
+        ],
+        [
+          [
+            [
+              14,
+              "md_species_candies_name_52"
+            ],
+            [
+              86,
+              "md_species_candies_narrow_name_25"
+            ],
+            [
+              166,
+              "md_species_candies_narrow_name_363"
+            ]
+          ],
+          3446
+        ],
+        [
+          [
+            [
+              48,
+              "md_species_candies_name_155"
+            ]
+          ],
+          3478
+        ],
+        [
+          [
+            [
+              13,
+              "md_species_candies_name_50_plu"
+            ],
+            [
+              16,
+              "md_species_candies_name_54"
+            ]
+          ],
+          3544
+        ],
+        [
+          [
+            [
+              3,
+              "md_species_candies_name_4_plu"
+            ],
+            [
+              153,
+              "md_species_candies_narrow_name_132_plu"
+            ]
+          ],
+          3621
+        ],
+        [
+          [
+            [
+              18,
+              "md_species_candies_name_56"
+            ],
+            [
+              50,
+              "md_species_candies_name_158"
+            ],
+            [
+              68,
+              "md_species_candies_name_302"
+            ],
+            [
+              129,
+              "md_species_candies_narrow_name_185_plu"
+            ],
+            [
+              136,
+              "md_species_candies_narrow_name_152"
+            ]
+          ],
+          3798
+        ],
+        [
+          [],
+          3798
+        ],
+        [
+          [
+            [
+              20,
+              "md_species_candies_name_58"
+            ]
+          ],
+          3829
+        ],
+        [
+          [
+            [
+              118,
+              "md_species_candies_narrow_name_155"
+            ]
+          ],
+          3868
+        ],
+        [
+          [
+            [
+              97,
+              "md_species_candies_narrow_name_10_plu"
+            ]
+          ],
+          3910
+        ],
+        [
+          [],
+          3910
+        ],
+        [
+          [
+            [
+              106,
+              "md_species_candies_narrow_name_158"
+            ],
+            [
+              170,
+              "md_species_candies_narrow_name_302"
+            ]
+          ],
+          3988
+        ],
+        [
+          [
+            [
+              133,
+              "md_species_candies_narrow_name_84_plu"
+            ]
+          ],
+          4030
+        ],
+        [
+          [
+            [
+              63,
+              "md_species_candies_name_228_plu"
+            ]
+          ],
+          4066
+        ],
+        [
+          [
+            [
+              76,
+              "md_species_candies_name_202"
+            ]
+          ],
+          4098
+        ],
+        [
+          [
+            [
+              1,
+              "md_species_candies_name_1_plu"
+            ],
+            [
+              73,
+              "md_species_candies_name_333_plu"
+            ],
+            [
+              167,
+              "md_species_candies_narrow_name_363_plu"
+            ]
+          ],
+          4211
+        ],
+        [
+          [],
+          4211
+        ],
+        [
+          [
+            [
+              23,
+              "md_species_candies_name_69_plu"
+            ]
+          ],
+          4246
+        ],
+        [
+          [
+            [
+              21,
+              "md_species_candies_name_58_plu"
+            ],
+            [
+              98,
+              "md_species_candies_narrow_name_39"
+            ]
+          ],
+          4319
+        ],
+        [
+          [
+            [
+              109,
+              "md_species_candies_narrow_name_50_plu"
+            ]
+          ],
+          4361
+        ],
+        [
+          [
+            [
+              138,
+              "md_species_candies_narrow_name_202"
+            ]
+          ],
+          4400
+        ],
+        [
+          [
+            [
+              22,
+              "md_species_candies_name_69"
+            ],
+            [
+              91,
+              "md_species_candies_narrow_name_19_plu"
+            ]
+          ],
+          4473
+        ],
+        [
+          [
+            [
+              53,
+              "md_species_candies_name_25_plu"
+            ],
+            [
+              70,
+              "md_species_candies_name_316"
+            ]
+          ],
+          4540
+        ],
+        [
+          [
+            [
+              147,
+              "md_species_candies_narrow_name_81_plu"
+            ]
+          ],
+          4582
+        ],
+        [
+          [],
+          4582
+        ],
+        [
+          [
+            [
+              34,
+              "md_species_candies_name_104"
+            ],
+            [
+              61,
+              "md_species_candies_name_214_plu"
+            ],
+            [
+              65,
+              "md_species_candies_name_246_plu"
+            ],
+            [
+              83,
+              "md_species_candies_name_448_plu"
+            ]
+          ],
+          4722
+        ],
+        [
+          [
+            [
+              99,
+              "md_species_candies_narrow_name_39_plu"
+            ]
+          ],
+          4764
+        ],
+        [
+          [],
+          4764
+        ],
+        [
+          [
+            [
+              56,
+              "md_species_candies_name_175"
+            ],
+            [
+              140,
+              "md_species_candies_narrow_name_316"
+            ]
+          ],
+          4835
+        ],
+        [
+          [
+            [
+              11,
+              "md_species_candies_name_23_plu"
+            ],
+            [
+              24,
+              "md_species_candies_name_74"
+            ],
+            [
+              60,
+              "md_species_candies_name_214"
+            ]
+          ],
+          4933
+        ],
+        [
+          [
+            [
+              77,
+              "md_species_candies_name_202_plu"
+            ]
+          ],
+          4969
+        ],
+        [
+          [
+            [
+              116,
+              "md_species_candies_narrow_name_104"
+            ]
+          ],
+          5008
+        ],
+        [
+          [
+            [
+              58,
+              "md_species_candies_name_179"
+            ]
+          ],
+          5040
+        ],
+        [
+          [
+            [
+              17,
+              "md_species_candies_name_54_plu"
+            ],
+            [
+              125,
+              "md_species_candies_narrow_name_69_plu"
+            ]
+          ],
+          5117
+        ],
+        [
+          [
+            [
+              26,
+              "md_species_candies_name_79"
+            ],
+            [
+              66,
+              "md_species_candies_name_287"
+            ],
+            [
+              110,
+              "md_species_candies_narrow_name_175"
+            ]
+          ],
+          5219
+        ],
+        [
+          [
+            [
+              39,
+              "md_species_candies_name_127_plu"
+            ],
+            [
+              94,
+              "md_species_candies_narrow_name_1"
+            ],
+            [
+              108,
+              "md_species_candies_narrow_name_50"
+            ],
+            [
+              156,
+              "md_species_candies_narrow_name_214"
+            ],
+            [
+              161,
+              "md_species_candies_narrow_name_359_plu"
+            ]
+          ],
+          5412
+        ],
+        [
+          [
+            [
+              6,
+              "md_species_candies_name_10"
+            ],
+            [
+              141,
+              "md_species_candies_narrow_name_316_plu"
+            ]
+          ],
+          5486
+        ],
+        [
+          [
+            [
+              92,
+              "md_species_candies_narrow_name_52"
+            ]
+          ],
+          5524
+        ],
+        [
+          [
+            [
+              87,
+              "md_species_candies_narrow_name_25_plu"
+            ],
+            [
+              102,
+              "md_species_candies_narrow_name_4"
+            ],
+            [
+              126,
+              "md_species_candies_narrow_name_179"
+            ]
+          ],
+          5642
+        ],
+        [
+          [
+            [
+              28,
+              "md_species_candies_name_81"
+            ],
+            [
+              36,
+              "md_species_candies_name_115"
+            ],
+            [
+              51,
+              "md_species_candies_name_158_plu"
+            ],
+            [
+              130,
+              "md_species_candies_narrow_name_54"
+            ]
+          ],
+          5779
+        ],
+        [
+          [
+            [
+              15,
+              "md_species_candies_name_52_plu"
+            ],
+            [
+              31,
+              "md_species_candies_name_84_plu"
+            ],
+            [
+              37,
+              "md_species_candies_name_115_plu"
+            ],
+            [
+              45,
+              "md_species_candies_name_147_plu"
+            ],
+            [
+              59,
+              "md_species_candies_name_179_plu"
+            ],
+            [
+              162,
+              "md_species_candies_narrow_name_287"
+            ]
+          ],
+          5996
+        ],
+        [
+          [
+            [
+              35,
+              "md_species_candies_name_104_plu"
+            ],
+            [
+              80,
+              "md_species_candies_name_185"
+            ],
+            [
+              100,
+              "md_species_candies_narrow_name_7"
+            ],
+            [
+              122,
+              "md_species_candies_narrow_name_56"
+            ]
+          ],
+          6139
+        ],
+        [
+          [
+            [
+              30,
+              "md_species_candies_name_84"
+            ]
+          ],
+          6170
+        ],
+        [
+          [
+            [
+              120,
+              "md_species_candies_narrow_name_58"
+            ]
+          ],
+          6208
+        ],
+        [
+          [],
+          6208
+        ],
+        [
+          [
+            [
+              8,
+              "md_species_candies_name_19"
+            ],
+            [
+              72,
+              "md_species_candies_name_333"
+            ],
+            [
+              115,
+              "md_species_candies_narrow_name_23_plu"
+            ],
+            [
+              148,
+              "md_species_candies_narrow_name_115"
+            ]
+          ],
+          6352
+        ],
+        [
+          [
+            [
+              62,
+              "md_species_candies_name_228"
+            ],
+            [
+              85,
+              "md_species_candies_name_453_plu"
+            ]
+          ],
+          6420
+        ],
+        [
+          [
+            [
+              111,
+              "md_species_candies_narrow_name_175_plu"
+            ],
+            [
+              128,
+              "md_species_candies_narrow_name_185"
+            ]
+          ],
+          6502
+        ],
+        [
+          [
+            [
+              171,
+              "md_species_candies_narrow_name_302_plu"
+            ]
+          ],
+          6545
+        ],
+        [
+          [
+            [
+              9,
+              "md_species_candies_name_19_plu"
+            ],
+            [
+              131,
+              "md_species_candies_narrow_name_54_plu"
+            ]
+          ],
+          6622
+        ],
+        [
+          [
+            [
+              33,
+              "md_species_candies_name_92_plu"
+            ],
+            [
+              49,
+              "md_species_candies_name_155_plu"
+            ],
+            [
+              169,
+              "md_species_candies_narrow_name_228_plu"
+            ]
+          ],
+          6736
+        ],
+        [
+          [
+            [
+              29,
+              "md_species_candies_name_81_plu"
+            ],
+            [
+              101,
+              "md_species_candies_narrow_name_7_plu"
+            ],
+            [
+              142,
+              "md_species_candies_narrow_name_333"
+            ]
+          ],
+          6851
+        ],
+        [
+          [
+            [
+              10,
+              "md_species_candies_name_23"
+            ],
+            [
+              43,
+              "md_species_candies_name_133_plu"
+            ],
+            [
+              143,
+              "md_species_candies_narrow_name_333_plu"
+            ],
+            [
+              168,
+              "md_species_candies_narrow_name_228"
+            ]
+          ],
+          7000
+        ],
+        [
+          [
+            [
+              32,
+              "md_species_candies_name_92"
+            ],
+            [
+              137,
+              "md_species_candies_narrow_name_152_plu"
+            ]
+          ],
+          7074
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 172,
+        "size": 6240,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

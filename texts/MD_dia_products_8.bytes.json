@@ -1,0 +1,284 @@
+{
+  "strings": {
+    "md_dia_products_desc_1": [
+      "유료 다이아 x80"
+    ],
+    "md_dia_products_desc_10": [
+      "유료 다이아 x1,200\n보너스 다이아 x300"
+    ],
+    "md_dia_products_desc_11": [
+      "유료 다이아 x2,400\n보너스 다이아 x700"
+    ],
+    "md_dia_products_desc_12": [
+      "유료 다이아 x4,900\n보너스 다이아 x2,100"
+    ],
+    "md_dia_products_desc_2": [
+      "유료 다이아 x240\n보너스 다이아 x20"
+    ],
+    "md_dia_products_desc_3": [
+      "유료 다이아 x550\n보너스 다이아 x70"
+    ],
+    "md_dia_products_desc_4": [
+      "유료 다이아 x1,200\n보너스 다이아 x300"
+    ],
+    "md_dia_products_desc_5": [
+      "유료 다이아 x2,400\n보너스 다이아 x700"
+    ],
+    "md_dia_products_desc_6": [
+      "유료 다이아 x4,900\n보너스 다이아 x2,100"
+    ],
+    "md_dia_products_desc_7": [
+      "유료 다이아 x80"
+    ],
+    "md_dia_products_desc_8": [
+      "유료 다이아 x240\n보너스 다이아 x20"
+    ],
+    "md_dia_products_desc_9": [
+      "유료 다이아 x550\n보너스 다이아 x70"
+    ],
+    "md_dia_products_name_1": [
+      "다이아 x80"
+    ],
+    "md_dia_products_name_10": [
+      "다이아 x1,500"
+    ],
+    "md_dia_products_name_11": [
+      "다이아 x3,100"
+    ],
+    "md_dia_products_name_12": [
+      "다이아 x7,000"
+    ],
+    "md_dia_products_name_2": [
+      "다이아 x260"
+    ],
+    "md_dia_products_name_3": [
+      "다이아 x620"
+    ],
+    "md_dia_products_name_4": [
+      "다이아 x1,500"
+    ],
+    "md_dia_products_name_5": [
+      "다이아 x3,100"
+    ],
+    "md_dia_products_name_6": [
+      "다이아 x7,000"
+    ],
+    "md_dia_products_name_7": [
+      "다이아 x80"
+    ],
+    "md_dia_products_name_8": [
+      "다이아 x260"
+    ],
+    "md_dia_products_name_9": [
+      "다이아 x620"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 24,
+        "size": 172,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 758,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              14,
+              "md_dia_products_name_8"
+            ]
+          ],
+          131
+        ],
+        [
+          [
+            [
+              16,
+              "md_dia_products_name_9"
+            ]
+          ],
+          158
+        ],
+        [
+          [
+            [
+              1,
+              "md_dia_products_desc_1"
+            ]
+          ],
+          185
+        ],
+        [
+          [
+            [
+              3,
+              "md_dia_products_desc_2"
+            ]
+          ],
+          212
+        ],
+        [
+          [
+            [
+              5,
+              "md_dia_products_desc_3"
+            ],
+            [
+              18,
+              "md_dia_products_name_10"
+            ]
+          ],
+          267
+        ],
+        [
+          [
+            [
+              7,
+              "md_dia_products_desc_4"
+            ],
+            [
+              20,
+              "md_dia_products_name_11"
+            ]
+          ],
+          322
+        ],
+        [
+          [
+            [
+              0,
+              "md_dia_products_name_1"
+            ],
+            [
+              9,
+              "md_dia_products_desc_5"
+            ],
+            [
+              22,
+              "md_dia_products_name_12"
+            ]
+          ],
+          404
+        ],
+        [
+          [
+            [
+              2,
+              "md_dia_products_name_2"
+            ],
+            [
+              11,
+              "md_dia_products_desc_6"
+            ]
+          ],
+          458
+        ],
+        [
+          [
+            [
+              4,
+              "md_dia_products_name_3"
+            ],
+            [
+              13,
+              "md_dia_products_desc_7"
+            ],
+            [
+              19,
+              "md_dia_products_desc_10"
+            ]
+          ],
+          540
+        ],
+        [
+          [
+            [
+              6,
+              "md_dia_products_name_4"
+            ],
+            [
+              15,
+              "md_dia_products_desc_8"
+            ],
+            [
+              21,
+              "md_dia_products_desc_11"
+            ]
+          ],
+          622
+        ],
+        [
+          [
+            [
+              8,
+              "md_dia_products_name_5"
+            ],
+            [
+              17,
+              "md_dia_products_desc_9"
+            ],
+            [
+              23,
+              "md_dia_products_desc_12"
+            ]
+          ],
+          704
+        ],
+        [
+          [
+            [
+              10,
+              "md_dia_products_name_6"
+            ]
+          ],
+          731
+        ],
+        [
+          [
+            [
+              12,
+              "md_dia_products_name_7"
+            ]
+          ],
+          758
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 24,
+        "size": 900,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

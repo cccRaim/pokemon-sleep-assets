@@ -1,0 +1,332 @@
+{
+  "strings": {
+    "md_incense_desc_1": [
+      "Raddoppia i PE ottenuti dai Pokémon\nassistenti quando dormono."
+    ],
+    "md_incense_desc_10": [
+      "Aumenta del 50% i PV ripristinati\ndai Pokémon assistenti."
+    ],
+    "md_incense_desc_11": [
+      "Aumenta del 20% i PE ricerca\nottenuti dalla ricerca del sonno."
+    ],
+    "md_incense_desc_12": [
+      "Aumenta del 50% i PE ricerca\nottenuti dalla ricerca del sonno."
+    ],
+    "md_incense_desc_13": [
+      "Aumenta del 20% le monete\nottenute dalla ricerca del sonno."
+    ],
+    "md_incense_desc_14": [
+      "Aumenta del 50% le monete\nottenute dalla ricerca del sonno."
+    ],
+    "md_incense_desc_2": [
+      "Raddoppia i frammenti di sogno\nottenuti con la ricerca del sonno."
+    ],
+    "md_incense_desc_3": [
+      "Raddoppia i PV recuperati\ndai Pokémon assistenti nel sonno."
+    ],
+    "md_incense_desc_4": [
+      "Radoppia i PE ottenuti\ndalla ricerca del sonno."
+    ],
+    "md_incense_desc_5": [
+      "Aumenta del 50% le probabilità\ndi trovare posizioni mai viste prima."
+    ],
+    "md_incense_desc_6": [
+      "Raddoppia le probabilità di trovare\nposizioni mai viste prima."
+    ],
+    "md_incense_desc_7": [
+      "Aumenta del 20% il Potere zzZ\ndi Snorlax nel giorno successivo."
+    ],
+    "md_incense_desc_8": [
+      "Aumenta del 50% il Potere zzZ\ndi Snorlax nel giorno successivo."
+    ],
+    "md_incense_desc_9": [
+      "Aumenta del 20% i PV ripristinati\ndai Pokémon assistenti."
+    ],
+    "md_incense_name_1": [
+      "Crescitaroma"
+    ],
+    "md_incense_name_10": [
+      "Vigoraroma M"
+    ],
+    "md_incense_name_11": [
+      "Lente di ricerca S"
+    ],
+    "md_incense_name_12": [
+      "Lente di ricerca M"
+    ],
+    "md_incense_name_13": [
+      "Fortunfotocamera S"
+    ],
+    "md_incense_name_14": [
+      "Fortunfotocamera M"
+    ],
+    "md_incense_name_2": [
+      "Fortunaroma"
+    ],
+    "md_incense_name_3": [
+      "Recuperaroma"
+    ],
+    "md_incense_name_4": [
+      "Concentraroma"
+    ],
+    "md_incense_name_5": [
+      "Bambola Togepi M"
+    ],
+    "md_incense_name_6": [
+      "Bambola Togepi L"
+    ],
+    "md_incense_name_7": [
+      "Erba Panciavuota S"
+    ],
+    "md_incense_name_8": [
+      "Erba Panciavuota M"
+    ],
+    "md_incense_name_9": [
+      "Vigoraroma S"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 28,
+        "size": 200,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 762,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              7,
+              "md_incense_desc_4"
+            ]
+          ],
+          158
+        ],
+        [
+          [
+            [
+              9,
+              "md_incense_desc_5"
+            ],
+            [
+              19,
+              "md_incense_desc_10"
+            ]
+          ],
+          203
+        ],
+        [
+          [
+            [
+              11,
+              "md_incense_desc_6"
+            ],
+            [
+              21,
+              "md_incense_desc_11"
+            ]
+          ],
+          248
+        ],
+        [
+          [
+            [
+              13,
+              "md_incense_desc_7"
+            ],
+            [
+              18,
+              "md_incense_name_10"
+            ],
+            [
+              23,
+              "md_incense_desc_12"
+            ]
+          ],
+          316
+        ],
+        [
+          [
+            [
+              15,
+              "md_incense_desc_8"
+            ],
+            [
+              20,
+              "md_incense_name_11"
+            ],
+            [
+              25,
+              "md_incense_desc_13"
+            ]
+          ],
+          384
+        ],
+        [
+          [
+            [
+              0,
+              "md_incense_name_1"
+            ],
+            [
+              17,
+              "md_incense_desc_9"
+            ],
+            [
+              22,
+              "md_incense_name_12"
+            ],
+            [
+              27,
+              "md_incense_desc_14"
+            ]
+          ],
+          474
+        ],
+        [
+          [
+            [
+              2,
+              "md_incense_name_2"
+            ],
+            [
+              24,
+              "md_incense_name_13"
+            ]
+          ],
+          519
+        ],
+        [
+          [
+            [
+              4,
+              "md_incense_name_3"
+            ],
+            [
+              26,
+              "md_incense_name_14"
+            ]
+          ],
+          564
+        ],
+        [
+          [
+            [
+              6,
+              "md_incense_name_4"
+            ]
+          ],
+          586
+        ],
+        [
+          [
+            [
+              8,
+              "md_incense_name_5"
+            ]
+          ],
+          608
+        ],
+        [
+          [
+            [
+              10,
+              "md_incense_name_6"
+            ]
+          ],
+          630
+        ],
+        [
+          [
+            [
+              12,
+              "md_incense_name_7"
+            ]
+          ],
+          652
+        ],
+        [
+          [
+            [
+              14,
+              "md_incense_name_8"
+            ]
+          ],
+          674
+        ],
+        [
+          [
+            [
+              16,
+              "md_incense_name_9"
+            ]
+          ],
+          696
+        ],
+        [
+          [
+            [
+              1,
+              "md_incense_desc_1"
+            ]
+          ],
+          718
+        ],
+        [
+          [
+            [
+              3,
+              "md_incense_desc_2"
+            ]
+          ],
+          740
+        ],
+        [
+          [
+            [
+              5,
+              "md_incense_desc_3"
+            ]
+          ],
+          762
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 28,
+        "size": 2282,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

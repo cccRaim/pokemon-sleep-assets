@@ -1,0 +1,332 @@
+{
+  "strings": {
+    "PresentBoxDescription_text00": [
+      "점검 보상"
+    ],
+    "PresentBoxDescription_text01": [
+      "운영 보상"
+    ],
+    "PresentBoxDescription_text02_01": [
+      "배포 \u000e\u0002\u0001\u0002",
+      "주년 기념 보너스"
+    ],
+    "PresentBoxDescription_text02_02": [
+      "配信2周年記念ボーナス"
+    ],
+    "PresentBoxDescription_text02_03": [
+      "配信3周年記念ボーナス"
+    ],
+    "PresentBoxDescription_text02_04": [
+      "配信4周年記念ボーナス"
+    ],
+    "PresentBoxDescription_text02_05": [
+      "配信5周年記念ボーナス"
+    ],
+    "PresentBoxDescription_text02_06": [
+      "配信6周年記念ボーナス"
+    ],
+    "PresentBoxDescription_text02_07": [
+      "配信7周年記念ボーナス"
+    ],
+    "PresentBoxDescription_text02_08": [
+      "配信8周年記念ボーナス"
+    ],
+    "PresentBoxDescription_text02_09": [
+      "配信9周年記念ボーナス"
+    ],
+    "PresentBoxDescription_text02_10": [
+      "配信10周年記念ボーナス"
+    ],
+    "PresentBoxDescription_text03": [
+      "배포 반년 기념 보너스"
+    ],
+    "PresentBoxDescription_text04": [
+      "이벤트 보상"
+    ],
+    "PresentBoxDescription_text05": [
+      "출시 기념 보너스\n\u000e\u0002\u0002\u0002",
+      "일차"
+    ],
+    "PresentBoxDescription_text06": [
+      "출시 기념 보너스"
+    ],
+    "PresentBoxDescription_text07": [
+      "업데이트 기념 보너스\n\u000e\u0002\u0002\u0002",
+      "일차"
+    ],
+    "PresentBoxDescription_text08": [
+      "업데이트 기념 보너스"
+    ],
+    "PresentBoxDescription_text09": [
+      "\u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      "\n굿 슬립 데이"
+    ],
+    "PresentBoxDescription_text10": [
+      "\u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      "\n보너스"
+    ],
+    "PresentBoxDescription_text11": [
+      "\u000e\u0002\t\u0004",
+      "촁 다운로드\n기념 보너스"
+    ],
+    "PresentBoxDescription_text13": [
+      "시즌 이벤트 보너스"
+    ],
+    "PresentBoxDescription_text14": [
+      "고객 문의 보상"
+    ],
+    "PresentBoxDescription_text15": [
+      "\u000e\t",
+      "\u000e\nyyyyy",
+      "\n새해 인사"
+    ],
+    "PresentBoxDescription_text17": [
+      "프리미엄 패스 매월 특전\n\u000e\t",
+      "\u0012\u000eyyyyMMM",
+      ""
+    ],
+    "PresentBoxDescription_text18": [
+      "프리미엄 패스 3개월 지속 특전\n\u000e\t",
+      "\u0012\u000eyyyyMMM",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 26,
+        "size": 186,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 1024,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              23,
+              "PresentBoxDescription_text15"
+            ]
+          ],
+          169
+        ],
+        [
+          [
+            [
+              12,
+              "PresentBoxDescription_text03"
+            ]
+          ],
+          202
+        ],
+        [
+          [
+            [
+              13,
+              "PresentBoxDescription_text04"
+            ],
+            [
+              24,
+              "PresentBoxDescription_text17"
+            ]
+          ],
+          268
+        ],
+        [
+          [
+            [
+              11,
+              "PresentBoxDescription_text02_10"
+            ],
+            [
+              14,
+              "PresentBoxDescription_text05"
+            ],
+            [
+              25,
+              "PresentBoxDescription_text18"
+            ]
+          ],
+          370
+        ],
+        [
+          [
+            [
+              15,
+              "PresentBoxDescription_text06"
+            ]
+          ],
+          403
+        ],
+        [
+          [
+            [
+              16,
+              "PresentBoxDescription_text07"
+            ]
+          ],
+          436
+        ],
+        [
+          [
+            [
+              17,
+              "PresentBoxDescription_text08"
+            ]
+          ],
+          469
+        ],
+        [
+          [
+            [
+              2,
+              "PresentBoxDescription_text02_01"
+            ],
+            [
+              18,
+              "PresentBoxDescription_text09"
+            ]
+          ],
+          538
+        ],
+        [
+          [
+            [
+              3,
+              "PresentBoxDescription_text02_02"
+            ]
+          ],
+          574
+        ],
+        [
+          [
+            [
+              4,
+              "PresentBoxDescription_text02_03"
+            ]
+          ],
+          610
+        ],
+        [
+          [
+            [
+              5,
+              "PresentBoxDescription_text02_04"
+            ]
+          ],
+          646
+        ],
+        [
+          [
+            [
+              6,
+              "PresentBoxDescription_text02_05"
+            ]
+          ],
+          682
+        ],
+        [
+          [
+            [
+              7,
+              "PresentBoxDescription_text02_06"
+            ],
+            [
+              19,
+              "PresentBoxDescription_text10"
+            ]
+          ],
+          751
+        ],
+        [
+          [
+            [
+              8,
+              "PresentBoxDescription_text02_07"
+            ],
+            [
+              20,
+              "PresentBoxDescription_text11"
+            ]
+          ],
+          820
+        ],
+        [
+          [
+            [
+              9,
+              "PresentBoxDescription_text02_08"
+            ]
+          ],
+          856
+        ],
+        [
+          [
+            [
+              0,
+              "PresentBoxDescription_text00"
+            ],
+            [
+              10,
+              "PresentBoxDescription_text02_09"
+            ],
+            [
+              21,
+              "PresentBoxDescription_text13"
+            ]
+          ],
+          958
+        ],
+        [
+          [
+            [
+              1,
+              "PresentBoxDescription_text01"
+            ],
+            [
+              22,
+              "PresentBoxDescription_text14"
+            ]
+          ],
+          1024
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 26,
+        "size": 872,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "strings": {
+    "GPPSetupSceneController_NoAcceptionPopup_Text": [
+      "Per poter collegare Pokémon GO\nPlus + tramite Bluetooth, l'app\nnecessita dell'autorizzazione\na usare i dati di posizione e il\nBluetooth deve essere attivato."
+    ],
+    "GPPSetupSceneController_NoAcceptionPopup_Title": [
+      "Attualmente non disponibile"
+    ],
+    "GPPSetupSceneController_NoUsePopup_Text": [
+      "Impossibile usare il Bluetooth per\ncollegarsi a Pokémon GO Plus +\nperché non è stata fornita all'app\nl'autorizzazione ad accedere ai dati\ndi posizione o perché il Bluetooth\nnon è attivo. Consenti all'app di\naccedere ai dati di posizione\ne attiva il Bluetooth nelle\nimpostazioni del tuo dispositivo."
+    ],
+    "GPPSetupSceneController_NoUsePopup_Title": [
+      "Attualmente non disponibile"
+    ],
+    "GPPSetupSceneController_Text_1": [
+      "Vuoi davvero annullare\nla configurazione\ndi Pokémon GO Plus +?"
+    ],
+    "GPPSetupSceneController_Text_10": [
+      "Impossibile utilizzare il Bluetooth.\nAttiva il Bluetooth nelle impostazioni\ndel tuo dispositivo mobile e riprova."
+    ],
+    "GPPSetupSceneController_Text_11": [
+      "Collegamento con Pokémon GO Plus +\ninterrotto. Riprova."
+    ],
+    "GPPSetupSceneController_Text_12": [
+      "Possibile malfunzionamento\ndi Pokémon GO Plus + o difficoltà\ndi comunicazione."
+    ],
+    "GPPSetupSceneController_Text_13": [
+      "Accesso ai dati di posizione"
+    ],
+    "GPPSetupSceneController_Text_14": [
+      "Impossibile utilizzare il Bluetooth.\nAttiva il Bluetooth e i dati\ndi posizione nelle impostazioni\ndel tuo dispositivo mobile e riprova."
+    ],
+    "GPPSetupSceneController_Text_2": [
+      "Ricerca dispositivo"
+    ],
+    "GPPSetupSceneController_Text_3": [
+      "L'applicazione cercherà un dispositivo\nPokémon GO Plus + da associare.\n\u000e",
+      "\u0003\u0004毿ＷPremi brevemente\u000e",
+      "\u0003\u0004",
+      "＀ il \u000e",
+      "\u0003\u0004毿Ｗpulsante principale\u000e",
+      "\u0003\u0004",
+      "＀\ndi \u000e",
+      "\u0003\u0004毿ＷPokémon GO Plus +\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "GPPSetupSceneController_Text_4": [
+      "Associazione dispositivo"
+    ],
+    "GPPSetupSceneController_Text_5": [
+      "Pokémon GO Plus + verrà ora\nassociato all'applicazione.\nPremi \u000e",
+      "\u0003\u0004毿Ｗcontemporaneamente \u000e",
+      "\u0003\u0004",
+      "＀il \u000e",
+      "\u0003\u0004毿Ｗpulsante\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗprincipale\u000e",
+      "\u0003\u0004",
+      "＀ e il \u000e",
+      "\u0003\u0004毿Ｗpulsante superiore\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗsul lato\u000e",
+      "\u0003\u0004",
+      "＀ di Pokémon GO Plus +."
+    ],
+    "GPPSetupSceneController_Text_6": [
+      "Dispositivo associato"
+    ],
+    "GPPSetupSceneController_Text_7": [
+      "\u000e",
+      "\u0003\u0004毿ＷAssociazione\u000e",
+      "\u0003\u0004",
+      "＀ di Pokémon GO Plus +\n\u000e",
+      "\u0003\u0004毿Ｗcompletata\u000e",
+      "\u0003\u0004",
+      "＀. Prova a fare un\u000e",
+      "\u0003\u0004毿Ｗ test di\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗmisurazione del sonno\u000e",
+      "\u0003\u0004",
+      "＀ con\nPokémon GO Plus +."
+    ],
+    "GPPSetupSceneController_Text_8": [
+      "È stato trovato un dispositivo\nPokémon GO Plus +, ma è associato\na un altro dispositivo, con il quale\nè utilizzato.\n\nSe Pokémon GO Plus + viene associato\na questo dispositivo, verrà rimosso\ndall'altro. Non potrai recuperare\ni dati del sonno lì presenti e verranno\nripristinate le sveglie predefinite."
+    ],
+    "GPPSetupSceneController_Text_CheckAlarmRewrite": [
+      "Ripristinare le sveglie predefinite?"
+    ],
+    "GPPSetupScene_Content_Name": [
+      "Pulsante principale"
+    ],
+    "GPPSetupScene_Content_Name_3": [
+      "Pulsante superiore"
+    ],
+    "GPPSetupScene_Content_NextButton": [
+      "Avvia il test"
+    ],
+    "GPPSetupScene_Content_Outline": [
+      "In attesa di una tua azione..."
+    ],
+    "GPPSetupScene_Footer_BackButton": [
+      "Annulla e torna indietro"
+    ],
+    "GPPSetupScene_Header_Title": [
+      "Impostazione Pokémon GO Plus +"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 24,
+        "size": 172,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 1007,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "GPPSetupSceneController_Text_7"
+            ],
+            [
+              8,
+              "GPPSetupSceneController_Text_10"
+            ],
+            [
+              20,
+              "GPPSetupSceneController_NoAcceptionPopup_Title"
+            ]
+          ],
+          226
+        ],
+        [
+          [
+            [
+              7,
+              "GPPSetupSceneController_Text_8"
+            ],
+            [
+              9,
+              "GPPSetupSceneController_Text_11"
+            ],
+            [
+              15,
+              "GPPSetupScene_Content_Outline"
+            ],
+            [
+              17,
+              "GPPSetupScene_Header_Title"
+            ],
+            [
+              18,
+              "GPPSetupScene_Footer_BackButton"
+            ]
+          ],
+          398
+        ],
+        [
+          [
+            [
+              10,
+              "GPPSetupSceneController_Text_12"
+            ],
+            [
+              14,
+              "GPPSetupScene_Content_Name_3"
+            ],
+            [
+              21,
+              "GPPSetupSceneController_NoAcceptionPopup_Text"
+            ],
+            [
+              22,
+              "GPPSetupSceneController_NoUsePopup_Title"
+            ]
+          ],
+          562
+        ],
+        [
+          [
+            [
+              11,
+              "GPPSetupSceneController_Text_13"
+            ]
+          ],
+          598
+        ],
+        [
+          [
+            [
+              12,
+              "GPPSetupSceneController_Text_14"
+            ]
+          ],
+          634
+        ],
+        [
+          [],
+          634
+        ],
+        [
+          [],
+          634
+        ],
+        [
+          [
+            [
+              0,
+              "GPPSetupSceneController_Text_1"
+            ],
+            [
+              13,
+              "GPPSetupScene_Content_Name"
+            ]
+          ],
+          700
+        ],
+        [
+          [
+            [
+              1,
+              "GPPSetupSceneController_Text_2"
+            ]
+          ],
+          735
+        ],
+        [
+          [
+            [
+              2,
+              "GPPSetupSceneController_Text_3"
+            ],
+            [
+              16,
+              "GPPSetupScene_Content_NextButton"
+            ]
+          ],
+          807
+        ],
+        [
+          [
+            [
+              3,
+              "GPPSetupSceneController_Text_4"
+            ],
+            [
+              23,
+              "GPPSetupSceneController_NoUsePopup_Text"
+            ]
+          ],
+          886
+        ],
+        [
+          [
+            [
+              4,
+              "GPPSetupSceneController_Text_5"
+            ]
+          ],
+          921
+        ],
+        [
+          [
+            [
+              5,
+              "GPPSetupSceneController_Text_6"
+            ],
+            [
+              19,
+              "GPPSetupSceneController_Text_CheckAlarmRewrite"
+            ]
+          ],
+          1007
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 24,
+        "size": 4268,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

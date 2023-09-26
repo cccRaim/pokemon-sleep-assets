@@ -1,0 +1,140 @@
+{
+  "strings": {
+    "TutorialSetupSceneController_Text_2": [
+      "暱稱"
+    ],
+    "TutorialSetupSceneController_Text_3": [
+      "就寢約定"
+    ],
+    "TutorialSetupSceneController_Text_4": [
+      "設定就寢目標時間"
+    ],
+    "TutorialSetupSceneController_Text_5": [
+      "準備好了！"
+    ],
+    "TutorialSetupSceneController_Text_8": [
+      "這樣子就準備好可以開始研究了。\n當你要睡覺前，就再回來進行研究吧。\n不要忘記喔！"
+    ],
+    "TutorialSetupScene_NameChangeView_Desc": [
+      "※之後也可以變更。"
+    ],
+    "TutorialSetupScene_NameChangeView_OKButton": [
+      "確定"
+    ],
+    "TutorialSetupScene_SleepTimeSetView_Desc": [
+      "您會在目標時間的30分鐘前\n透過推播通知收到提醒。\n※之後也可以變更設定。"
+    ],
+    "TutorialSetupScene_SleepTimeSetView_TimeChangeButton": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 9,
+        "size": 67,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 432,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "TutorialSetupSceneController_Text_5"
+            ],
+            [
+              8,
+              "TutorialSetupScene_SleepTimeSetView_Desc"
+            ]
+          ],
+          125
+        ],
+        [
+          [],
+          125
+        ],
+        [
+          [
+            [
+              0,
+              "TutorialSetupSceneController_Text_2"
+            ],
+            [
+              5,
+              "TutorialSetupScene_NameChangeView_Desc"
+            ]
+          ],
+          208
+        ],
+        [
+          [
+            [
+              1,
+              "TutorialSetupSceneController_Text_3"
+            ],
+            [
+              4,
+              "TutorialSetupSceneController_Text_8"
+            ],
+            [
+              6,
+              "TutorialSetupScene_NameChangeView_OKButton"
+            ],
+            [
+              7,
+              "TutorialSetupScene_SleepTimeSetView_TimeChangeButton"
+            ]
+          ],
+          392
+        ],
+        [
+          [
+            [
+              2,
+              "TutorialSetupSceneController_Text_4"
+            ]
+          ],
+          432
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 9,
+        "size": 290,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

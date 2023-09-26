@@ -1,0 +1,219 @@
+{
+  "strings": {
+    "PokemonNature_Text_1": [
+      "主技能發動機率"
+    ],
+    "PokemonNature_Text_2": [
+      "EXP獲得量"
+    ],
+    "PokemonNature_Text_3": [
+      "活力回復量"
+    ],
+    "PokemonNature_Text_4": [
+      "食材發現率"
+    ],
+    "PokemonNature_Text_5": [
+      "幫忙速度"
+    ],
+    "SleepingFace_LibrarySubId": [
+      "ID：\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SpeciesCandy_Text_1": [
+      "\u000e\u0003\u0003\u0004Ā촀的糖果"
+    ],
+    "WeeklyMission_Text_10": [
+      "使用\u000e\u0002\u0001\u0002",
+      "個寶可沙布蕾"
+    ],
+    "WeeklyMission_Text_11": [
+      "使用\u000e\u0002\u0001\u0002",
+      "個糖果"
+    ],
+    "WeeklyMission_Text_2": [
+      "讓卡比獸達到\u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "WeeklyMission_Text_3": [
+      "做\u000e\u0002\u0001\u0002",
+      "次料理"
+    ],
+    "WeeklyMission_Text_6": [
+      "給卡比獸吃\u000e\u0002\u0002\u0002",
+      "個樹果"
+    ],
+    "WeeklyMission_Text_7": [
+      "給卡比獸吃\u000e\u0002\u0002\u0002",
+      "個牠喜歡的樹果"
+    ],
+    "WeeklyMission_Text_8": [
+      "守住\u000e\u0002\u0001\u0002",
+      "次就寢約定"
+    ],
+    "WeeklyMission_Text_9": [
+      "讓\u000e\u0002\u0001\u0002",
+      "隻寶可夢成為夥伴"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 15,
+        "size": 109,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 469,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              8,
+              "WeeklyMission_Text_6"
+            ]
+          ],
+          113
+        ],
+        [
+          [
+            [
+              9,
+              "WeeklyMission_Text_7"
+            ]
+          ],
+          138
+        ],
+        [
+          [
+            [
+              5,
+              "SpeciesCandy_Text_1"
+            ],
+            [
+              10,
+              "WeeklyMission_Text_8"
+            ]
+          ],
+          187
+        ],
+        [
+          [
+            [
+              11,
+              "WeeklyMission_Text_9"
+            ]
+          ],
+          212
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonNature_Text_1"
+            ]
+          ],
+          237
+        ],
+        [
+          [
+            [
+              1,
+              "PokemonNature_Text_2"
+            ]
+          ],
+          262
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonNature_Text_3"
+            ]
+          ],
+          287
+        ],
+        [
+          [
+            [
+              3,
+              "PokemonNature_Text_4"
+            ],
+            [
+              6,
+              "WeeklyMission_Text_2"
+            ]
+          ],
+          337
+        ],
+        [
+          [
+            [
+              4,
+              "PokemonNature_Text_5"
+            ],
+            [
+              7,
+              "WeeklyMission_Text_3"
+            ],
+            [
+              12,
+              "WeeklyMission_Text_10"
+            ]
+          ],
+          413
+        ],
+        [
+          [
+            [
+              13,
+              "WeeklyMission_Text_11"
+            ]
+          ],
+          439
+        ],
+        [
+          [
+            [
+              14,
+              "SleepingFace_LibrarySubId"
+            ]
+          ],
+          469
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 15,
+        "size": 378,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

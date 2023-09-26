@@ -1,0 +1,1098 @@
+{
+  "strings": {
+    "md_pokemon_incense_desc_1": [
+      "Ein Rauch, den \u000e\u0003\u0001\u0002촀 bevorzugt.\nBenutze ihn, bevor du schlafen gehst."
+    ],
+    "md_pokemon_incense_name_1": [
+      "Bisasam-Rauch"
+    ],
+    "md_pokemon_incense_name_10": [
+      "Raupy-Rauch"
+    ],
+    "md_pokemon_incense_name_104": [
+      "Tragosso-Rauch"
+    ],
+    "md_pokemon_incense_name_105": [
+      "Knogga-Rauch"
+    ],
+    "md_pokemon_incense_name_11": [
+      "Safcon-Rauch"
+    ],
+    "md_pokemon_incense_name_115": [
+      "Kangama-Rauch"
+    ],
+    "md_pokemon_incense_name_12": [
+      "Smettbo-Rauch"
+    ],
+    "md_pokemon_incense_name_127": [
+      "Pinsir-Rauch"
+    ],
+    "md_pokemon_incense_name_132": [
+      "Ditto-Rauch"
+    ],
+    "md_pokemon_incense_name_133": [
+      "Evoli-Rauch"
+    ],
+    "md_pokemon_incense_name_134": [
+      "Aquana-Rauch"
+    ],
+    "md_pokemon_incense_name_135": [
+      "Blitza-Rauch"
+    ],
+    "md_pokemon_incense_name_136": [
+      "Flamara-Rauch"
+    ],
+    "md_pokemon_incense_name_147": [
+      "Dratini-Rauch"
+    ],
+    "md_pokemon_incense_name_148": [
+      "Dragonir-Rauch"
+    ],
+    "md_pokemon_incense_name_149": [
+      "Dragoran-Rauch"
+    ],
+    "md_pokemon_incense_name_152": [
+      "Endivie-Rauch"
+    ],
+    "md_pokemon_incense_name_153": [
+      "Lorblatt-Rauch"
+    ],
+    "md_pokemon_incense_name_154": [
+      "Meganie-Rauch"
+    ],
+    "md_pokemon_incense_name_155": [
+      "Feurigel-Rauch"
+    ],
+    "md_pokemon_incense_name_156": [
+      "Igelavar-Rauch"
+    ],
+    "md_pokemon_incense_name_157": [
+      "Tornupto-Rauch"
+    ],
+    "md_pokemon_incense_name_158": [
+      "Karnimani-Rauch"
+    ],
+    "md_pokemon_incense_name_159": [
+      "Tyracroc-Rauch"
+    ],
+    "md_pokemon_incense_name_160": [
+      "Impergator-Rauch"
+    ],
+    "md_pokemon_incense_name_172": [
+      "Pichu-Rauch"
+    ],
+    "md_pokemon_incense_name_174": [
+      "Fluffeluff-Rauch"
+    ],
+    "md_pokemon_incense_name_175": [
+      "Togepi-Rauch"
+    ],
+    "md_pokemon_incense_name_176": [
+      "Togetic-Rauch"
+    ],
+    "md_pokemon_incense_name_179": [
+      "Voltilamm-Rauch"
+    ],
+    "md_pokemon_incense_name_180": [
+      "Waaty-Rauch"
+    ],
+    "md_pokemon_incense_name_181": [
+      "Ampharos-Rauch"
+    ],
+    "md_pokemon_incense_name_185": [
+      "Mogelbaum-Rauch"
+    ],
+    "md_pokemon_incense_name_19": [
+      "Rattfratz-Rauch"
+    ],
+    "md_pokemon_incense_name_196": [
+      "Psiana-Rauch"
+    ],
+    "md_pokemon_incense_name_197": [
+      "Nachtara-Rauch"
+    ],
+    "md_pokemon_incense_name_199": [
+      "Laschoking-Rauch"
+    ],
+    "md_pokemon_incense_name_2": [
+      "Bisaknosp-Rauch"
+    ],
+    "md_pokemon_incense_name_20": [
+      "Rattikarl-Rauch"
+    ],
+    "md_pokemon_incense_name_202": [
+      "Woingenau-Rauch"
+    ],
+    "md_pokemon_incense_name_214": [
+      "Skaraborn-Rauch"
+    ],
+    "md_pokemon_incense_name_228": [
+      "Hunduster-Rauch"
+    ],
+    "md_pokemon_incense_name_229": [
+      "Hundemon-Rauch"
+    ],
+    "md_pokemon_incense_name_23": [
+      "Rettan-Rauch"
+    ],
+    "md_pokemon_incense_name_24": [
+      "Arbok-Rauch"
+    ],
+    "md_pokemon_incense_name_246": [
+      "Larvitar-Rauch"
+    ],
+    "md_pokemon_incense_name_247": [
+      "Pupitar-Rauch"
+    ],
+    "md_pokemon_incense_name_248": [
+      "Despotar-Rauch"
+    ],
+    "md_pokemon_incense_name_25": [
+      "Pikachu-Rauch"
+    ],
+    "md_pokemon_incense_name_26": [
+      "Raichu-Rauch"
+    ],
+    "md_pokemon_incense_name_287": [
+      "Bummelz-Rauch"
+    ],
+    "md_pokemon_incense_name_288": [
+      "Muntier-Rauch"
+    ],
+    "md_pokemon_incense_name_289": [
+      "Letarking-Rauch"
+    ],
+    "md_pokemon_incense_name_3": [
+      "Bisaflor-Rauch"
+    ],
+    "md_pokemon_incense_name_302": [
+      "Zobiris-Rauch"
+    ],
+    "md_pokemon_incense_name_316": [
+      "Schluppuck-Rauch"
+    ],
+    "md_pokemon_incense_name_317": [
+      "Schlukwech-Rauch"
+    ],
+    "md_pokemon_incense_name_333": [
+      "Wablu-Rauch"
+    ],
+    "md_pokemon_incense_name_334": [
+      "Altaria-Rauch"
+    ],
+    "md_pokemon_incense_name_359": [
+      "Absol-Rauch"
+    ],
+    "md_pokemon_incense_name_360": [
+      "Isso-Rauch"
+    ],
+    "md_pokemon_incense_name_363": [
+      "Seemops-Rauch"
+    ],
+    "md_pokemon_incense_name_364": [
+      "Seejong-Rauch"
+    ],
+    "md_pokemon_incense_name_365": [
+      "Walraisa-Rauch"
+    ],
+    "md_pokemon_incense_name_39": [
+      "Pummeluff-Rauch"
+    ],
+    "md_pokemon_incense_name_4": [
+      "Glumanda-Rauch"
+    ],
+    "md_pokemon_incense_name_40": [
+      "Knuddeluff-Rauch"
+    ],
+    "md_pokemon_incense_name_438": [
+      "Mobai-Rauch"
+    ],
+    "md_pokemon_incense_name_447": [
+      "Riolu-Rauch"
+    ],
+    "md_pokemon_incense_name_448": [
+      "Lucario-Rauch"
+    ],
+    "md_pokemon_incense_name_453": [
+      "Glibunkel-Rauch"
+    ],
+    "md_pokemon_incense_name_454": [
+      "Toxiquak-Rauch"
+    ],
+    "md_pokemon_incense_name_462": [
+      "Magnezone-Rauch"
+    ],
+    "md_pokemon_incense_name_468": [
+      "Togekiss-Rauch"
+    ],
+    "md_pokemon_incense_name_470": [
+      "Folipurba-Rauch"
+    ],
+    "md_pokemon_incense_name_471": [
+      "Glaziola-Rauch"
+    ],
+    "md_pokemon_incense_name_5": [
+      "Glutexo-Rauch"
+    ],
+    "md_pokemon_incense_name_50": [
+      "Digda-Rauch"
+    ],
+    "md_pokemon_incense_name_51": [
+      "Digdri-Rauch"
+    ],
+    "md_pokemon_incense_name_52": [
+      "Mauzi-Rauch"
+    ],
+    "md_pokemon_incense_name_53": [
+      "Snobilikat-Rauch"
+    ],
+    "md_pokemon_incense_name_54": [
+      "Enton-Rauch"
+    ],
+    "md_pokemon_incense_name_55": [
+      "Entoron-Rauch"
+    ],
+    "md_pokemon_incense_name_56": [
+      "Menki-Rauch"
+    ],
+    "md_pokemon_incense_name_57": [
+      "Rasaff-Rauch"
+    ],
+    "md_pokemon_incense_name_58": [
+      "Fukano-Rauch"
+    ],
+    "md_pokemon_incense_name_59": [
+      "Arkani-Rauch"
+    ],
+    "md_pokemon_incense_name_6": [
+      "Glurak-Rauch"
+    ],
+    "md_pokemon_incense_name_69": [
+      "Knofensa-Rauch"
+    ],
+    "md_pokemon_incense_name_7": [
+      "Schiggy-Rauch"
+    ],
+    "md_pokemon_incense_name_70": [
+      "Ultrigaria-Rauch"
+    ],
+    "md_pokemon_incense_name_700": [
+      "Feelinara-Rauch"
+    ],
+    "md_pokemon_incense_name_71": [
+      "Sarzenia-Rauch"
+    ],
+    "md_pokemon_incense_name_74": [
+      "Kleinstein-Rauch"
+    ],
+    "md_pokemon_incense_name_75": [
+      "Georok-Rauch"
+    ],
+    "md_pokemon_incense_name_76": [
+      "Geowaz-Rauch"
+    ],
+    "md_pokemon_incense_name_79": [
+      "Flegmon-Rauch"
+    ],
+    "md_pokemon_incense_name_8": [
+      "Schillok-Rauch"
+    ],
+    "md_pokemon_incense_name_80": [
+      "Lahmus-Rauch"
+    ],
+    "md_pokemon_incense_name_81": [
+      "Magnetilo-Rauch"
+    ],
+    "md_pokemon_incense_name_82": [
+      "Magneton-Rauch"
+    ],
+    "md_pokemon_incense_name_84": [
+      "Dodu-Rauch"
+    ],
+    "md_pokemon_incense_name_85": [
+      "Dodri-Rauch"
+    ],
+    "md_pokemon_incense_name_9": [
+      "Turtok-Rauch"
+    ],
+    "md_pokemon_incense_name_92": [
+      "Nebulak-Rauch"
+    ],
+    "md_pokemon_incense_name_93": [
+      "Alpollo-Rauch"
+    ],
+    "md_pokemon_incense_name_94": [
+      "Gengar-Rauch"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 108,
+        "size": 760,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 59,
+        "size": 3872,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              31,
+              "md_pokemon_incense_name_58"
+            ],
+            [
+              69,
+              "md_pokemon_incense_name_127"
+            ]
+          ],
+          535
+        ],
+        [
+          [
+            [
+              61,
+              "md_pokemon_incense_name_59"
+            ]
+          ],
+          566
+        ],
+        [
+          [
+            [
+              20,
+              "md_pokemon_incense_name_40"
+            ]
+          ],
+          597
+        ],
+        [
+          [],
+          597
+        ],
+        [
+          [
+            [
+              4,
+              "md_pokemon_incense_name_172"
+            ]
+          ],
+          629
+        ],
+        [
+          [],
+          629
+        ],
+        [
+          [
+            [
+              37,
+              "md_pokemon_incense_name_174"
+            ]
+          ],
+          661
+        ],
+        [
+          [
+            [
+              22,
+              "md_pokemon_incense_name_175"
+            ],
+            [
+              89,
+              "md_pokemon_incense_name_470"
+            ]
+          ],
+          725
+        ],
+        [
+          [
+            [
+              68,
+              "md_pokemon_incense_name_115"
+            ],
+            [
+              80,
+              "md_pokemon_incense_name_176"
+            ],
+            [
+              97,
+              "md_pokemon_incense_name_471"
+            ]
+          ],
+          821
+        ],
+        [
+          [
+            [
+              52,
+              "md_pokemon_incense_name_333"
+            ]
+          ],
+          853
+        ],
+        [
+          [
+            [
+              98,
+              "md_pokemon_incense_name_334"
+            ]
+          ],
+          885
+        ],
+        [
+          [
+            [
+              38,
+              "md_pokemon_incense_name_179"
+            ]
+          ],
+          917
+        ],
+        [
+          [
+            [
+              79,
+              "md_pokemon_incense_name_160"
+            ]
+          ],
+          949
+        ],
+        [
+          [
+            [
+              43,
+              "md_pokemon_incense_name_92"
+            ]
+          ],
+          980
+        ],
+        [
+          [
+            [
+              44,
+              "md_pokemon_incense_name_93"
+            ]
+          ],
+          1011
+        ],
+        [
+          [
+            [
+              67,
+              "md_pokemon_incense_name_94"
+            ]
+          ],
+          1042
+        ],
+        [
+          [],
+          1042
+        ],
+        [
+          [
+            [
+              27,
+              "md_pokemon_incense_name_104"
+            ]
+          ],
+          1074
+        ],
+        [
+          [
+            [
+              45,
+              "md_pokemon_incense_name_105"
+            ]
+          ],
+          1106
+        ],
+        [
+          [
+            [
+              96,
+              "md_pokemon_incense_name_462"
+            ]
+          ],
+          1138
+        ],
+        [
+          [
+            [
+              86,
+              "md_pokemon_incense_name_246"
+            ]
+          ],
+          1170
+        ],
+        [
+          [
+            [
+              5,
+              "md_pokemon_incense_name_1"
+            ],
+            [
+              10,
+              "md_pokemon_incense_name_39"
+            ],
+            [
+              41,
+              "md_pokemon_incense_name_80"
+            ],
+            [
+              87,
+              "md_pokemon_incense_name_247"
+            ]
+          ],
+          1294
+        ],
+        [
+          [
+            [
+              6,
+              "md_pokemon_incense_name_2"
+            ],
+            [
+              33,
+              "md_pokemon_incense_name_20"
+            ],
+            [
+              64,
+              "md_pokemon_incense_name_81"
+            ],
+            [
+              88,
+              "md_pokemon_incense_name_248"
+            ]
+          ],
+          1418
+        ],
+        [
+          [
+            [
+              21,
+              "md_pokemon_incense_name_3"
+            ],
+            [
+              65,
+              "md_pokemon_incense_name_82"
+            ],
+            [
+              91,
+              "md_pokemon_incense_name_700"
+            ]
+          ],
+          1511
+        ],
+        [
+          [
+            [
+              13,
+              "md_pokemon_incense_name_4"
+            ],
+            [
+              46,
+              "md_pokemon_incense_name_152"
+            ]
+          ],
+          1573
+        ],
+        [
+          [
+            [
+              14,
+              "md_pokemon_incense_name_5"
+            ],
+            [
+              25,
+              "md_pokemon_incense_name_23"
+            ],
+            [
+              42,
+              "md_pokemon_incense_name_84"
+            ],
+            [
+              47,
+              "md_pokemon_incense_name_153"
+            ],
+            [
+              92,
+              "md_pokemon_incense_name_468"
+            ]
+          ],
+          1729
+        ],
+        [
+          [
+            [
+              26,
+              "md_pokemon_incense_name_24"
+            ],
+            [
+              32,
+              "md_pokemon_incense_name_6"
+            ],
+            [
+              66,
+              "md_pokemon_incense_name_85"
+            ],
+            [
+              77,
+              "md_pokemon_incense_name_154"
+            ]
+          ],
+          1853
+        ],
+        [
+          [
+            [
+              0,
+              "md_pokemon_incense_name_25"
+            ],
+            [
+              11,
+              "md_pokemon_incense_name_7"
+            ],
+            [
+              28,
+              "md_pokemon_incense_name_155"
+            ]
+          ],
+          1946
+        ],
+        [
+          [
+            [
+              12,
+              "md_pokemon_incense_name_8"
+            ],
+            [
+              29,
+              "md_pokemon_incense_name_156"
+            ],
+            [
+              57,
+              "md_pokemon_incense_name_26"
+            ]
+          ],
+          2039
+        ],
+        [
+          [
+            [
+              30,
+              "md_pokemon_incense_name_9"
+            ],
+            [
+              78,
+              "md_pokemon_incense_name_157"
+            ]
+          ],
+          2101
+        ],
+        [
+          [
+            [
+              16,
+              "md_pokemon_incense_name_158"
+            ],
+            [
+              55,
+              "md_pokemon_incense_name_453"
+            ]
+          ],
+          2165
+        ],
+        [
+          [
+            [
+              17,
+              "md_pokemon_incense_name_159"
+            ],
+            [
+              36,
+              "md_pokemon_incense_name_70"
+            ],
+            [
+              56,
+              "md_pokemon_incense_name_454"
+            ]
+          ],
+          2260
+        ],
+        [
+          [
+            [
+              7,
+              "md_pokemon_incense_name_10"
+            ],
+            [
+              50,
+              "md_pokemon_incense_name_316"
+            ],
+            [
+              62,
+              "md_pokemon_incense_name_71"
+            ]
+          ],
+          2354
+        ],
+        [
+          [
+            [
+              8,
+              "md_pokemon_incense_name_11"
+            ],
+            [
+              51,
+              "md_pokemon_incense_name_317"
+            ]
+          ],
+          2417
+        ],
+        [
+          [
+            [
+              9,
+              "md_pokemon_incense_name_12"
+            ]
+          ],
+          2448
+        ],
+        [
+          [
+            [
+              23,
+              "md_pokemon_incense_name_74"
+            ],
+            [
+              53,
+              "md_pokemon_incense_name_360"
+            ]
+          ],
+          2511
+        ],
+        [
+          [
+            [
+              24,
+              "md_pokemon_incense_name_75"
+            ]
+          ],
+          2542
+        ],
+        [
+          [
+            [
+              63,
+              "md_pokemon_incense_name_76"
+            ]
+          ],
+          2573
+        ],
+        [
+          [
+            [
+              101,
+              "md_pokemon_incense_name_363"
+            ],
+            [
+              106,
+              "md_pokemon_incense_name_302"
+            ]
+          ],
+          2637
+        ],
+        [
+          [
+            [
+              74,
+              "md_pokemon_incense_name_147"
+            ],
+            [
+              102,
+              "md_pokemon_incense_name_364"
+            ]
+          ],
+          2701
+        ],
+        [
+          [
+            [
+              15,
+              "md_pokemon_incense_name_79"
+            ],
+            [
+              75,
+              "md_pokemon_incense_name_148"
+            ],
+            [
+              93,
+              "md_pokemon_incense_name_287"
+            ],
+            [
+              103,
+              "md_pokemon_incense_name_365"
+            ]
+          ],
+          2828
+        ],
+        [
+          [
+            [
+              2,
+              "md_pokemon_incense_name_19"
+            ],
+            [
+              76,
+              "md_pokemon_incense_name_149"
+            ],
+            [
+              94,
+              "md_pokemon_incense_name_288"
+            ]
+          ],
+          2923
+        ],
+        [
+          [
+            [
+              95,
+              "md_pokemon_incense_name_289"
+            ],
+            [
+              104,
+              "md_pokemon_incense_name_228"
+            ]
+          ],
+          2987
+        ],
+        [
+          [
+            [
+              105,
+              "md_pokemon_incense_name_229"
+            ]
+          ],
+          3019
+        ],
+        [
+          [
+            [
+              70,
+              "md_pokemon_incense_name_132"
+            ],
+            [
+              99,
+              "md_pokemon_incense_name_447"
+            ]
+          ],
+          3083
+        ],
+        [
+          [
+            [
+              1,
+              "md_pokemon_incense_name_133"
+            ],
+            [
+              100,
+              "md_pokemon_incense_name_448"
+            ]
+          ],
+          3147
+        ],
+        [
+          [
+            [
+              71,
+              "md_pokemon_incense_name_134"
+            ],
+            [
+              107,
+              "md_pokemon_incense_desc_1"
+            ]
+          ],
+          3209
+        ],
+        [
+          [
+            [
+              72,
+              "md_pokemon_incense_name_135"
+            ],
+            [
+              82,
+              "md_pokemon_incense_name_196"
+            ]
+          ],
+          3273
+        ],
+        [
+          [
+            [
+              73,
+              "md_pokemon_incense_name_136"
+            ],
+            [
+              83,
+              "md_pokemon_incense_name_197"
+            ],
+            [
+              85,
+              "md_pokemon_incense_name_214"
+            ]
+          ],
+          3369
+        ],
+        [
+          [],
+          3369
+        ],
+        [
+          [
+            [
+              35,
+              "md_pokemon_incense_name_69"
+            ],
+            [
+              84,
+              "md_pokemon_incense_name_199"
+            ]
+          ],
+          3432
+        ],
+        [
+          [
+            [
+              18,
+              "md_pokemon_incense_name_50"
+            ],
+            [
+              48,
+              "md_pokemon_incense_name_180"
+            ]
+          ],
+          3495
+        ],
+        [
+          [
+            [
+              19,
+              "md_pokemon_incense_name_51"
+            ],
+            [
+              81,
+              "md_pokemon_incense_name_181"
+            ]
+          ],
+          3558
+        ],
+        [
+          [
+            [
+              3,
+              "md_pokemon_incense_name_52"
+            ]
+          ],
+          3589
+        ],
+        [
+          [
+            [
+              58,
+              "md_pokemon_incense_name_53"
+            ],
+            [
+              90,
+              "md_pokemon_incense_name_359"
+            ]
+          ],
+          3652
+        ],
+        [
+          [
+            [
+              40,
+              "md_pokemon_incense_name_54"
+            ],
+            [
+              54,
+              "md_pokemon_incense_name_438"
+            ]
+          ],
+          3715
+        ],
+        [
+          [
+            [
+              39,
+              "md_pokemon_incense_name_185"
+            ],
+            [
+              49,
+              "md_pokemon_incense_name_202"
+            ],
+            [
+              59,
+              "md_pokemon_incense_name_55"
+            ]
+          ],
+          3810
+        ],
+        [
+          [
+            [
+              34,
+              "md_pokemon_incense_name_56"
+            ]
+          ],
+          3841
+        ],
+        [
+          [
+            [
+              60,
+              "md_pokemon_incense_name_57"
+            ]
+          ],
+          3872
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 108,
+        "size": 3622,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

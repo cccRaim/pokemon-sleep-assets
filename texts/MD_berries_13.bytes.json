@@ -1,0 +1,394 @@
+{
+  "strings": {
+    "md_berries_desc_1": [
+      "Più viene esposta alla luce del sole,\npiù vivi si faranno i suoi colori."
+    ],
+    "md_berries_desc_10": [
+      "Portata dalle onde del mare, viene ora\ncoltivata anche in questa regione."
+    ],
+    "md_berries_desc_11": [
+      "S'incurva crescendo,\ndiventando più dolce e saporita."
+    ],
+    "md_berries_desc_12": [
+      "Immagazzina sostanze nutrienti\nper i Pokémon e perciò matura lentamente."
+    ],
+    "md_berries_desc_13": [
+      "Della stessa famiglia della Baccarancia,\nè più grande ed ha un sapore più morbido."
+    ],
+    "md_berries_desc_14": [
+      "Esternamente questa piccola bacca delicata\nè blu ma, quando si mangia, la lingua diventa nera."
+    ],
+    "md_berries_desc_15": [
+      "La perfetta armonia tra acidità e\nasprezza le conferisce un sapore\nrinfrescante. Si gusta meglio fredda."
+    ],
+    "md_berries_desc_16": [
+      "Si dice che abbia delle sporgenze per permettere\nai Pokémon di tenerla meglio agevolando la sua riproduzione."
+    ],
+    "md_berries_desc_17": [
+      "Lucida, colorata e dall'aspetto delizioso,\nin realtà è molto aspra."
+    ],
+    "md_berries_desc_18": [
+      "A causa della sacca interna vuota,\nle parti da mangiare sono poche, ma risultano comunque dolci e deliziose."
+    ],
+    "md_berries_desc_2": [
+      "Matura più lenta della Baccaliegia. Le\nbacche più piccole sono più saporite."
+    ],
+    "md_berries_desc_3": [
+      "Una meraviglia naturale. È caratterizzata\nda un mix di sapori che si espandono per il palato."
+    ],
+    "md_berries_desc_4": [
+      "Basta solo un morso e la bocca\nsi riempie del suo sapore intenso."
+    ],
+    "md_berries_desc_5": [
+      "Talmente amara che ne basta un morso\nper far passare il singhiozzo."
+    ],
+    "md_berries_desc_6": [
+      "Se le foglie diventano troppo lunghe e\nricce, avrà un gusto un po' amaro."
+    ],
+    "md_berries_desc_7": [
+      "Di un rosso vivo è molto pepata e ha\nun profumo stuzzicante. Ha fiori graziosi."
+    ],
+    "md_berries_desc_8": [
+      "La scorza spessa e il frutto sono duri\ne di sapore secco, ma è interamente commestibile."
+    ],
+    "md_berries_desc_9": [
+      "Ha una forma strana: sembra che qualcuno\nl'abbia rosicchiata. È ricca di sostanze pepate."
+    ],
+    "md_berries_name_1": [
+      "Baccaki"
+    ],
+    "md_berries_name_10": [
+      "Baccapalma"
+    ],
+    "md_berries_name_11": [
+      "Baccamango"
+    ],
+    "md_berries_name_12": [
+      "Baccaprugna"
+    ],
+    "md_berries_name_13": [
+      "Baccacedro"
+    ],
+    "md_berries_name_14": [
+      "Baccamora"
+    ],
+    "md_berries_name_15": [
+      "Baccamoya"
+    ],
+    "md_berries_name_16": [
+      "Baccalongan"
+    ],
+    "md_berries_name_17": [
+      "Baccartillo"
+    ],
+    "md_berries_name_18": [
+      "Baccapesca"
+    ],
+    "md_berries_name_2": [
+      "Baccamela"
+    ],
+    "md_berries_name_3": [
+      "Baccarancia"
+    ],
+    "md_berries_name_4": [
+      "Baccauva"
+    ],
+    "md_berries_name_5": [
+      "Baccadurian"
+    ],
+    "md_berries_name_6": [
+      "Baccafrago"
+    ],
+    "md_berries_name_7": [
+      "Baccaliegia"
+    ],
+    "md_berries_name_8": [
+      "Baccastagna"
+    ],
+    "md_berries_name_9": [
+      "Baccafico"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 36,
+        "size": 256,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 962,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "md_berries_name_4"
+            ],
+            [
+              9,
+              "md_berries_name_10"
+            ],
+            [
+              32,
+              "md_berries_desc_15"
+            ]
+          ],
+          220
+        ],
+        [
+          [
+            [
+              4,
+              "md_berries_name_5"
+            ],
+            [
+              10,
+              "md_berries_name_11"
+            ],
+            [
+              18,
+              "md_berries_desc_1"
+            ],
+            [
+              33,
+              "md_berries_desc_16"
+            ]
+          ],
+          310
+        ],
+        [
+          [
+            [
+              5,
+              "md_berries_name_6"
+            ],
+            [
+              11,
+              "md_berries_name_12"
+            ],
+            [
+              19,
+              "md_berries_desc_2"
+            ],
+            [
+              34,
+              "md_berries_desc_17"
+            ]
+          ],
+          400
+        ],
+        [
+          [
+            [
+              6,
+              "md_berries_name_7"
+            ],
+            [
+              12,
+              "md_berries_name_13"
+            ],
+            [
+              20,
+              "md_berries_desc_3"
+            ],
+            [
+              35,
+              "md_berries_desc_18"
+            ]
+          ],
+          490
+        ],
+        [
+          [
+            [
+              7,
+              "md_berries_name_8"
+            ],
+            [
+              13,
+              "md_berries_name_14"
+            ],
+            [
+              21,
+              "md_berries_desc_4"
+            ]
+          ],
+          557
+        ],
+        [
+          [
+            [
+              8,
+              "md_berries_name_9"
+            ],
+            [
+              14,
+              "md_berries_name_15"
+            ],
+            [
+              22,
+              "md_berries_desc_5"
+            ]
+          ],
+          624
+        ],
+        [
+          [
+            [
+              15,
+              "md_berries_name_16"
+            ],
+            [
+              23,
+              "md_berries_desc_6"
+            ]
+          ],
+          669
+        ],
+        [
+          [
+            [
+              16,
+              "md_berries_name_17"
+            ],
+            [
+              24,
+              "md_berries_desc_7"
+            ]
+          ],
+          714
+        ],
+        [
+          [
+            [
+              17,
+              "md_berries_name_18"
+            ],
+            [
+              25,
+              "md_berries_desc_8"
+            ]
+          ],
+          759
+        ],
+        [
+          [
+            [
+              26,
+              "md_berries_desc_9"
+            ]
+          ],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [
+            [
+              27,
+              "md_berries_desc_10"
+            ]
+          ],
+          804
+        ],
+        [
+          [
+            [
+              28,
+              "md_berries_desc_11"
+            ]
+          ],
+          827
+        ],
+        [
+          [
+            [
+              0,
+              "md_berries_name_1"
+            ],
+            [
+              29,
+              "md_berries_desc_12"
+            ]
+          ],
+          872
+        ],
+        [
+          [
+            [
+              1,
+              "md_berries_name_2"
+            ],
+            [
+              30,
+              "md_berries_desc_13"
+            ]
+          ],
+          917
+        ],
+        [
+          [
+            [
+              2,
+              "md_berries_name_3"
+            ],
+            [
+              31,
+              "md_berries_desc_14"
+            ]
+          ],
+          962
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 36,
+        "size": 3500,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

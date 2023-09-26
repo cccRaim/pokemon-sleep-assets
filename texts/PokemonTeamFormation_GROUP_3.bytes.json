@@ -1,0 +1,372 @@
+{
+  "strings": {
+    "AutoTeamFormationPopup_CookingButton": [
+      "Buscar\ningredientes"
+    ],
+    "AutoTeamFormationPopup_Desc": [
+      "Deja que Rotom escoja a\ntus ayudantes según tus\ncriterios de selección."
+    ],
+    "AutoTeamFormationPopup_FoodButton": [
+      "Buscar\nbayas"
+    ],
+    "AutoTeamFormationPopup_HeadlineTitle": [
+      "Criterios de selección"
+    ],
+    "AutoTeamFormationPopup_SkillButton": [
+      "Capacidad\nde ayuda"
+    ],
+    "AutoTeamFormationPopup_Title": [
+      "Equipo automático"
+    ],
+    "PokemonChangeConfirmPopup_LevelNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonChangeConfirmPopup_LevelUnit": [
+      "Nv."
+    ],
+    "PokemonChangeConfirmPopup_Name": [
+      "Tipo"
+    ],
+    "PokemonChangeConfirmPopup_Name_2": [
+      "Sexo"
+    ],
+    "PokemonChangeConfirmPopup_Name_3": [
+      "Especialidad"
+    ],
+    "PokemonChangeConfirmPopup_NormalLabel": [
+      "Bayas"
+    ],
+    "PokemonChangeConfirmPopup_Num": [
+      "×\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonChangeConfirmPopup_Num_2": [
+      "×\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonChangeConfirmPopup_OKButton": [
+      "Seleccionar"
+    ],
+    "PokemonChangeConfirmPopup_RareLabel": [
+      "Ingredientes"
+    ],
+    "PokemonChangeConfirmPopup_TimeLabel": [
+      "Hasta el máx."
+    ],
+    "PokemonChangeConfirmPopup_Title_2": [
+      "Hallazgos"
+    ],
+    "PokemonChangeConfirmPopup_UnlockLevel": [
+      "Nv. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonTeamCell_LeaderIcon": [
+      "Líder"
+    ],
+    "PokemonTeamCell_LevelNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonTeamCell_LevelNum_2": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "PokemonTeamCell_LevelUnit": [
+      "Nv."
+    ],
+    "PokemonTeamCell_SPNum": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "PokemonTeamCell_SPUnit": [
+      "PA"
+    ],
+    "PokemonTeamSelectPopup_Desc": [
+      "Tu equipo de ayudantes ya está\nlisto para echarte una mano."
+    ],
+    "PokemonTeamSelectPopup_Title": [
+      "¡Todo listo!"
+    ],
+    "PokemonTeamStatusPopup_HeadlineTitle": [
+      "Bayas"
+    ],
+    "PokemonTeamStatusPopup_HeadlineTitle_2": [
+      "Ingredientes"
+    ],
+    "PokemonTeamStatusPopup_HeadlineTitle_3": [
+      "Habilidades principales"
+    ],
+    "PokemonTeamStatusPopup_SlotNumber": [
+      "Puesto \u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "PokemonTeamStatusPopup_Title": [
+      "Características de equipo"
+    ],
+    "PokemonTeamStatusSkillCell_SkillLevel": [
+      "Nv. \u000e\u0002\u0002\u0002",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 33,
+        "size": 235,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 1338,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          136
+        ],
+        [
+          [
+            [
+              3,
+              "AutoTeamFormationPopup_FoodButton"
+            ],
+            [
+              14,
+              "PokemonChangeConfirmPopup_RareLabel"
+            ],
+            [
+              18,
+              "PokemonChangeConfirmPopup_OKButton"
+            ],
+            [
+              25,
+              "PokemonTeamSelectPopup_Title"
+            ],
+            [
+              26,
+              "PokemonTeamSelectPopup_Desc"
+            ]
+          ],
+          318
+        ],
+        [
+          [],
+          318
+        ],
+        [
+          [],
+          318
+        ],
+        [
+          [
+            [
+              32,
+              "PokemonTeamStatusPopup_SlotNumber"
+            ]
+          ],
+          356
+        ],
+        [
+          [
+            [
+              2,
+              "AutoTeamFormationPopup_HeadlineTitle"
+            ],
+            [
+              20,
+              "PokemonTeamCell_LevelUnit"
+            ]
+          ],
+          427
+        ],
+        [
+          [],
+          427
+        ],
+        [
+          [
+            [
+              12,
+              "PokemonChangeConfirmPopup_NormalLabel"
+            ],
+            [
+              29,
+              "PokemonTeamStatusPopup_HeadlineTitle_2"
+            ]
+          ],
+          512
+        ],
+        [
+          [
+            [
+              16,
+              "PokemonChangeConfirmPopup_Num_2"
+            ],
+            [
+              24,
+              "PokemonTeamCell_LevelNum_2"
+            ],
+            [
+              30,
+              "PokemonTeamStatusPopup_HeadlineTitle_3"
+            ]
+          ],
+          622
+        ],
+        [
+          [
+            [
+              13,
+              "PokemonChangeConfirmPopup_Num"
+            ]
+          ],
+          656
+        ],
+        [
+          [
+            [
+              7,
+              "PokemonChangeConfirmPopup_LevelNum"
+            ],
+            [
+              9,
+              "PokemonChangeConfirmPopup_Name_2"
+            ],
+            [
+              21,
+              "PokemonTeamCell_SPUnit"
+            ],
+            [
+              28,
+              "PokemonTeamStatusPopup_HeadlineTitle"
+            ]
+          ],
+          800
+        ],
+        [
+          [
+            [
+              10,
+              "PokemonChangeConfirmPopup_Name_3"
+            ],
+            [
+              23,
+              "PokemonTeamCell_LeaderIcon"
+            ]
+          ],
+          868
+        ],
+        [
+          [
+            [
+              5,
+              "AutoTeamFormationPopup_SkillButton"
+            ],
+            [
+              15,
+              "PokemonChangeConfirmPopup_TimeLabel"
+            ],
+            [
+              27,
+              "PokemonTeamStatusPopup_Title"
+            ]
+          ],
+          980
+        ],
+        [
+          [
+            [
+              1,
+              "AutoTeamFormationPopup_Desc"
+            ],
+            [
+              4,
+              "AutoTeamFormationPopup_CookingButton"
+            ],
+            [
+              11,
+              "PokemonChangeConfirmPopup_Title_2"
+            ],
+            [
+              22,
+              "PokemonTeamCell_SPNum"
+            ]
+          ],
+          1117
+        ],
+        [
+          [
+            [
+              8,
+              "PokemonChangeConfirmPopup_Name"
+            ],
+            [
+              17,
+              "PokemonChangeConfirmPopup_UnlockLevel"
+            ],
+            [
+              19,
+              "PokemonTeamCell_LevelNum"
+            ]
+          ],
+          1223
+        ],
+        [
+          [
+            [
+              6,
+              "PokemonChangeConfirmPopup_LevelUnit"
+            ]
+          ],
+          1263
+        ],
+        [
+          [
+            [
+              0,
+              "AutoTeamFormationPopup_Title"
+            ],
+            [
+              31,
+              "PokemonTeamStatusSkillCell_SkillLevel"
+            ]
+          ],
+          1338
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 33,
+        "size": 1082,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

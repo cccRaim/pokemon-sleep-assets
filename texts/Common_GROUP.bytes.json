@@ -1,0 +1,202 @@
+{
+  "strings": {
+    "CommomMultipleRewardsGetPopup_CellTitle": [
+      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "CommomMultipleRewardsGetPopup_HeadTitle": [
+      "Rewards"
+    ],
+    "CommomMultipleRewardsGetPopup_SectionTitle": [
+      "Rewards Received"
+    ],
+    "CommonIncenseDetailPopup_Title": [
+      "Effect from Item"
+    ],
+    "CommonRenamePopup_OKButton": [
+      "Change"
+    ],
+    "CommonRenamePopup_Placeholder": [
+      "Enter a username"
+    ],
+    "CommonRenamePopup_PlaceholderPoke": [
+      "Enter a nickname"
+    ],
+    "CommonRenamePopup_PlaceholderPokeTeam": [
+      "Enter a team name"
+    ],
+    "CommonRenamePopup_Title": [
+      "Edit Username"
+    ],
+    "CommonRewardGetPopup_Desc": [
+      "You got \u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0003\u0004\u0002촁!"
+    ],
+    "CommonRewardGetPopup_Title": [
+      "Items Received"
+    ],
+    "ResearchRankupCutin_Desc": [
+      "You've earned some rewards for\nmoving up the ranks!"
+    ],
+    "ResearchRankupCutin_SectionTitle": [
+      "Rewards Received"
+    ],
+    "ResearchRankupCutin_Title": [
+      "New Research Rank!"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 14,
+        "size": 102,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 588,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              4,
+              "CommonRenamePopup_Placeholder"
+            ],
+            [
+              6,
+              "CommonRenamePopup_PlaceholderPokeTeam"
+            ],
+            [
+              11,
+              "CommomMultipleRewardsGetPopup_SectionTitle"
+            ],
+            [
+              12,
+              "CommomMultipleRewardsGetPopup_CellTitle"
+            ]
+          ],
+          255
+        ],
+        [
+          [
+            [
+              8,
+              "CommonRewardGetPopup_Title"
+            ]
+          ],
+          286
+        ],
+        [
+          [
+            [
+              0,
+              "ResearchRankupCutin_Title"
+            ],
+            [
+              3,
+              "CommonRenamePopup_Title"
+            ],
+            [
+              9,
+              "CommonRewardGetPopup_Desc"
+            ],
+            [
+              10,
+              "CommomMultipleRewardsGetPopup_HeadTitle"
+            ]
+          ],
+          418
+        ],
+        [
+          [
+            [
+              1,
+              "ResearchRankupCutin_Desc"
+            ],
+            [
+              2,
+              "ResearchRankupCutin_SectionTitle"
+            ],
+            [
+              5,
+              "CommonRenamePopup_PlaceholderPoke"
+            ]
+          ],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [
+            [
+              13,
+              "CommonIncenseDetailPopup_Title"
+            ]
+          ],
+          557
+        ],
+        [
+          [],
+          557
+        ],
+        [
+          [
+            [
+              7,
+              "CommonRenamePopup_OKButton"
+            ]
+          ],
+          588
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 14,
+        "size": 594,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "strings": {
+    "CommomMultipleRewardsGetPopup_CellTitle": [
+      "\u000e\u0003\u0003\u0004Ā촀×\u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "CommomMultipleRewardsGetPopup_HeadTitle": [
+      "已領取報酬"
+    ],
+    "CommomMultipleRewardsGetPopup_SectionTitle": [
+      "領取的報酬"
+    ],
+    "CommonIncenseDetailPopup_Title": [
+      "道具效果"
+    ],
+    "CommonRenamePopup_OKButton": [
+      "變更"
+    ],
+    "CommonRenamePopup_Placeholder": [
+      "用戶名稱"
+    ],
+    "CommonRenamePopup_PlaceholderPoke": [
+      "暱稱"
+    ],
+    "CommonRenamePopup_PlaceholderPokeTeam": [
+      "隊伍名稱"
+    ],
+    "CommonRenamePopup_Title": [
+      "變更用戶名稱"
+    ],
+    "CommonRewardGetPopup_Desc": [
+      "獲得了\u000e\u0003\u0003\u0004Ā촀×\u000e\u0002\u0003\u0004\u0002촁"
+    ],
+    "CommonRewardGetPopup_Title": [
+      "獲得了道具"
+    ],
+    "ResearchRankupCutin_Desc": [
+      "獲得了階級提升的報酬。"
+    ],
+    "ResearchRankupCutin_SectionTitle": [
+      "獲得的報酬"
+    ],
+    "ResearchRankupCutin_Title": [
+      "研究階級UP！"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 14,
+        "size": 102,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 588,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              4,
+              "CommonRenamePopup_Placeholder"
+            ],
+            [
+              6,
+              "CommonRenamePopup_PlaceholderPokeTeam"
+            ],
+            [
+              11,
+              "CommomMultipleRewardsGetPopup_SectionTitle"
+            ],
+            [
+              12,
+              "CommomMultipleRewardsGetPopup_CellTitle"
+            ]
+          ],
+          255
+        ],
+        [
+          [
+            [
+              8,
+              "CommonRewardGetPopup_Title"
+            ]
+          ],
+          286
+        ],
+        [
+          [
+            [
+              0,
+              "ResearchRankupCutin_Title"
+            ],
+            [
+              3,
+              "CommonRenamePopup_Title"
+            ],
+            [
+              9,
+              "CommonRewardGetPopup_Desc"
+            ],
+            [
+              10,
+              "CommomMultipleRewardsGetPopup_HeadTitle"
+            ]
+          ],
+          418
+        ],
+        [
+          [
+            [
+              1,
+              "ResearchRankupCutin_Desc"
+            ],
+            [
+              2,
+              "ResearchRankupCutin_SectionTitle"
+            ],
+            [
+              5,
+              "CommonRenamePopup_PlaceholderPoke"
+            ]
+          ],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [
+            [
+              13,
+              "CommonIncenseDetailPopup_Title"
+            ]
+          ],
+          557
+        ],
+        [
+          [],
+          557
+        ],
+        [
+          [
+            [
+              7,
+              "CommonRenamePopup_OKButton"
+            ]
+          ],
+          588
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 14,
+        "size": 286,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

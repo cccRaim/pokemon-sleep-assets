@@ -1,0 +1,125 @@
+{
+  "strings": {
+    "md_weekly_report_comment_comment_1": [
+      "Il tuo sonno non è stato molto\nregolare in questa settimana. Ricorda\nsempre di cercare di far coincidere \nle fasce orarie dedicate al sonno\ne di dormire lo stesso numero di ore."
+    ],
+    "md_weekly_report_comment_comment_2": [
+      "Il tuo sonno non è stato molto\nregolare in questa settimana. Ricorda\nsempre di cercare di far coincidere \nle fasce orarie dedicate al sonno\ne di dormire lo stesso numero di ore."
+    ],
+    "md_weekly_report_comment_comment_3": [
+      "In questa settimana le fasce orarie\ndedicate al sonno sono state stabili.\nPer le prossime volte, cerca di dormire\nun numero di ore omogeneo."
+    ],
+    "md_weekly_report_comment_comment_4": [
+      "In questa settimana le fasce orarie\ndedicate al sonno sono state stabili.\nPer le prossime volte, cerca di dormire\nun numero di ore omogeneo."
+    ],
+    "md_weekly_report_comment_comment_5": [
+      "Il tuo sonno non è stato molto\nregolare in questa settimana. Ricorda\nsempre di cercare di far coincidere \nle fasce orarie dedicate al sonno\ne di dormire lo stesso numero di ore."
+    ],
+    "md_weekly_report_comment_comment_6": [
+      "Il tuo sonno non è stato molto\nregolare in questa settimana. Ricorda\nsempre di cercare di far coincidere \nle fasce orarie dedicate al sonno\ne di dormire lo stesso numero di ore."
+    ],
+    "md_weekly_report_comment_comment_7": [
+      "In questa settimana le fasce orarie\ndedicate al sonno sono state stabili.\nPer le prossime volte, cerca di dormire\nun numero di ore omogeneo."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 7,
+        "size": 53,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 313,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "md_weekly_report_comment_comment_4"
+            ]
+          ],
+          79
+        ],
+        [
+          [
+            [
+              4,
+              "md_weekly_report_comment_comment_5"
+            ]
+          ],
+          118
+        ],
+        [
+          [
+            [
+              0,
+              "md_weekly_report_comment_comment_1"
+            ],
+            [
+              5,
+              "md_weekly_report_comment_comment_6"
+            ]
+          ],
+          196
+        ],
+        [
+          [
+            [
+              1,
+              "md_weekly_report_comment_comment_2"
+            ],
+            [
+              6,
+              "md_weekly_report_comment_comment_7"
+            ]
+          ],
+          274
+        ],
+        [
+          [
+            [
+              2,
+              "md_weekly_report_comment_comment_3"
+            ]
+          ],
+          313
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 7,
+        "size": 2298,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

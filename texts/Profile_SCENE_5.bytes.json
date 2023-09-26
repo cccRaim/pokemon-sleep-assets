@@ -1,0 +1,398 @@
+{
+  "strings": {
+    "ErrorDesc_GenerateFriendCode": [
+      "No se ha podido obtener tu ID de\nestudio.\nCódigo del error: \u000e\u0002\t\u0004",
+      "촀"
+    ],
+    "ErrorDesc_ReceiveAchievementReward": [
+      "No se ha podido recibir el premio por\ntu logro.\nCódigo del error: \u000e\u0002\t\u0004",
+      "촀"
+    ],
+    "ErrorTitle_ReceiveAchievementReward": [
+      "Error al recibir el premio"
+    ],
+    "ProfileIconChangeFinishPopup_Text": [
+      "Se ha cambiado tu icono del perfil."
+    ],
+    "ProfileIconChangeFinishPopup_Title": [
+      "¡Listo!"
+    ],
+    "ProfileIconSettingCell_SelectedLabel": [
+      "Tu icono"
+    ],
+    "ProfileIconSettingPopup_ChangeButton": [
+      "Cambiar"
+    ],
+    "ProfileIconSettingPopup_SubTitle_Common": [
+      "Genérico"
+    ],
+    "ProfileIconSettingPopup_SubTitle_Pokemon": [
+      "Pokémon"
+    ],
+    "ProfileIconSettingPopup_Title": [
+      "Icono del perfil"
+    ],
+    "Profile_ButtonTapToDisplay": [
+      "Toca para ver"
+    ],
+    "Profile_CapturedPokemon_Label": [
+      "Pokémon amigos"
+    ],
+    "Profile_CapturedPokemon_Value": [
+      "\u000e\u0002\u0005\u0004",
+      "촁/\u000e\u0002\u0005\u0004\u0001촁"
+    ],
+    "Profile_ChangeIcon": [
+      "Cambiar icono"
+    ],
+    "Profile_CopyIdPopup_Message": [
+      "El ID se ha copiado en el portapapeles."
+    ],
+    "Profile_CopyIdPopup_Title": [
+      "Copiar ID de usuario"
+    ],
+    "Profile_Copy_Button": [
+      "Copiar"
+    ],
+    "Profile_Header_Title": [
+      "Perfil"
+    ],
+    "Profile_Id_Label": [
+      "ID de usuario:"
+    ],
+    "Profile_LoginDays_Label": [
+      "Días que has accedido a la aplicación"
+    ],
+    "Profile_LoginDays_Value": [
+      "\u000e\t",
+      "\n\u0006ddd",
+      ""
+    ],
+    "Profile_MaxSleepPower_Label": [
+      "Récord de Poder Zzz"
+    ],
+    "Profile_MaxSleepPower_Value": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "Profile_RenamePopup_Message": [
+      "Se ha modificado tu nombre de usuario."
+    ],
+    "Profile_RenamePopup_Title": [
+      "Modificar nombre de usuario"
+    ],
+    "Profile_ResearchFace_Label": [
+      "Posturas estudiadas"
+    ],
+    "Profile_ResearchFace_Value": [
+      "\u000e\u0002\u0005\u0004",
+      "촁/\u000e\u0002\u0005\u0004\u0001촁"
+    ],
+    "Profile_ResearchRankProgress": [
+      "\u000e\u0002\t\u0004",
+      "촁/\u000e\u0002\t\u0004\u0001촁"
+    ],
+    "Profile_ResearchRank_Label": [
+      "Rango de estudio"
+    ],
+    "Profile_ResearchRank_Value": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "Profile_Title_ArchievementMain": [
+      "Logros (general)"
+    ],
+    "Profile_Title_ArchievementPokemon": [
+      "Logros (tipo de Pokémon)"
+    ],
+    "Profile_Title_Records": [
+      "Registros de estudio"
+    ],
+    "Profile_TotalSleepTime_Label": [
+      "Total de horas de sueño"
+    ],
+    "Profile_TotalSleepTime_Value": [
+      "\u000e\t",
+      "\f\bhhhh",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 35,
+        "size": 249,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 1304,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "Profile_Id_Label"
+            ],
+            [
+              23,
+              "Profile_RenamePopup_Title"
+            ],
+            [
+              25,
+              "ErrorTitle_ReceiveAchievementReward"
+            ]
+          ],
+          243
+        ],
+        [
+          [
+            [
+              18,
+              "Profile_LoginDays_Value"
+            ]
+          ],
+          271
+        ],
+        [
+          [
+            [
+              2,
+              "Profile_ChangeIcon"
+            ],
+            [
+              31,
+              "ProfileIconSettingPopup_SubTitle_Pokemon"
+            ],
+            [
+              34,
+              "ProfileIconChangeFinishPopup_Text"
+            ]
+          ],
+          377
+        ],
+        [
+          [],
+          377
+        ],
+        [
+          [
+            [
+              15,
+              "Profile_MaxSleepPower_Label"
+            ],
+            [
+              29,
+              "ProfileIconSettingPopup_Title"
+            ],
+            [
+              30,
+              "ProfileIconSettingPopup_SubTitle_Common"
+            ]
+          ],
+          487
+        ],
+        [
+          [
+            [
+              9,
+              "Profile_TotalSleepTime_Label"
+            ],
+            [
+              12,
+              "Profile_ResearchFace_Value"
+            ],
+            [
+              28,
+              "ProfileIconSettingCell_SelectedLabel"
+            ]
+          ],
+          592
+        ],
+        [
+          [],
+          592
+        ],
+        [
+          [
+            [
+              6,
+              "Profile_ResearchRank_Value"
+            ],
+            [
+              7,
+              "Profile_ResearchRankProgress"
+            ],
+            [
+              14,
+              "Profile_CapturedPokemon_Value"
+            ],
+            [
+              22,
+              "Profile_CopyIdPopup_Message"
+            ]
+          ],
+          722
+        ],
+        [
+          [
+            [
+              0,
+              "Profile_ButtonTapToDisplay"
+            ]
+          ],
+          753
+        ],
+        [
+          [
+            [
+              1,
+              "Profile_Header_Title"
+            ],
+            [
+              17,
+              "Profile_LoginDays_Label"
+            ]
+          ],
+          806
+        ],
+        [
+          [
+            [
+              4,
+              "Profile_Copy_Button"
+            ]
+          ],
+          830
+        ],
+        [
+          [],
+          830
+        ],
+        [
+          [
+            [
+              33,
+              "ProfileIconChangeFinishPopup_Title"
+            ]
+          ],
+          869
+        ],
+        [
+          [
+            [
+              11,
+              "Profile_ResearchFace_Label"
+            ],
+            [
+              26,
+              "ErrorDesc_ReceiveAchievementReward"
+            ]
+          ],
+          939
+        ],
+        [
+          [],
+          939
+        ],
+        [
+          [
+            [
+              5,
+              "Profile_ResearchRank_Label"
+            ],
+            [
+              13,
+              "Profile_CapturedPokemon_Label"
+            ],
+            [
+              16,
+              "Profile_MaxSleepPower_Value"
+            ]
+          ],
+          1036
+        ],
+        [
+          [
+            [
+              8,
+              "Profile_Title_Records"
+            ],
+            [
+              10,
+              "Profile_TotalSleepTime_Value"
+            ],
+            [
+              19,
+              "Profile_Title_ArchievementPokemon"
+            ],
+            [
+              20,
+              "Profile_Title_ArchievementMain"
+            ],
+            [
+              24,
+              "Profile_RenamePopup_Message"
+            ],
+            [
+              27,
+              "ErrorDesc_GenerateFriendCode"
+            ]
+          ],
+          1233
+        ],
+        [
+          [
+            [
+              32,
+              "ProfileIconSettingPopup_ChangeButton"
+            ]
+          ],
+          1274
+        ],
+        [
+          [
+            [
+              21,
+              "Profile_CopyIdPopup_Title"
+            ]
+          ],
+          1304
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 35,
+        "size": 1582,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

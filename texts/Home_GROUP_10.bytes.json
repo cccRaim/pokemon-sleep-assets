@@ -1,0 +1,737 @@
+{
+  "strings": {
+    "CampSetPopup_Desc": [
+      "One ticket allows you to rent extra-comfy\ngear for a week's worth of sleep research!\n(Effect duration: 168hr)"
+    ],
+    "CampSetPopup_Desc_Notime": [
+      "One ticket allows you to rent extra-comfy\ngear for a week’s worth of sleep research!"
+    ],
+    "CampSetPopup_EffectDesc_1": [
+      "An extra Pokémon will appear for your\nsleep research—and be extra hungry!"
+    ],
+    "CampSetPopup_EffectDesc_2": [
+      "Your cooking pot will be 50% larger.\n(That means more ingredients can fit!)"
+    ],
+    "CampSetPopup_EffectDesc_3": [
+      "Helpers will work 20% faster"
+    ],
+    "CampSetPopup_EffectDesc_4": [
+      "Helpers will be able to carry 20% more\nBerries or ingredients than usual"
+    ],
+    "CampSetPopup_SectionHeader_Effect": [
+      "Good Camp Set Effects"
+    ],
+    "CampSetPopup_TicketNum_Label": [
+      "Tickets Held:"
+    ],
+    "CampSetPopup_TicketNum_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "CampSetPopup_Title": [
+      "Good Camp Set"
+    ],
+    "CampSetPopup_ToShopButton": [
+      "To Shops"
+    ],
+    "CampSetPopup_UseButton": [
+      "Use"
+    ],
+    "CampSetUsePopup_Desc": [
+      "Are you sure you want to use a ticket?"
+    ],
+    "CampSetUsePopup_Num": [
+      "x\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "CampSetUsePopup_SubTitle": [
+      "You can use a Good Camp Ticket\nto rent a Good Camp Set!"
+    ],
+    "CandyGet_Popup_Text": [
+      "\u000e\u0003\n\u0002촀 found\n\u000e\u0003\u0003\u0004ȁ촀 x\u000e\u0002\u0001\u0002\u0003!"
+    ],
+    "CandyGet_Popup_Title": [
+      "Candies Obtained"
+    ],
+    "ExpUpText": [
+      "+\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "GoBonusPopup_Count": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "GoBonusPopup_Count_2": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "GoBonusPopup_GetButton": [
+      "Claim"
+    ],
+    "GoBonusPopup_HeaderTitle": [
+      "Help from Your Special Pikachu"
+    ],
+    "GoBonusPopup_Headline": [
+      "Records"
+    ],
+    "GoBonusPopup_Reward": [
+      "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002"
+    ],
+    "GoBonusPopup_Title": [
+      "Pokémon GO Bonus"
+    ],
+    "GoBonusPopup_Title_2": [
+      "Steps in GO"
+    ],
+    "GoBonusPopup_Title_3": [
+      "PokéStops Spun"
+    ],
+    "HomeScenePokemonBoxFullPopup_Content_Desc": [
+      "You'll need to either expand your Box or send\nsome Pokémon to the professor."
+    ],
+    "HomeScenePokemonBoxFullPopup_Content_Title": [
+      "Your Pokémon Box is full!"
+    ],
+    "HomeScenePokemonBoxFullPopup_Header_Title": [
+      "Box Full"
+    ],
+    "HomeScenePokemonBoxFullPopup_MoveButton": [
+      "To Box"
+    ],
+    "ItemSelectCell_Num": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "ItemSelectPopup_Title": [
+      "Incense"
+    ],
+    "LevelUpText": [
+      "LEVEL UP!"
+    ],
+    "MenuLatestResearchPopup_Name": [
+      "Pokémon Seen"
+    ],
+    "MenuLatestResearchPopup_Name_2": [
+      "Research EXP"
+    ],
+    "MenuLatestResearchPopup_Name_3": [
+      "Dream Shards"
+    ],
+    "MenuLatestResearchPopup_Num": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "MenuLatestResearchPopup_Num_2": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "MenuLatestResearchPopup_Num_3": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "MenuLatestResearchPopup_Title": [
+      "Research Results"
+    ],
+    "SleepDataDiscardPopup_Message": [
+      "Your sleep data that was 30 days old\nor older and had not been reviewed\nhas been discarded."
+    ],
+    "SleepDataDiscardPopup_Title": [
+      "Unreviewed Reports Discarded"
+    ],
+    "SnorlaxRankListCell_ClearLabel": [
+      "REACHED"
+    ],
+    "SnorlaxRankListCell_NeedEnergy": [
+      "Strength needed: 0"
+    ],
+    "SnorlaxRankListCell_NeedEnergyLabel": [
+      "Strength needed:"
+    ],
+    "SnorlaxRankListCell_NeedEnergyNum": [
+      "\u000e\u0002\u0007\u0004",
+      "촁"
+    ],
+    "SnorlaxRankListCell_RewardNum": [
+      "\u000e\u0002\u0003\u0004",
+      "촂"
+    ],
+    "SnorlaxRankListCell_RewardTitle": [
+      "Reward"
+    ],
+    "SnorlaxRankListPopup_RankDesc": [
+      "When a Snorlax gains enough Strength, its\nrating will go up, and you may find that new\nPokémon species will start coming to sleep."
+    ],
+    "SnorlaxRankListPopup_RankTitle": [
+      "Currently:"
+    ],
+    "SnorlaxRankListPopup_RankTitle_Best": [
+      "Your Best-Ever Snorlax Rating: \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "SnorlaxRankListPopup_RankValue": [
+      "\u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "SnorlaxRankListPopup_Title": [
+      "Snorlax Ratings"
+    ],
+    "SnorlaxRankListPopup_Title_2": [
+      "Ratings"
+    ],
+    "SnorlaxRankupCutin_Desc": [
+      "Snorlax's rating went up!"
+    ],
+    "SnorlaxRankupCutin_DescReward": [
+      "You’ve earned some rewards!"
+    ],
+    "SnorlaxRankupCutin_Message": [
+      "Snorlax's rating went up!"
+    ],
+    "SnorlaxRankupCutin_RewardNum": [
+      "×\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "SnorlaxRankupCutin_Title": [
+      "New Rating: \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "SnorlaxRankupDetailPopup_Message": [
+      "Snorlax’s Drowsy Power has increased!\nIt seems you may now see a wider variety\nof sleep styles here."
+    ],
+    "SnorlaxRankupDetailPopup_RankTitle": [
+      "\u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "SnorlaxRankupDetailPopup_Title": [
+      "Snorlax's Rating: \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "SnorlaxRankupDetailPopup_TypeNum": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "SnorlaxRankupDetailPopup_TypeNumStart": [
+      "?"
+    ],
+    "SnorlaxRankupDetailPopup_TypeNumTotal": [
+      "Total species: \u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "SnorlaxRankupDetailPopup_TypeNumTotalStart": [
+      "Total species: ?"
+    ],
+    "SnorlaxRankupDetailPopup_TypeNumUnknown": [
+      "???"
+    ],
+    "SnorlaxRankupDetailPopup_TypeNum_Add": [
+      "+\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "StorehouseNotificationCell_Num": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 70,
+        "size": 494,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 37,
+        "size": 2550,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              8,
+              "GoBonusPopup_Count"
+            ],
+            [
+              26,
+              "SnorlaxRankListPopup_RankTitle_Best"
+            ]
+          ],
+          359
+        ],
+        [
+          [
+            [
+              36,
+              "SnorlaxRankListCell_NeedEnergyNum"
+            ]
+          ],
+          397
+        ],
+        [
+          [
+            [
+              12,
+              "ItemSelectCell_Num"
+            ],
+            [
+              25,
+              "SnorlaxRankListPopup_Title"
+            ],
+            [
+              49,
+              "CampSetPopup_ToShopButton"
+            ]
+          ],
+          481
+        ],
+        [
+          [
+            [
+              56,
+              "HomeScenePokemonBoxFullPopup_MoveButton"
+            ],
+            [
+              58,
+              "SleepDataDiscardPopup_Message"
+            ],
+            [
+              61,
+              "SnorlaxRankupCutin_RewardNum"
+            ]
+          ],
+          592
+        ],
+        [
+          [
+            [
+              14,
+              "LevelUpText"
+            ],
+            [
+              32,
+              "StorehouseNotificationCell_Num"
+            ],
+            [
+              51,
+              "CampSetUsePopup_SubTitle"
+            ]
+          ],
+          672
+        ],
+        [
+          [
+            [
+              63,
+              "SnorlaxRankupDetailPopup_TypeNumStart"
+            ]
+          ],
+          714
+        ],
+        [
+          [
+            [
+              30,
+              "SnorlaxRankupCutin_Desc"
+            ],
+            [
+              31,
+              "SnorlaxRankupDetailPopup_Title"
+            ],
+            [
+              37,
+              "SnorlaxRankListCell_ClearLabel"
+            ],
+            [
+              38,
+              "CampSetPopup_Title"
+            ],
+            [
+              48,
+              "CampSetPopup_UseButton"
+            ]
+          ],
+          862
+        ],
+        [
+          [
+            [
+              6,
+              "GoBonusPopup_Headline"
+            ]
+          ],
+          888
+        ],
+        [
+          [
+            [
+              28,
+              "SnorlaxRankListPopup_Title_2"
+            ],
+            [
+              41,
+              "CampSetPopup_Desc"
+            ],
+            [
+              62,
+              "SnorlaxRankupDetailPopup_TypeNum"
+            ]
+          ],
+          980
+        ],
+        [
+          [
+            [
+              16,
+              "MenuLatestResearchPopup_Name"
+            ],
+            [
+              34,
+              "CandyGet_Popup_Text"
+            ],
+            [
+              39,
+              "CampSetPopup_TicketNum_Label"
+            ],
+            [
+              40,
+              "CampSetPopup_TicketNum_Value"
+            ]
+          ],
+          1103
+        ],
+        [
+          [
+            [
+              7,
+              "GoBonusPopup_Title_2"
+            ],
+            [
+              19,
+              "MenuLatestResearchPopup_Num_2"
+            ],
+            [
+              33,
+              "CandyGet_Popup_Title"
+            ]
+          ],
+          1187
+        ],
+        [
+          [
+            [
+              9,
+              "GoBonusPopup_Title_3"
+            ],
+            [
+              21,
+              "MenuLatestResearchPopup_Num_3"
+            ],
+            [
+              64,
+              "SnorlaxRankupDetailPopup_TypeNumUnknown"
+            ]
+          ],
+          1290
+        ],
+        [
+          [
+            [
+              42,
+              "CampSetPopup_Desc_Notime"
+            ],
+            [
+              66,
+              "SnorlaxRankupDetailPopup_TypeNumTotalStart"
+            ]
+          ],
+          1366
+        ],
+        [
+          [],
+          1366
+        ],
+        [
+          [
+            [
+              54,
+              "HomeScenePokemonBoxFullPopup_Content_Title"
+            ]
+          ],
+          1413
+        ],
+        [
+          [
+            [
+              17,
+              "MenuLatestResearchPopup_Num"
+            ]
+          ],
+          1445
+        ],
+        [
+          [
+            [
+              10,
+              "GoBonusPopup_Count_2"
+            ],
+            [
+              44,
+              "CampSetPopup_EffectDesc_1"
+            ]
+          ],
+          1500
+        ],
+        [
+          [
+            [
+              45,
+              "CampSetPopup_EffectDesc_2"
+            ]
+          ],
+          1530
+        ],
+        [
+          [
+            [
+              1,
+              "SnorlaxRankListPopup_RankTitle"
+            ],
+            [
+              46,
+              "CampSetPopup_EffectDesc_3"
+            ],
+            [
+              50,
+              "CampSetUsePopup_Num"
+            ],
+            [
+              55,
+              "HomeScenePokemonBoxFullPopup_Content_Desc"
+            ]
+          ],
+          1665
+        ],
+        [
+          [
+            [
+              47,
+              "CampSetPopup_EffectDesc_4"
+            ]
+          ],
+          1695
+        ],
+        [
+          [
+            [
+              2,
+              "ExpUpText"
+            ],
+            [
+              29,
+              "SnorlaxRankupCutin_Title"
+            ],
+            [
+              35,
+              "SnorlaxRankListCell_NeedEnergyLabel"
+            ],
+            [
+              68,
+              "SnorlaxRankupDetailPopup_Message"
+            ]
+          ],
+          1815
+        ],
+        [
+          [],
+          1815
+        ],
+        [
+          [
+            [
+              57,
+              "SleepDataDiscardPopup_Title"
+            ]
+          ],
+          1847
+        ],
+        [
+          [
+            [
+              22,
+              "SnorlaxRankListCell_NeedEnergy"
+            ],
+            [
+              23,
+              "SnorlaxRankListCell_RewardTitle"
+            ],
+            [
+              27,
+              "SnorlaxRankListPopup_RankDesc"
+            ],
+            [
+              52,
+              "CampSetUsePopup_Desc"
+            ]
+          ],
+          1977
+        ],
+        [
+          [
+            [
+              3,
+              "GoBonusPopup_HeaderTitle"
+            ],
+            [
+              11,
+              "GoBonusPopup_GetButton"
+            ],
+            [
+              24,
+              "SnorlaxRankListCell_RewardNum"
+            ],
+            [
+              53,
+              "HomeScenePokemonBoxFullPopup_Header_Title"
+            ],
+            [
+              67,
+              "SnorlaxRankupDetailPopup_TypeNum_Add"
+            ]
+          ],
+          2154
+        ],
+        [
+          [],
+          2154
+        ],
+        [
+          [
+            [
+              43,
+              "CampSetPopup_SectionHeader_Effect"
+            ]
+          ],
+          2192
+        ],
+        [
+          [],
+          2192
+        ],
+        [
+          [
+            [
+              60,
+              "SnorlaxRankupCutin_DescReward"
+            ],
+            [
+              69,
+              "SnorlaxRankupDetailPopup_RankTitle"
+            ]
+          ],
+          2265
+        ],
+        [
+          [
+            [
+              4,
+              "GoBonusPopup_Title"
+            ],
+            [
+              65,
+              "SnorlaxRankupDetailPopup_TypeNumTotal"
+            ]
+          ],
+          2330
+        ],
+        [
+          [
+            [
+              5,
+              "GoBonusPopup_Reward"
+            ]
+          ],
+          2354
+        ],
+        [
+          [
+            [
+              15,
+              "MenuLatestResearchPopup_Title"
+            ]
+          ],
+          2388
+        ],
+        [
+          [
+            [
+              13,
+              "ItemSelectPopup_Title"
+            ]
+          ],
+          2414
+        ],
+        [
+          [
+            [
+              18,
+              "MenuLatestResearchPopup_Name_2"
+            ]
+          ],
+          2449
+        ],
+        [
+          [
+            [
+              20,
+              "MenuLatestResearchPopup_Name_3"
+            ]
+          ],
+          2484
+        ],
+        [
+          [
+            [
+              0,
+              "SnorlaxRankListPopup_RankValue"
+            ],
+            [
+              59,
+              "SnorlaxRankupCutin_Message"
+            ]
+          ],
+          2550
+        ],
+        [
+          [],
+          2550
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 70,
+        "size": 3700,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

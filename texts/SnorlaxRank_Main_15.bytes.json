@@ -1,0 +1,94 @@
+{
+  "strings": {
+    "SnorlaxRank_Main_1": [
+      "Basic"
+    ],
+    "SnorlaxRank_Main_2": [
+      "Great"
+    ],
+    "SnorlaxRank_Main_3": [
+      "Ultra"
+    ],
+    "SnorlaxRank_Main_4": [
+      "Master"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 4,
+        "size": 32,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 116,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              2,
+              "SnorlaxRank_Main_3"
+            ]
+          ],
+          47
+        ],
+        [
+          [
+            [
+              0,
+              "SnorlaxRank_Main_1"
+            ],
+            [
+              3,
+              "SnorlaxRank_Main_4"
+            ]
+          ],
+          93
+        ],
+        [
+          [
+            [
+              1,
+              "SnorlaxRank_Main_2"
+            ]
+          ],
+          116
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 4,
+        "size": 66,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,2091 @@
+{
+  "strings": {
+    "SocialResearch_SCENE_AddFriend_2DCode_Text": [
+      "Scan de code-barres 2D en cours..."
+    ],
+    "SocialResearch_SCENE_AddFriend_AddSuccessDialog_Text": [
+      "Votre demande amicale a été envoyée."
+    ],
+    "SocialResearch_SCENE_AddFriend_AddSuccessDialog_Title": [
+      "Demande envoyée"
+    ],
+    "SocialResearch_SCENE_AddFriend_Add_Button_1": [
+      "Entrer un ID de recherche"
+    ],
+    "SocialResearch_SCENE_AddFriend_Add_Button_2": [
+      "Scanner un code-barres 2D"
+    ],
+    "SocialResearch_SCENE_AddFriend_Add_Button_3_a": [
+      "Rechercher via Facebook"
+    ],
+    "SocialResearch_SCENE_AddFriend_Add_Button_3_b": [
+      "Amis Facebook"
+    ],
+    "SocialResearch_SCENE_AddFriend_Dialog_Button": [
+      "Ajouter"
+    ],
+    "SocialResearch_SCENE_AddFriend_Dialog_FriendName": [
+      "\u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_AddFriend_Dialog_FriendshipPoint": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SocialResearch_SCENE_AddFriend_Dialog_Heading": [
+      "Rechercher des résultats"
+    ],
+    "SocialResearch_SCENE_AddFriend_Dialog_Rank": [
+      "Rang"
+    ],
+    "SocialResearch_SCENE_AddFriend_Dialog_Rank_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_AddFriend_Dialog_Title": [
+      "Rechercher un compte"
+    ],
+    "SocialResearch_SCENE_AddFriend_EnterCode_Button": [
+      "Rechercher"
+    ],
+    "SocialResearch_SCENE_AddFriend_EnterCode_Heading": [
+      "ID de recherche"
+    ],
+    "SocialResearch_SCENE_AddFriend_EnterCode_Intext": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆEntrez un ID de recherche\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SocialResearch_SCENE_AddFriend_Heading": [
+      "Ajouter un ami"
+    ],
+    "SocialResearch_SCENE_AddFriend_ResearcherCode_Copy": [
+      "Copier"
+    ],
+    "SocialResearch_SCENE_AddFriend_ResearcherCode_Share": [
+      "Partager"
+    ],
+    "SocialResearch_SCENE_AddFriend_ResearcherCode_Title": [
+      "Votre ID de recherche"
+    ],
+    "SocialResearch_SCENE_AddFriend_Title": [
+      "Ajout d'ami / Vos informations"
+    ],
+    "SocialResearch_SCENE_AddFriend_UserName": [
+      "\u000e\u0003",
+      "",
+      ""
+    ],
+    "SocialResearch_SCENE_Approval_DeleteConfirmDialog_Text": [
+      "Souhaitez-vous supprimer cette\ndemande amicale ?"
+    ],
+    "SocialResearch_SCENE_Approval_DeleteConfirmDialog_Title": [
+      "Confirmer suppression de la demande"
+    ],
+    "SocialResearch_SCENE_Approval_DeleteDialog_Text": [
+      "La demande amicale a été supprimée."
+    ],
+    "SocialResearch_SCENE_Approval_DeleteDialog_Title": [
+      "Demande supprimée"
+    ],
+    "SocialResearch_SCENE_Approval_SuccessDialog_Text": [
+      "\u000e\u0003\t\u0002촀 a rejoint votre\ngroupe de recherche !"
+    ],
+    "SocialResearch_SCENE_Approval_SuccessDialog_Title": [
+      "Nouveau compte ami"
+    ],
+    "SocialResearch_SCENE_CancelButton": [
+      "Annuler"
+    ],
+    "SocialResearch_SCENE_CloseButton": [
+      "Fermer"
+    ],
+    "SocialResearch_SCENE_CodeChange_Dialog_CancelButton": [
+      "Annuler"
+    ],
+    "SocialResearch_SCENE_CodeChange_Dialog_OKButton": [
+      "Modifier l'ID"
+    ],
+    "SocialResearch_SCENE_CodeChange_Dialog_Text": [
+      "Souhaitez-vous modifier votre ID de\nrecherche ?\n\nCette action n'affectera pas les amis que\nvous avez déjà ajoutés. Votre ancien ID de\nrecherche ne sera en revanche plus\nutilisable, et vos demandes en attente\nd'acceptation seront supprimées."
+    ],
+    "SocialResearch_SCENE_CodeChange_Dialog_Title": [
+      "Modifier ID de recherche"
+    ],
+    "SocialResearch_SCENE_CodeChange_SuccessDialog_Text": [
+      "Vous avez modifié votre ID de\nrecherche.\n\nVous pourrez le modifier à nouveau\ndans 24 heures."
+    ],
+    "SocialResearch_SCENE_CodeChange_SuccessDialog_Title": [
+      "Modification terminée"
+    ],
+    "SocialResearch_SCENE_CodeChange_WaitingDialog": [
+      "Vous pourrez modifier votre ID de\nrecherche dans \u000e\t",
+      "\u0012\u000ehhhhmmm",
+      "."
+    ],
+    "SocialResearch_SCENE_CodeReading_Dialog_UserName": [
+      "\u000e\u0003",
+      "",
+      ""
+    ],
+    "SocialResearch_SCENE_Delete_Dialog_CancelButton": [
+      "Annuler"
+    ],
+    "SocialResearch_SCENE_Delete_Dialog_DeleteButton": [
+      "Retirer"
+    ],
+    "SocialResearch_SCENE_Delete_Dialog_Text": [
+      "Retirer \u000e\u0003\t\u0002촀\nde votre liste d'amis ?"
+    ],
+    "SocialResearch_SCENE_Delete_Dialog_Title": [
+      "Retirer ce compte de vos amis ?"
+    ],
+    "SocialResearch_SCENE_Delete_SuccessDialog_Text": [
+      "Ce compte a été retiré de votre liste."
+    ],
+    "SocialResearch_SCENE_Delete_SuccessDialog_Title": [
+      "Retiré de la liste d'amis"
+    ],
+    "SocialResearch_SCENE_FBAddFriend_Dialog_Button": [
+      "Ajouter"
+    ],
+    "SocialResearch_SCENE_FBAddFriend_Dialog_DisconnectButton": [
+      "Dissocier"
+    ],
+    "SocialResearch_SCENE_FBAddFriend_Dialog_FriendName": [
+      "\u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_FBAddFriend_Dialog_FriendshipPoint": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SocialResearch_SCENE_FBAddFriend_Dialog_Heading": [
+      "Résultat de la recherche"
+    ],
+    "SocialResearch_SCENE_FBAddFriend_Dialog_Rank": [
+      "Rank"
+    ],
+    "SocialResearch_SCENE_FBAddFriend_Dialog_Rank_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FBAddFriend_Dialog_Title": [
+      "Chercher amis Facebook "
+    ],
+    "SocialResearch_SCENE_FacebookUnlinkedConfirmPopup_Button": [
+      "Dissocier"
+    ],
+    "SocialResearch_SCENE_FacebookUnlinkedConfirmPopup_Text": [
+      "Souhaitez-vous dissocier votre compte\nde Facebook ?"
+    ],
+    "SocialResearch_SCENE_FacebookUnlinkedConfirmPopup_Title": [
+      "Confirmer la dissociation"
+    ],
+    "SocialResearch_SCENE_Facebook_ExpiredToken_Message": [
+      "Votre compte n'a pas pu être associé\nà Facebook."
+    ],
+    "SocialResearch_SCENE_Facebook_ExpiredToken_Title": [
+      "Échec de l'association"
+    ],
+    "SocialResearch_SCENE_Facebook_FailedToken_Message": [
+      "Votre compte n'a pas pu être associé\nà Facebook."
+    ],
+    "SocialResearch_SCENE_Facebook_FailedToken_Title": [
+      "Erreur d'association"
+    ],
+    "SocialResearch_SCENE_Facebook_Friend_Zero_Message": [
+      "Vous n'avez aucun ami Facebook qui utilise\ncette fonctionnalité."
+    ],
+    "SocialResearch_SCENE_Facebook_ReadMore": [
+      "Voir plus"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Button_1": [
+      "Accepter"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Button_2": [
+      "Refuser"
+    ],
+    "SocialResearch_SCENE_FriendApproval_FriendName": [
+      "\u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendApproval_FriendshipPoint": [
+      "Affinité"
+    ],
+    "SocialResearch_SCENE_FriendApproval_FriendshipPoint_Value": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendApproval_FullDialog": [
+      "La liste d'amis de ce compte est pleine."
+    ],
+    "SocialResearch_SCENE_FriendApproval_Heading": [
+      "Historique de recherche"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info1": [
+      "Temps de sommeil total"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info1_Hidden": [
+      "Confidentiel"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info1_Value": [
+      "\u000e\u0002\u0006\u0004",
+      "촂 heure\u000e\u0004",
+      "\b",
+      "\u0002s촀"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info2": [
+      "Styles de dodo observés"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info2_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁/\u000e\u0002\u0003\u0004\u0001촁"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info3": [
+      "Pokémon amis"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info3_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁/\u000e\u0002\u0003\u0004\u0001촁"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info4": [
+      "Record de dodoforce"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info4_Hidden": [
+      "Confidentiel"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info4_Value": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info5": [
+      "Nombre de jours de connexion"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Info5_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촂"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Rank": [
+      "Rang"
+    ],
+    "SocialResearch_SCENE_FriendApproval_Rank_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendApproval_Title": [
+      "Accepter la demande amicale ?"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Button": [
+      "Retirer de la liste d'amis"
+    ],
+    "SocialResearch_SCENE_FriendDetail_FriendName": [
+      "\u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendDetail_FriendshipPoint": [
+      "Affinité"
+    ],
+    "SocialResearch_SCENE_FriendDetail_FriendshipPoint_Value": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Heading_1": [
+      "Historique de recherche"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Heading_2": [
+      "Paramètres d'amis"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info1": [
+      "Temps de sommeil total"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info1_Hidden": [
+      "Confidentiel"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info1_Value": [
+      "\u000e\u0002\u0006\u0004",
+      "촂 heure\u000e\u0004",
+      "\b",
+      "\u0002s촀"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info2": [
+      "Styles de dodo observés"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info2_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁/\u000e\u0002\u0003\u0004\u0001촁"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info3": [
+      "Pokémon amis"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info3_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁/\u000e\u0002\u0003\u0004\u0001촁"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info4": [
+      "Record de dodoforce"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info4_Hidden": [
+      "Confidentiel"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info4_Value": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info5": [
+      "Nombre de jours de connexion"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Info5_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촂"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Rank": [
+      "Rang"
+    ],
+    "SocialResearch_SCENE_FriendDetail_Rank_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendDetail_Title": [
+      "Détails compte"
+    ],
+    "SocialResearch_SCENE_FriendList_Await_Button": [
+      "Détails"
+    ],
+    "SocialResearch_SCENE_FriendList_Await_FriendName": [
+      "\u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendList_Await_FriendshipPoint": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendList_Await_NumberOfAwait_Badge": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendList_Await_Rank": [
+      "Rang"
+    ],
+    "SocialResearch_SCENE_FriendList_Await_Rank_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendList_Await_Sort": [
+      "Tri par date\nde demande"
+    ],
+    "SocialResearch_SCENE_FriendList_Friend_Button": [
+      "Détails"
+    ],
+    "SocialResearch_SCENE_FriendList_Friend_FriendName": [
+      "\u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendList_Friend_FriendshipPoint": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendList_Friend_Rank": [
+      "Rang"
+    ],
+    "SocialResearch_SCENE_FriendList_Friend_Rank_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendList_Friend_Sort": [
+      "Tri par date\nd'ajout"
+    ],
+    "SocialResearch_SCENE_FriendList_NumberOfAwait": [
+      "\u000e\u0002\u0002\u0002",
+      " demande\u000e\u0004",
+      "\b",
+      "\u0002s촀 en attente (maximum : \u000e\u0002\u0002\u0002\u0001)"
+    ],
+    "SocialResearch_SCENE_FriendList_NumberOfFriend": [
+      "\u000e\u0002\u0002\u0002",
+      " ami\u000e\u0004",
+      "\b",
+      "\u0002s촀 (maximum : \u000e\u0002\u0002\u0002\u0001)"
+    ],
+    "SocialResearch_SCENE_FriendList_Tab_1": [
+      "Amis"
+    ],
+    "SocialResearch_SCENE_FriendList_Tab_2": [
+      "Demandes"
+    ],
+    "SocialResearch_SCENE_FriendList_Title": [
+      "Liste d'amis"
+    ],
+    "SocialResearch_SCENE_FriendRequest_Dialog_Title_1": [
+      "Limite d'amis atteinte"
+    ],
+    "SocialResearch_SCENE_FriendRequest_Dialog_Title_2": [
+      "Erreur"
+    ],
+    "SocialResearch_SCENE_FriendRequest_ErrorDialog_AlreadyFriend": [
+      "Ce compte est déjà dans votre liste\nd'amis. Veuillez revérifier celle-ci."
+    ],
+    "SocialResearch_SCENE_FriendRequest_ErrorDialog_AlreadyRequest": [
+      "Vous avez déjà envoyé une demande\namicale au compte en question."
+    ],
+    "SocialResearch_SCENE_FriendRequest_ErrorDialog_AlreadyRequestGet": [
+      "Vous avez déjà reçu une demande\namicale provenant de ce compte.\nVeuillez revérifier vos demandes."
+    ],
+    "SocialResearch_SCENE_FriendRequest_ErrorDialog_InvalidCode": [
+      "L'ID de recherche que vous avez entré\nest incorrect. Veuillez vérifier l'ID\npuis réessayez."
+    ],
+    "SocialResearch_SCENE_FriendRequest_FullDialog": [
+      "Votre liste d'amis est pleine."
+    ],
+    "SocialResearch_SCENE_FriendRequest_FullDialog_Self": [
+      "Vous ne pouvez pas envoyer davantage\nde demandes amicales pour le moment.\nVeuillez réessayer plus tard."
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_PokemonParty": [
+      "Équipe de soutien"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_Leader": [
+      "Leader"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_PokemonName": [
+      "\u000e\u0003\u0001\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_Rank": [
+      "N."
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_Rank_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_SP": [
+      "PS d'équipe"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_SP_Value": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_Power": [
+      "Dodoforce"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_Power_Hidden": [
+      "Confidentiel"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_Power_Value": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_ResearchMap": [
+      "Zone de recherche"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_ResearchMap_Name": [
+      "\u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_Score": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_Score_Hidden": [
+      "OFF"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_Title": [
+      "Recherches de \u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_Title_PokemonRank": [
+      "Rang"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_Title_PokemonRank_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_TodayPic": [
+      "Nº \u000e\u0002\u0003\u0004Ā촁 \u000e\u0003\u0001\u0002촁 (\u000e\u0003\u0004\u0002\u0002)"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_TodayPic_Hidden": [
+      "Nº \u000e\u0002\u0003\u0004Ā촁 \u000e\u0003\u0001\u0002촁"
+    ],
+    "SocialResearch_SCENE_FriendResearchDetail_TodayPic_SleepName": [
+      "\u000e\u0003\r\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendshipPointUpPopup_Num": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendshipPointUpPopup_Text_1": [
+      "\u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_FriendshipPointUpPopup_Text_2": [
+      "\u000e",
+      "\u0003\u0004旾ｷVous êtes plus proches !\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SocialResearch_SCENE_FriendshipPointUpPopup_Text_3": [
+      "Nouveau niveau d'affinité : \u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_FriendshipPointUpPopup_Title": [
+      "Affinité augmentée"
+    ],
+    "SocialResearch_SCENE_FriendshipPointUpRewardPopup_Heading": [
+      "Récompenses"
+    ],
+    "SocialResearch_SCENE_FriendshipPointUpRewardPopup_Text": [
+      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002\u0002\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SocialResearch_SCENE_FriendshipPointUpRewardPopup_Title": [
+      "Récompense reçue"
+    ],
+    "SocialResearch_SCENE_NoAcceptionCamera_Text": [
+      "Pour lire les code-barres 2D, il faut\nautoriser l'application à prendre des\nphotos et filmer des vidéos."
+    ],
+    "SocialResearch_SCENE_NoAcceptionCamera_Title": [
+      "Actuellement non disponible"
+    ],
+    "SocialResearch_SCENE_NoUseCamera_Text": [
+      "Cette fonctionnalité ne peut pas être\nutilisée, car l'application n'est pas\nautorisée à prendre des photos et\nfilmer des vidéos.\n\nVeuillez accéder aux paramètres de\nvotre appareil pour permettre à\nl'application d'utiliser l'appareil\nphoto."
+    ],
+    "SocialResearch_SCENE_NoUseCamera_Title": [
+      "Actuellement non disponible"
+    ],
+    "SocialResearch_SCENE_Nofriend_Text": [
+      "Aucun nouveau résultat de recherche."
+    ],
+    "SocialResearch_SCENE_OKButton": [
+      "OK"
+    ],
+    "SocialResearch_SCENE_Option_Heading": [
+      "À partager"
+    ],
+    "SocialResearch_SCENE_Option_Text": [
+      "Vous pouvez désactiver toute information\nsi vous ne souhaitez pas la partager. "
+    ],
+    "SocialResearch_SCENE_Option_Title": [
+      "Options de partage"
+    ],
+    "SocialResearch_SCENE_Option_UserName": [
+      "Nom du compte : \u000e\u0003",
+      "",
+      ""
+    ],
+    "SocialResearch_SCENE_Option_UserNameChange": [
+      "Modifier le nom"
+    ],
+    "SocialResearch_SCENE_Option_item_1": [
+      "Score de sommeil"
+    ],
+    "SocialResearch_SCENE_Option_item_2": [
+      "Dodoforce"
+    ],
+    "SocialResearch_SCENE_Option_item_3": [
+      "Type de dodo"
+    ],
+    "SocialResearch_SCENE_Option_item_4": [
+      "Temps de sommeil total"
+    ],
+    "SocialResearch_SCENE_Option_item_5": [
+      "Record de dodoforce"
+    ],
+    "SocialResearch_SCENE_RewardDialog_Heading": [
+      "Résultats des recherhes"
+    ],
+    "SocialResearch_SCENE_RewardDialog_Info_1": [
+      "\u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_RewardDialog_Info_2": [
+      "J'ai découvert le \u000e\u0003\r\u0002\u0001\nde \u000e\u0003\u0001\u0002촀 !"
+    ],
+    "SocialResearch_SCENE_RewardDialog_ItemGet_1": [
+      "Cadeau"
+    ],
+    "SocialResearch_SCENE_RewardDialog_ItemGet_2": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SocialResearch_SCENE_RewardDialog_ItemGet_3": [
+      "+\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SocialResearch_SCENE_RewardDialog_ItemGet_4": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "SocialResearch_SCENE_RewardDialog_Text": [
+      "Voici les derniers résultats des recherches de votre\ngroupe, et les cadeaux qui y sont associés !"
+    ],
+    "SocialResearch_SCENE_RewardDialog_Text_Number_1": [
+      "\u000e",
+      "\u0003\u0004旾ｷNouveaux rapports :\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SocialResearch_SCENE_RewardDialog_Text_Number_2": [
+      "\u000e",
+      "\u0003\u0004旾ｷ\u000e\u0002\u0001\u0002",
+      "\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SocialResearch_SCENE_RewardDialog_Title": [
+      "De nouveaux résultats sont arrivés"
+    ],
+    "SocialResearch_SCENE_TOP_Feed_FriendName": [
+      "\u000e\u0003\t\u0002촀"
+    ],
+    "SocialResearch_SCENE_TOP_Feed_Heading_1": [
+      "Résultats reçus récemment"
+    ],
+    "SocialResearch_SCENE_TOP_Feed_Heading_2": [
+      "Résultats antérieurs"
+    ],
+    "SocialResearch_SCENE_TOP_Feed_ResearchSleepFace": [
+      "J'ai découvert le \u000e\u0003\r\u0002\u0001\nde \u000e\u0003\u0001\u0002촀 !"
+    ],
+    "SocialResearch_SCENE_TOP_NextUpdateTime": [
+      "Prochaine mise à jour des recherches dans \u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "SocialResearch_SCENE_TOP_NumberOfAwait": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_TOP_NumberOfFriend": [
+      "\u000e\u0002\u0002\u0002",
+      "/\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "SocialResearch_SCENE_TOP_Score": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SocialResearch_SCENE_TOP_Score_Hidden": [
+      "OFF"
+    ],
+    "SocialResearch_SCENE_TOP_SocialOption": [
+      "Options de partage"
+    ],
+    "SocialResearch_SCENE_TOP_Sort": [
+      "Tri aléatoire"
+    ],
+    "SocialResearch_SCENE_TOP_Subtitle": [
+      "Groupe de recherche"
+    ],
+    "SocialResearch_SCENE_TOP_Title": [
+      "Groupe de recherche"
+    ],
+    "SocialResearch_SCENE_Top_Feed_Tutorial": [
+      "Les résultats des recherches de vos\namis seront affichés ici. Veuillez\nd'abord terminer le tutorial."
+    ],
+    "SocialResearch_SCENE_Top_LockedActivityMessage": [
+      "Vous ne pouvez pas encore voir les\ndonnées de recherche de vos amis.\nVeuillez d'abord finir le tutorial."
+    ],
+    "SocialResearch_SCENE_Top_NoActivityMessage": [
+      "Aucun résultat de recherche\nrécemment reçu à afficher."
+    ],
+    "SocialResearch_SCENE_TutorialPopup_Heading": [
+      "Détails"
+    ],
+    "SocialResearch_SCENE_TutorialPopup_Text_1": [
+      "Les résultats quotidiens des recherches des\nmembres de votre groupe peuvent être\nconsultés sur l'écran du groupe de recherche."
+    ],
+    "SocialResearch_SCENE_TutorialPopup_Text_2": [
+      "À chaque nouvelle arrivée de résultats, vous\nobtenez un \u000e",
+      "\u0003\u0004旾ｷBonbon Pokémon\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "SocialResearch_SCENE_TutorialPopup_Text_3": [
+      "Consultez régulièrement les résultats de\nvotre groupe, actualisés \u000e",
+      "\u0003\u0004旾ｷtoutes les 4 heures\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "SocialResearch_SCENE_TutorialPopup_Text_4": [
+      "Vous pouvez choisir ce que vous souhaitez\npartager avec votre groupe à partir de l'écran\n« Options de partage »."
+    ],
+    "SocialResearch_SCENE_TutorialPopup_Title": [
+      "Groupe de recherche"
+    ],
+    "SocialResearch_SCENE_UpdateDialog_Text": [
+      "Le groupe de recherche a obtenu de\nnouveaux résultats. La page va être\nréactualisée."
+    ],
+    "SocialResearch_SCENE_UpdateDialog_Title": [
+      "Réactualisation"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 210,
+        "size": 1474,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 101,
+        "size": 11421,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              74,
+              "SocialResearch_SCENE_FriendList_Title"
+            ],
+            [
+              163,
+              "SocialResearch_SCENE_OKButton"
+            ],
+            [
+              191,
+              "SocialResearch_SCENE_Facebook_FailedToken_Message"
+            ]
+          ],
+          938
+        ],
+        [
+          [
+            [
+              59,
+              "SocialResearch_SCENE_AddFriend_Dialog_Heading"
+            ],
+            [
+              117,
+              "SocialResearch_SCENE_FriendApproval_FriendshipPoint"
+            ],
+            [
+              120,
+              "SocialResearch_SCENE_FriendApproval_Info1"
+            ],
+            [
+              173,
+              "SocialResearch_SCENE_FriendRequest_FullDialog_Self"
+            ],
+            [
+              182,
+              "SocialResearch_SCENE_Delete_Dialog_Title"
+            ]
+          ],
+          1190
+        ],
+        [
+          [
+            [
+              17,
+              "SocialResearch_SCENE_AddFriend_AddSuccessDialog_Text"
+            ],
+            [
+              67,
+              "SocialResearch_SCENE_FBAddFriend_Dialog_Rank"
+            ],
+            [
+              123,
+              "SocialResearch_SCENE_FriendApproval_Info2"
+            ],
+            [
+              178,
+              "SocialResearch_SCENE_FriendRequest_Dialog_Title_1"
+            ]
+          ],
+          1396
+        ],
+        [
+          [
+            [
+              125,
+              "SocialResearch_SCENE_FriendApproval_Info3"
+            ],
+            [
+              179,
+              "SocialResearch_SCENE_FriendRequest_Dialog_Title_2"
+            ]
+          ],
+          1496
+        ],
+        [
+          [
+            [
+              31,
+              "SocialResearch_SCENE_Option_Heading"
+            ],
+            [
+              53,
+              "SocialResearch_SCENE_RewardDialog_Text"
+            ],
+            [
+              60,
+              "SocialResearch_SCENE_AddFriend_Dialog_Rank"
+            ],
+            [
+              66,
+              "SocialResearch_SCENE_FBAddFriend_Dialog_Heading"
+            ],
+            [
+              127,
+              "SocialResearch_SCENE_FriendApproval_Info4"
+            ]
+          ],
+          1724
+        ],
+        [
+          [
+            [
+              40,
+              "SocialResearch_SCENE_Delete_Dialog_Text"
+            ],
+            [
+              88,
+              "SocialResearch_SCENE_FriendList_Await_Rank_Value"
+            ],
+            [
+              130,
+              "SocialResearch_SCENE_FriendApproval_Info5"
+            ]
+          ],
+          1867
+        ],
+        [
+          [
+            [
+              164,
+              "SocialResearch_SCENE_CancelButton"
+            ]
+          ],
+          1905
+        ],
+        [
+          [
+            [
+              103,
+              "SocialResearch_SCENE_FriendDetail_Info2_Value"
+            ],
+            [
+              147,
+              "SocialResearch_SCENE_FriendResearchDetail_Power_Hidden"
+            ]
+          ],
+          2014
+        ],
+        [
+          [],
+          2014
+        ],
+        [
+          [],
+          2014
+        ],
+        [
+          [
+            [
+              46,
+              "SocialResearch_SCENE_TutorialPopup_Text_1"
+            ],
+            [
+              95,
+              "SocialResearch_SCENE_FriendDetail_Rank_Value"
+            ],
+            [
+              190,
+              "SocialResearch_SCENE_Facebook_FailedToken_Title"
+            ]
+          ],
+          2161
+        ],
+        [
+          [
+            [
+              47,
+              "SocialResearch_SCENE_TutorialPopup_Text_2"
+            ]
+          ],
+          2207
+        ],
+        [
+          [
+            [
+              48,
+              "SocialResearch_SCENE_TutorialPopup_Text_3"
+            ],
+            [
+              79,
+              "SocialResearch_SCENE_FriendList_Friend_Button"
+            ]
+          ],
+          2303
+        ],
+        [
+          [
+            [
+              39,
+              "SocialResearch_SCENE_Option_UserNameChange"
+            ],
+            [
+              49,
+              "SocialResearch_SCENE_TutorialPopup_Text_4"
+            ],
+            [
+              128,
+              "SocialResearch_SCENE_FriendApproval_Info4_Value"
+            ]
+          ],
+          2448
+        ],
+        [
+          [],
+          2448
+        ],
+        [
+          [
+            [
+              7,
+              "SocialResearch_SCENE_AddFriend_UserName"
+            ],
+            [
+              54,
+              "SocialResearch_SCENE_TOP_Sort"
+            ]
+          ],
+          2526
+        ],
+        [
+          [
+            [
+              149,
+              "SocialResearch_SCENE_FriendResearchDetail_ResearchMap_Name"
+            ]
+          ],
+          2589
+        ],
+        [
+          [
+            [
+              203,
+              "SocialResearch_SCENE_FacebookUnlinkedConfirmPopup_Text"
+            ]
+          ],
+          2648
+        ],
+        [
+          [
+            [
+              51,
+              "SocialResearch_SCENE_RewardDialog_Text_Number_1"
+            ],
+            [
+              58,
+              "SocialResearch_SCENE_AddFriend_Dialog_Title"
+            ],
+            [
+              148,
+              "SocialResearch_SCENE_FriendResearchDetail_ResearchMap"
+            ]
+          ],
+          2806
+        ],
+        [
+          [
+            [
+              38,
+              "SocialResearch_SCENE_Option_UserName"
+            ],
+            [
+              52,
+              "SocialResearch_SCENE_RewardDialog_Text_Number_2"
+            ],
+            [
+              84,
+              "SocialResearch_SCENE_FriendList_Await_Sort"
+            ],
+            [
+              153,
+              "SocialResearch_SCENE_FriendResearchDetail_Title_PokemonRank_Value"
+            ]
+          ],
+          3016
+        ],
+        [
+          [
+            [
+              43,
+              "SocialResearch_SCENE_Delete_SuccessDialog_Text"
+            ],
+            [
+              200,
+              "SocialResearch_SCENE_FriendshipPointUpRewardPopup_Heading"
+            ]
+          ],
+          3129
+        ],
+        [
+          [
+            [
+              73,
+              "SocialResearch_SCENE_Facebook_Friend_Zero_Message"
+            ]
+          ],
+          3183
+        ],
+        [
+          [
+            [
+              97,
+              "SocialResearch_SCENE_FriendDetail_FriendshipPoint_Value"
+            ],
+            [
+              108,
+              "SocialResearch_SCENE_FriendDetail_Info4_Hidden"
+            ]
+          ],
+          3294
+        ],
+        [
+          [],
+          3294
+        ],
+        [
+          [
+            [
+              116,
+              "SocialResearch_SCENE_FriendApproval_Rank_Value"
+            ],
+            [
+              184,
+              "SocialResearch_SCENE_Approval_SuccessDialog_Text"
+            ]
+          ],
+          3398
+        ],
+        [
+          [
+            [
+              119,
+              "SocialResearch_SCENE_FriendApproval_Heading"
+            ],
+            [
+              135,
+              "SocialResearch_SCENE_RewardDialog_Heading"
+            ]
+          ],
+          3492
+        ],
+        [
+          [
+            [
+              4,
+              "SocialResearch_SCENE_TOP_NextUpdateTime"
+            ],
+            [
+              113,
+              "SocialResearch_SCENE_FriendApproval_Title"
+            ],
+            [
+              124,
+              "SocialResearch_SCENE_FriendApproval_Info2_Value"
+            ]
+          ],
+          3634
+        ],
+        [
+          [
+            [
+              28,
+              "SocialResearch_SCENE_FriendRequest_FullDialog"
+            ],
+            [
+              192,
+              "SocialResearch_SCENE_Facebook_ExpiredToken_Title"
+            ],
+            [
+              201,
+              "SocialResearch_SCENE_FriendshipPointUpRewardPopup_Text"
+            ]
+          ],
+          3796
+        ],
+        [
+          [],
+          3796
+        ],
+        [
+          [
+            [
+              205,
+              "SocialResearch_SCENE_Facebook_ReadMore"
+            ]
+          ],
+          3839
+        ],
+        [
+          [],
+          3839
+        ],
+        [
+          [
+            [
+              129,
+              "SocialResearch_SCENE_FriendApproval_Info4_Hidden"
+            ],
+            [
+              185,
+              "SocialResearch_SCENE_Approval_DeleteDialog_Title"
+            ]
+          ],
+          3945
+        ],
+        [
+          [],
+          3945
+        ],
+        [
+          [
+            [
+              19,
+              "SocialResearch_SCENE_AddFriend_2DCode_Text"
+            ],
+            [
+              71,
+              "SocialResearch_SCENE_FBAddFriend_Dialog_Button"
+            ],
+            [
+              193,
+              "SocialResearch_SCENE_Facebook_ExpiredToken_Message"
+            ]
+          ],
+          4098
+        ],
+        [
+          [],
+          4098
+        ],
+        [
+          [
+            [
+              32,
+              "SocialResearch_SCENE_Option_Text"
+            ],
+            [
+              138,
+              "SocialResearch_SCENE_RewardDialog_ItemGet_1"
+            ]
+          ],
+          4183
+        ],
+        [
+          [
+            [
+              139,
+              "SocialResearch_SCENE_RewardDialog_ItemGet_2"
+            ]
+          ],
+          4231
+        ],
+        [
+          [
+            [
+              24,
+              "SocialResearch_SCENE_CodeChange_Dialog_OKButton"
+            ],
+            [
+              140,
+              "SocialResearch_SCENE_RewardDialog_ItemGet_3"
+            ],
+            [
+              165,
+              "SocialResearch_SCENE_CloseButton"
+            ],
+            [
+              195,
+              "SocialResearch_SCENE_FriendshipPointUpPopup_Text_1"
+            ]
+          ],
+          4423
+        ],
+        [
+          [
+            [
+              141,
+              "SocialResearch_SCENE_RewardDialog_ItemGet_4"
+            ],
+            [
+              196,
+              "SocialResearch_SCENE_FriendshipPointUpPopup_Text_2"
+            ]
+          ],
+          4526
+        ],
+        [
+          [
+            [
+              6,
+              "SocialResearch_SCENE_TOP_Feed_ResearchSleepFace"
+            ],
+            [
+              11,
+              "SocialResearch_SCENE_AddFriend_Heading"
+            ],
+            [
+              30,
+              "SocialResearch_SCENE_Option_Title"
+            ],
+            [
+              69,
+              "SocialResearch_SCENE_FBAddFriend_Dialog_FriendName"
+            ],
+            [
+              197,
+              "SocialResearch_SCENE_FriendshipPointUpPopup_Text_3"
+            ],
+            [
+              206,
+              "SocialResearch_SCENE_NoAcceptionCamera_Title"
+            ]
+          ],
+          4818
+        ],
+        [
+          [
+            [
+              8,
+              "SocialResearch_SCENE_AddFriend_ResearcherCode_Title"
+            ],
+            [
+              161,
+              "SocialResearch_SCENE_UpdateDialog_Title"
+            ]
+          ],
+          4918
+        ],
+        [
+          [
+            [
+              175,
+              "SocialResearch_SCENE_FriendRequest_ErrorDialog_AlreadyFriend"
+            ]
+          ],
+          4983
+        ],
+        [
+          [
+            [
+              63,
+              "SocialResearch_SCENE_AddFriend_Dialog_FriendshipPoint"
+            ],
+            [
+              70,
+              "SocialResearch_SCENE_FBAddFriend_Dialog_FriendshipPoint"
+            ]
+          ],
+          5101
+        ],
+        [
+          [
+            [
+              80,
+              "SocialResearch_SCENE_FriendList_Friend_Rank"
+            ],
+            [
+              198,
+              "SocialResearch_SCENE_FriendshipPointUpPopup_Num"
+            ]
+          ],
+          5201
+        ],
+        [
+          [
+            [
+              132,
+              "SocialResearch_SCENE_FriendApproval_Button_1"
+            ],
+            [
+              166,
+              "SocialResearch_SCENE_Nofriend_Text"
+            ]
+          ],
+          5289
+        ],
+        [
+          [
+            [
+              16,
+              "SocialResearch_SCENE_AddFriend_AddSuccessDialog_Title"
+            ],
+            [
+              133,
+              "SocialResearch_SCENE_FriendApproval_Button_2"
+            ]
+          ],
+          5396
+        ],
+        [
+          [
+            [
+              176,
+              "SocialResearch_SCENE_FriendRequest_ErrorDialog_AlreadyRequest"
+            ]
+          ],
+          5462
+        ],
+        [
+          [],
+          5462
+        ],
+        [
+          [
+            [
+              85,
+              "SocialResearch_SCENE_FriendList_NumberOfAwait"
+            ]
+          ],
+          5512
+        ],
+        [
+          [],
+          5512
+        ],
+        [
+          [
+            [
+              89,
+              "SocialResearch_SCENE_FriendList_Await_FriendName"
+            ],
+            [
+              208,
+              "SocialResearch_SCENE_NoUseCamera_Title"
+            ]
+          ],
+          5608
+        ],
+        [
+          [
+            [
+              45,
+              "SocialResearch_SCENE_TutorialPopup_Heading"
+            ],
+            [
+              105,
+              "SocialResearch_SCENE_FriendDetail_Info3_Value"
+            ],
+            [
+              142,
+              "SocialResearch_SCENE_FriendResearchDetail_Title"
+            ],
+            [
+              189,
+              "SocialResearch_SCENE_Top_Feed_Tutorial"
+            ]
+          ],
+          5800
+        ],
+        [
+          [],
+          5800
+        ],
+        [
+          [
+            [
+              41,
+              "SocialResearch_SCENE_Delete_Dialog_DeleteButton"
+            ],
+            [
+              183,
+              "SocialResearch_SCENE_Approval_SuccessDialog_Title"
+            ]
+          ],
+          5906
+        ],
+        [
+          [
+            [
+              42,
+              "SocialResearch_SCENE_Delete_Dialog_CancelButton"
+            ],
+            [
+              180,
+              "SocialResearch_SCENE_CodeChange_SuccessDialog_Title"
+            ],
+            [
+              188,
+              "SocialResearch_SCENE_Approval_DeleteConfirmDialog_Text"
+            ]
+          ],
+          6073
+        ],
+        [
+          [
+            [
+              12,
+              "SocialResearch_SCENE_AddFriend_Add_Button_1"
+            ],
+            [
+              61,
+              "SocialResearch_SCENE_AddFriend_Dialog_Rank_Value"
+            ],
+            [
+              92,
+              "SocialResearch_SCENE_FriendDetail_Title"
+            ],
+            [
+              93,
+              "SocialResearch_SCENE_FriendDetail_FriendName"
+            ]
+          ],
+          6267
+        ],
+        [
+          [
+            [
+              18,
+              "SocialResearch_SCENE_AddFriend_Add_Button_2"
+            ],
+            [
+              160,
+              "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_PokemonName"
+            ],
+            [
+              168,
+              "SocialResearch_SCENE_TOP_NumberOfFriend"
+            ]
+          ],
+          6430
+        ],
+        [
+          [],
+          6430
+        ],
+        [
+          [
+            [
+              3,
+              "SocialResearch_SCENE_TOP_SocialOption"
+            ]
+          ],
+          6472
+        ],
+        [
+          [
+            [
+              209,
+              "SocialResearch_SCENE_NoUseCamera_Text"
+            ]
+          ],
+          6514
+        ],
+        [
+          [
+            [
+              64,
+              "SocialResearch_SCENE_AddFriend_Dialog_Button"
+            ],
+            [
+              118,
+              "SocialResearch_SCENE_FriendApproval_FriendshipPoint_Value"
+            ],
+            [
+              171,
+              "SocialResearch_SCENE_TOP_Subtitle"
+            ]
+          ],
+          6663
+        ],
+        [
+          [
+            [
+              13,
+              "SocialResearch_SCENE_AddFriend_EnterCode_Heading"
+            ],
+            [
+              122,
+              "SocialResearch_SCENE_FriendApproval_Info1_Hidden"
+            ]
+          ],
+          6769
+        ],
+        [
+          [
+            [
+              86,
+              "SocialResearch_SCENE_FriendList_Await_Button"
+            ]
+          ],
+          6818
+        ],
+        [
+          [
+            [
+              25,
+              "SocialResearch_SCENE_CodeChange_Dialog_CancelButton"
+            ],
+            [
+              91,
+              "SocialResearch_SCENE_FriendList_Await_NumberOfAwait_Badge"
+            ],
+            [
+              99,
+              "SocialResearch_SCENE_FriendDetail_Info1"
+            ],
+            [
+              143,
+              "SocialResearch_SCENE_FriendResearchDetail_TodayPic"
+            ]
+          ],
+          7035
+        ],
+        [
+          [
+            [
+              100,
+              "SocialResearch_SCENE_FriendDetail_Info1_Value"
+            ],
+            [
+              102,
+              "SocialResearch_SCENE_FriendDetail_Info2"
+            ],
+            [
+              144,
+              "SocialResearch_SCENE_FriendResearchDetail_TodayPic_Hidden"
+            ]
+          ],
+          7191
+        ],
+        [
+          [
+            [
+              104,
+              "SocialResearch_SCENE_FriendDetail_Info3"
+            ]
+          ],
+          7235
+        ],
+        [
+          [
+            [
+              106,
+              "SocialResearch_SCENE_FriendDetail_Info4"
+            ],
+            [
+              154,
+              "SocialResearch_SCENE_FriendResearchDetail_PokemonParty"
+            ]
+          ],
+          7338
+        ],
+        [
+          [
+            [
+              57,
+              "SocialResearch_SCENE_AddFriend_Title"
+            ],
+            [
+              109,
+              "SocialResearch_SCENE_FriendDetail_Info5"
+            ]
+          ],
+          7423
+        ],
+        [
+          [
+            [
+              136,
+              "SocialResearch_SCENE_RewardDialog_Info_1"
+            ],
+            [
+              167,
+              "SocialResearch_SCENE_TOP_NumberOfAwait"
+            ]
+          ],
+          7511
+        ],
+        [
+          [
+            [
+              114,
+              "SocialResearch_SCENE_FriendApproval_FriendName"
+            ],
+            [
+              137,
+              "SocialResearch_SCENE_RewardDialog_Info_2"
+            ]
+          ],
+          7607
+        ],
+        [
+          [
+            [
+              126,
+              "SocialResearch_SCENE_FriendApproval_Info3_Value"
+            ],
+            [
+              145,
+              "SocialResearch_SCENE_FriendResearchDetail_Power"
+            ],
+            [
+              155,
+              "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_SP"
+            ]
+          ],
+          7773
+        ],
+        [
+          [
+            [
+              110,
+              "SocialResearch_SCENE_FriendDetail_Info5_Value"
+            ],
+            [
+              172,
+              "SocialResearch_SCENE_FriendResearchDetail_TodayPic_SleepName"
+            ]
+          ],
+          7888
+        ],
+        [
+          [
+            [
+              26,
+              "SocialResearch_SCENE_CodeChange_SuccessDialog_Text"
+            ]
+          ],
+          7943
+        ],
+        [
+          [
+            [
+              134,
+              "SocialResearch_SCENE_FriendApproval_FullDialog"
+            ],
+            [
+              199,
+              "SocialResearch_SCENE_FriendshipPointUpRewardPopup_Title"
+            ]
+          ],
+          8054
+        ],
+        [
+          [
+            [
+              82,
+              "SocialResearch_SCENE_FriendList_Friend_FriendName"
+            ],
+            [
+              156,
+              "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_SP_Value"
+            ]
+          ],
+          8176
+        ],
+        [
+          [
+            [
+              56,
+              "SocialResearch_SCENE_TOP_Score_Hidden"
+            ]
+          ],
+          8218
+        ],
+        [
+          [
+            [
+              14,
+              "SocialResearch_SCENE_AddFriend_EnterCode_Intext"
+            ],
+            [
+              186,
+              "SocialResearch_SCENE_Approval_DeleteDialog_Text"
+            ]
+          ],
+          8322
+        ],
+        [
+          [
+            [
+              2,
+              "SocialResearch_SCENE_TOP_Title"
+            ]
+          ],
+          8357
+        ],
+        [
+          [
+            [
+              27,
+              "SocialResearch_SCENE_CodeChange_WaitingDialog"
+            ],
+            [
+              181,
+              "SocialResearch_SCENE_Delete_SuccessDialog_Title"
+            ]
+          ],
+          8459
+        ],
+        [
+          [
+            [
+              22,
+              "SocialResearch_SCENE_CodeChange_Dialog_Title"
+            ],
+            [
+              72,
+              "SocialResearch_SCENE_FBAddFriend_Dialog_DisconnectButton"
+            ],
+            [
+              78,
+              "SocialResearch_SCENE_FriendList_NumberOfFriend"
+            ],
+            [
+              174,
+              "SocialResearch_SCENE_FriendRequest_ErrorDialog_InvalidCode"
+            ]
+          ],
+          8683
+        ],
+        [
+          [
+            [
+              29,
+              "SocialResearch_SCENE_CodeReading_Dialog_UserName"
+            ],
+            [
+              87,
+              "SocialResearch_SCENE_FriendList_Await_Rank"
+            ],
+            [
+              115,
+              "SocialResearch_SCENE_FriendApproval_Rank"
+            ]
+          ],
+          8828
+        ],
+        [
+          [
+            [
+              44,
+              "SocialResearch_SCENE_TutorialPopup_Title"
+            ],
+            [
+              159,
+              "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_Rank_Value"
+            ],
+            [
+              169,
+              "SocialResearch_SCENE_TOP_Feed_Heading_1"
+            ]
+          ],
+          8987
+        ],
+        [
+          [
+            [
+              50,
+              "SocialResearch_SCENE_RewardDialog_Title"
+            ],
+            [
+              170,
+              "SocialResearch_SCENE_TOP_Feed_Heading_2"
+            ],
+            [
+              204,
+              "SocialResearch_SCENE_FacebookUnlinkedConfirmPopup_Button"
+            ]
+          ],
+          9136
+        ],
+        [
+          [
+            [
+              23,
+              "SocialResearch_SCENE_CodeChange_Dialog_Text"
+            ],
+            [
+              77,
+              "SocialResearch_SCENE_FriendList_Friend_Sort"
+            ],
+            [
+              121,
+              "SocialResearch_SCENE_FriendApproval_Info1_Value"
+            ]
+          ],
+          9284
+        ],
+        [
+          [
+            [
+              194,
+              "SocialResearch_SCENE_FriendshipPointUpPopup_Title"
+            ]
+          ],
+          9338
+        ],
+        [
+          [
+            [
+              101,
+              "SocialResearch_SCENE_FriendDetail_Info1_Hidden"
+            ]
+          ],
+          9389
+        ],
+        [
+          [],
+          9389
+        ],
+        [
+          [],
+          9389
+        ],
+        [
+          [
+            [
+              5,
+              "SocialResearch_SCENE_TOP_Feed_FriendName"
+            ],
+            [
+              90,
+              "SocialResearch_SCENE_FriendList_Await_FriendshipPoint"
+            ],
+            [
+              112,
+              "SocialResearch_SCENE_FriendDetail_Button"
+            ]
+          ],
+          9537
+        ],
+        [
+          [
+            [
+              15,
+              "SocialResearch_SCENE_AddFriend_EnterCode_Button"
+            ],
+            [
+              33,
+              "SocialResearch_SCENE_Option_item_1"
+            ]
+          ],
+          9628
+        ],
+        [
+          [
+            [
+              1,
+              "SocialResearch_SCENE_Top_LockedActivityMessage"
+            ],
+            [
+              34,
+              "SocialResearch_SCENE_Option_item_2"
+            ],
+            [
+              75,
+              "SocialResearch_SCENE_FriendList_Tab_1"
+            ],
+            [
+              94,
+              "SocialResearch_SCENE_FriendDetail_Rank"
+            ],
+            [
+              96,
+              "SocialResearch_SCENE_FriendDetail_FriendshipPoint"
+            ],
+            [
+              131,
+              "SocialResearch_SCENE_FriendApproval_Info5_Value"
+            ]
+          ],
+          9909
+        ],
+        [
+          [
+            [
+              35,
+              "SocialResearch_SCENE_Option_item_3"
+            ],
+            [
+              55,
+              "SocialResearch_SCENE_TOP_Score"
+            ],
+            [
+              76,
+              "SocialResearch_SCENE_FriendList_Tab_2"
+            ]
+          ],
+          10025
+        ],
+        [
+          [
+            [
+              0,
+              "SocialResearch_SCENE_Top_NoActivityMessage"
+            ],
+            [
+              10,
+              "SocialResearch_SCENE_AddFriend_ResearcherCode_Copy"
+            ],
+            [
+              36,
+              "SocialResearch_SCENE_Option_item_4"
+            ]
+          ],
+          10166
+        ],
+        [
+          [
+            [
+              37,
+              "SocialResearch_SCENE_Option_item_5"
+            ],
+            [
+              202,
+              "SocialResearch_SCENE_FacebookUnlinkedConfirmPopup_Title"
+            ]
+          ],
+          10265
+        ],
+        [
+          [
+            [
+              20,
+              "SocialResearch_SCENE_AddFriend_Add_Button_3_a"
+            ]
+          ],
+          10315
+        ],
+        [
+          [
+            [
+              21,
+              "SocialResearch_SCENE_AddFriend_Add_Button_3_b"
+            ],
+            [
+              68,
+              "SocialResearch_SCENE_FBAddFriend_Dialog_Rank_Value"
+            ],
+            [
+              107,
+              "SocialResearch_SCENE_FriendDetail_Info4_Value"
+            ],
+            [
+              151,
+              "SocialResearch_SCENE_FriendResearchDetail_Score_Hidden"
+            ],
+            [
+              152,
+              "SocialResearch_SCENE_FriendResearchDetail_Title_PokemonRank"
+            ],
+            [
+              162,
+              "SocialResearch_SCENE_UpdateDialog_Text"
+            ],
+            [
+              207,
+              "SocialResearch_SCENE_NoAcceptionCamera_Text"
+            ]
+          ],
+          10684
+        ],
+        [
+          [
+            [
+              9,
+              "SocialResearch_SCENE_AddFriend_ResearcherCode_Share"
+            ],
+            [
+              65,
+              "SocialResearch_SCENE_FBAddFriend_Dialog_Title"
+            ],
+            [
+              98,
+              "SocialResearch_SCENE_FriendDetail_Heading_1"
+            ]
+          ],
+          10838
+        ],
+        [
+          [
+            [
+              81,
+              "SocialResearch_SCENE_FriendList_Friend_Rank_Value"
+            ],
+            [
+              111,
+              "SocialResearch_SCENE_FriendDetail_Heading_2"
+            ],
+            [
+              177,
+              "SocialResearch_SCENE_FriendRequest_ErrorDialog_AlreadyRequestGet"
+            ]
+          ],
+          11009
+        ],
+        [
+          [
+            [
+              150,
+              "SocialResearch_SCENE_FriendResearchDetail_Score"
+            ]
+          ],
+          11061
+        ],
+        [
+          [
+            [
+              157,
+              "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_Leader"
+            ]
+          ],
+          11127
+        ],
+        [
+          [
+            [
+              62,
+              "SocialResearch_SCENE_AddFriend_Dialog_FriendName"
+            ],
+            [
+              83,
+              "SocialResearch_SCENE_FriendList_Friend_FriendshipPoint"
+            ],
+            [
+              146,
+              "SocialResearch_SCENE_FriendResearchDetail_Power_Value"
+            ],
+            [
+              158,
+              "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_Rank"
+            ],
+            [
+              187,
+              "SocialResearch_SCENE_Approval_DeleteConfirmDialog_Title"
+            ]
+          ],
+          11421
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 210,
+        "size": 11604,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

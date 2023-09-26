@@ -1,0 +1,247 @@
+{
+  "strings": {
+    "PokemonChangeConfirmPopup_Text_1": [
+      "Rimuovi"
+    ],
+    "PokemonChangeConfirmPopup_Text_2": [
+      "Sostituisci"
+    ],
+    "PokemonTeamCellViewTypeToggleButton_Text_1": [
+      "Livello"
+    ],
+    "PokemonTeamCellViewTypeToggleButton_Text_2": [
+      "PR"
+    ],
+    "PokemonTeamFormationSceneController_Text_1": [
+      "Fatto"
+    ],
+    "PokemonTeamFormationSceneController_Text_2": [
+      "La squadra è stata formata!"
+    ],
+    "PokemonTeamFormationSceneController_Text_3": [
+      "Cambia il nome della squadra"
+    ],
+    "PokemonTeamFormationSceneController_Text_4": [
+      "Errore"
+    ],
+    "PokemonTeamFormationSceneController_Text_5": [
+      "Devi avere degli aiutanti in squadra!"
+    ],
+    "PokemonTeamFormationSceneController_Text_6": [
+      "Vuoi cambiare?"
+    ],
+    "PokemonTeamFormationSceneController_Text_7": [
+      "Non hai ancora cambiato squadra.\nSe vuoi scegliere questa al posto\ndi quella attuale, tocca l'icona\n\"Scegli questa squadra\"!\n\nVuoi davvero continuare con\nla squadra attuale?"
+    ],
+    "PokemonTeamFormationScene_Content_AutoFormationButton": [
+      "Aiutami\na scegliere!"
+    ],
+    "PokemonTeamFormationScene_Content_ChangeButton": [
+      "Scegli questa squadra"
+    ],
+    "PokemonTeamFormationScene_Content_StatusListButton": [
+      "Info"
+    ],
+    "PokemonTeamFormationScene_Footer_Title": [
+      "Vedi"
+    ],
+    "PokemonTeamFormationScene_Footer_Value": [
+      "Livello"
+    ],
+    "PokemonTeamFormationScene_Header_CurrentTeamTag": [
+      "Squadra attuale"
+    ],
+    "PokemonTeamFormationScene_Header_TeamSPNum": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "PokemonTeamFormationScene_Header_TeamSPTitle": [
+      "PR squadra"
+    ],
+    "PokemonTeamFormationScene_Header_Title": [
+      "Cambia squadra"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 20,
+        "size": 144,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 1026,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "PokemonTeamFormationSceneController_Text_1"
+            ],
+            [
+              9,
+              "PokemonTeamCellViewTypeToggleButton_Text_2"
+            ],
+            [
+              18,
+              "PokemonTeamFormationScene_Header_CurrentTeamTag"
+            ]
+          ],
+          234
+        ],
+        [
+          [
+            [
+              4,
+              "PokemonTeamFormationSceneController_Text_2"
+            ],
+            [
+              17,
+              "PokemonTeamFormationScene_Footer_Value"
+            ]
+          ],
+          324
+        ],
+        [
+          [
+            [
+              5,
+              "PokemonTeamFormationSceneController_Text_3"
+            ],
+            [
+              10,
+              "PokemonTeamFormationScene_Content_StatusListButton"
+            ]
+          ],
+          426
+        ],
+        [
+          [
+            [
+              1,
+              "PokemonTeamFormationSceneController_Text_4"
+            ]
+          ],
+          473
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonTeamFormationSceneController_Text_5"
+            ],
+            [
+              15,
+              "PokemonTeamFormationScene_Header_TeamSPNum"
+            ]
+          ],
+          567
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonTeamFormationSceneController_Text_6"
+            ],
+            [
+              11,
+              "PokemonTeamFormationScene_Content_AutoFormationButton"
+            ],
+            [
+              13,
+              "PokemonTeamFormationScene_Header_Title"
+            ]
+          ],
+          715
+        ],
+        [
+          [
+            [
+              14,
+              "PokemonTeamFormationScene_Header_TeamSPTitle"
+            ],
+            [
+              19,
+              "PokemonTeamFormationSceneController_Text_7"
+            ]
+          ],
+          811
+        ],
+        [
+          [
+            [
+              6,
+              "PokemonChangeConfirmPopup_Text_1"
+            ]
+          ],
+          848
+        ],
+        [
+          [
+            [
+              7,
+              "PokemonChangeConfirmPopup_Text_2"
+            ]
+          ],
+          885
+        ],
+        [
+          [
+            [
+              16,
+              "PokemonTeamFormationScene_Footer_Title"
+            ]
+          ],
+          928
+        ],
+        [
+          [
+            [
+              8,
+              "PokemonTeamCellViewTypeToggleButton_Text_1"
+            ],
+            [
+              12,
+              "PokemonTeamFormationScene_Content_ChangeButton"
+            ]
+          ],
+          1026
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 20,
+        "size": 956,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,1743 @@
+{
+  "strings": {
+    "GPPAlarmSoundSelectPopup_Desc": [
+      "設定したBGMで音が鳴ります"
+    ],
+    "GPPAlarmSoundSelectPopup_HeadlineTitle": [
+      "起床アラーム音"
+    ],
+    "GPPAlarmSoundSelectPopup_Title": [
+      "アラーム音"
+    ],
+    "GPPAnalyzeStoppedPopup_Desc": [
+      "睡眠計測がなんらかの理由で\n途中で停止しました\n睡眠リサーチには\n途中までの計測データが使用されます"
+    ],
+    "GPPAnalyzeStoppedPopup_Desc_Nodata": [
+      "睡眠計測がなんらかの理由で\n途中で停止しました"
+    ],
+    "GPPAutoConnectOffPopup_Desc": [
+      "次回からPokémon GO Plus +との通信を\n開始するには、Pokémon GO Plus +の\nメインボタンを押す必要があります\nまた、Pokémon GO Plus +の睡眠データを\nPokémon Sleepに同期するには\n通信が必要となりますので、ご注意ください"
+    ],
+    "GPPAutoConnectOffPopup_Title_2": [
+      "自動通信がOFFになりました"
+    ],
+    "GPPAutoConnectOnPopup_Desc": [
+      "次回からPokémon GO Plus +との通信は、\n自動で行われるようになりました\nPokémon GO Plus +に貯まった睡眠データは\nPokémon Sleepに自動で同期されます"
+    ],
+    "GPPAutoConnectOnPopup_Title_2": [
+      "自動通信がONになりました"
+    ],
+    "GPPConnectionErrorPopup_Desc": [
+      "Pokémon GO Plus +が見つかりません\nデバイスが近くにあり、\n\u000e",
+      "\u0003\u0004毿Ｗ睡眠計測状態ではない \u000e",
+      "\u0003\u0004",
+      "＀事を\n確認してください"
+    ],
+    "GPPConnectionErrorPopup_HelpButton": [
+      "通信がうまくいかない場合"
+    ],
+    "GPPConnectionErrorPopup_Title": [
+      "接続エラー"
+    ],
+    "GPPConnectionModal_Text_1": [
+      "Pokémon GO Plus +\nに接続しています…"
+    ],
+    "GPPConnectionModal_Text_2": [
+      "Pokémon GO Plus +\nに睡眠データが見つかりました！"
+    ],
+    "GPPConnectionModal_Text_3": [
+      "新しい睡眠データは\nありませんでした"
+    ],
+    "GPPConnectionModal_Text_4": [
+      "あとで報告が残っています"
+    ],
+    "GPPConnectionModal_Text_5": [
+      "メンテナンス中に計測した\n睡眠データが残っています"
+    ],
+    "GPPConnectionModal_Text_6": [
+      "ポケモンボックスがいっぱいです\nボックスを整理したあとに\n睡眠リサーチを開始しましょう"
+    ],
+    "GPPDataBrokenPopup_Desc": [
+      "Pokémon GO Plus +がアプリに\n同期されないまま何度か電池切れになったり、\nリセットボタンが押されることで、\n睡眠データが破損しました\n\u000e",
+      "\u0003\u0004毿Ｗ該当する計測データは破棄されました\n\n\u000e",
+      "\u0003\u0004",
+      "＀長期間使用しない場合は、\nこまめに睡眠データを同期してください"
+    ],
+    "GPPLoader_Message": [
+      "Pokémon GO Plus +を検索中…"
+    ],
+    "GPPLowBatteryPopup_Desc": [
+      "Pokémon GO Plus +の\nバッテリーが少なくなっています"
+    ],
+    "GPPLowBatteryPopup_Desc_2": [
+      "( オプションから変更できます )"
+    ],
+    "GPPLowBatteryPopup_Title": [
+      "バッテリー残量低下"
+    ],
+    "GPPLowBatteryPopup_Title_2": [
+      "今後この警告を表示しない"
+    ],
+    "GPPMinuteSettingPopup_Text_2": [
+      "\u000e\t",
+      "\n\u0006mmm",
+      ""
+    ],
+    "GPPMinuteSettingPopup_Title": [
+      "起床アラーム時刻"
+    ],
+    "GPPOptionPopup_Desc_AutoConnect_1": [
+      "Pokémon GO Plus +がPokémon Sleepと\n自動的に通信する機能です。\nPokémon GO Plus +のボタンを押さなくても\n睡眠データが自動的にPokémon Sleepへ反映されます。"
+    ],
+    "GPPOptionPopup_Desc_AutoConnect_2": [
+      "飛行機や病院へ持ち込む場合など、\n通信を止める必要があるときには、設定をOFFにしてください"
+    ],
+    "GPPOptionPopup_Desc_LowBattery": [
+      "Pokémon GO Plus +のバッテリーが少なくなったときに\n警告ポップアップを表示します"
+    ],
+    "GPPOptionPopup_Desc_SilentMode": [
+      "Pokémon GO Plus +がマナーモードのときに\n警告ポップアップを表示します"
+    ],
+    "GPPOptionPopup_OKButton": [
+      "保存する"
+    ],
+    "GPPOptionPopup_Title": [
+      "オプション設定"
+    ],
+    "GPPOptionPopup_Title_2": [
+      "GO Plus +と自動的に通信する"
+    ],
+    "GPPOptionPopup_Title_3": [
+      "バッテリー残量低下のお知らせ"
+    ],
+    "GPPOptionPopup_Title_4": [
+      "マナーモードのお知らせ"
+    ],
+    "GPPPairingAndDescPopup_Desc": [
+      "\u000e",
+      "\u0003\u0004쨗ｎPokémon GO Plus + \u000e",
+      "\u0003\u0004",
+      "＀とはスマートフォンを\n使わずに睡眠計測ができるデバイスです"
+    ],
+    "GPPPairingAndDescPopup_DescView_1": [
+      "\u000e",
+      "\u0003\u0004쨗ｎPokémon Sleep \u000e",
+      "\u0003\u0004",
+      "＀と連携すると、特別な\nピカチュウがおてつだいをしてくれます"
+    ],
+    "GPPPairingAndDescPopup_DescView_2": [
+      "\u000e",
+      "\u0003\u0004쨗ｎPokémon GO \u000e",
+      "\u0003\u0004",
+      "＀など他のアプリとも\n連携でき、便利な機能が利用できます"
+    ],
+    "GPPPairingAndDescPopup_OKButton": [
+      "連携する"
+    ],
+    "GPPPairingAndDescPopup_ProductPageButton": [
+      "商品ページへ"
+    ],
+    "GPPPikachuStatusPopup_Desc": [
+      "一定時間ごとにおてつだいを手伝ってくれる\n特別なピカチュウです\nPokémon GO Plus + を使って\n睡眠するとなつき度が上がります"
+    ],
+    "GPPPikachuStatusPopup_HeadlineTitle": [
+      "おてつだい能力"
+    ],
+    "GPPPikachuStatusPopup_LockedBg": [
+      "Lv.\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "GPPPikachuStatusPopup_Title": [
+      "ステータス"
+    ],
+    "GPPPikachuStatusPopup_Title_2": [
+      "きのみ"
+    ],
+    "GPPPikachuStatusPopup_Title_3": [
+      "食材"
+    ],
+    "GPPPikachuStatusPopup_Title_4": [
+      "おてつだい時間"
+    ],
+    "GPPSceneController_Text_1": [
+      "Pokémon GO Plus +で睡眠計測開始の\nアクションを検知しました。\nPokémon GO Plus +とアプリが\n通信している間は睡眠計測が開始できません\nこの画面から移動して、通信を終了してから\n睡眠計測を開始してください"
+    ],
+    "GPPSceneController_Text_2": [
+      "Pokémon GO Plus +がマナーモードに\nなっています。再生テストを行う場合は\nサブボタンを押しながらメインボタンを\n1秒以上押し続けてマナーモードを\n解除してください"
+    ],
+    "GPPSceneController_Text_3": [
+      "Bluetoothが利用できません\n端末の設定をご確認いただき\nBluetoothをオンにしてやり直してください"
+    ],
+    "GPPSceneController_Text_4": [
+      "Pokémon GO Plus +との\n接続が切断されました"
+    ],
+    "GPPSceneMorningView_Text_1": [
+      "睡眠計測中に設定した時刻になるとアラーム音が鳴ります"
+    ],
+    "GPPSceneMorningView_Text_10": [
+      "めざましアラーム"
+    ],
+    "GPPSceneMorningView_Text_2": [
+      "起床時刻の設定"
+    ],
+    "GPPSceneMorningView_Text_3": [
+      "起床アラーム音量"
+    ],
+    "GPPSceneMorningView_Text_4": [
+      "起床アラーム音"
+    ],
+    "GPPSceneMorningView_Text_9": [
+      "ピカチュウボイス"
+    ],
+    "GPPSceneNightView_Text_1": [
+      "設定するとその時間にPokémon GO Plus +から通知を送ります"
+    ],
+    "GPPSceneNightView_Text_10": [
+      "子守唄1"
+    ],
+    "GPPSceneNightView_Text_11": [
+      "子守唄2"
+    ],
+    "GPPSceneNightView_Text_2": [
+      "ベッドタイム通知時刻の設定"
+    ],
+    "GPPSceneNightView_Text_3": [
+      "就寝アラーム音量"
+    ],
+    "GPPSceneNightView_Text_4": [
+      "就寝アラーム音"
+    ],
+    "GPPSceneNightView_Text_5": [
+      "子守唄音量"
+    ],
+    "GPPSceneNightView_Text_6": [
+      "子守唄"
+    ],
+    "GPPSceneNightView_Text_7": [
+      "ピカチュウボイス"
+    ],
+    "GPPSceneNightView_Text_8": [
+      "子守唄1"
+    ],
+    "GPPSceneNightView_Text_9": [
+      "子守唄2"
+    ],
+    "GPPSceneTopView_Text_2": [
+      "OFF"
+    ],
+    "GPPSceneTopView_Text_5": [
+      "なつき度アップ"
+    ],
+    "GPPSceneTopView_Text_6": [
+      "なつき度があがりました！"
+    ],
+    "GPPScene_HelpPopup_Button": [
+      "サイトへ"
+    ],
+    "GPPScene_HelpPopup_Text": [
+      "Pokémon GO Plus +の\n詳しい使い方が分かる\n公式サイトを開きます\n\nよろしいですか？"
+    ],
+    "GPPScene_HelpPopup_Title": [
+      "使い方"
+    ],
+    "GPPScene_NightSettingView_Desc": [
+      "設定した時間にPokémon GO Plus +から通知を送ります"
+    ],
+    "GPPScene_NightSettingView_Desc_2": [
+      "睡眠計測開始時に音声が再生されます"
+    ],
+    "GPPScene_NightSettingView_Title": [
+      "就寝の設定"
+    ],
+    "GPPScene_NightSettingView_Title_2": [
+      "ベッドタイム通知"
+    ],
+    "GPPScene_NightSettingView_Title_3": [
+      "通知時刻"
+    ],
+    "GPPScene_NightSettingView_Title_4": [
+      "通知音"
+    ],
+    "GPPScene_NightSettingView_Title_7": [
+      "睡眠導入サウンド"
+    ],
+    "GPPScene_NightSettingView_Title_8": [
+      "通知音"
+    ],
+    "GPPScene_NightSettingView_Title_GPP": [
+      "GO Plus +"
+    ],
+    "GPPScene_NightSettingView_Value": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      ""
+    ],
+    "GPPScene_TopView_Desc": [
+      "各種設定を変更することができます"
+    ],
+    "GPPScene_TopView_Desc_2": [
+      "起床アラーム："
+    ],
+    "GPPScene_TopView_Desc_3": [
+      "ベッドタイム通知："
+    ],
+    "GPPScene_TopView_Desc_4": [
+      "現在の設定 -"
+    ],
+    "GPPScene_TopView_Desc_5": [
+      "GO Plus + での各種記録です"
+    ],
+    "GPPScene_TopView_FriendshipLevel": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "GPPScene_TopView_NextLevelNum": [
+      "\u000e\u0002\u0002\u0002",
+      "時間"
+    ],
+    "GPPScene_TopView_NextLevelTitle": [
+      "あと"
+    ],
+    "GPPScene_TopView_PromiseTime": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      ""
+    ],
+    "GPPScene_TopView_StatusButton": [
+      "ステータス"
+    ],
+    "GPPScene_TopView_Title": [
+      "GO Plus +"
+    ],
+    "GPPScene_TopView_Title_10": [
+      "Pokémon GO で\nポケストップを回した回数"
+    ],
+    "GPPScene_TopView_Title_2": [
+      "なつき度"
+    ],
+    "GPPScene_TopView_Title_3": [
+      "GO Plus + 設定"
+    ],
+    "GPPScene_TopView_Title_4": [
+      "起床について"
+    ],
+    "GPPScene_TopView_Title_5": [
+      "就寝について"
+    ],
+    "GPPScene_TopView_Title_6": [
+      "ねむりの約束"
+    ],
+    "GPPScene_TopView_Title_7": [
+      "見る"
+    ],
+    "GPPScene_TopView_Title_8": [
+      "GO Plus + の記録"
+    ],
+    "GPPScene_TopView_Title_9": [
+      "累計睡眠時間"
+    ],
+    "GPPScene_TopView_Title_small": [
+      "Pokémon"
+    ],
+    "GPPScene_TopView_Value": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      ""
+    ],
+    "GPPScene_TopView_Value_2": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      ""
+    ],
+    "GPPScene_TopView_Value_4": [
+      "\u000e\u0002\t\u0004",
+      "촁時間\u000e\u0002\u0001\u0002\u0001分"
+    ],
+    "GPPScene_TopView_Value_5": [
+      "\u000e\u0002\u0003\u0004",
+      "촁回"
+    ],
+    "GPPScene_TopView_VoiceButton": [
+      "ボイス"
+    ],
+    "GPPScene_WakeSettingView_Desc": [
+      "睡眠計測をしていると設定した時刻にアラームが鳴ります\nスマートアラームをONにすると\n睡眠が浅い状態のときにアラームを鳴らします"
+    ],
+    "GPPScene_WakeSettingView_SmartAlarmTime": [
+      "\u000e\t",
+      "\n\u0006mmm",
+      ""
+    ],
+    "GPPScene_WakeSettingView_Title": [
+      "起床の設定"
+    ],
+    "GPPScene_WakeSettingView_Title_2": [
+      "起床アラーム機能"
+    ],
+    "GPPScene_WakeSettingView_Title_3": [
+      "アラーム時刻"
+    ],
+    "GPPScene_WakeSettingView_Title_4": [
+      "スマートアラーム"
+    ],
+    "GPPScene_WakeSettingView_Title_5": [
+      "スヌーズ"
+    ],
+    "GPPScene_WakeSettingView_Title_6": [
+      "アラーム音"
+    ],
+    "GPPScene_WakeSettingView_Title_7": [
+      "音量"
+    ],
+    "GPPScene_WakeSettingView_Title_8": [
+      "振動"
+    ],
+    "GPPScene_WakeSettingView_Title_GPP": [
+      "GO Plus +"
+    ],
+    "GPPScene_WakeSettingView_Value": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      ""
+    ],
+    "GPPScene_WakeSettingView_Value_3": [
+      "\u000e\t",
+      "\n\u0006mmm",
+      ""
+    ],
+    "GPPScene_WakeSettingView_Vibration_SmallDesc": [
+      "※ 特定のアラーム音のみ"
+    ],
+    "GPPSendSettingErrorPopup_Desc": [
+      "Pokémon GO Plus +に設定を送信できませんでした\nもう一度設定を送信しますか？"
+    ],
+    "GPPSendSettingErrorPopup_HelpButton": [
+      "通信がうまくいかない場合"
+    ],
+    "GPPSendSettingErrorPopup_Title": [
+      "通信エラー"
+    ],
+    "GPPSilentModePopup_Desc": [
+      "Pokémon GO Plus +は\nマナーモードになっています\nアラームなどの音が鳴らないため\nご注意ください"
+    ],
+    "GPPSilentModePopup_Desc_2": [
+      "( オプションから変更できます )"
+    ],
+    "GPPSilentModePopup_Title": [
+      "マナーモード"
+    ],
+    "GPPSilentModePopup_Title_2": [
+      "今後この警告を表示しない"
+    ],
+    "GPPSleepDataErrorCell_Error_DataVersionNotMatch": [
+      "計測された睡眠データのバージョンが古いため\n睡眠リサーチが行えませんでした"
+    ],
+    "GPPSleepDataErrorCell_Text_1": [
+      "計測時間が短すぎるデータが見つかりました。\n睡眠リサーチには1時間30分以上の計測時間が\n必要です。"
+    ],
+    "GPPSleepDataErrorCell_Text_2": [
+      "計測した時刻が\n過去の睡眠データと重複しています。"
+    ],
+    "GPPSleepDataErrorCell_Text_3": [
+      "同じ日に別の睡眠データによって、すでに\n睡眠スコア100点を達成しています。"
+    ],
+    "GPPSleepDataErrorCell_Text_4": [
+      "同じ日に別の睡眠データによって、\nすでに2回の睡眠リサーチが行われています。\n1日に可能な睡眠リサーチは2回までです。"
+    ],
+    "GPPSleepDataErrorCell_Text_5": [
+      "日時・回数不明"
+    ],
+    "GPPSleepDataErrorCell_Text_6": [
+      "\u000e\t",
+      "\"\u001eyyyyyMMMddd_aaa",
+      " \u000e\t",
+      "\u000e\nhh:mm\u0001~\u000e\t",
+      "\u000e\nhh:mm\u0002"
+    ],
+    "GPPSmartAlarmSettingPopup_GPPMinuteSettingCell": [
+      "なし"
+    ],
+    "GPPSmartAlarmSettingPopup_HeadlineDesc": [
+      "設定すると、アラーム時刻より前の時間帯で睡眠が一番浅いときにアラームを鳴らします"
+    ],
+    "GPPSmartAlarmSettingPopup_HeadlineTitle": [
+      "スマートアラーム"
+    ],
+    "GPPSmartAlarmSettingPopup_Title": [
+      "スマートアラーム"
+    ],
+    "GPPSnooseSettingPopup_HeadlineDesc": [
+      "アラームを止めるまで、\n設定した時間の間隔でアラームを再度鳴らします"
+    ],
+    "GPPSnooseSettingPopup_HeadlineTitle": [
+      "スヌーズ"
+    ],
+    "GPPSnooseSettingPopup_Title": [
+      "スヌーズ"
+    ],
+    "GPPSyncSuccessPopup_Desc_1": [
+      "睡眠リサーチを開始します"
+    ],
+    "GPPSyncSuccessPopup_Desc_2": [
+      "Pokémon GO Plus +で\n睡眠データが見つかりました"
+    ],
+    "GPPSyncSuccessPopup_Title": [
+      "睡眠データを発見"
+    ],
+    "GPPTimeSettingPopup_HeadlineDesc": [
+      "睡眠計測中に設定した時刻になるとアラーム音が鳴ります"
+    ],
+    "GPPTimeSettingPopup_HeadlineTitle": [
+      "起床アラーム時刻"
+    ],
+    "GPPTimeSettingPopup_Title": [
+      "アラーム時刻"
+    ],
+    "GPPUnregisteredPopup_Text_1": [
+      "使用していたPokémon GO Plus +が\n初期化されています\nPokémon Sleepから登録が解除されました\n\n引き続きご利用の場合、\n「メインメニュー > サブメニュー」内の\n「デバイスの登録」から登録を行ってください"
+    ],
+    "GPPUnregisteredPopup_Text_2": [
+      "使用していたPokémon GO Plus +が\n別のデバイスに登録され、\nこのデバイスから登録が解除されました\n\n引き続きご利用の場合、\n「メインメニュー > サブメニュー」内の\n「デバイスの登録」から登録を行ってください"
+    ],
+    "GPPUnreportedPopup_Desc": [
+      "「未報告の睡眠リサーチ」が残っているので\nPokémon GO Plus +のデータが取得できません\n先にホーム画面から睡眠リサーチの報告を\n行ってください"
+    ],
+    "GPPUnreportedPopup_OKButton": [
+      "ホームへ"
+    ],
+    "GPPVoiceListPopup_Desc": [
+      "選択したピカチュウのボイスを\nGO Plus + で再生することができます"
+    ],
+    "GPPVoiceListPopup_HeadlineDesc": [
+      "なつき度が上がることで新しいボイスがランダムで\n解放されます"
+    ],
+    "GPPVoiceListPopup_HeadlineDesc_2": [
+      "ある条件を満たすと聴くことができる特別なボイスです\nGO Plus +で一度聴くと、ここから再生ができます"
+    ],
+    "GPPVoiceListPopup_HeadlineTitle": [
+      "ノーマルボイス"
+    ],
+    "GPPVoiceListPopup_HeadlineTitle_2": [
+      "スペシャルボイス"
+    ],
+    "GPPVoiceListPopup_Name_2": [
+      "???"
+    ],
+    "GPPVoiceListPopup_Title": [
+      "ピカチュウボイス一覧"
+    ],
+    "GPPVoicePlayPopup_Desc": [
+      "をPokémon GO Plus +で再生します"
+    ],
+    "GPPVoicePlayPopup_PlayButtonText": [
+      "再生"
+    ],
+    "GPPVoicePlayPopup_Text_1": [
+      "再生"
+    ],
+    "GPPVoicePlayPopup_Text_2": [
+      "停止"
+    ],
+    "GPPVoicePlayPopup_Title": [
+      "ボイス再生"
+    ],
+    "GPPVolumeSettingPopup_HeadlineDesc": [
+      "設定した音量で音が鳴ります"
+    ],
+    "GPPVolumeSettingPopup_HeadlineDesc_2": [
+      "上記の音量設定でPokémon GO Plus +から音を鳴らします"
+    ],
+    "GPPVolumeSettingPopup_HeadlineTitle": [
+      "起床アラーム音量"
+    ],
+    "GPPVolumeSettingPopup_HeadlineTitle_2": [
+      "再生テスト"
+    ],
+    "GPPVolumeSettingPopup_TestPlayButton": [
+      "再生テスト"
+    ],
+    "GPPVolumeSettingPopup_Text_2": [
+      "再生テスト"
+    ],
+    "GPPVolumeSettingPopup_Title": [
+      "音量"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 174,
+        "size": 1222,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 89,
+        "size": 6469,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "GPPSceneController_Text_1"
+            ],
+            [
+              70,
+              "GPPScene_WakeSettingView_Title_2"
+            ],
+            [
+              105,
+              "GPPLowBatteryPopup_Title"
+            ],
+            [
+              117,
+              "GPPOptionPopup_Desc_SilentMode"
+            ],
+            [
+              166,
+              "GPPVolumeSettingPopup_HeadlineTitle_2"
+            ]
+          ],
+          885
+        ],
+        [
+          [
+            [
+              1,
+              "GPPSceneController_Text_2"
+            ],
+            [
+              72,
+              "GPPScene_WakeSettingView_Title_3"
+            ]
+          ],
+          952
+        ],
+        [
+          [
+            [
+              2,
+              "GPPSceneController_Text_3"
+            ],
+            [
+              74,
+              "GPPScene_WakeSettingView_Title_4"
+            ]
+          ],
+          1019
+        ],
+        [
+          [
+            [
+              3,
+              "GPPSceneController_Text_4"
+            ],
+            [
+              76,
+              "GPPScene_WakeSettingView_Title_5"
+            ],
+            [
+              104,
+              "GPPLoader_Message"
+            ]
+          ],
+          1108
+        ],
+        [
+          [
+            [
+              78,
+              "GPPScene_WakeSettingView_Title_6"
+            ],
+            [
+              154,
+              "GPPVoiceListPopup_Desc"
+            ]
+          ],
+          1172
+        ],
+        [
+          [
+            [
+              48,
+              "GPPScene_TopView_NextLevelTitle"
+            ],
+            [
+              79,
+              "GPPScene_WakeSettingView_Title_7"
+            ]
+          ],
+          1245
+        ],
+        [
+          [
+            [
+              80,
+              "GPPScene_WakeSettingView_Title_8"
+            ],
+            [
+              100,
+              "GPPConnectionErrorPopup_Title"
+            ]
+          ],
+          1316
+        ],
+        [
+          [
+            [
+              66,
+              "GPPScene_TopView_Title_10"
+            ]
+          ],
+          1346
+        ],
+        [
+          [],
+          1346
+        ],
+        [
+          [],
+          1346
+        ],
+        [
+          [
+            [
+              132,
+              "GPPSendSettingErrorPopup_Desc"
+            ]
+          ],
+          1380
+        ],
+        [
+          [
+            [
+              82,
+              "GPPScene_NightSettingView_Title"
+            ]
+          ],
+          1416
+        ],
+        [
+          [
+            [
+              4,
+              "GPPConnectionModal_Text_1"
+            ],
+            [
+              160,
+              "GPPVoicePlayPopup_Title"
+            ]
+          ],
+          1474
+        ],
+        [
+          [
+            [
+              5,
+              "GPPConnectionModal_Text_2"
+            ],
+            [
+              99,
+              "GPPAutoConnectOnPopup_Desc"
+            ],
+            [
+              146,
+              "GPPSyncSuccessPopup_Desc_1"
+            ]
+          ],
+          1566
+        ],
+        [
+          [
+            [
+              6,
+              "GPPConnectionModal_Text_3"
+            ],
+            [
+              60,
+              "GPPScene_TopView_PromiseTime"
+            ],
+            [
+              147,
+              "GPPSyncSuccessPopup_Desc_2"
+            ],
+            [
+              151,
+              "GPPUnreportedPopup_Desc"
+            ]
+          ],
+          1688
+        ],
+        [
+          [
+            [
+              7,
+              "GPPConnectionModal_Text_4"
+            ],
+            [
+              68,
+              "GPPScene_WakeSettingView_Title_GPP"
+            ],
+            [
+              81,
+              "GPPScene_NightSettingView_Title_GPP"
+            ]
+          ],
+          1797
+        ],
+        [
+          [
+            [
+              8,
+              "GPPConnectionModal_Text_5"
+            ],
+            [
+              28,
+              "GPPSceneTopView_Text_2"
+            ],
+            [
+              102,
+              "GPPConnectionErrorPopup_HelpButton"
+            ],
+            [
+              124,
+              "GPPPikachuStatusPopup_Title"
+            ],
+            [
+              144,
+              "GPPSnooseSettingPopup_HeadlineDesc"
+            ]
+          ],
+          1964
+        ],
+        [
+          [
+            [
+              9,
+              "GPPConnectionModal_Text_6"
+            ],
+            [
+              122,
+              "GPPPairingAndDescPopup_ProductPageButton"
+            ]
+          ],
+          2039
+        ],
+        [
+          [
+            [
+              16,
+              "GPPSceneMorningView_Text_10"
+            ]
+          ],
+          2071
+        ],
+        [
+          [
+            [
+              29,
+              "GPPSceneTopView_Text_5"
+            ],
+            [
+              98,
+              "GPPAutoConnectOnPopup_Title_2"
+            ],
+            [
+              111,
+              "GPPOptionPopup_Title_2"
+            ]
+          ],
+          2159
+        ],
+        [
+          [
+            [
+              30,
+              "GPPSceneTopView_Text_6"
+            ],
+            [
+              114,
+              "GPPOptionPopup_Title_3"
+            ],
+            [
+              139,
+              "GPPSmartAlarmSettingPopup_HeadlineTitle"
+            ],
+            [
+              170,
+              "GPPScene_WakeSettingView_Vibration_SmallDesc"
+            ]
+          ],
+          2306
+        ],
+        [
+          [
+            [
+              116,
+              "GPPOptionPopup_Title_4"
+            ],
+            [
+              135,
+              "GPPSilentModePopup_Desc"
+            ]
+          ],
+          2361
+        ],
+        [
+          [
+            [
+              83,
+              "GPPScene_NightSettingView_Title_2"
+            ],
+            [
+              131,
+              "GPPSendSettingErrorPopup_Title"
+            ]
+          ],
+          2434
+        ],
+        [
+          [
+            [
+              85,
+              "GPPScene_NightSettingView_Title_3"
+            ]
+          ],
+          2472
+        ],
+        [
+          [
+            [
+              46,
+              "GPPScene_TopView_FriendshipLevel"
+            ],
+            [
+              87,
+              "GPPScene_NightSettingView_Title_4"
+            ],
+            [
+              95,
+              "GPPAnalyzeStoppedPopup_Desc_Nodata"
+            ],
+            [
+              97,
+              "GPPAutoConnectOffPopup_Desc"
+            ],
+            [
+              143,
+              "GPPSnooseSettingPopup_HeadlineTitle"
+            ]
+          ],
+          2658
+        ],
+        [
+          [],
+          2658
+        ],
+        [
+          [
+            [
+              142,
+              "GPPSnooseSettingPopup_Title"
+            ]
+          ],
+          2690
+        ],
+        [
+          [
+            [
+              88,
+              "GPPScene_NightSettingView_Title_7"
+            ],
+            [
+              168,
+              "GPPVolumeSettingPopup_TestPlayButton"
+            ]
+          ],
+          2769
+        ],
+        [
+          [
+            [
+              90,
+              "GPPScene_NightSettingView_Title_8"
+            ]
+          ],
+          2807
+        ],
+        [
+          [
+            [
+              107,
+              "GPPLowBatteryPopup_Title_2"
+            ]
+          ],
+          2838
+        ],
+        [
+          [],
+          2838
+        ],
+        [
+          [
+            [
+              77,
+              "GPPScene_WakeSettingView_Value_3"
+            ]
+          ],
+          2875
+        ],
+        [
+          [
+            [
+              155,
+              "GPPVoiceListPopup_HeadlineTitle"
+            ]
+          ],
+          2911
+        ],
+        [
+          [
+            [
+              93,
+              "GPPAlarmSoundSelectPopup_Desc"
+            ]
+          ],
+          2945
+        ],
+        [
+          [],
+          2945
+        ],
+        [
+          [
+            [
+              45,
+              "GPPScene_TopView_VoiceButton"
+            ],
+            [
+              47,
+              "GPPScene_TopView_Title_2"
+            ]
+          ],
+          3007
+        ],
+        [
+          [
+            [
+              50,
+              "GPPScene_TopView_Title_3"
+            ]
+          ],
+          3036
+        ],
+        [
+          [
+            [
+              41,
+              "GPPVolumeSettingPopup_Text_2"
+            ],
+            [
+              44,
+              "GPPScene_TopView_StatusButton"
+            ],
+            [
+              52,
+              "GPPScene_TopView_Title_4"
+            ]
+          ],
+          3132
+        ],
+        [
+          [
+            [
+              55,
+              "GPPScene_TopView_Title_5"
+            ]
+          ],
+          3161
+        ],
+        [
+          [
+            [
+              58,
+              "GPPScene_TopView_Title_6"
+            ],
+            [
+              119,
+              "GPPPairingAndDescPopup_Desc"
+            ],
+            [
+              120,
+              "GPPPairingAndDescPopup_DescView_1"
+            ]
+          ],
+          3260
+        ],
+        [
+          [
+            [
+              61,
+              "GPPScene_TopView_Title_7"
+            ],
+            [
+              121,
+              "GPPPairingAndDescPopup_DescView_2"
+            ]
+          ],
+          3327
+        ],
+        [
+          [
+            [
+              62,
+              "GPPScene_TopView_Title_8"
+            ]
+          ],
+          3356
+        ],
+        [
+          [
+            [
+              64,
+              "GPPScene_TopView_Title_9"
+            ]
+          ],
+          3385
+        ],
+        [
+          [
+            [
+              136,
+              "GPPSilentModePopup_Title_2"
+            ]
+          ],
+          3416
+        ],
+        [
+          [
+            [
+              171,
+              "GPPScene_HelpPopup_Title"
+            ]
+          ],
+          3445
+        ],
+        [
+          [],
+          3445
+        ],
+        [
+          [
+            [
+              94,
+              "GPPAnalyzeStoppedPopup_Desc"
+            ]
+          ],
+          3477
+        ],
+        [
+          [],
+          3477
+        ],
+        [
+          [
+            [
+              110,
+              "GPPOptionPopup_Title"
+            ],
+            [
+              150,
+              "GPPTimeSettingPopup_HeadlineDesc"
+            ],
+            [
+              169,
+              "GPPSleepDataErrorCell_Error_DataVersionNotMatch"
+            ],
+            [
+              173,
+              "GPPScene_HelpPopup_Button"
+            ]
+          ],
+          3621
+        ],
+        [
+          [
+            [
+              71,
+              "GPPScene_WakeSettingView_Desc"
+            ]
+          ],
+          3655
+        ],
+        [
+          [
+            [
+              39,
+              "GPPVoicePlayPopup_Text_1"
+            ],
+            [
+              51,
+              "GPPScene_TopView_Desc"
+            ],
+            [
+              75,
+              "GPPScene_WakeSettingView_SmartAlarmTime"
+            ],
+            [
+              112,
+              "GPPOptionPopup_Desc_AutoConnect_1"
+            ],
+            [
+              153,
+              "GPPVoiceListPopup_Title"
+            ]
+          ],
+          3820
+        ],
+        [
+          [
+            [
+              40,
+              "GPPVoicePlayPopup_Text_2"
+            ],
+            [
+              113,
+              "GPPOptionPopup_Desc_AutoConnect_2"
+            ],
+            [
+              161,
+              "GPPVoicePlayPopup_Desc"
+            ]
+          ],
+          3914
+        ],
+        [
+          [],
+          3914
+        ],
+        [
+          [
+            [
+              69,
+              "GPPScene_WakeSettingView_Title"
+            ]
+          ],
+          3949
+        ],
+        [
+          [
+            [
+              157,
+              "GPPVoiceListPopup_Name_2"
+            ],
+            [
+              163,
+              "GPPVolumeSettingPopup_Title"
+            ]
+          ],
+          4010
+        ],
+        [
+          [],
+          4010
+        ],
+        [
+          [
+            [
+              91,
+              "GPPAlarmSoundSelectPopup_Title"
+            ]
+          ],
+          4045
+        ],
+        [
+          [
+            [
+              53,
+              "GPPScene_TopView_Desc_2"
+            ],
+            [
+              127,
+              "GPPPikachuStatusPopup_Title_2"
+            ],
+            [
+              145,
+              "GPPSyncSuccessPopup_Title"
+            ],
+            [
+              159,
+              "GPPVoiceListPopup_HeadlineDesc_2"
+            ]
+          ],
+          4174
+        ],
+        [
+          [
+            [
+              56,
+              "GPPScene_TopView_Desc_3"
+            ],
+            [
+              128,
+              "GPPPikachuStatusPopup_Title_3"
+            ]
+          ],
+          4236
+        ],
+        [
+          [
+            [
+              59,
+              "GPPScene_TopView_Desc_4"
+            ],
+            [
+              130,
+              "GPPPikachuStatusPopup_Title_4"
+            ],
+            [
+              165,
+              "GPPVolumeSettingPopup_HeadlineDesc"
+            ]
+          ],
+          4337
+        ],
+        [
+          [
+            [
+              63,
+              "GPPScene_TopView_Desc_5"
+            ],
+            [
+              73,
+              "GPPScene_WakeSettingView_Value"
+            ],
+            [
+              92,
+              "GPPAlarmSoundSelectPopup_HeadlineTitle"
+            ]
+          ],
+          4443
+        ],
+        [
+          [
+            [
+              137,
+              "GPPSilentModePopup_Desc_2"
+            ]
+          ],
+          4473
+        ],
+        [
+          [
+            [
+              31,
+              "GPPSleepDataErrorCell_Text_1"
+            ],
+            [
+              86,
+              "GPPScene_NightSettingView_Value"
+            ],
+            [
+              103,
+              "GPPDataBrokenPopup_Desc"
+            ],
+            [
+              129,
+              "GPPPikachuStatusPopup_LockedBg"
+            ],
+            [
+              158,
+              "GPPVoiceListPopup_HeadlineTitle_2"
+            ]
+          ],
+          4643
+        ],
+        [
+          [
+            [
+              32,
+              "GPPSleepDataErrorCell_Text_2"
+            ],
+            [
+              106,
+              "GPPLowBatteryPopup_Desc"
+            ]
+          ],
+          4704
+        ],
+        [
+          [
+            [
+              33,
+              "GPPSleepDataErrorCell_Text_3"
+            ],
+            [
+              123,
+              "GPPPairingAndDescPopup_OKButton"
+            ],
+            [
+              141,
+              "GPPSmartAlarmSettingPopup_GPPMinuteSettingCell"
+            ]
+          ],
+          4824
+        ],
+        [
+          [
+            [
+              34,
+              "GPPSleepDataErrorCell_Text_4"
+            ],
+            [
+              57,
+              "GPPScene_TopView_Value_2"
+            ],
+            [
+              89,
+              "GPPScene_NightSettingView_Desc_2"
+            ]
+          ],
+          4923
+        ],
+        [
+          [
+            [
+              35,
+              "GPPSleepDataErrorCell_Text_5"
+            ],
+            [
+              149,
+              "GPPTimeSettingPopup_HeadlineTitle"
+            ]
+          ],
+          4994
+        ],
+        [
+          [
+            [
+              36,
+              "GPPSleepDataErrorCell_Text_6"
+            ],
+            [
+              49,
+              "GPPScene_TopView_NextLevelNum"
+            ],
+            [
+              65,
+              "GPPScene_TopView_Value_4"
+            ]
+          ],
+          5090
+        ],
+        [
+          [
+            [
+              67,
+              "GPPScene_TopView_Value_5"
+            ],
+            [
+              96,
+              "GPPAutoConnectOffPopup_Title_2"
+            ],
+            [
+              133,
+              "GPPSendSettingErrorPopup_HelpButton"
+            ]
+          ],
+          5194
+        ],
+        [
+          [
+            [
+              134,
+              "GPPSilentModePopup_Title"
+            ]
+          ],
+          5223
+        ],
+        [
+          [],
+          5223
+        ],
+        [
+          [],
+          5223
+        ],
+        [
+          [
+            [
+              162,
+              "GPPVoicePlayPopup_PlayButtonText"
+            ]
+          ],
+          5260
+        ],
+        [
+          [
+            [
+              37,
+              "GPPUnregisteredPopup_Text_1"
+            ],
+            [
+              42,
+              "GPPScene_TopView_Title_small"
+            ],
+            [
+              167,
+              "GPPVolumeSettingPopup_HeadlineDesc_2"
+            ],
+            [
+              172,
+              "GPPScene_HelpPopup_Text"
+            ]
+          ],
+          5394
+        ],
+        [
+          [
+            [
+              38,
+              "GPPUnregisteredPopup_Text_2"
+            ],
+            [
+              43,
+              "GPPScene_TopView_Title"
+            ],
+            [
+              109,
+              "GPPMinuteSettingPopup_Title"
+            ]
+          ],
+          5485
+        ],
+        [
+          [
+            [
+              126,
+              "GPPPikachuStatusPopup_HeadlineTitle"
+            ],
+            [
+              140,
+              "GPPSmartAlarmSettingPopup_HeadlineDesc"
+            ]
+          ],
+          5568
+        ],
+        [
+          [
+            [
+              11,
+              "GPPSceneMorningView_Text_1"
+            ]
+          ],
+          5599
+        ],
+        [
+          [
+            [
+              12,
+              "GPPSceneMorningView_Text_2"
+            ],
+            [
+              101,
+              "GPPConnectionErrorPopup_Desc"
+            ]
+          ],
+          5663
+        ],
+        [
+          [
+            [
+              13,
+              "GPPSceneMorningView_Text_3"
+            ],
+            [
+              17,
+              "GPPSceneNightView_Text_1"
+            ],
+            [
+              26,
+              "GPPSceneNightView_Text_10"
+            ]
+          ],
+          5753
+        ],
+        [
+          [
+            [
+              14,
+              "GPPSceneMorningView_Text_4"
+            ],
+            [
+              18,
+              "GPPSceneNightView_Text_2"
+            ],
+            [
+              27,
+              "GPPSceneNightView_Text_11"
+            ]
+          ],
+          5843
+        ],
+        [
+          [
+            [
+              19,
+              "GPPSceneNightView_Text_3"
+            ],
+            [
+              115,
+              "GPPOptionPopup_Desc_LowBattery"
+            ]
+          ],
+          5907
+        ],
+        [
+          [
+            [
+              20,
+              "GPPSceneNightView_Text_4"
+            ],
+            [
+              54,
+              "GPPScene_TopView_Value"
+            ],
+            [
+              148,
+              "GPPTimeSettingPopup_Title"
+            ]
+          ],
+          5993
+        ],
+        [
+          [
+            [
+              10,
+              "GPPMinuteSettingPopup_Text_2"
+            ],
+            [
+              21,
+              "GPPSceneNightView_Text_5"
+            ],
+            [
+              152,
+              "GPPUnreportedPopup_OKButton"
+            ]
+          ],
+          6087
+        ],
+        [
+          [
+            [
+              22,
+              "GPPSceneNightView_Text_6"
+            ],
+            [
+              84,
+              "GPPScene_NightSettingView_Desc"
+            ]
+          ],
+          6151
+        ],
+        [
+          [
+            [
+              15,
+              "GPPSceneMorningView_Text_9"
+            ],
+            [
+              23,
+              "GPPSceneNightView_Text_7"
+            ]
+          ],
+          6211
+        ],
+        [
+          [
+            [
+              24,
+              "GPPSceneNightView_Text_8"
+            ]
+          ],
+          6240
+        ],
+        [
+          [
+            [
+              25,
+              "GPPSceneNightView_Text_9"
+            ],
+            [
+              118,
+              "GPPOptionPopup_OKButton"
+            ],
+            [
+              138,
+              "GPPSmartAlarmSettingPopup_Title"
+            ]
+          ],
+          6333
+        ],
+        [
+          [
+            [
+              108,
+              "GPPLowBatteryPopup_Desc_2"
+            ],
+            [
+              125,
+              "GPPPikachuStatusPopup_Desc"
+            ]
+          ],
+          6394
+        ],
+        [
+          [
+            [
+              156,
+              "GPPVoiceListPopup_HeadlineDesc"
+            ],
+            [
+              164,
+              "GPPVolumeSettingPopup_HeadlineTitle"
+            ]
+          ],
+          6469
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 174,
+        "size": 8280,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "strings": {
+    "md_pokemon_main_skills_desc_1": [
+      "カビゴンのエナジーを\u000e\u0002\u0006\u0004",
+      "촁増やす"
+    ],
+    "md_pokemon_main_skills_desc_10": [
+      "ランダムで食材を\u000e\u0002\u0006\u0004",
+      "촁個ゲットする"
+    ],
+    "md_pokemon_main_skills_desc_11": [
+      "次回の料理でなべの容量を\n\u000e\u0002\u0006\u0004",
+      "촁個増やす"
+    ],
+    "md_pokemon_main_skills_desc_12": [
+      "チーム内の\u000e\u0003\u0002\u0002촀タイプの\nポケモンのおてつだいが\u000e\t",
+      "\n\u0006mmm\u0001進む"
+    ],
+    "md_pokemon_main_skills_desc_13": [
+      "すべてのメインスキルの中から\nどれか1つをくりだす"
+    ],
+    "md_pokemon_main_skills_desc_2": [
+      "カビゴンのエナジーを\u000e\u0002\u0006\u0004",
+      "촁増やす"
+    ],
+    "md_pokemon_main_skills_desc_3": [
+      "ゆめのかけら x\u000e\u0002\u0006\u0004",
+      "촁をゲットする"
+    ],
+    "md_pokemon_main_skills_desc_4": [
+      "ランダムでほかのポケモン1匹の\nげんきを\u000e\u0002\u0006\u0004",
+      "촁回復する"
+    ],
+    "md_pokemon_main_skills_desc_5": [
+      "カビゴンのエナジーを\n\u000e\u0002\u0006\u0004",
+      "촁~\u000e\u0002\u0006\u0004\u0001촁増やす"
+    ],
+    "md_pokemon_main_skills_desc_6": [
+      "ゆめのかけらを\n\u000e\u0002\u0006\u0004",
+      "촁~\u000e\u0002\u0006\u0004\u0001촁ゲットする"
+    ],
+    "md_pokemon_main_skills_desc_7": [
+      "自分のげんきを\u000e\u0002\u0006\u0004",
+      "촁回復する"
+    ],
+    "md_pokemon_main_skills_desc_8": [
+      "おてつだいチームのポケモンの\nげんきを\u000e\u0002\u0006\u0004",
+      "촁回復する"
+    ],
+    "md_pokemon_main_skills_desc_9": [
+      "おてつだいポケモンのだれか1匹の\nおてつだいが\u000e\u0002\u0006\u0004",
+      "촁回分すぐに完了する"
+    ],
+    "md_pokemon_main_skills_name_1": [
+      "エナジーチャージS"
+    ],
+    "md_pokemon_main_skills_name_10": [
+      "食材ゲットS"
+    ],
+    "md_pokemon_main_skills_name_11": [
+      "料理パワーアップS"
+    ],
+    "md_pokemon_main_skills_name_12": [
+      "タイプブーストS"
+    ],
+    "md_pokemon_main_skills_name_13": [
+      "ゆびをふる"
+    ],
+    "md_pokemon_main_skills_name_2": [
+      "エナジーチャージM"
+    ],
+    "md_pokemon_main_skills_name_3": [
+      "ゆめのかけらゲットS"
+    ],
+    "md_pokemon_main_skills_name_4": [
+      "げんきエールS"
+    ],
+    "md_pokemon_main_skills_name_5": [
+      "エナジーチャージS"
+    ],
+    "md_pokemon_main_skills_name_6": [
+      "ゆめのかけらゲットS"
+    ],
+    "md_pokemon_main_skills_name_7": [
+      "げんきチャージS"
+    ],
+    "md_pokemon_main_skills_name_8": [
+      "げんきオールS"
+    ],
+    "md_pokemon_main_skills_name_9": [
+      "おてつだいサポートS"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 26,
+        "size": 186,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 1028,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "md_pokemon_main_skills_name_1"
+            ],
+            [
+              15,
+              "md_pokemon_main_skills_desc_8"
+            ],
+            [
+              18,
+              "md_pokemon_main_skills_name_10"
+            ],
+            [
+              23,
+              "md_pokemon_main_skills_desc_12"
+            ]
+          ],
+          274
+        ],
+        [
+          [
+            [
+              2,
+              "md_pokemon_main_skills_name_2"
+            ],
+            [
+              17,
+              "md_pokemon_main_skills_desc_9"
+            ],
+            [
+              20,
+              "md_pokemon_main_skills_name_11"
+            ],
+            [
+              25,
+              "md_pokemon_main_skills_desc_13"
+            ]
+          ],
+          412
+        ],
+        [
+          [
+            [
+              4,
+              "md_pokemon_main_skills_name_3"
+            ],
+            [
+              22,
+              "md_pokemon_main_skills_name_12"
+            ]
+          ],
+          481
+        ],
+        [
+          [
+            [
+              6,
+              "md_pokemon_main_skills_name_4"
+            ],
+            [
+              24,
+              "md_pokemon_main_skills_name_13"
+            ]
+          ],
+          550
+        ],
+        [
+          [
+            [
+              8,
+              "md_pokemon_main_skills_name_5"
+            ]
+          ],
+          584
+        ],
+        [
+          [
+            [
+              10,
+              "md_pokemon_main_skills_name_6"
+            ]
+          ],
+          618
+        ],
+        [
+          [
+            [
+              12,
+              "md_pokemon_main_skills_name_7"
+            ]
+          ],
+          652
+        ],
+        [
+          [
+            [
+              14,
+              "md_pokemon_main_skills_name_8"
+            ]
+          ],
+          686
+        ],
+        [
+          [
+            [
+              16,
+              "md_pokemon_main_skills_name_9"
+            ]
+          ],
+          720
+        ],
+        [
+          [],
+          720
+        ],
+        [
+          [
+            [
+              1,
+              "md_pokemon_main_skills_desc_1"
+            ]
+          ],
+          754
+        ],
+        [
+          [
+            [
+              3,
+              "md_pokemon_main_skills_desc_2"
+            ]
+          ],
+          788
+        ],
+        [
+          [
+            [
+              5,
+              "md_pokemon_main_skills_desc_3"
+            ]
+          ],
+          822
+        ],
+        [
+          [
+            [
+              7,
+              "md_pokemon_main_skills_desc_4"
+            ]
+          ],
+          856
+        ],
+        [
+          [
+            [
+              9,
+              "md_pokemon_main_skills_desc_5"
+            ]
+          ],
+          890
+        ],
+        [
+          [
+            [
+              11,
+              "md_pokemon_main_skills_desc_6"
+            ],
+            [
+              19,
+              "md_pokemon_main_skills_desc_10"
+            ]
+          ],
+          959
+        ],
+        [
+          [
+            [
+              13,
+              "md_pokemon_main_skills_desc_7"
+            ],
+            [
+              21,
+              "md_pokemon_main_skills_desc_11"
+            ]
+          ],
+          1028
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 26,
+        "size": 1030,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

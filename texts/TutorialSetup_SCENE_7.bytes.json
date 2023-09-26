@@ -1,0 +1,140 @@
+{
+  "strings": {
+    "TutorialSetupSceneController_Text_2": [
+      "Ponle un mote a tu ayudante"
+    ],
+    "TutorialSetupSceneController_Text_3": [
+      "Hora de dormir"
+    ],
+    "TutorialSetupSceneController_Text_4": [
+      "Configura una hora para ir a dormir"
+    ],
+    "TutorialSetupSceneController_Text_5": [
+      "Todo listo"
+    ],
+    "TutorialSetupSceneController_Text_8": [
+      "Con esto concluyen los preparativos para\nel estudio. Espero verte esta noche para\nempezar a recabar datos. ¡No te olvides!"
+    ],
+    "TutorialSetupScene_NameChangeView_Desc": [
+      "(Puedes cambiar el mote más adelante)."
+    ],
+    "TutorialSetupScene_NameChangeView_OKButton": [
+      "Confirmar"
+    ],
+    "TutorialSetupScene_SleepTimeSetView_Desc": [
+      "Recibirás una notificación 30 minutos\nantes de la hora de dormir configurada.\n(Puedes cambiar este ajuste más adelante)."
+    ],
+    "TutorialSetupScene_SleepTimeSetView_TimeChangeButton": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 9,
+        "size": 67,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 432,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "TutorialSetupSceneController_Text_5"
+            ],
+            [
+              8,
+              "TutorialSetupScene_SleepTimeSetView_Desc"
+            ]
+          ],
+          125
+        ],
+        [
+          [],
+          125
+        ],
+        [
+          [
+            [
+              0,
+              "TutorialSetupSceneController_Text_2"
+            ],
+            [
+              5,
+              "TutorialSetupScene_NameChangeView_Desc"
+            ]
+          ],
+          208
+        ],
+        [
+          [
+            [
+              1,
+              "TutorialSetupSceneController_Text_3"
+            ],
+            [
+              4,
+              "TutorialSetupSceneController_Text_8"
+            ],
+            [
+              6,
+              "TutorialSetupScene_NameChangeView_OKButton"
+            ],
+            [
+              7,
+              "TutorialSetupScene_SleepTimeSetView_TimeChangeButton"
+            ]
+          ],
+          392
+        ],
+        [
+          [
+            [
+              2,
+              "TutorialSetupSceneController_Text_4"
+            ]
+          ],
+          432
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 9,
+        "size": 826,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "strings": {
+    "SleepDataDetailScene_Content_Score": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SleepDataDetailScene_Content_ScoreScoreLabel": [
+      "Vigor de Snorlax × Puntuación"
+    ],
+    "SleepDataDetailScene_Content_ScoreScoreValue": [
+      "\u000e\u0002\u0006\u0004",
+      "촁 ×\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "SleepDataDetailScene_Content_SleepDataSectionHeader_1": [
+      "Detalles"
+    ],
+    "SleepDataDetailScene_Content_SleepDataSectionHeader_2": [
+      "Resultados del estudio"
+    ],
+    "SleepDataDetailScene_Content_SleepDurationText": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "SleepDataDetailScene_Content_SleepPowerValue": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "SleepDataDetailScene_Content_SleepSpanText": [
+      "De \u000e\t",
+      "\u000e\nhh:mm",
+      " a \u000e\t",
+      "\u000e\nhh:mm\u0001"
+    ],
+    "SleepDataDetailScene_Content_SleepType": [
+      "Tipo de sueño: \u000e\u0003\u0004\u0002",
+      ""
+    ],
+    "SleepDataDetailScene_Content_Title_8": [
+      "Poder Zzz"
+    ],
+    "SleepDataDetailScene_Header_HeaderDate": [
+      "\u000e\t",
+      "\"\u001eyyyyyMMMddd_aaa",
+      ""
+    ],
+    "SleepDataDetailScene_MemoButton": [
+      "Diario"
+    ],
+    "SleepDataDetailScene_MemoViewButton": [
+      "Ver"
+    ],
+    "SleepDataInvalidTimePopup_CaseMessage_1": [
+      "Si la aplicación \u000e",
+      "\u0003\u0004ꈝ￿no detecta movimiento \u000e",
+      "\u0003\u0004",
+      "＀durante\nun tiempo determinado."
+    ],
+    "SleepDataInvalidTimePopup_CaseMessage_2": [
+      "Si la aplicación \u000e",
+      "\u0003\u0004ꈝ￿detecta movimiento intenso\n\u000e",
+      "\u0003\u0004",
+      "＀durante un tiempo determinado."
+    ],
+    "SleepDataInvalidTimePopup_Message": [
+      "Cuando estés registrando tu sueño, ciertas\ncondiciones podrían hacer que la aplicación\ninterprete que no estás durmiendo en un\nmomento dado. Esos intervalos se consideran\n\u000e",
+      "\u0003\u0004ꈝ￿tiempo no registrado\u000e",
+      "\u0003\u0004",
+      "＀ y no se tienen en cuenta\na la hora de calcular tu puntuación o cualquier\notra estadística."
+    ],
+    "SleepDataInvalidTimePopup_SubTitle": [
+      "¿Por qué no se registra el sueño?"
+    ],
+    "SleepDataInvalidTimePopup_Title": [
+      "Tiempo no registrado"
+    ],
+    "SleepDataResearchResultCell_NoRecord_Popup_Text": [
+      "Las grabaciones se borran de forma\nautomática al cabo de 24 h."
+    ],
+    "SleepDataResearchResultCell_NoRecord_Popup_Title": [
+      "No hay grabaciones disponibles"
+    ],
+    "SleepDataResearchResultCell_Title": [
+      "\u000e\u0003\u0001\u0002촀\n(\u000e\u0003\r\u0002ȁ)"
+    ],
+    "SleepMemoDeleteConfirmPopup_DeleteButton": [
+      "Borrar"
+    ],
+    "SleepMemoDeleteConfirmPopup_Message": [
+      "¿Quieres borrar esta entrada\nde tu diario de sueño?"
+    ],
+    "SleepMemoDeleteConfirmPopup_SubMessage": [
+      "Una vez borrada, no la podrás recuperar."
+    ],
+    "SleepMemoDetailPopup_DeleteButton": [
+      "Borrar"
+    ],
+    "SleepMemoDetailPopup_EditButton": [
+      "Modificar"
+    ],
+    "SleepMemoEditPopup_Counter": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SleepMemoEditPopup_CounterMax": [
+      "/\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SleepMemoEditPopup_InputPlaceholder": [
+      "Introduce un máximo de \u000e\u0002\u0002\u0002",
+      " caracteres."
+    ],
+    "SleepMemoEditPopup_SaveButton": [
+      "Guardar"
+    ],
+    "SleepMemoEditPopup_Title": [
+      "Diario de sueño"
+    ],
+    "SleepMemoLockedPopup_Message": [
+      "Necesitas un pase prémium para acceder a esta función."
+    ],
+    "SleepMemoLockedPopup_SleepPassButton": [
+      "Pase de sueño"
+    ],
+    "SleepMemoLockedPopup_SubMessage": [
+      "Para poder acceder al \u000e",
+      "\u0003\u0004毿Ｗdiario de sueño\u000e",
+      "\u0003\u0004",
+      "＀,\nes necesario disponer de un \u000e",
+      "\u0003\u0004毿Ｗpase prémium\u000e",
+      "\u0003\u0004",
+      "＀,\nque puedes comprar desde el menú\nde pase de sueño."
+    ],
+    "SleepMemoLockedPopup_Title": [
+      "Función bloqueada"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 35,
+        "size": 249,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 1610,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              30,
+              "SleepDataInvalidTimePopup_Title"
+            ]
+          ],
+          188
+        ],
+        [
+          [
+            [
+              10,
+              "SleepDataResearchResultCell_Title"
+            ],
+            [
+              25,
+              "SleepMemoDeleteConfirmPopup_DeleteButton"
+            ]
+          ],
+          271
+        ],
+        [
+          [
+            [
+              19,
+              "SleepMemoEditPopup_InputPlaceholder"
+            ]
+          ],
+          311
+        ],
+        [
+          [
+            [
+              2,
+              "SleepDataDetailScene_Content_SleepType"
+            ],
+            [
+              11,
+              "SleepDataResearchResultCell_NoRecord_Popup_Title"
+            ]
+          ],
+          407
+        ],
+        [
+          [
+            [
+              18,
+              "SleepMemoEditPopup_CounterMax"
+            ]
+          ],
+          441
+        ],
+        [
+          [
+            [
+              13,
+              "SleepDataDetailScene_Content_SleepDataSectionHeader_1"
+            ],
+            [
+              15,
+              "SleepDataDetailScene_MemoViewButton"
+            ]
+          ],
+          539
+        ],
+        [
+          [
+            [
+              0,
+              "SleepDataDetailScene_Content_Score"
+            ],
+            [
+              3,
+              "SleepDataDetailScene_Content_SleepSpanText"
+            ],
+            [
+              4,
+              "SleepDataDetailScene_Content_SleepDataSectionHeader_2"
+            ],
+            [
+              8,
+              "SleepDataDetailScene_Content_ScoreScoreValue"
+            ],
+            [
+              22,
+              "SleepMemoDetailPopup_EditButton"
+            ],
+            [
+              27,
+              "SleepMemoLockedPopup_Message"
+            ]
+          ],
+          801
+        ],
+        [
+          [
+            [
+              5,
+              "SleepDataDetailScene_Content_Title_8"
+            ],
+            [
+              12,
+              "SleepDataResearchResultCell_NoRecord_Popup_Text"
+            ],
+            [
+              31,
+              "SleepDataInvalidTimePopup_SubTitle"
+            ]
+          ],
+          933
+        ],
+        [
+          [
+            [
+              24,
+              "SleepMemoDeleteConfirmPopup_SubMessage"
+            ],
+            [
+              26,
+              "SleepMemoLockedPopup_Title"
+            ]
+          ],
+          1007
+        ],
+        [
+          [
+            [
+              20,
+              "SleepMemoEditPopup_SaveButton"
+            ]
+          ],
+          1041
+        ],
+        [
+          [
+            [
+              9,
+              "SleepDataDetailScene_Header_HeaderDate"
+            ],
+            [
+              16,
+              "SleepMemoEditPopup_Title"
+            ],
+            [
+              23,
+              "SleepMemoDeleteConfirmPopup_Message"
+            ],
+            [
+              32,
+              "SleepDataInvalidTimePopup_Message"
+            ]
+          ],
+          1191
+        ],
+        [
+          [
+            [
+              33,
+              "SleepDataInvalidTimePopup_CaseMessage_1"
+            ]
+          ],
+          1235
+        ],
+        [
+          [
+            [
+              14,
+              "SleepDataDetailScene_MemoButton"
+            ],
+            [
+              34,
+              "SleepDataInvalidTimePopup_CaseMessage_2"
+            ]
+          ],
+          1315
+        ],
+        [
+          [
+            [
+              28,
+              "SleepMemoLockedPopup_SubMessage"
+            ]
+          ],
+          1351
+        ],
+        [
+          [
+            [
+              7,
+              "SleepDataDetailScene_Content_ScoreScoreLabel"
+            ],
+            [
+              29,
+              "SleepMemoLockedPopup_SleepPassButton"
+            ]
+          ],
+          1441
+        ],
+        [
+          [],
+          1441
+        ],
+        [
+          [],
+          1441
+        ],
+        [
+          [
+            [
+              6,
+              "SleepDataDetailScene_Content_SleepPowerValue"
+            ],
+            [
+              17,
+              "SleepMemoEditPopup_Counter"
+            ]
+          ],
+          1521
+        ],
+        [
+          [
+            [
+              1,
+              "SleepDataDetailScene_Content_SleepDurationText"
+            ],
+            [
+              21,
+              "SleepMemoDetailPopup_DeleteButton"
+            ]
+          ],
+          1610
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 35,
+        "size": 2662,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

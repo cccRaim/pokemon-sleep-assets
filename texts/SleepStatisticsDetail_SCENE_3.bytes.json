@@ -1,0 +1,376 @@
+{
+  "strings": {
+    "AverageScoreLabel": [
+      "Puntuación\nmedia diaria"
+    ],
+    "AverageScoreValue": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "AverageTimeLabel": [
+      "Hora de dormir\nmedia diaria"
+    ],
+    "AverageTimeValue": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "DataNegativeCount": [
+      "-\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "DataNegativePer": [
+      "-\u000e\u0002\u0002\u0002",
+      " %"
+    ],
+    "DataPositiveCount": [
+      "+\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "DataPositivePer": [
+      "+\u000e\u0002\u0002\u0002",
+      " %"
+    ],
+    "DataSectionHeader": [
+      "Datos de los últimos \u000e\u0002\u0002\u0002",
+      " días"
+    ],
+    "DowAverageSleepTimeDayLabel": [
+      "\u000e\t\u0001\u0004",
+      "촀"
+    ],
+    "DowAverageSleepTimeTitle": [
+      "Media de sueño diaria"
+    ],
+    "DowAverageSleepTimeValue": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "FallAsleepTimeLabel": [
+      "Media que tardas\nen dormir"
+    ],
+    "HeadDataLabel": [
+      "Registros"
+    ],
+    "HeadDataNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "HeadPeriod": [
+      "\u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      "-\u000e\t",
+      "\u001a\u0016yyyyyMMMddd\u0001"
+    ],
+    "HeadTitle_Days": [
+      "Estadísticas (\u000e\t",
+      "\f\bdddd",
+      ")"
+    ],
+    "HeadTitle_Years": [
+      "Estadísticas (\u000e\t",
+      "\u0010\fyyyyyy",
+      ")"
+    ],
+    "NoComparisonData": [
+      "No hay datos con los que comparar"
+    ],
+    "NoDataDesc": [
+      "No hay estadísticas para este periodo.\nNo se han encontrado datos de sueño\nrelativos al periodo seleccionado."
+    ],
+    "NoDataLabel": [
+      "No hay datos"
+    ],
+    "SleepCountTitle": [
+      "Número de sesiones"
+    ],
+    "SleepCountValue": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SleepDataTitle": [
+      "Datos de sueño"
+    ],
+    "SleepHourTitle": [
+      "Horas de dormir"
+    ],
+    "SleepTypeCountLabel": [
+      "Sueño \u000e\u0003\u0004\u0002",
+      ""
+    ],
+    "SleepTypeCountValue": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "TimeGraphHourLabel": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "TotalTimeLabel": [
+      "Tiempo total\nde sueño"
+    ],
+    "TotalTimeValue": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "WakeHourTitle": [
+      "Horas de despertar"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 31,
+        "size": 221,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 787,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              7,
+              "DataSectionHeader"
+            ]
+          ],
+          158
+        ],
+        [
+          [
+            [
+              3,
+              "HeadTitle_Years"
+            ],
+            [
+              28,
+              "DowAverageSleepTimeTitle"
+            ],
+            [
+              29,
+              "DowAverageSleepTimeDayLabel"
+            ]
+          ],
+          239
+        ],
+        [
+          [
+            [
+              17,
+              "DataNegativePer"
+            ]
+          ],
+          259
+        ],
+        [
+          [
+            [
+              1,
+              "NoDataDesc"
+            ]
+          ],
+          274
+        ],
+        [
+          [
+            [
+              16,
+              "DataPositivePer"
+            ]
+          ],
+          294
+        ],
+        [
+          [
+            [
+              8,
+              "SleepDataTitle"
+            ],
+            [
+              30,
+              "DowAverageSleepTimeValue"
+            ]
+          ],
+          342
+        ],
+        [
+          [
+            [
+              2,
+              "HeadTitle_Days"
+            ]
+          ],
+          361
+        ],
+        [
+          [],
+          361
+        ],
+        [
+          [
+            [
+              13,
+              "AverageTimeLabel"
+            ]
+          ],
+          382
+        ],
+        [
+          [
+            [
+              14,
+              "AverageTimeValue"
+            ],
+            [
+              19,
+              "SleepCountTitle"
+            ],
+            [
+              25,
+              "WakeHourTitle"
+            ],
+            [
+              26,
+              "SleepHourTitle"
+            ]
+          ],
+          460
+        ],
+        [
+          [],
+          460
+        ],
+        [
+          [
+            [
+              0,
+              "NoDataLabel"
+            ],
+            [
+              4,
+              "HeadPeriod"
+            ],
+            [
+              23,
+              "DataPositiveCount"
+            ],
+            [
+              24,
+              "DataNegativeCount"
+            ]
+          ],
+          535
+        ],
+        [
+          [
+            [
+              9,
+              "TotalTimeLabel"
+            ],
+            [
+              11,
+              "AverageScoreLabel"
+            ]
+          ],
+          576
+        ],
+        [
+          [
+            [
+              10,
+              "TotalTimeValue"
+            ],
+            [
+              12,
+              "AverageScoreValue"
+            ],
+            [
+              20,
+              "SleepCountValue"
+            ]
+          ],
+          637
+        ],
+        [
+          [
+            [
+              6,
+              "HeadDataLabel"
+            ],
+            [
+              21,
+              "SleepTypeCountLabel"
+            ]
+          ],
+          679
+        ],
+        [
+          [
+            [
+              15,
+              "FallAsleepTimeLabel"
+            ],
+            [
+              22,
+              "SleepTypeCountValue"
+            ],
+            [
+              27,
+              "TimeGraphHourLabel"
+            ]
+          ],
+          750
+        ],
+        [
+          [
+            [
+              5,
+              "HeadDataNum"
+            ],
+            [
+              18,
+              "NoComparisonData"
+            ]
+          ],
+          787
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 31,
+        "size": 1332,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

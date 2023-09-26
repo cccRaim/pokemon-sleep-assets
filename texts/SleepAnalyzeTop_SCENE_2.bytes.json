@@ -1,0 +1,100 @@
+{
+  "strings": {
+    "SleepAnalyzeTop_ContentDesc": [
+      "Consultez diverses données sur votre sommeil."
+    ],
+    "SleepAnalyzeTop_ContentTitle": [
+      "Compte-rendu"
+    ],
+    "SleepAnalyzeTop_HeadTitle": [
+      "Compte-rendu"
+    ],
+    "SleepAnalyzeTop_RegularityButton": [
+      "Rythme de sommeil"
+    ],
+    "SleepAnalyzeTop_StatisticButton": [
+      "Statistiques"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 5,
+        "size": 39,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 192,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          24
+        ],
+        [
+          [
+            [
+              1,
+              "SleepAnalyzeTop_ContentTitle"
+            ],
+            [
+              2,
+              "SleepAnalyzeTop_ContentDesc"
+            ]
+          ],
+          89
+        ],
+        [
+          [
+            [
+              0,
+              "SleepAnalyzeTop_HeadTitle"
+            ],
+            [
+              3,
+              "SleepAnalyzeTop_RegularityButton"
+            ],
+            [
+              4,
+              "SleepAnalyzeTop_StatisticButton"
+            ]
+          ],
+          192
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 5,
+        "size": 226,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

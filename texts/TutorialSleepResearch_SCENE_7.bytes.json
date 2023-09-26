@@ -1,0 +1,134 @@
+{
+  "strings": {
+    "SleepResearchSceneTutorialController_BaitBallGuide": [
+      "Dai un Biscotto bonus a \u000e\u0003\u0001\u0002촁!"
+    ],
+    "SleepResearchSceneTutorialController_MasterBaitBall_Guide": [
+      "Prova a dare un \u000e",
+      "\u0003\u0004毿ＷMasterbiscotto\u000e",
+      "\u0003\u0004",
+      "＀\na un Pokémon!"
+    ],
+    "SleepResearchSceneTutorialController_TapOtherPokemons": [
+      "Tocca i Pokémon restanti per\ncompletare la ricerca sul sonno!"
+    ],
+    "SleepResearchSceneTutorialController_Text_1": [
+      "Scorri lo schermo finché non trovi\n\u000e\u0003\u0001\u0002촀. Poi ci dedicheremo\nalla ricerca sul sonno!"
+    ],
+    "SleepResearchSceneTutorialController_Text_13": [
+      "Cominciare col piede giusto"
+    ],
+    "SleepResearchSceneTutorialController_Text_14": [
+      "Per prima cosa, tocca \u000e\u0003\u0001\u0002촀!"
+    ],
+    "SleepResearchSceneTutorialController_Text_20": [
+      "Dai Pokébiscotto"
+    ],
+    "SleepResearchSceneTutorialController_Text_21": [
+      "Prova a toccare \u000e\u0003\u0001\u0002촀 per dargli\nun Pokébiscotto!"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 8,
+        "size": 60,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 459,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              5,
+              "SleepResearchSceneTutorialController_Text_14"
+            ]
+          ],
+          89
+        ],
+        [
+          [
+            [
+              1,
+              "SleepResearchSceneTutorialController_BaitBallGuide"
+            ],
+            [
+              2,
+              "SleepResearchSceneTutorialController_Text_1"
+            ],
+            [
+              3,
+              "SleepResearchSceneTutorialController_MasterBaitBall_Guide"
+            ],
+            [
+              6,
+              "SleepResearchSceneTutorialController_Text_20"
+            ]
+          ],
+          303
+        ],
+        [
+          [
+            [
+              7,
+              "SleepResearchSceneTutorialController_Text_21"
+            ]
+          ],
+          352
+        ],
+        [
+          [],
+          352
+        ],
+        [
+          [
+            [
+              0,
+              "SleepResearchSceneTutorialController_TapOtherPokemons"
+            ],
+            [
+              4,
+              "SleepResearchSceneTutorialController_Text_13"
+            ]
+          ],
+          459
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 8,
+        "size": 750,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

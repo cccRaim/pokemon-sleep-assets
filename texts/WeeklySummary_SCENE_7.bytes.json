@@ -1,0 +1,283 @@
+{
+  "strings": {
+    "WeeklySnorlaxMeetScene_Content_CookingType": [
+      "想吃的料理"
+    ],
+    "WeeklySnorlaxMeetScene_Content_CookingType_Value": [
+      "\u000e\u0003\u000f\u0002",
+      ""
+    ],
+    "WeeklySnorlaxMeetScene_Content_Desc": [
+      "這一週就請多指教囉！"
+    ],
+    "WeeklySnorlaxMeetScene_Content_FavoriteBerry": [
+      "喜歡的樹果"
+    ],
+    "WeeklySnorlaxMeetScene_Content_MoveToHome": [
+      "回主畫面"
+    ],
+    "WeeklySnorlaxMeetScene_Content_Title": [
+      "遇見了新的卡比獸！"
+    ],
+    "WeeklySnorlaxMeetScene_Header_Title": [
+      "發現卡比獸了！"
+    ],
+    "WeeklySummaryScene_Date": [
+      "\u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      "～\u000e\t",
+      "\u001a\u0016yyyyyMMMddd\u0001"
+    ],
+    "WeeklySummaryScene_DaytimeData_BerryEnergy_Title": [
+      "來自樹果的能量"
+    ],
+    "WeeklySummaryScene_DaytimeData_BerryEnergy_Value": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "WeeklySummaryScene_DaytimeData_CookingEnergy_Title": [
+      "來自料理的能量"
+    ],
+    "WeeklySummaryScene_DaytimeData_CookingEnergy_Value": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "WeeklySummaryScene_DaytimeData_SnorlaxRank_Title": [
+      "卡比獸級別"
+    ],
+    "WeeklySummaryScene_DaytimeData_SnorlaxRank_Value": [
+      "\u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "WeeklySummaryScene_DaytimeData_TotalEnergy_Title": [
+      "總能量"
+    ],
+    "WeeklySummaryScene_DaytimeData_TotalEnergy_Value": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "WeeklySummaryScene_RegularityTotalRank": [
+      "總評價"
+    ],
+    "WeeklySummaryScene_SectionHeader_SectionTitle": [
+      "培育資料總整理"
+    ],
+    "WeeklySummaryScene_SnorlaxRank": [
+      "\u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "WeeklySummaryScene_Title": [
+      "1週回顧"
+    ],
+    "WeeklySummaryScene_Top_WeekCount": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "WeeklySummaryScene_Top_WeekCoutUnit": [
+      "週"
+    ],
+    "WeeklySummaryScene_Top_WeekCoutUnit_Chinese": [
+      "第"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 23,
+        "size": 165,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 1158,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              4,
+              "WeeklySummaryScene_DaytimeData_SnorlaxRank_Title"
+            ],
+            [
+              14,
+              "WeeklySummaryScene_Top_WeekCoutUnit_Chinese"
+            ],
+            [
+              17,
+              "WeeklySnorlaxMeetScene_Content_Desc"
+            ]
+          ],
+          245
+        ],
+        [
+          [
+            [
+              2,
+              "WeeklySummaryScene_SectionHeader_SectionTitle"
+            ],
+            [
+              8,
+              "WeeklySummaryScene_DaytimeData_BerryEnergy_Title"
+            ],
+            [
+              10,
+              "WeeklySummaryScene_DaytimeData_CookingEnergy_Title"
+            ],
+            [
+              19,
+              "WeeklySnorlaxMeetScene_Content_CookingType"
+            ]
+          ],
+          450
+        ],
+        [
+          [],
+          450
+        ],
+        [
+          [
+            [
+              1,
+              "WeeklySummaryScene_Date"
+            ]
+          ],
+          478
+        ],
+        [
+          [],
+          478
+        ],
+        [
+          [
+            [
+              7,
+              "WeeklySummaryScene_DaytimeData_TotalEnergy_Value"
+            ]
+          ],
+          531
+        ],
+        [
+          [
+            [
+              3,
+              "WeeklySummaryScene_Top_WeekCount"
+            ],
+            [
+              18,
+              "WeeklySnorlaxMeetScene_Content_FavoriteBerry"
+            ]
+          ],
+          617
+        ],
+        [
+          [
+            [
+              20,
+              "WeeklySnorlaxMeetScene_Content_MoveToHome"
+            ]
+          ],
+          663
+        ],
+        [
+          [
+            [
+              16,
+              "WeeklySnorlaxMeetScene_Content_Title"
+            ],
+            [
+              22,
+              "WeeklySnorlaxMeetScene_Content_CookingType_Value"
+            ]
+          ],
+          757
+        ],
+        [
+          [
+            [
+              5,
+              "WeeklySummaryScene_DaytimeData_SnorlaxRank_Value"
+            ],
+            [
+              6,
+              "WeeklySummaryScene_DaytimeData_TotalEnergy_Title"
+            ],
+            [
+              21,
+              "WeeklySummaryScene_RegularityTotalRank"
+            ]
+          ],
+          906
+        ],
+        [
+          [
+            [
+              0,
+              "WeeklySummaryScene_Title"
+            ],
+            [
+              9,
+              "WeeklySummaryScene_DaytimeData_BerryEnergy_Value"
+            ],
+            [
+              11,
+              "WeeklySummaryScene_DaytimeData_CookingEnergy_Value"
+            ]
+          ],
+          1043
+        ],
+        [
+          [
+            [
+              12,
+              "WeeklySummaryScene_SnorlaxRank"
+            ]
+          ],
+          1078
+        ],
+        [
+          [
+            [
+              13,
+              "WeeklySummaryScene_Top_WeekCoutUnit"
+            ],
+            [
+              15,
+              "WeeklySnorlaxMeetScene_Header_Title"
+            ]
+          ],
+          1158
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 23,
+        "size": 446,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

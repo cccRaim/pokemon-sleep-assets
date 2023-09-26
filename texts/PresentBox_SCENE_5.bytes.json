@@ -1,0 +1,406 @@
+{
+  "strings": {
+    "PresentBox_AboutPopup_Heading": [
+      "Details"
+    ],
+    "PresentBox_AboutPopup_Text_1": [
+      "Abgelaufene Geschenke werden\nautomatisch gelöscht."
+    ],
+    "PresentBox_AboutPopup_Text_2": [
+      "Du kannst bis zu 100 Geschenke auf\neinmal annehmen."
+    ],
+    "PresentBox_AboutPopup_Text_3": [
+      "Du kannst dir angenommene Geschenke\nder letzten 30 Tage ansehen."
+    ],
+    "PresentBox_AboutPopup_Title": [
+      "Über die Geschenkbox"
+    ],
+    "PresentBox_AllGetButton": [
+      "Alles annehmen"
+    ],
+    "PresentBox_Deadline_1": [
+      "Noch \u000e\u0002\u0002\u0002",
+      " \u000e\u0006",
+      "\u0014\u0006Tag\bTage촀"
+    ],
+    "PresentBox_Deadline_2": [
+      "Noch \u000e\u0002\u0001\u0002",
+      " Std."
+    ],
+    "PresentBox_Deadline_3": [
+      "Noch \u000e\u0002\u0001\u0002",
+      " Min."
+    ],
+    "PresentBox_GetButton": [
+      "Annehmen"
+    ],
+    "PresentBox_GetDay": [
+      "Erhalten am: \u000e\t",
+      "\u0018\u0014yyyy/MM/dd",
+      ""
+    ],
+    "PresentBox_NoPresent": [
+      "Es sind keine Geschenke verfügbar."
+    ],
+    "PresentBox_NoReceivedDialog_All_OverAndExpired_Text": [
+      "Du konntest diese Geschenke nicht\nannehmen, weil sie abgelaufen sind\noder du keinen Platz für sie hast."
+    ],
+    "PresentBox_NoReceivedDialog_All_Text": [
+      "Du konntest diese Geschenke nicht\nannehmen, weil du keinen Platz für\nsie hast."
+    ],
+    "PresentBox_NoReceivedDialog_All_Title": [
+      "Annehmen nicht möglich"
+    ],
+    "PresentBox_NoReceivedDialog_One_Expired_Text": [
+      "Dieses Geschenk konnte nicht\nangenommen werden, weil es\nabgelaufen ist."
+    ],
+    "PresentBox_NoReceivedDialog_Part_Expired_Text": [
+      "Einige Geschenke konnten nicht\nangenommen werden, weil sie\nabgelaufen sind."
+    ],
+    "PresentBox_NoReceivedDialog_Part_OverAndExpired_Text": [
+      "Einige Geschenke konnten nicht\nangenommen werden, weil sie\nabgelaufen sind oder du keinen Platz\nfür sie hast."
+    ],
+    "PresentBox_NoReceivedDialog_Part_Text": [
+      "Einige Geschenke konnten nicht\nangenommen werden, weil du keinen\nPlatz für sie hast."
+    ],
+    "PresentBox_NoReceivedDialog_Part_Title": [
+      "Annehmen einiger Geschenke nicht möglich"
+    ],
+    "PresentBox_PresentDeadlinePopup_Text": [
+      "Einige Geschenke laufen bald ab.\nNimm sie an, solange du noch kannst!"
+    ],
+    "PresentBox_PresentDeadlinePopup_Title": [
+      "Bitte nimm deine Geschenke an!"
+    ],
+    "PresentBox_PresentDeletePopup_Text": [
+      "Abgelaufene Geschenke wurden\ngelöscht."
+    ],
+    "PresentBox_PresentDeletePopup_Title": [
+      "Abgelaufene Geschenke"
+    ],
+    "PresentBox_PresentReceivePopup_Content": [
+      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0007\u0004\u0002촁"
+    ],
+    "PresentBox_PresentReceivePopup_Content_SleepPoint": [
+      "Schlafpunkte ×\u000e\u0002\u0007\u0004",
+      "촁"
+    ],
+    "PresentBox_PresentReceivePopup_Heading": [
+      "Angenommene Geschenke"
+    ],
+    "PresentBox_PresentReceivePopup_Title": [
+      "Geschenke angenommen"
+    ],
+    "PresentBox_Present_Heading": [
+      "Verfügbare Geschenke"
+    ],
+    "PresentBox_ReceiptButton": [
+      "Verlauf"
+    ],
+    "PresentBox_ReceiptPopup_Heading": [
+      "Angenommene Geschenke (letzte 30 Tage)"
+    ],
+    "PresentBox_ReceiptPopup_NoReceived": [
+      "Du hast in den letzten 30 Tagen keine\nGeschenke angenommen."
+    ],
+    "PresentBox_ReceiptPopup_NumberOfItem": [
+      "×\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "PresentBox_ReceiptPopup_ReceiveDay": [
+      "Angenommen am: \u000e\t",
+      "\u0018\u0014yyyy/MM/dd",
+      ""
+    ],
+    "PresentBox_ReceiptPopup_Title": [
+      "Verlauf angenommener Geschenke"
+    ],
+    "PresentBox_Title": [
+      "Geschenkbox"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 36,
+        "size": 256,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 1488,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "PresentBox_Title"
+            ],
+            [
+              8,
+              "PresentBox_PresentReceivePopup_Content"
+            ]
+          ],
+          216
+        ],
+        [
+          [
+            [
+              29,
+              "PresentBox_Present_Heading"
+            ]
+          ],
+          247
+        ],
+        [
+          [
+            [
+              34,
+              "PresentBox_PresentDeletePopup_Title"
+            ]
+          ],
+          287
+        ],
+        [
+          [
+            [
+              6,
+              "PresentBox_GetButton"
+            ],
+            [
+              16,
+              "PresentBox_AboutPopup_Title"
+            ],
+            [
+              35,
+              "PresentBox_PresentDeletePopup_Text"
+            ]
+          ],
+          383
+        ],
+        [
+          [
+            [
+              17,
+              "PresentBox_AboutPopup_Heading"
+            ],
+            [
+              27,
+              "PresentBox_NoReceivedDialog_All_Text"
+            ]
+          ],
+          458
+        ],
+        [
+          [
+            [
+              9,
+              "PresentBox_PresentReceivePopup_Content_SleepPoint"
+            ],
+            [
+              24,
+              "PresentBox_NoReceivedDialog_Part_Expired_Text"
+            ],
+            [
+              25,
+              "PresentBox_NoReceivedDialog_Part_OverAndExpired_Text"
+            ]
+          ],
+          619
+        ],
+        [
+          [
+            [
+              7,
+              "PresentBox_AllGetButton"
+            ],
+            [
+              12,
+              "PresentBox_ReceiptPopup_Heading"
+            ]
+          ],
+          683
+        ],
+        [
+          [
+            [
+              3,
+              "PresentBox_Deadline_1"
+            ],
+            [
+              23,
+              "PresentBox_NoReceivedDialog_One_Expired_Text"
+            ]
+          ],
+          758
+        ],
+        [
+          [
+            [
+              2,
+              "PresentBox_GetDay"
+            ],
+            [
+              4,
+              "PresentBox_Deadline_2"
+            ]
+          ],
+          806
+        ],
+        [
+          [
+            [
+              5,
+              "PresentBox_Deadline_3"
+            ],
+            [
+              10,
+              "PresentBox_NoPresent"
+            ],
+            [
+              14,
+              "PresentBox_ReceiptPopup_NumberOfItem"
+            ]
+          ],
+          898
+        ],
+        [
+          [],
+          898
+        ],
+        [
+          [
+            [
+              22,
+              "PresentBox_NoReceivedDialog_Part_Text"
+            ],
+            [
+              31,
+              "PresentBox_PresentReceivePopup_Title"
+            ],
+            [
+              33,
+              "PresentBox_PresentDeadlinePopup_Text"
+            ]
+          ],
+          1022
+        ],
+        [
+          [
+            [
+              1,
+              "PresentBox_ReceiptButton"
+            ],
+            [
+              11,
+              "PresentBox_ReceiptPopup_Title"
+            ]
+          ],
+          1085
+        ],
+        [
+          [
+            [
+              15,
+              "PresentBox_ReceiptPopup_ReceiveDay"
+            ]
+          ],
+          1124
+        ],
+        [
+          [
+            [
+              26,
+              "PresentBox_NoReceivedDialog_All_Title"
+            ]
+          ],
+          1166
+        ],
+        [
+          [],
+          1166
+        ],
+        [
+          [
+            [
+              18,
+              "PresentBox_AboutPopup_Text_1"
+            ],
+            [
+              21,
+              "PresentBox_NoReceivedDialog_Part_Title"
+            ],
+            [
+              30,
+              "PresentBox_PresentReceivePopup_Heading"
+            ]
+          ],
+          1285
+        ],
+        [
+          [
+            [
+              13,
+              "PresentBox_ReceiptPopup_NoReceived"
+            ],
+            [
+              19,
+              "PresentBox_AboutPopup_Text_2"
+            ],
+            [
+              32,
+              "PresentBox_PresentDeadlinePopup_Title"
+            ]
+          ],
+          1399
+        ],
+        [
+          [
+            [
+              20,
+              "PresentBox_AboutPopup_Text_3"
+            ],
+            [
+              28,
+              "PresentBox_NoReceivedDialog_All_OverAndExpired_Text"
+            ]
+          ],
+          1488
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 36,
+        "size": 2916,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

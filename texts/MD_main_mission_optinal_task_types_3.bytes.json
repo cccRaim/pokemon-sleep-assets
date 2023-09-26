@@ -1,0 +1,93 @@
+{
+  "strings": {
+    "md_main_mission_optinal_task_types_name_1": [
+      "Aumenta rango Pokémon assistenti"
+    ],
+    "md_main_mission_optinal_task_types_name_2": [
+      "Fai evolvere i Pokémon assistenti"
+    ],
+    "md_main_mission_optinal_task_types_tips_1": [
+      "Aumenta rango Pokémon assistenti con caramelle"
+    ],
+    "md_main_mission_optinal_task_types_tips_2": [
+      "Fai evolvere più volte i Pokémon assistenti"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 4,
+        "size": 32,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 208,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          24
+        ],
+        [
+          [
+            [
+              0,
+              "md_main_mission_optinal_task_types_name_1"
+            ],
+            [
+              1,
+              "md_main_mission_optinal_task_types_tips_1"
+            ]
+          ],
+          116
+        ],
+        [
+          [
+            [
+              2,
+              "md_main_mission_optinal_task_types_name_2"
+            ],
+            [
+              3,
+              "md_main_mission_optinal_task_types_tips_2"
+            ]
+          ],
+          208
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 4,
+        "size": 332,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

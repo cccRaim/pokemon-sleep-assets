@@ -1,0 +1,988 @@
+{
+  "strings": {
+    "EvolutionConfirmPopup_Desc": [
+      "Ces objets seront utilisés\npour l'évolution. Continuer ?"
+    ],
+    "EvolutionEvolveStaging_1": [
+      "Quoi ?"
+    ],
+    "EvolutionEvolveStaging_2": [
+      "\u000e\u0003\n\u0002촀 évolue !"
+    ],
+    "EvolutionEvolveStaging_3": [
+      "Félicitations !\n\u000e\u0003\n\u0002촀 évolue\nen \u000e\u0003\u0001\u0002촁 !"
+    ],
+    "EvolutionPopup_CellLabel_Hours": [
+      "\u000e\t",
+      "\f\bhhhh",
+      ""
+    ],
+    "EvolutionPopup_CellLabel_Num": [
+      "× \u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "EvolutionPopup_CellLabel_Rank": [
+      "N. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "EvolutionPopup_Conditions_NG": [
+      "Ne peut pas encore évoluer."
+    ],
+    "EvolutionPopup_Conditions_OK": [
+      "Prêt à évoluer !"
+    ],
+    "EvolutionPopup_EvolveButton": [
+      "Évoluer"
+    ],
+    "EvolutionPopup_SectionHeader_Condition": [
+      "Conditions d'évolution"
+    ],
+    "EvolutionPopup_TargetLabel": [
+      "Évolue en"
+    ],
+    "EvolutionPopup_TargetUnknown": [
+      "???"
+    ],
+    "EvolutionPopup_Title": [
+      "Évolution"
+    ],
+    "EvolutionSelectPopup_DetailButton": [
+      "Détails"
+    ],
+    "EvolutionSelectPopup_SectionHeader_Select": [
+      "Choisissez en quoi faire évoluer ce Pokémon."
+    ],
+    "EvolutionSelectPopup_SelectButton": [
+      "Choisir"
+    ],
+    "EvolutionSelectPopup_Title": [
+      "Choix d'évolution"
+    ],
+    "PokemonBoxCannotReleaseBalloon_Text_1": [
+      "Impossible d'envoyer\nun \u000e",
+      "\u0003\u0004毿ＷPokémon rare\u000e",
+      "\u0003\u0004",
+      "＀ ou \u000e",
+      "\u0003\u0004毿Ｗfavori\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "PokemonBoxCannotReleaseBalloon_Text_2": [
+      "Impossible d'envoyer\nun \u000e",
+      "\u0003\u0004毿ＷPokémon de soutien\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "PokemonBoxCannotReleasePopup_Desc_Sub_1": [
+      "Si vous souhaitez l'envoyer, \u000e",
+      "\u0003\u0004毿Ｗretirez-le\u000e",
+      "\u0003\u0004",
+      "＀\nd'abord \u000e",
+      "\u0003\u0004毿Ｗde vos favoris\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "PokemonBoxCannotReleasePopup_Desc_Sub_2": [
+      "Si vous souhaitez l'envoyer, \u000e",
+      "\u0003\u0004毿Ｗretirez-le\u000e",
+      "\u0003\u0004",
+      "＀\nd'abord \u000e",
+      "\u0003\u0004毿Ｗde votre équipe de soutien\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "PokemonBoxCannotReleasePopup_Desc_Sub_3": [
+      "Impossible d'envoyer des \u000e",
+      "\u0003\u0004毿ＷPokémon\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗparticulièrement rares\u000e",
+      "\u0003\u0004",
+      "＀ comme celui-ci."
+    ],
+    "PokemonBoxCannotReleasePopup_Desc_Top": [
+      "Impossible d'envoyer ce Pokémon\nau Professeur."
+    ],
+    "PokemonBoxCannotReleasePopup_Title": [
+      "Envoi impossible"
+    ],
+    "PokemonBoxCannotReleaseSelectPopup_Message": [
+      "Vous ne pouvez pas envoyer plus de 50\nPokémon en même temps au Pr. Néroli."
+    ],
+    "PokemonBoxCannotReleaseSelectPopup_Title": [
+      "Limite d'envoi atteinte"
+    ],
+    "PokemonBoxCell_Level": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxCell_Level_title": [
+      "N."
+    ],
+    "PokemonBoxCell_SP_title": [
+      "PS"
+    ],
+    "PokemonBoxCell_Text_1": [
+      "Sélectionné"
+    ],
+    "PokemonBoxCell_Text_2": [
+      "Équipe"
+    ],
+    "PokemonBoxDetailSkillView_Text_1": [
+      "Compétence Secondaire"
+    ],
+    "PokemonBoxExpandButton_Text_1": [
+      "Agrandissement de la Boîte"
+    ],
+    "PokemonBoxExpandButton_Text_2": [
+      "Impossible d'agrandir davantage !"
+    ],
+    "PokemonBoxExpandButton_Text_3": [
+      "Agrandir votre Boîte ?"
+    ],
+    "PokemonBoxExpandButton_Text_4": [
+      "Augmenter de \u000e\u0002\u0002\u0002\u0001 la capacité de votre\nBoîte Pokémon pour \u000e\u0002\u0002\u0002",
+      " Diamant\u000e\u0004",
+      "\b",
+      "\u0002s촀 ?"
+    ],
+    "PokemonBoxExpandButton_Text_6": [
+      "Diamants insuffisants !"
+    ],
+    "PokemonBoxExpandButton_Text_8": [
+      "Votre Boîte peut désormais contenir\n\u000e\u0002\u0002\u0002",
+      " Pokémon de plus !"
+    ],
+    "PokemonBoxFilterPopup_Desc": [
+      "Nom ou surnom"
+    ],
+    "PokemonBoxFilterPopup_Desc_2": [
+      "Types"
+    ],
+    "PokemonBoxFilterPopup_Desc_3": [
+      "Autres caractéristiques"
+    ],
+    "PokemonBoxFilterPopup_Desc_4": [
+      "Baies préférées"
+    ],
+    "PokemonBoxFilterPopup_Desc_5": [
+      "Ingrédients préférés"
+    ],
+    "PokemonBoxFilterPopup_Desc_6": [
+      "Compétences"
+    ],
+    "PokemonBoxFilterPopup_LikeBerryButton": [
+      "Baies favorites de Ronflex"
+    ],
+    "PokemonBoxFilterPopup_Placeholder": [
+      "Entrez un nom à rechercher."
+    ],
+    "PokemonBoxFilterPopup_ResetButton": [
+      "Annuler"
+    ],
+    "PokemonBoxFilterPopup_Title": [
+      "Trouvés :"
+    ],
+    "PokemonBoxFilterPopup_Title_FilterNum": [
+      "\u000e\u0002\u0002\u0002",
+      "/\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "PokemonBoxFilterPopup_TypeName_4": [
+      "Chromatiques"
+    ],
+    "PokemonBoxFilterPopup_TypeName_5": [
+      "Favoris"
+    ],
+    "PokemonBoxFilterPopup_TypeName_6": [
+      "Évolution"
+    ],
+    "PokemonBoxFooterReleaseView_Text_1": [
+      "Envoyer (\u000e\u0002\u0002\u0002",
+      ")"
+    ],
+    "PokemonBoxItemPopupCell_Num": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxItemPopupCell_UseButton": [
+      "Utiliser"
+    ],
+    "PokemonBoxItemPopup_Desc": [
+      "Inventaire"
+    ],
+    "PokemonBoxItemPopup_Header": [
+      "Sac"
+    ],
+    "PokemonBoxLevelupConfirmPopup_AfterNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxLevelupConfirmPopup_AfterNum_2": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "PokemonBoxLevelupConfirmPopup_BeforeNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxLevelupConfirmPopup_BeforeNum_2": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "PokemonBoxLevelupConfirmPopup_Desc": [
+      "Ces éléments seront utilisés. Continuer ?"
+    ],
+    "PokemonBoxLevelupConfirmPopup_Title_2": [
+      "\u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "PokemonBoxLevelupConfirmPopup_Title_3": [
+      "Fragments de Rêve"
+    ],
+    "PokemonBoxLevelupPopup_CandyNum": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002",
+      "\u000e",
+      "\u0003\u0004",
+      "＀\u000e",
+      "\u0003\u0004蚆ﾆ/\u000e",
+      "\u0003\u0004",
+      "＀\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "PokemonBoxLevelupPopup_CoinName": [
+      "Fragments de Rêve"
+    ],
+    "PokemonBoxLevelupPopup_CoinNum": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002",
+      "\u000e",
+      "\u0003\u0004",
+      "＀\u000e",
+      "\u0003\u0004蚆ﾆ/\u000e",
+      "\u0003\u0004",
+      "＀\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "PokemonBoxLevelupPopup_Header": [
+      "Niveau supérieur"
+    ],
+    "PokemonBoxLevelupPopup_Level": [
+      "N. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxLevelupPopup_NeedExpLabel": [
+      "Niveau suivant dans :"
+    ],
+    "PokemonBoxLevelupPopup_NeedExpNum": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "PokemonBoxLevelupPopup_NeedExpUnit": [
+      "EXP"
+    ],
+    "PokemonBoxLevelupPopup_OKButton": [
+      "Donner"
+    ],
+    "PokemonBoxLevelupPopup_RankCapMessage": [
+      "Impossible d'augmenter davantage\nle niveau de ce Pokémon à votre rang\nde recherche actuel !"
+    ],
+    "PokemonBoxLevelupPopup_Text_1": [
+      "Insuffisant"
+    ],
+    "PokemonBoxLevelupPopup_Text_2": [
+      "Vous n'avez pas suffisamment\nde Fragments de Rêve."
+    ],
+    "PokemonBoxLevelupPopup_UseCandyNumLabel": [
+      "Bonbons :"
+    ],
+    "PokemonBoxReleaseConfirmPopup_Desc": [
+      "Cette action est irréversible."
+    ],
+    "PokemonBoxReleaseConfirmPopup_Text_1": [
+      "Envoyer ces \u000e\u0002\u0002\u0002",
+      " Pokémon\nau Pr. Néroli ?"
+    ],
+    "PokemonBoxReleaseConfirmPopup_Text_2": [
+      "Envoyer ce Pokémon au Pr. Néroli ?"
+    ],
+    "PokemonBoxRelease_ItemGetPopup_Headline_Title": [
+      "Récompense du Professeur reçue !"
+    ],
+    "PokemonBoxRelease_ItemGetPopup_Title": [
+      "Terminé"
+    ],
+    "PokemonBoxSceneController_Text_1": [
+      "Trier par : \u000e\u0003\u0005\u0002",
+      ""
+    ],
+    "PokemonBoxScene_Content_Desc": [
+      "Passez en revue vos Pokémon amis."
+    ],
+    "PokemonBoxScene_Content_Title": [
+      "Boîte Pokémon"
+    ],
+    "PokemonBoxScene_Header_BoxCount": [
+      "\u000e\u0002\u0002\u0002",
+      "/\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "PokemonBoxScene_Header_ExpandButton": [
+      "Agrandir"
+    ],
+    "PokemonBoxScene_Header_Title": [
+      "Boîte Pokémon"
+    ],
+    "PokemonBoxSortPopup_Title": [
+      "Trier les Pokémon"
+    ],
+    "PokemonBoxSortPopup_Title_2": [
+      "Choissisez un critère de tri"
+    ],
+    "PokemonBox_ItemUseNum": [
+      "\u000e\u0002\u0006\u0004",
+      "촁"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 92,
+        "size": 648,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 47,
+        "size": 3708,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              77,
+              "EvolutionSelectPopup_SelectButton"
+            ],
+            [
+              89,
+              "PokemonBoxCannotReleasePopup_Desc_Sub_3"
+            ]
+          ],
+          458
+        ],
+        [
+          [
+            [
+              61,
+              "PokemonBoxSortPopup_Title"
+            ],
+            [
+              74,
+              "EvolutionSelectPopup_Title"
+            ],
+            [
+              82,
+              "PokemonBox_ItemUseNum"
+            ]
+          ],
+          545
+        ],
+        [
+          [],
+          545
+        ],
+        [
+          [
+            [
+              64,
+              "EvolutionPopup_TargetLabel"
+            ]
+          ],
+          576
+        ],
+        [
+          [
+            [
+              1,
+              "PokemonBoxCannotReleaseBalloon_Text_1"
+            ],
+            [
+              28,
+              "PokemonBoxFilterPopup_Title_FilterNum"
+            ]
+          ],
+          660
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonBoxCannotReleaseBalloon_Text_2"
+            ]
+          ],
+          702
+        ],
+        [
+          [
+            [
+              23,
+              "PokemonBoxScene_Header_BoxCount"
+            ],
+            [
+              86,
+              "PokemonBoxCannotReleasePopup_Desc_Top"
+            ],
+            [
+              91,
+              "PokemonBoxFilterPopup_LikeBerryButton"
+            ]
+          ],
+          822
+        ],
+        [
+          [
+            [
+              19,
+              "PokemonBoxScene_Content_Title"
+            ]
+          ],
+          856
+        ],
+        [
+          [
+            [
+              25,
+              "PokemonBoxCell_Level"
+            ]
+          ],
+          881
+        ],
+        [
+          [
+            [
+              31,
+              "PokemonBoxFilterPopup_Placeholder"
+            ],
+            [
+              46,
+              "PokemonBoxLevelupConfirmPopup_AfterNum"
+            ],
+            [
+              53,
+              "PokemonBoxLevelupPopup_NeedExpUnit"
+            ]
+          ],
+          1001
+        ],
+        [
+          [
+            [
+              90,
+              "PokemonBoxItemPopupCell_UseButton"
+            ]
+          ],
+          1039
+        ],
+        [
+          [
+            [
+              12,
+              "PokemonBoxReleaseConfirmPopup_Text_1"
+            ],
+            [
+              44,
+              "PokemonBoxLevelupConfirmPopup_Title_2"
+            ],
+            [
+              68,
+              "EvolutionPopup_SectionHeader_Condition"
+            ]
+          ],
+          1165
+        ],
+        [
+          [
+            [
+              13,
+              "PokemonBoxReleaseConfirmPopup_Text_2"
+            ],
+            [
+              47,
+              "PokemonBoxLevelupConfirmPopup_Title_3"
+            ]
+          ],
+          1248
+        ],
+        [
+          [
+            [
+              52,
+              "PokemonBoxLevelupPopup_NeedExpLabel"
+            ],
+            [
+              59,
+              "PokemonBoxLevelupPopup_OKButton"
+            ],
+            [
+              76,
+              "EvolutionSelectPopup_DetailButton"
+            ]
+          ],
+          1362
+        ],
+        [
+          [
+            [
+              70,
+              "EvolutionPopup_CellLabel_Rank"
+            ]
+          ],
+          1396
+        ],
+        [
+          [],
+          1396
+        ],
+        [
+          [
+            [
+              22,
+              "PokemonBoxScene_Header_ExpandButton"
+            ],
+            [
+              26,
+              "PokemonBoxCell_Level_title"
+            ],
+            [
+              51,
+              "PokemonBoxLevelupPopup_Level"
+            ]
+          ],
+          1500
+        ],
+        [
+          [],
+          1500
+        ],
+        [
+          [
+            [
+              27,
+              "PokemonBoxFilterPopup_Title"
+            ],
+            [
+              54,
+              "PokemonBoxLevelupPopup_NeedExpNum"
+            ]
+          ],
+          1570
+        ],
+        [
+          [
+            [
+              24,
+              "PokemonBoxCannotReleasePopup_Title"
+            ],
+            [
+              48,
+              "PokemonBoxLevelupConfirmPopup_BeforeNum_2"
+            ],
+            [
+              65,
+              "EvolutionPopup_TargetUnknown"
+            ]
+          ],
+          1688
+        ],
+        [
+          [
+            [
+              45,
+              "PokemonBoxLevelupConfirmPopup_BeforeNum"
+            ],
+            [
+              71,
+              "EvolutionPopup_CellLabel_Num"
+            ],
+            [
+              75,
+              "EvolutionSelectPopup_SectionHeader_Select"
+            ]
+          ],
+          1811
+        ],
+        [
+          [
+            [
+              15,
+              "PokemonBoxCannotReleaseSelectPopup_Message"
+            ],
+            [
+              57,
+              "PokemonBoxLevelupPopup_CoinNum"
+            ]
+          ],
+          1893
+        ],
+        [
+          [
+            [
+              14,
+              "PokemonBoxCannotReleaseSelectPopup_Title"
+            ],
+            [
+              85,
+              "PokemonBoxRelease_ItemGetPopup_Headline_Title"
+            ]
+          ],
+          1988
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonBoxSceneController_Text_1"
+            ]
+          ],
+          2025
+        ],
+        [
+          [],
+          2025
+        ],
+        [
+          [
+            [
+              16,
+              "PokemonBoxDetailSkillView_Text_1"
+            ],
+            [
+              55,
+              "PokemonBoxLevelupPopup_CandyNum"
+            ],
+            [
+              58,
+              "PokemonBoxLevelupPopup_RankCapMessage"
+            ]
+          ],
+          2140
+        ],
+        [
+          [
+            [
+              3,
+              "PokemonBoxCell_Text_1"
+            ],
+            [
+              11,
+              "PokemonBoxFooterReleaseView_Text_1"
+            ],
+            [
+              20,
+              "PokemonBoxScene_Content_Desc"
+            ],
+            [
+              41,
+              "PokemonBoxItemPopup_Desc"
+            ],
+            [
+              43,
+              "PokemonBoxLevelupConfirmPopup_Desc"
+            ]
+          ],
+          2306
+        ],
+        [
+          [
+            [
+              4,
+              "PokemonBoxCell_Text_2"
+            ],
+            [
+              29,
+              "PokemonBoxFilterPopup_ResetButton"
+            ],
+            [
+              32,
+              "PokemonBoxFilterPopup_Desc_2"
+            ],
+            [
+              49,
+              "PokemonBoxLevelupConfirmPopup_AfterNum_2"
+            ],
+            [
+              78,
+              "EvolutionEvolveStaging_1"
+            ]
+          ],
+          2477
+        ],
+        [
+          [
+            [
+              33,
+              "PokemonBoxFilterPopup_Desc_3"
+            ],
+            [
+              79,
+              "EvolutionEvolveStaging_2"
+            ],
+            [
+              83,
+              "PokemonBoxCell_SP_title"
+            ]
+          ],
+          2567
+        ],
+        [
+          [
+            [
+              37,
+              "PokemonBoxFilterPopup_Desc_4"
+            ],
+            [
+              50,
+              "PokemonBoxLevelupPopup_Header"
+            ],
+            [
+              80,
+              "EvolutionEvolveStaging_3"
+            ]
+          ],
+          2663
+        ],
+        [
+          [
+            [
+              38,
+              "PokemonBoxFilterPopup_Desc_5"
+            ]
+          ],
+          2696
+        ],
+        [
+          [
+            [
+              5,
+              "PokemonBoxExpandButton_Text_1"
+            ],
+            [
+              39,
+              "PokemonBoxFilterPopup_Desc_6"
+            ],
+            [
+              63,
+              "EvolutionPopup_Title"
+            ]
+          ],
+          2788
+        ],
+        [
+          [
+            [
+              6,
+              "PokemonBoxExpandButton_Text_2"
+            ]
+          ],
+          2822
+        ],
+        [
+          [
+            [
+              7,
+              "PokemonBoxExpandButton_Text_3"
+            ],
+            [
+              69,
+              "EvolutionPopup_EvolveButton"
+            ],
+            [
+              81,
+              "PokemonBoxLevelupPopup_UseCandyNumLabel"
+            ]
+          ],
+          2932
+        ],
+        [
+          [
+            [
+              8,
+              "PokemonBoxExpandButton_Text_4"
+            ]
+          ],
+          2966
+        ],
+        [
+          [
+            [
+              66,
+              "EvolutionPopup_Conditions_OK"
+            ]
+          ],
+          2999
+        ],
+        [
+          [
+            [
+              9,
+              "PokemonBoxExpandButton_Text_6"
+            ],
+            [
+              67,
+              "EvolutionPopup_Conditions_NG"
+            ],
+            [
+              73,
+              "EvolutionConfirmPopup_Desc"
+            ]
+          ],
+          3097
+        ],
+        [
+          [
+            [
+              62,
+              "PokemonBoxSortPopup_Title_2"
+            ]
+          ],
+          3129
+        ],
+        [
+          [
+            [
+              10,
+              "PokemonBoxExpandButton_Text_8"
+            ],
+            [
+              21,
+              "PokemonBoxScene_Header_Title"
+            ],
+            [
+              40,
+              "PokemonBoxItemPopup_Header"
+            ]
+          ],
+          3227
+        ],
+        [
+          [
+            [
+              30,
+              "PokemonBoxFilterPopup_Desc"
+            ]
+          ],
+          3258
+        ],
+        [
+          [
+            [
+              17,
+              "PokemonBoxLevelupPopup_Text_1"
+            ]
+          ],
+          3292
+        ],
+        [
+          [
+            [
+              18,
+              "PokemonBoxLevelupPopup_Text_2"
+            ],
+            [
+              60,
+              "PokemonBoxReleaseConfirmPopup_Desc"
+            ]
+          ],
+          3365
+        ],
+        [
+          [
+            [
+              84,
+              "PokemonBoxRelease_ItemGetPopup_Title"
+            ]
+          ],
+          3406
+        ],
+        [
+          [],
+          3406
+        ],
+        [
+          [
+            [
+              34,
+              "PokemonBoxFilterPopup_TypeName_4"
+            ]
+          ],
+          3443
+        ],
+        [
+          [
+            [
+              35,
+              "PokemonBoxFilterPopup_TypeName_5"
+            ],
+            [
+              87,
+              "PokemonBoxCannotReleasePopup_Desc_Sub_1"
+            ]
+          ],
+          3524
+        ],
+        [
+          [
+            [
+              36,
+              "PokemonBoxFilterPopup_TypeName_6"
+            ],
+            [
+              42,
+              "PokemonBoxItemPopupCell_Num"
+            ],
+            [
+              56,
+              "PokemonBoxLevelupPopup_CoinName"
+            ],
+            [
+              72,
+              "EvolutionPopup_CellLabel_Hours"
+            ],
+            [
+              88,
+              "PokemonBoxCannotReleasePopup_Desc_Sub_2"
+            ]
+          ],
+          3708
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 92,
+        "size": 4726,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

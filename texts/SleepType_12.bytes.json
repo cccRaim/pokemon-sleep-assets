@@ -1,0 +1,93 @@
+{
+  "strings": {
+    "SleepType_0": [
+      "Slumbering"
+    ],
+    "SleepType_1": [
+      "Snoozing"
+    ],
+    "SleepType_4": [
+      "Dozing"
+    ],
+    "SleepType_99": [
+      "Balanced"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 4,
+        "size": 32,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 89,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "SleepType_99"
+            ],
+            [
+              1,
+              "SleepType_4"
+            ],
+            [
+              2,
+              "SleepType_1"
+            ]
+          ],
+          73
+        ],
+        [
+          [],
+          73
+        ],
+        [
+          [
+            [
+              3,
+              "SleepType_0"
+            ]
+          ],
+          89
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 4,
+        "size": 88,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

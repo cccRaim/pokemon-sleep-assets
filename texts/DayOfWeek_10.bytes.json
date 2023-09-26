@@ -1,0 +1,204 @@
+{
+  "strings": {
+    "DayOfWeek_Full_0": [
+      "domingo"
+    ],
+    "DayOfWeek_Full_1": [
+      "lunes"
+    ],
+    "DayOfWeek_Full_2": [
+      "martes"
+    ],
+    "DayOfWeek_Full_3": [
+      "miércoles"
+    ],
+    "DayOfWeek_Full_4": [
+      "jueves"
+    ],
+    "DayOfWeek_Full_5": [
+      "viernes"
+    ],
+    "DayOfWeek_Full_6": [
+      "sábado"
+    ],
+    "DayOfWeek_Short_0": [
+      "dom."
+    ],
+    "DayOfWeek_Short_1": [
+      "lun."
+    ],
+    "DayOfWeek_Short_2": [
+      "mar."
+    ],
+    "DayOfWeek_Short_3": [
+      "miérc."
+    ],
+    "DayOfWeek_Short_4": [
+      "juev."
+    ],
+    "DayOfWeek_Short_5": [
+      "vier."
+    ],
+    "DayOfWeek_Short_6": [
+      "sáb."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 14,
+        "size": 102,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 389,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              4,
+              "DayOfWeek_Full_4"
+            ],
+            [
+              7,
+              "DayOfWeek_Short_0"
+            ]
+          ],
+          131
+        ],
+        [
+          [
+            [
+              5,
+              "DayOfWeek_Full_5"
+            ],
+            [
+              8,
+              "DayOfWeek_Short_1"
+            ]
+          ],
+          174
+        ],
+        [
+          [
+            [
+              6,
+              "DayOfWeek_Full_6"
+            ],
+            [
+              9,
+              "DayOfWeek_Short_2"
+            ]
+          ],
+          217
+        ],
+        [
+          [
+            [
+              10,
+              "DayOfWeek_Short_3"
+            ]
+          ],
+          239
+        ],
+        [
+          [
+            [
+              11,
+              "DayOfWeek_Short_4"
+            ]
+          ],
+          261
+        ],
+        [
+          [
+            [
+              12,
+              "DayOfWeek_Short_5"
+            ]
+          ],
+          283
+        ],
+        [
+          [
+            [
+              13,
+              "DayOfWeek_Short_6"
+            ]
+          ],
+          305
+        ],
+        [
+          [
+            [
+              0,
+              "DayOfWeek_Full_0"
+            ]
+          ],
+          326
+        ],
+        [
+          [
+            [
+              1,
+              "DayOfWeek_Full_1"
+            ]
+          ],
+          347
+        ],
+        [
+          [
+            [
+              2,
+              "DayOfWeek_Full_2"
+            ]
+          ],
+          368
+        ],
+        [
+          [
+            [
+              3,
+              "DayOfWeek_Full_3"
+            ]
+          ],
+          389
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 14,
+        "size": 240,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

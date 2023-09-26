@@ -1,0 +1,118 @@
+{
+  "strings": {
+    "md_event_item_packs_name_1": [
+      "Limitiertes Meisterkeks-Set"
+    ],
+    "md_event_item_packs_name_2": [
+      "100-Millionen-Downloads-Set"
+    ],
+    "md_event_item_packs_name_3": [
+      "Limitiertes Guter-Schlaf-Tag-Set"
+    ],
+    "md_event_item_packs_name_4": [
+      "Veröffentlichungsfeier-Set S"
+    ],
+    "md_event_item_packs_name_5": [
+      "Halloween-Set"
+    ],
+    "md_event_item_packs_name_6": [
+      "Veröffentlichungsfeier-Set M"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 226,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "md_event_item_packs_name_1"
+            ],
+            [
+              5,
+              "md_event_item_packs_name_6"
+            ]
+          ],
+          102
+        ],
+        [
+          [
+            [
+              1,
+              "md_event_item_packs_name_2"
+            ]
+          ],
+          133
+        ],
+        [
+          [
+            [
+              2,
+              "md_event_item_packs_name_3"
+            ]
+          ],
+          164
+        ],
+        [
+          [
+            [
+              3,
+              "md_event_item_packs_name_4"
+            ]
+          ],
+          195
+        ],
+        [
+          [
+            [
+              4,
+              "md_event_item_packs_name_5"
+            ]
+          ],
+          226
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 346,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,1493 @@
+{
+  "strings": {
+    "cleard_message_1": [
+      "\u000e\u0002\u0003\u0004",
+      "촁隻 達成"
+    ],
+    "cleard_message_10": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_11": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_12": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_13": [
+      "等級\u000e\u0002\u0002\u0002",
+      " 達成"
+    ],
+    "cleard_message_14": [
+      "隊伍SP \u000e\u0002\u0004\u0004",
+      "촁 達成"
+    ],
+    "cleard_message_15": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_16": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_17": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_18": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_19": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_2": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_20": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_21": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_22": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_23": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_24": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_25": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_26": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_27": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_28": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_29": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_3": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_30": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_31": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_32": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_33": [
+      "\u000e\u0003\u0007\u0004Ā촀 達成！"
+    ],
+    "cleard_message_34": [
+      "\u000e\u0003\u0007\u0004Ā촀 達成！"
+    ],
+    "cleard_message_35": [
+      "\u000e\u0003\u0007\u0004Ā촀 達成！"
+    ],
+    "cleard_message_36": [
+      "\u000e\u0003\u0007\u0004Ā촀 達成！"
+    ],
+    "cleard_message_37": [
+      "\u000e\u0003\u0007\u0004Ā촀 達成！"
+    ],
+    "cleard_message_38": [
+      "\u000e\u0003\u0007\u0004Ā촀 達成！"
+    ],
+    "cleard_message_39": [
+      "\u000e\u0003\u0007\u0004Ā촀 達成！"
+    ],
+    "cleard_message_4": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_5": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_6": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_7": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_8": [
+      "\u000e\u0002\u0004\u0004",
+      "촁次 達成"
+    ],
+    "cleard_message_9": [
+      "\u000e\u0002\u0004\u0004",
+      "촁小時 達成"
+    ],
+    "md_achievements_desc_1": [
+      "到目前為止成為夥伴的\n寶可夢數合計"
+    ],
+    "md_achievements_desc_10": [
+      "睡眠分數在\n80分以上的次數"
+    ],
+    "md_achievements_desc_11": [
+      "在上次的就寢時刻\n前後30分鐘內就寢的次數"
+    ],
+    "md_achievements_desc_12": [
+      "在上次起床的時刻\n前後30分鐘內起床的次數"
+    ],
+    "md_achievements_desc_13": [
+      "將\u000e\u0002\u0002\u0002",
+      "隻寶可夢\n提升至指定等級"
+    ],
+    "md_achievements_desc_14": [
+      "以指定的隊伍SP\n進行睡眠研究"
+    ],
+    "md_achievements_desc_15": [
+      "研究過的一般屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_16": [
+      "研究過的火屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_17": [
+      "研究過的水屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_18": [
+      "研究過的電屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_19": [
+      "研究過的草屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_2": [
+      "餵食卡比獸\n牠喜歡的樹果的數量"
+    ],
+    "md_achievements_desc_20": [
+      "研究過的冰屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_21": [
+      "研究過的格鬥屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_22": [
+      "研究過的毒屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_23": [
+      "研究過的地面屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_24": [
+      "研究過的飛行屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_25": [
+      "研究過的超能力屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_26": [
+      "研究過的蟲屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_27": [
+      "研究過的岩石屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_28": [
+      "研究過的幽靈屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_29": [
+      "研究過的龍屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_3": [
+      "為卡比獸\n製作料理的次數"
+    ],
+    "md_achievements_desc_30": [
+      "研究過的惡屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_31": [
+      "研究過的鋼屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_32": [
+      "研究過的妖精屬性\n寶可夢的數量"
+    ],
+    "md_achievements_desc_33": [
+      "萌綠之島的卡比獸評價"
+    ],
+    "md_achievements_desc_34": [
+      "天青沙灘的卡比獸評價"
+    ],
+    "md_achievements_desc_35": [
+      "灰褐洞窟的卡比獸評價"
+    ],
+    "md_achievements_desc_36": [
+      "白花雪原的卡比獸評價"
+    ],
+    "md_achievements_desc_4": [
+      "幫手寶可夢\n使用主技能的次數"
+    ],
+    "md_achievements_desc_5": [
+      "提升寶可夢的等級的\n糖果使用數"
+    ],
+    "md_achievements_desc_6": [
+      "讓夥伴寶可夢進化的次數"
+    ],
+    "md_achievements_desc_7": [
+      "到目前為止在睡眠研究時\n使用的薰香數"
+    ],
+    "md_achievements_desc_8": [
+      "達成就寢約定，\n獲得集章的次數"
+    ],
+    "md_achievements_desc_9": [
+      "測量到的睡眠時間合計"
+    ],
+    "md_achievements_name_1": [
+      "成為夥伴的寶可夢數"
+    ],
+    "md_achievements_name_10": [
+      "睡眠分數80分以上"
+    ],
+    "md_achievements_name_11": [
+      "有規律的就寢時刻"
+    ],
+    "md_achievements_name_12": [
+      "有規律的起床時刻"
+    ],
+    "md_achievements_name_13": [
+      "寶可夢等級提升"
+    ],
+    "md_achievements_name_14": [
+      "隊伍SP"
+    ],
+    "md_achievements_name_15": [
+      "一般屬性"
+    ],
+    "md_achievements_name_16": [
+      "火屬性"
+    ],
+    "md_achievements_name_17": [
+      "水屬性"
+    ],
+    "md_achievements_name_18": [
+      "電屬性"
+    ],
+    "md_achievements_name_19": [
+      "草屬性"
+    ],
+    "md_achievements_name_2": [
+      "喜歡的樹果數"
+    ],
+    "md_achievements_name_20": [
+      "冰屬性"
+    ],
+    "md_achievements_name_21": [
+      "格鬥屬性"
+    ],
+    "md_achievements_name_22": [
+      "毒屬性"
+    ],
+    "md_achievements_name_23": [
+      "地面屬性"
+    ],
+    "md_achievements_name_24": [
+      "飛行屬性"
+    ],
+    "md_achievements_name_25": [
+      "超能力屬性"
+    ],
+    "md_achievements_name_26": [
+      "蟲屬性"
+    ],
+    "md_achievements_name_27": [
+      "岩石屬性"
+    ],
+    "md_achievements_name_28": [
+      "幽靈屬性"
+    ],
+    "md_achievements_name_29": [
+      "龍屬性"
+    ],
+    "md_achievements_name_3": [
+      "料理的次數"
+    ],
+    "md_achievements_name_30": [
+      "惡屬性"
+    ],
+    "md_achievements_name_31": [
+      "鋼屬性"
+    ],
+    "md_achievements_name_32": [
+      "妖精屬性"
+    ],
+    "md_achievements_name_33": [
+      "萌綠之島"
+    ],
+    "md_achievements_name_34": [
+      "天青沙灘"
+    ],
+    "md_achievements_name_35": [
+      "灰褐洞窟"
+    ],
+    "md_achievements_name_36": [
+      "白花雪原"
+    ],
+    "md_achievements_name_4": [
+      "主技能的使用次數"
+    ],
+    "md_achievements_name_5": [
+      "使用的糖果數"
+    ],
+    "md_achievements_name_6": [
+      "進化的次數"
+    ],
+    "md_achievements_name_7": [
+      "使用的薰香數"
+    ],
+    "md_achievements_name_8": [
+      "就寢約定"
+    ],
+    "md_achievements_name_9": [
+      "合計睡眠時間"
+    ],
+    "md_achievements_short_name_1": [
+      "成為夥伴的數量"
+    ],
+    "md_achievements_short_name_10": [
+      "睡眠分數80分"
+    ],
+    "md_achievements_short_name_11": [
+      "就寢時刻"
+    ],
+    "md_achievements_short_name_12": [
+      "起床時刻"
+    ],
+    "md_achievements_short_name_13": [
+      "寶可夢等級"
+    ],
+    "md_achievements_short_name_14": [
+      "隊伍SP"
+    ],
+    "md_achievements_short_name_15": [
+      "一般"
+    ],
+    "md_achievements_short_name_16": [
+      "火"
+    ],
+    "md_achievements_short_name_17": [
+      "水"
+    ],
+    "md_achievements_short_name_18": [
+      "電"
+    ],
+    "md_achievements_short_name_19": [
+      "草"
+    ],
+    "md_achievements_short_name_2": [
+      "喜歡的樹果數"
+    ],
+    "md_achievements_short_name_20": [
+      "冰"
+    ],
+    "md_achievements_short_name_21": [
+      "格鬥"
+    ],
+    "md_achievements_short_name_22": [
+      "毒"
+    ],
+    "md_achievements_short_name_23": [
+      "地面"
+    ],
+    "md_achievements_short_name_24": [
+      "飛行"
+    ],
+    "md_achievements_short_name_25": [
+      "超能力"
+    ],
+    "md_achievements_short_name_26": [
+      "蟲"
+    ],
+    "md_achievements_short_name_27": [
+      "岩石"
+    ],
+    "md_achievements_short_name_28": [
+      "幽靈"
+    ],
+    "md_achievements_short_name_29": [
+      "龍"
+    ],
+    "md_achievements_short_name_3": [
+      "料理的次數"
+    ],
+    "md_achievements_short_name_30": [
+      "惡"
+    ],
+    "md_achievements_short_name_31": [
+      "鋼"
+    ],
+    "md_achievements_short_name_32": [
+      "妖精"
+    ],
+    "md_achievements_short_name_33": [
+      "萌綠之島"
+    ],
+    "md_achievements_short_name_34": [
+      "天青沙灘"
+    ],
+    "md_achievements_short_name_35": [
+      "灰褐洞窟"
+    ],
+    "md_achievements_short_name_36": [
+      "白花雪原"
+    ],
+    "md_achievements_short_name_4": [
+      "主技能"
+    ],
+    "md_achievements_short_name_5": [
+      "使用的糖果數"
+    ],
+    "md_achievements_short_name_6": [
+      "進化的次數"
+    ],
+    "md_achievements_short_name_7": [
+      "薰香數"
+    ],
+    "md_achievements_short_name_8": [
+      "就寢約定"
+    ],
+    "md_achievements_short_name_9": [
+      "睡眠時間"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 147,
+        "size": 1033,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 79,
+        "size": 4694,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              2,
+              "md_achievements_desc_1"
+            ],
+            [
+              64,
+              "md_achievements_short_name_22"
+            ]
+          ],
+          693
+        ],
+        [
+          [
+            [
+              5,
+              "md_achievements_desc_2"
+            ],
+            [
+              67,
+              "md_achievements_short_name_23"
+            ],
+            [
+              117,
+              "cleard_message_10"
+            ]
+          ],
+          776
+        ],
+        [
+          [
+            [
+              8,
+              "md_achievements_desc_3"
+            ],
+            [
+              70,
+              "md_achievements_short_name_24"
+            ],
+            [
+              118,
+              "cleard_message_11"
+            ]
+          ],
+          859
+        ],
+        [
+          [
+            [
+              11,
+              "md_achievements_desc_4"
+            ],
+            [
+              73,
+              "md_achievements_short_name_25"
+            ],
+            [
+              119,
+              "cleard_message_12"
+            ]
+          ],
+          942
+        ],
+        [
+          [
+            [
+              14,
+              "md_achievements_desc_5"
+            ],
+            [
+              76,
+              "md_achievements_short_name_26"
+            ],
+            [
+              120,
+              "cleard_message_13"
+            ]
+          ],
+          1025
+        ],
+        [
+          [
+            [
+              17,
+              "md_achievements_desc_6"
+            ],
+            [
+              29,
+              "md_achievements_desc_10"
+            ],
+            [
+              79,
+              "md_achievements_short_name_27"
+            ],
+            [
+              121,
+              "cleard_message_14"
+            ]
+          ],
+          1136
+        ],
+        [
+          [
+            [
+              20,
+              "md_achievements_desc_7"
+            ],
+            [
+              32,
+              "md_achievements_desc_11"
+            ],
+            [
+              82,
+              "md_achievements_short_name_28"
+            ],
+            [
+              122,
+              "cleard_message_15"
+            ]
+          ],
+          1247
+        ],
+        [
+          [
+            [
+              23,
+              "md_achievements_desc_8"
+            ],
+            [
+              35,
+              "md_achievements_desc_12"
+            ],
+            [
+              85,
+              "md_achievements_short_name_29"
+            ],
+            [
+              123,
+              "cleard_message_16"
+            ]
+          ],
+          1358
+        ],
+        [
+          [
+            [
+              26,
+              "md_achievements_desc_9"
+            ],
+            [
+              38,
+              "md_achievements_desc_13"
+            ],
+            [
+              124,
+              "cleard_message_17"
+            ]
+          ],
+          1435
+        ],
+        [
+          [
+            [
+              41,
+              "md_achievements_desc_14"
+            ],
+            [
+              125,
+              "cleard_message_18"
+            ]
+          ],
+          1485
+        ],
+        [
+          [
+            [
+              44,
+              "md_achievements_desc_15"
+            ],
+            [
+              126,
+              "cleard_message_19"
+            ]
+          ],
+          1535
+        ],
+        [
+          [
+            [
+              47,
+              "md_achievements_desc_16"
+            ]
+          ],
+          1563
+        ],
+        [
+          [
+            [
+              50,
+              "md_achievements_desc_17"
+            ]
+          ],
+          1591
+        ],
+        [
+          [
+            [
+              28,
+              "md_achievements_short_name_10"
+            ],
+            [
+              53,
+              "md_achievements_desc_18"
+            ]
+          ],
+          1653
+        ],
+        [
+          [
+            [
+              31,
+              "md_achievements_short_name_11"
+            ],
+            [
+              56,
+              "md_achievements_desc_19"
+            ]
+          ],
+          1715
+        ],
+        [
+          [
+            [
+              34,
+              "md_achievements_short_name_12"
+            ]
+          ],
+          1749
+        ],
+        [
+          [
+            [
+              37,
+              "md_achievements_short_name_13"
+            ]
+          ],
+          1783
+        ],
+        [
+          [
+            [
+              40,
+              "md_achievements_short_name_14"
+            ]
+          ],
+          1817
+        ],
+        [
+          [
+            [
+              43,
+              "md_achievements_short_name_15"
+            ]
+          ],
+          1851
+        ],
+        [
+          [
+            [
+              46,
+              "md_achievements_short_name_16"
+            ]
+          ],
+          1885
+        ],
+        [
+          [
+            [
+              49,
+              "md_achievements_short_name_17"
+            ]
+          ],
+          1919
+        ],
+        [
+          [
+            [
+              52,
+              "md_achievements_short_name_18"
+            ]
+          ],
+          1953
+        ],
+        [
+          [
+            [
+              55,
+              "md_achievements_short_name_19"
+            ]
+          ],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [],
+          1987
+        ],
+        [
+          [
+            [
+              87,
+              "md_achievements_name_30"
+            ]
+          ],
+          2015
+        ],
+        [
+          [
+            [
+              90,
+              "md_achievements_name_31"
+            ]
+          ],
+          2043
+        ],
+        [
+          [
+            [
+              93,
+              "md_achievements_name_32"
+            ]
+          ],
+          2071
+        ],
+        [
+          [
+            [
+              96,
+              "md_achievements_name_33"
+            ]
+          ],
+          2099
+        ],
+        [
+          [
+            [
+              1,
+              "md_achievements_short_name_1"
+            ],
+            [
+              99,
+              "md_achievements_name_34"
+            ]
+          ],
+          2160
+        ],
+        [
+          [
+            [
+              4,
+              "md_achievements_short_name_2"
+            ],
+            [
+              102,
+              "md_achievements_name_35"
+            ]
+          ],
+          2221
+        ],
+        [
+          [
+            [
+              0,
+              "md_achievements_name_1"
+            ],
+            [
+              7,
+              "md_achievements_short_name_3"
+            ],
+            [
+              105,
+              "md_achievements_name_36"
+            ]
+          ],
+          2309
+        ],
+        [
+          [
+            [
+              3,
+              "md_achievements_name_2"
+            ],
+            [
+              10,
+              "md_achievements_short_name_4"
+            ]
+          ],
+          2369
+        ],
+        [
+          [
+            [
+              6,
+              "md_achievements_name_3"
+            ],
+            [
+              13,
+              "md_achievements_short_name_5"
+            ]
+          ],
+          2429
+        ],
+        [
+          [
+            [
+              9,
+              "md_achievements_name_4"
+            ],
+            [
+              16,
+              "md_achievements_short_name_6"
+            ]
+          ],
+          2489
+        ],
+        [
+          [
+            [
+              12,
+              "md_achievements_name_5"
+            ],
+            [
+              19,
+              "md_achievements_short_name_7"
+            ]
+          ],
+          2549
+        ],
+        [
+          [
+            [
+              15,
+              "md_achievements_name_6"
+            ],
+            [
+              22,
+              "md_achievements_short_name_8"
+            ]
+          ],
+          2609
+        ],
+        [
+          [
+            [
+              18,
+              "md_achievements_name_7"
+            ],
+            [
+              25,
+              "md_achievements_short_name_9"
+            ],
+            [
+              137,
+              "cleard_message_30"
+            ]
+          ],
+          2691
+        ],
+        [
+          [
+            [
+              21,
+              "md_achievements_name_8"
+            ],
+            [
+              138,
+              "cleard_message_31"
+            ]
+          ],
+          2740
+        ],
+        [
+          [
+            [
+              24,
+              "md_achievements_name_9"
+            ],
+            [
+              139,
+              "cleard_message_32"
+            ]
+          ],
+          2789
+        ],
+        [
+          [
+            [
+              57,
+              "md_achievements_name_20"
+            ],
+            [
+              140,
+              "cleard_message_33"
+            ]
+          ],
+          2839
+        ],
+        [
+          [
+            [
+              60,
+              "md_achievements_name_21"
+            ],
+            [
+              89,
+              "md_achievements_desc_30"
+            ],
+            [
+              141,
+              "cleard_message_34"
+            ]
+          ],
+          2917
+        ],
+        [
+          [
+            [
+              63,
+              "md_achievements_name_22"
+            ],
+            [
+              92,
+              "md_achievements_desc_31"
+            ],
+            [
+              108,
+              "cleard_message_1"
+            ],
+            [
+              142,
+              "cleard_message_35"
+            ]
+          ],
+          3016
+        ],
+        [
+          [
+            [
+              66,
+              "md_achievements_name_23"
+            ],
+            [
+              95,
+              "md_achievements_desc_32"
+            ],
+            [
+              109,
+              "cleard_message_2"
+            ],
+            [
+              143,
+              "cleard_message_36"
+            ]
+          ],
+          3115
+        ],
+        [
+          [
+            [
+              69,
+              "md_achievements_name_24"
+            ],
+            [
+              98,
+              "md_achievements_desc_33"
+            ],
+            [
+              110,
+              "cleard_message_3"
+            ],
+            [
+              144,
+              "cleard_message_37"
+            ]
+          ],
+          3214
+        ],
+        [
+          [
+            [
+              72,
+              "md_achievements_name_25"
+            ],
+            [
+              101,
+              "md_achievements_desc_34"
+            ],
+            [
+              111,
+              "cleard_message_4"
+            ],
+            [
+              145,
+              "cleard_message_38"
+            ]
+          ],
+          3313
+        ],
+        [
+          [
+            [
+              75,
+              "md_achievements_name_26"
+            ],
+            [
+              104,
+              "md_achievements_desc_35"
+            ],
+            [
+              112,
+              "cleard_message_5"
+            ],
+            [
+              146,
+              "cleard_message_39"
+            ]
+          ],
+          3412
+        ],
+        [
+          [
+            [
+              78,
+              "md_achievements_name_27"
+            ],
+            [
+              107,
+              "md_achievements_desc_36"
+            ],
+            [
+              113,
+              "cleard_message_6"
+            ]
+          ],
+          3489
+        ],
+        [
+          [
+            [
+              81,
+              "md_achievements_name_28"
+            ],
+            [
+              114,
+              "cleard_message_7"
+            ]
+          ],
+          3538
+        ],
+        [
+          [
+            [
+              84,
+              "md_achievements_name_29"
+            ],
+            [
+              88,
+              "md_achievements_short_name_30"
+            ],
+            [
+              115,
+              "cleard_message_8"
+            ]
+          ],
+          3621
+        ],
+        [
+          [
+            [
+              91,
+              "md_achievements_short_name_31"
+            ],
+            [
+              116,
+              "cleard_message_9"
+            ]
+          ],
+          3676
+        ],
+        [
+          [
+            [
+              94,
+              "md_achievements_short_name_32"
+            ]
+          ],
+          3710
+        ],
+        [
+          [
+            [
+              97,
+              "md_achievements_short_name_33"
+            ],
+            [
+              127,
+              "cleard_message_20"
+            ]
+          ],
+          3766
+        ],
+        [
+          [
+            [
+              100,
+              "md_achievements_short_name_34"
+            ],
+            [
+              128,
+              "cleard_message_21"
+            ]
+          ],
+          3822
+        ],
+        [
+          [
+            [
+              103,
+              "md_achievements_short_name_35"
+            ],
+            [
+              129,
+              "cleard_message_22"
+            ]
+          ],
+          3878
+        ],
+        [
+          [
+            [
+              27,
+              "md_achievements_name_10"
+            ],
+            [
+              106,
+              "md_achievements_short_name_36"
+            ],
+            [
+              130,
+              "cleard_message_23"
+            ]
+          ],
+          3962
+        ],
+        [
+          [
+            [
+              30,
+              "md_achievements_name_11"
+            ],
+            [
+              59,
+              "md_achievements_desc_20"
+            ],
+            [
+              131,
+              "cleard_message_24"
+            ]
+          ],
+          4040
+        ],
+        [
+          [
+            [
+              33,
+              "md_achievements_name_12"
+            ],
+            [
+              62,
+              "md_achievements_desc_21"
+            ],
+            [
+              132,
+              "cleard_message_25"
+            ]
+          ],
+          4118
+        ],
+        [
+          [
+            [
+              36,
+              "md_achievements_name_13"
+            ],
+            [
+              65,
+              "md_achievements_desc_22"
+            ],
+            [
+              133,
+              "cleard_message_26"
+            ]
+          ],
+          4196
+        ],
+        [
+          [
+            [
+              39,
+              "md_achievements_name_14"
+            ],
+            [
+              68,
+              "md_achievements_desc_23"
+            ],
+            [
+              134,
+              "cleard_message_27"
+            ]
+          ],
+          4274
+        ],
+        [
+          [
+            [
+              42,
+              "md_achievements_name_15"
+            ],
+            [
+              71,
+              "md_achievements_desc_24"
+            ],
+            [
+              135,
+              "cleard_message_28"
+            ]
+          ],
+          4352
+        ],
+        [
+          [
+            [
+              45,
+              "md_achievements_name_16"
+            ],
+            [
+              74,
+              "md_achievements_desc_25"
+            ],
+            [
+              136,
+              "cleard_message_29"
+            ]
+          ],
+          4430
+        ],
+        [
+          [
+            [
+              48,
+              "md_achievements_name_17"
+            ],
+            [
+              77,
+              "md_achievements_desc_26"
+            ]
+          ],
+          4486
+        ],
+        [
+          [
+            [
+              51,
+              "md_achievements_name_18"
+            ],
+            [
+              80,
+              "md_achievements_desc_27"
+            ]
+          ],
+          4542
+        ],
+        [
+          [
+            [
+              54,
+              "md_achievements_name_19"
+            ],
+            [
+              58,
+              "md_achievements_short_name_20"
+            ],
+            [
+              83,
+              "md_achievements_desc_28"
+            ]
+          ],
+          4632
+        ],
+        [
+          [
+            [
+              61,
+              "md_achievements_short_name_21"
+            ],
+            [
+              86,
+              "md_achievements_desc_29"
+            ]
+          ],
+          4694
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 147,
+        "size": 3266,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

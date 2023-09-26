@@ -1,0 +1,205 @@
+{
+  "strings": {
+    "AchievementPopup_LevelMax": [
+      "Lv. MAX"
+    ],
+    "AchievementPopup_Progress": [
+      "\u000e\u0002\t\u0004",
+      "촁/\u000e\u0002\t\u0004\u0001촁"
+    ],
+    "AchievementPopup_RewardItemNum": [
+      "×\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "AchievementPopup_RewardItemNum_DiaVer": [
+      "×\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "AchievementPopup_SectionTileList": [
+      "Rewards"
+    ],
+    "AchievementPopup_Title": [
+      "Achievement Details"
+    ],
+    "AchievementUnlockPopup_AchievedNumLabel": [
+      "Medals received:"
+    ],
+    "AchievementUnlockPopup_AchievedNumValue": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "AchievementUnlockPopup_Desc": [
+      "You earned a medal and\nreceived rewards!"
+    ],
+    "AchievementUnlockPopup_Desc_plu": [
+      "You earned some medals\nand received rewards!"
+    ],
+    "AchievementUnlockPopup_HeadTitle": [
+      "Well Done!"
+    ],
+    "AchievementUnlockPopup_SectionTitle": [
+      "Achievements"
+    ],
+    "Achievement_LevelMax_Short": [
+      "MAX"
+    ],
+    "Achievement_Level_Value": [
+      "Lv. \u000e\u0002\u0002\u0002",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 14,
+        "size": 102,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 581,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          88
+        ],
+        [
+          [],
+          88
+        ],
+        [
+          [],
+          88
+        ],
+        [
+          [
+            [
+              2,
+              "AchievementPopup_Title"
+            ]
+          ],
+          115
+        ],
+        [
+          [
+            [
+              1,
+              "Achievement_Level_Value"
+            ],
+            [
+              7,
+              "AchievementPopup_RewardItemNum_DiaVer"
+            ],
+            [
+              12,
+              "AchievementUnlockPopup_Desc_plu"
+            ]
+          ],
+          221
+        ],
+        [
+          [],
+          221
+        ],
+        [
+          [
+            [
+              5,
+              "AchievementPopup_SectionTileList"
+            ]
+          ],
+          258
+        ],
+        [
+          [
+            [
+              0,
+              "Achievement_LevelMax_Short"
+            ],
+            [
+              6,
+              "AchievementPopup_RewardItemNum"
+            ]
+          ],
+          324
+        ],
+        [
+          [
+            [
+              8,
+              "AchievementUnlockPopup_HeadTitle"
+            ],
+            [
+              10,
+              "AchievementUnlockPopup_AchievedNumValue"
+            ]
+          ],
+          405
+        ],
+        [
+          [
+            [
+              3,
+              "AchievementPopup_LevelMax"
+            ],
+            [
+              4,
+              "AchievementPopup_Progress"
+            ],
+            [
+              9,
+              "AchievementUnlockPopup_AchievedNumLabel"
+            ],
+            [
+              11,
+              "AchievementUnlockPopup_Desc"
+            ]
+          ],
+          541
+        ],
+        [
+          [
+            [
+              13,
+              "AchievementUnlockPopup_SectionTitle"
+            ]
+          ],
+          581
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 14,
+        "size": 484,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

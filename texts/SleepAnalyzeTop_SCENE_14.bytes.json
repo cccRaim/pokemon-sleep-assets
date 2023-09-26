@@ -1,0 +1,100 @@
+{
+  "strings": {
+    "SleepAnalyzeTop_ContentDesc": [
+      "Vedi i risultati dettagliati dei dati del tuo sonno."
+    ],
+    "SleepAnalyzeTop_ContentTitle": [
+      "Andamento del sonno"
+    ],
+    "SleepAnalyzeTop_HeadTitle": [
+      "Andamento sonno"
+    ],
+    "SleepAnalyzeTop_RegularityButton": [
+      "Regolarità sonno"
+    ],
+    "SleepAnalyzeTop_StatisticButton": [
+      "Statistiche sonno"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 5,
+        "size": 39,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 192,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          24
+        ],
+        [
+          [
+            [
+              1,
+              "SleepAnalyzeTop_ContentTitle"
+            ],
+            [
+              2,
+              "SleepAnalyzeTop_ContentDesc"
+            ]
+          ],
+          89
+        ],
+        [
+          [
+            [
+              0,
+              "SleepAnalyzeTop_HeadTitle"
+            ],
+            [
+              3,
+              "SleepAnalyzeTop_RegularityButton"
+            ],
+            [
+              4,
+              "SleepAnalyzeTop_StatisticButton"
+            ]
+          ],
+          192
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 5,
+        "size": 268,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

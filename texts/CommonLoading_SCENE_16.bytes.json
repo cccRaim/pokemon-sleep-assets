@@ -1,0 +1,67 @@
+{
+  "strings": {
+    "CommonLoadingScene_Footer_Message": [
+      "Caricamento..."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 1,
+        "size": 11,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 2,
+        "size": 54,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          16
+        ],
+        [
+          [
+            [
+              0,
+              "CommonLoadingScene_Footer_Message"
+            ]
+          ],
+          54
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 1,
+        "size": 34,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

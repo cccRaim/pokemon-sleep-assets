@@ -1,0 +1,117 @@
+{
+  "strings": {
+    "NSBluetoothAlwaysUsageDescription": [
+      "Pokémon GO Plus +との通信で使用します"
+    ],
+    "NSBluetoothPeripheralUsageDescription": [
+      "Pokémon GO Plus +との通信で使用します"
+    ],
+    "NSCameraUsageDescription": [
+      "フレンドコードの読み取りのためにカメラを使用します"
+    ],
+    "NSMicrophoneUsageDescription": [
+      "睡眠計測をするためにマイクを使用します"
+    ],
+    "NSPhotoLibraryAddUsageDescription": [
+      "これにより、カメラロールに写真を\n保存できるようになります"
+    ],
+    "NSUserTrackingUsageDescription": [
+      "取得した広告識別子等の情報は、本サービスの利用に関する動向調査、本サービスの効果的な運営、不正行為防止のために使用されます"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 255,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "NSBluetoothPeripheralUsageDescription"
+            ]
+          ],
+          82
+        ],
+        [
+          [
+            [
+              2,
+              "NSUserTrackingUsageDescription"
+            ],
+            [
+              3,
+              "NSCameraUsageDescription"
+            ],
+            [
+              4,
+              "NSMicrophoneUsageDescription"
+            ]
+          ],
+          179
+        ],
+        [
+          [
+            [
+              0,
+              "NSBluetoothAlwaysUsageDescription"
+            ]
+          ],
+          217
+        ],
+        [
+          [
+            [
+              5,
+              "NSPhotoLibraryAddUsageDescription"
+            ]
+          ],
+          255
+        ],
+        [
+          [],
+          255
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 412,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

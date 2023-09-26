@@ -1,0 +1,117 @@
+{
+  "strings": {
+    "GPPTutorialScene_Content_Name": [
+      "Pulsante principale"
+    ],
+    "GPPTutorialScene_Content_NextButton": [
+      "Avanti"
+    ],
+    "GPPTutorialScene_Content_Number": [
+      "\u000e\u0002",
+      "\u0002촀"
+    ],
+    "GPPTutorialScene_Content_Outline": [
+      "In attesa di una tua azione..."
+    ],
+    "GPPTutorialScene_Footer_SkipButtonText": [
+      "Salta tutorial"
+    ],
+    "GPPTutorialScene_Header_Title": [
+      "Tutorial misurazione sonno"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 264,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "GPPTutorialScene_Content_Number"
+            ],
+            [
+              2,
+              "GPPTutorialScene_Content_Outline"
+            ],
+            [
+              3,
+              "GPPTutorialScene_Content_NextButton"
+            ],
+            [
+              5,
+              "GPPTutorialScene_Footer_SkipButtonText"
+            ]
+          ],
+          196
+        ],
+        [
+          [],
+          196
+        ],
+        [
+          [
+            [
+              0,
+              "GPPTutorialScene_Content_Name"
+            ]
+          ],
+          230
+        ],
+        [
+          [],
+          230
+        ],
+        [
+          [
+            [
+              4,
+              "GPPTutorialScene_Header_Title"
+            ]
+          ],
+          264
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 236,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "strings": {
+    "md_all_purpose_candies_desc_1": [
+      "Una caramellina speciale che si può \ntrasformare in qualsiasi caramella Pokémon."
+    ],
+    "md_all_purpose_candies_desc_2": [
+      "Una caramella speciale che può trasformarsi\nin qualunque caramella Pokémon."
+    ],
+    "md_all_purpose_candies_desc_3": [
+      "Una caramellona speciale che può trasformarsi\nin qualunque caramella Pokémon."
+    ],
+    "md_all_purpose_candies_name_1": [
+      "Supercaramella S"
+    ],
+    "md_all_purpose_candies_name_2": [
+      "Supercaramella M"
+    ],
+    "md_all_purpose_candies_name_3": [
+      "Supercaramella L"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 244,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              2,
+              "md_all_purpose_candies_name_3"
+            ]
+          ],
+          74
+        ],
+        [
+          [],
+          74
+        ],
+        [
+          [
+            [
+              3,
+              "md_all_purpose_candies_desc_1"
+            ]
+          ],
+          108
+        ],
+        [
+          [
+            [
+              0,
+              "md_all_purpose_candies_name_1"
+            ],
+            [
+              4,
+              "md_all_purpose_candies_desc_2"
+            ]
+          ],
+          176
+        ],
+        [
+          [
+            [
+              1,
+              "md_all_purpose_candies_name_2"
+            ],
+            [
+              5,
+              "md_all_purpose_candies_desc_3"
+            ]
+          ],
+          244
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 596,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

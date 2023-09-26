@@ -1,0 +1,298 @@
+{
+  "strings": {
+    "TutorialTopMenuPopup_Title_4": [
+      "ペアリングの解除"
+    ],
+    "TutorialTopSceneController_Text_4": [
+      "マイクへのアクセス"
+    ],
+    "TutorialTopSceneController_Text_5": [
+      "音声の録音が許可されていないため\n睡眠計測ができません\n\n端末の設定からマイクへの\nアクセスを許可してください"
+    ],
+    "TutorialTopSceneController_Text_6": [
+      "Pokémon GO Plus +が\n他の端末と登録されています"
+    ],
+    "TutorialTopSceneController_Text_7": [
+      "Pokémon GO Plus +が\n故障しているか、通信に問題があります"
+    ],
+    "TutorialTopSceneController_Text_8": [
+      "現在、利用できません"
+    ],
+    "TutorialTopSceneController_Text_9": [
+      "睡眠計測を行うには\n「音声の録音」権限の許可が必要です"
+    ],
+    "TutorialTopScene_Canvas-UI_Desc_1": [
+      "・睡眠計測には \u000e",
+      "\u0003\u0004毿Ｗ1時間30分以上 \u000e",
+      "\u0003\u0004",
+      "＀の計測が必要です"
+    ],
+    "TutorialTopScene_Canvas-UI_Desc_2": [
+      "・睡眠計測は \u000e",
+      "\u0003\u0004쨗ｎ\u000e",
+      "\u0003\u0004毿Ｗ1日に2回\u000e",
+      "\u0003\u0004쨗ｎ \u000e",
+      "\u0003\u0004",
+      "＀まで行うことができます"
+    ],
+    "TutorialTopScene_Canvas-UI_Desc_GPP": [
+      "・\u000e",
+      "\u0003\u0004쨗ｎGO Plus +\u000e",
+      "\u0003\u0004",
+      "＀で睡眠計測をし、同期してください"
+    ],
+    "TutorialTopScene_Canvas-UI_GPPInfoButton": [
+      "計測方法"
+    ],
+    "TutorialTopScene_Canvas-UI_GPPSyncButton": [
+      "同期・設定"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepStartButton": [
+      "睡眠計測を開始する"
+    ],
+    "TutorialTopScene_Canvas-UI_Title": [
+      "準備ができたら寝よう"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_2": [
+      "睡眠チュートリアル"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_3": [
+      "フレンド"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_4": [
+      "約束の変更"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_5": [
+      "Pokémon\nGO Plus +"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_6": [
+      "フレンド"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_7": [
+      "約束の変更"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_LeftTime": [
+      "あと\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "TutorialTopScene_GPPInfoPopup_Button": [
+      "詳しい使い方"
+    ],
+    "TutorialTopScene_GPPInfoPopup_Text_1": [
+      "Pokémon GO Plus +で\n睡眠計測を行った後\nPokémon Sleepを開くと\n自動で同期されます"
+    ],
+    "TutorialTopScene_GPPInfoPopup_Text_2": [
+      "もし自動で同期されない場合は\n「同期・設定ボタン」を押してください"
+    ],
+    "TutorialTopScene_GPPInfoPopup_Title": [
+      "計測方法"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 25,
+        "size": 179,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 1099,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          104
+        ],
+        [
+          [],
+          104
+        ],
+        [
+          [
+            [
+              7,
+              "TutorialTopScene_Canvas-UI_Title_LeftTime"
+            ],
+            [
+              9,
+              "TutorialTopScene_Canvas-UI_Desc_1"
+            ]
+          ],
+          188
+        ],
+        [
+          [
+            [
+              2,
+              "TutorialTopSceneController_Text_4"
+            ],
+            [
+              8,
+              "TutorialTopScene_Canvas-UI_Title_2"
+            ],
+            [
+              10,
+              "TutorialTopScene_Canvas-UI_Desc_2"
+            ],
+            [
+              20,
+              "TutorialTopScene_Canvas-UI_GPPInfoButton"
+            ]
+          ],
+          348
+        ],
+        [
+          [
+            [
+              3,
+              "TutorialTopSceneController_Text_5"
+            ],
+            [
+              11,
+              "TutorialTopScene_Canvas-UI_Title_3"
+            ]
+          ],
+          425
+        ],
+        [
+          [
+            [
+              4,
+              "TutorialTopSceneController_Text_6"
+            ],
+            [
+              12,
+              "TutorialTopScene_Canvas-UI_Title_4"
+            ],
+            [
+              15,
+              "TutorialTopScene_Canvas-UI_Desc_GPP"
+            ],
+            [
+              24,
+              "TutorialTopScene_GPPInfoPopup_Button"
+            ]
+          ],
+          583
+        ],
+        [
+          [
+            [
+              5,
+              "TutorialTopSceneController_Text_7"
+            ],
+            [
+              6,
+              "TutorialTopScene_Canvas-UI_Title"
+            ],
+            [
+              13,
+              "TutorialTopScene_Canvas-UI_Title_5"
+            ],
+            [
+              21,
+              "TutorialTopScene_GPPInfoPopup_Title"
+            ]
+          ],
+          737
+        ],
+        [
+          [
+            [
+              0,
+              "TutorialTopSceneController_Text_8"
+            ],
+            [
+              14,
+              "TutorialTopScene_Canvas-UI_SleepStartButton"
+            ],
+            [
+              16,
+              "TutorialTopScene_Canvas-UI_Title_6"
+            ],
+            [
+              18,
+              "TutorialTopScene_Canvas-UI_GPPSyncButton"
+            ],
+            [
+              22,
+              "TutorialTopScene_GPPInfoPopup_Text_1"
+            ]
+          ],
+          948
+        ],
+        [
+          [
+            [
+              1,
+              "TutorialTopSceneController_Text_9"
+            ],
+            [
+              17,
+              "TutorialTopScene_Canvas-UI_Title_7"
+            ],
+            [
+              19,
+              "TutorialTopMenuPopup_Title_4"
+            ],
+            [
+              23,
+              "TutorialTopScene_GPPInfoPopup_Text_2"
+            ]
+          ],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 25,
+        "size": 1124,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,1091 @@
+{
+  "strings": {
+    "pokemon_height_1": [
+      "0.7m"
+    ],
+    "pokemon_height_10": [
+      "0.3m"
+    ],
+    "pokemon_height_104": [
+      "0.4m"
+    ],
+    "pokemon_height_105": [
+      "1.0m"
+    ],
+    "pokemon_height_11": [
+      "0.7m"
+    ],
+    "pokemon_height_115": [
+      "2.2m"
+    ],
+    "pokemon_height_12": [
+      "1.1m"
+    ],
+    "pokemon_height_127": [
+      "1.5m"
+    ],
+    "pokemon_height_132": [
+      "0.3m"
+    ],
+    "pokemon_height_133": [
+      "0.3m"
+    ],
+    "pokemon_height_134": [
+      "1.0m"
+    ],
+    "pokemon_height_135": [
+      "0.8m"
+    ],
+    "pokemon_height_136": [
+      "0.9m"
+    ],
+    "pokemon_height_147": [
+      "1.8m"
+    ],
+    "pokemon_height_148": [
+      "4.0m"
+    ],
+    "pokemon_height_149": [
+      "2.2m"
+    ],
+    "pokemon_height_152": [
+      "0.9m"
+    ],
+    "pokemon_height_153": [
+      "1.2m"
+    ],
+    "pokemon_height_154": [
+      "1.8m"
+    ],
+    "pokemon_height_155": [
+      "0.5m"
+    ],
+    "pokemon_height_156": [
+      "0.9m"
+    ],
+    "pokemon_height_157": [
+      "1.7m"
+    ],
+    "pokemon_height_158": [
+      "0.6m"
+    ],
+    "pokemon_height_159": [
+      "1.1m"
+    ],
+    "pokemon_height_160": [
+      "2.3m"
+    ],
+    "pokemon_height_172": [
+      "0.3m"
+    ],
+    "pokemon_height_174": [
+      "0.3m"
+    ],
+    "pokemon_height_175": [
+      "0.3m"
+    ],
+    "pokemon_height_176": [
+      "0.6m"
+    ],
+    "pokemon_height_179": [
+      "0.6m"
+    ],
+    "pokemon_height_180": [
+      "0.8m"
+    ],
+    "pokemon_height_181": [
+      "1.4m"
+    ],
+    "pokemon_height_185": [
+      "1.2m"
+    ],
+    "pokemon_height_19": [
+      "0.3m"
+    ],
+    "pokemon_height_196": [
+      "0.9m"
+    ],
+    "pokemon_height_197": [
+      "1.0m"
+    ],
+    "pokemon_height_199": [
+      "2.0m"
+    ],
+    "pokemon_height_2": [
+      "1.0m"
+    ],
+    "pokemon_height_20": [
+      "0.7m"
+    ],
+    "pokemon_height_202": [
+      "1.3m"
+    ],
+    "pokemon_height_214": [
+      "1.5m"
+    ],
+    "pokemon_height_228": [
+      "0.6m"
+    ],
+    "pokemon_height_229": [
+      "1.4m"
+    ],
+    "pokemon_height_23": [
+      "2.0m"
+    ],
+    "pokemon_height_24": [
+      "3.5m"
+    ],
+    "pokemon_height_246": [
+      "0.6m"
+    ],
+    "pokemon_height_247": [
+      "1.2m"
+    ],
+    "pokemon_height_248": [
+      "2.0m"
+    ],
+    "pokemon_height_25": [
+      "0.4m"
+    ],
+    "pokemon_height_26": [
+      "0.8m"
+    ],
+    "pokemon_height_287": [
+      "0.8m"
+    ],
+    "pokemon_height_288": [
+      "1.4m"
+    ],
+    "pokemon_height_289": [
+      "2.0m"
+    ],
+    "pokemon_height_3": [
+      "2.0m"
+    ],
+    "pokemon_height_302": [
+      "0.5m"
+    ],
+    "pokemon_height_316": [
+      "0.4m"
+    ],
+    "pokemon_height_317": [
+      "1.7m"
+    ],
+    "pokemon_height_333": [
+      "0.4m"
+    ],
+    "pokemon_height_334": [
+      "1.1m"
+    ],
+    "pokemon_height_359": [
+      "1.2m"
+    ],
+    "pokemon_height_360": [
+      "0.6m"
+    ],
+    "pokemon_height_363": [
+      "0.8m"
+    ],
+    "pokemon_height_364": [
+      "1.1m"
+    ],
+    "pokemon_height_365": [
+      "1.4m"
+    ],
+    "pokemon_height_39": [
+      "0.5m"
+    ],
+    "pokemon_height_4": [
+      "0.6m"
+    ],
+    "pokemon_height_40": [
+      "1.0m"
+    ],
+    "pokemon_height_438": [
+      "0.5m"
+    ],
+    "pokemon_height_447": [
+      "0.7m"
+    ],
+    "pokemon_height_448": [
+      "1.2m"
+    ],
+    "pokemon_height_453": [
+      "0.7m"
+    ],
+    "pokemon_height_454": [
+      "1.3m"
+    ],
+    "pokemon_height_462": [
+      "1.2m"
+    ],
+    "pokemon_height_468": [
+      "1.5m"
+    ],
+    "pokemon_height_470": [
+      "1.0m"
+    ],
+    "pokemon_height_471": [
+      "0.8m"
+    ],
+    "pokemon_height_5": [
+      "1.1m"
+    ],
+    "pokemon_height_50": [
+      "0.2m"
+    ],
+    "pokemon_height_51": [
+      "0.7m"
+    ],
+    "pokemon_height_52": [
+      "0.4m"
+    ],
+    "pokemon_height_53": [
+      "1.0m"
+    ],
+    "pokemon_height_54": [
+      "0.8m"
+    ],
+    "pokemon_height_55": [
+      "1.7m"
+    ],
+    "pokemon_height_56": [
+      "0.5m"
+    ],
+    "pokemon_height_57": [
+      "1.0m"
+    ],
+    "pokemon_height_58": [
+      "0.7m"
+    ],
+    "pokemon_height_59": [
+      "1.9m"
+    ],
+    "pokemon_height_6": [
+      "1.7m"
+    ],
+    "pokemon_height_69": [
+      "0.7m"
+    ],
+    "pokemon_height_7": [
+      "0.5m"
+    ],
+    "pokemon_height_70": [
+      "1.0m"
+    ],
+    "pokemon_height_700": [
+      "1.0m"
+    ],
+    "pokemon_height_71": [
+      "1.7m"
+    ],
+    "pokemon_height_74": [
+      "0.4m"
+    ],
+    "pokemon_height_75": [
+      "1.0m"
+    ],
+    "pokemon_height_76": [
+      "1.4m"
+    ],
+    "pokemon_height_79": [
+      "1.2m"
+    ],
+    "pokemon_height_8": [
+      "1.0m"
+    ],
+    "pokemon_height_80": [
+      "1.6m"
+    ],
+    "pokemon_height_81": [
+      "0.3m"
+    ],
+    "pokemon_height_82": [
+      "1.0m"
+    ],
+    "pokemon_height_84": [
+      "1.4m"
+    ],
+    "pokemon_height_85": [
+      "1.8m"
+    ],
+    "pokemon_height_9": [
+      "1.6m"
+    ],
+    "pokemon_height_92": [
+      "1.3m"
+    ],
+    "pokemon_height_93": [
+      "1.6m"
+    ],
+    "pokemon_height_94": [
+      "1.5m"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 107,
+        "size": 753,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 59,
+        "size": 2879,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              27,
+              "pokemon_height_104"
+            ],
+            [
+              44,
+              "pokemon_height_93"
+            ]
+          ],
+          517
+        ],
+        [
+          [
+            [
+              45,
+              "pokemon_height_105"
+            ],
+            [
+              67,
+              "pokemon_height_94"
+            ]
+          ],
+          562
+        ],
+        [
+          [
+            [
+              96,
+              "pokemon_height_462"
+            ]
+          ],
+          585
+        ],
+        [
+          [
+            [
+              86,
+              "pokemon_height_246"
+            ]
+          ],
+          608
+        ],
+        [
+          [
+            [
+              87,
+              "pokemon_height_247"
+            ]
+          ],
+          631
+        ],
+        [
+          [
+            [
+              88,
+              "pokemon_height_248"
+            ]
+          ],
+          654
+        ],
+        [
+          [
+            [
+              91,
+              "pokemon_height_700"
+            ]
+          ],
+          677
+        ],
+        [
+          [
+            [
+              10,
+              "pokemon_height_39"
+            ],
+            [
+              41,
+              "pokemon_height_80"
+            ],
+            [
+              46,
+              "pokemon_height_152"
+            ]
+          ],
+          744
+        ],
+        [
+          [
+            [
+              33,
+              "pokemon_height_20"
+            ],
+            [
+              47,
+              "pokemon_height_153"
+            ],
+            [
+              64,
+              "pokemon_height_81"
+            ],
+            [
+              92,
+              "pokemon_height_468"
+            ]
+          ],
+          834
+        ],
+        [
+          [
+            [
+              65,
+              "pokemon_height_82"
+            ],
+            [
+              77,
+              "pokemon_height_154"
+            ]
+          ],
+          879
+        ],
+        [
+          [
+            [
+              28,
+              "pokemon_height_155"
+            ]
+          ],
+          902
+        ],
+        [
+          [
+            [
+              25,
+              "pokemon_height_23"
+            ],
+            [
+              29,
+              "pokemon_height_156"
+            ],
+            [
+              42,
+              "pokemon_height_84"
+            ]
+          ],
+          969
+        ],
+        [
+          [
+            [
+              26,
+              "pokemon_height_24"
+            ],
+            [
+              66,
+              "pokemon_height_85"
+            ],
+            [
+              78,
+              "pokemon_height_157"
+            ]
+          ],
+          1036
+        ],
+        [
+          [
+            [
+              0,
+              "pokemon_height_25"
+            ],
+            [
+              16,
+              "pokemon_height_158"
+            ],
+            [
+              55,
+              "pokemon_height_453"
+            ]
+          ],
+          1104
+        ],
+        [
+          [
+            [
+              17,
+              "pokemon_height_159"
+            ],
+            [
+              56,
+              "pokemon_height_454"
+            ],
+            [
+              57,
+              "pokemon_height_26"
+            ]
+          ],
+          1172
+        ],
+        [
+          [
+            [
+              50,
+              "pokemon_height_316"
+            ]
+          ],
+          1195
+        ],
+        [
+          [
+            [
+              51,
+              "pokemon_height_317"
+            ]
+          ],
+          1218
+        ],
+        [
+          [
+            [
+              36,
+              "pokemon_height_70"
+            ]
+          ],
+          1240
+        ],
+        [
+          [
+            [
+              7,
+              "pokemon_height_10"
+            ],
+            [
+              53,
+              "pokemon_height_360"
+            ],
+            [
+              62,
+              "pokemon_height_71"
+            ]
+          ],
+          1307
+        ],
+        [
+          [
+            [
+              8,
+              "pokemon_height_11"
+            ]
+          ],
+          1329
+        ],
+        [
+          [
+            [
+              9,
+              "pokemon_height_12"
+            ]
+          ],
+          1351
+        ],
+        [
+          [
+            [
+              23,
+              "pokemon_height_74"
+            ],
+            [
+              101,
+              "pokemon_height_363"
+            ],
+            [
+              106,
+              "pokemon_height_302"
+            ]
+          ],
+          1419
+        ],
+        [
+          [
+            [
+              24,
+              "pokemon_height_75"
+            ],
+            [
+              74,
+              "pokemon_height_147"
+            ],
+            [
+              102,
+              "pokemon_height_364"
+            ]
+          ],
+          1487
+        ],
+        [
+          [
+            [
+              63,
+              "pokemon_height_76"
+            ],
+            [
+              75,
+              "pokemon_height_148"
+            ],
+            [
+              93,
+              "pokemon_height_287"
+            ],
+            [
+              103,
+              "pokemon_height_365"
+            ]
+          ],
+          1578
+        ],
+        [
+          [
+            [
+              76,
+              "pokemon_height_149"
+            ],
+            [
+              94,
+              "pokemon_height_288"
+            ]
+          ],
+          1624
+        ],
+        [
+          [
+            [
+              95,
+              "pokemon_height_289"
+            ],
+            [
+              104,
+              "pokemon_height_228"
+            ]
+          ],
+          1670
+        ],
+        [
+          [
+            [
+              15,
+              "pokemon_height_79"
+            ],
+            [
+              105,
+              "pokemon_height_229"
+            ]
+          ],
+          1715
+        ],
+        [
+          [
+            [
+              2,
+              "pokemon_height_19"
+            ],
+            [
+              70,
+              "pokemon_height_132"
+            ],
+            [
+              99,
+              "pokemon_height_447"
+            ]
+          ],
+          1783
+        ],
+        [
+          [
+            [
+              1,
+              "pokemon_height_133"
+            ],
+            [
+              100,
+              "pokemon_height_448"
+            ]
+          ],
+          1829
+        ],
+        [
+          [
+            [
+              71,
+              "pokemon_height_134"
+            ]
+          ],
+          1852
+        ],
+        [
+          [
+            [
+              72,
+              "pokemon_height_135"
+            ],
+            [
+              82,
+              "pokemon_height_196"
+            ]
+          ],
+          1898
+        ],
+        [
+          [
+            [
+              73,
+              "pokemon_height_136"
+            ],
+            [
+              83,
+              "pokemon_height_197"
+            ],
+            [
+              85,
+              "pokemon_height_214"
+            ]
+          ],
+          1967
+        ],
+        [
+          [],
+          1967
+        ],
+        [
+          [
+            [
+              84,
+              "pokemon_height_199"
+            ]
+          ],
+          1990
+        ],
+        [
+          [
+            [
+              48,
+              "pokemon_height_180"
+            ]
+          ],
+          2013
+        ],
+        [
+          [
+            [
+              81,
+              "pokemon_height_181"
+            ]
+          ],
+          2036
+        ],
+        [
+          [
+            [
+              35,
+              "pokemon_height_69"
+            ]
+          ],
+          2058
+        ],
+        [
+          [
+            [
+              18,
+              "pokemon_height_50"
+            ],
+            [
+              90,
+              "pokemon_height_359"
+            ]
+          ],
+          2103
+        ],
+        [
+          [
+            [
+              19,
+              "pokemon_height_51"
+            ],
+            [
+              54,
+              "pokemon_height_438"
+            ]
+          ],
+          2148
+        ],
+        [
+          [
+            [
+              3,
+              "pokemon_height_52"
+            ],
+            [
+              39,
+              "pokemon_height_185"
+            ],
+            [
+              49,
+              "pokemon_height_202"
+            ]
+          ],
+          2216
+        ],
+        [
+          [
+            [
+              5,
+              "pokemon_height_1"
+            ],
+            [
+              58,
+              "pokemon_height_53"
+            ]
+          ],
+          2259
+        ],
+        [
+          [
+            [
+              6,
+              "pokemon_height_2"
+            ],
+            [
+              40,
+              "pokemon_height_54"
+            ]
+          ],
+          2302
+        ],
+        [
+          [
+            [
+              21,
+              "pokemon_height_3"
+            ],
+            [
+              59,
+              "pokemon_height_55"
+            ],
+            [
+              69,
+              "pokemon_height_127"
+            ]
+          ],
+          2368
+        ],
+        [
+          [
+            [
+              13,
+              "pokemon_height_4"
+            ],
+            [
+              34,
+              "pokemon_height_56"
+            ]
+          ],
+          2411
+        ],
+        [
+          [
+            [
+              14,
+              "pokemon_height_5"
+            ],
+            [
+              60,
+              "pokemon_height_57"
+            ]
+          ],
+          2454
+        ],
+        [
+          [
+            [
+              31,
+              "pokemon_height_58"
+            ],
+            [
+              32,
+              "pokemon_height_6"
+            ]
+          ],
+          2497
+        ],
+        [
+          [
+            [
+              4,
+              "pokemon_height_172"
+            ],
+            [
+              11,
+              "pokemon_height_7"
+            ],
+            [
+              61,
+              "pokemon_height_59"
+            ]
+          ],
+          2563
+        ],
+        [
+          [
+            [
+              12,
+              "pokemon_height_8"
+            ],
+            [
+              20,
+              "pokemon_height_40"
+            ]
+          ],
+          2606
+        ],
+        [
+          [
+            [
+              30,
+              "pokemon_height_9"
+            ],
+            [
+              37,
+              "pokemon_height_174"
+            ]
+          ],
+          2650
+        ],
+        [
+          [
+            [
+              22,
+              "pokemon_height_175"
+            ],
+            [
+              89,
+              "pokemon_height_470"
+            ]
+          ],
+          2696
+        ],
+        [
+          [
+            [
+              68,
+              "pokemon_height_115"
+            ],
+            [
+              80,
+              "pokemon_height_176"
+            ],
+            [
+              97,
+              "pokemon_height_471"
+            ]
+          ],
+          2765
+        ],
+        [
+          [
+            [
+              52,
+              "pokemon_height_333"
+            ]
+          ],
+          2788
+        ],
+        [
+          [
+            [
+              98,
+              "pokemon_height_334"
+            ]
+          ],
+          2811
+        ],
+        [
+          [
+            [
+              38,
+              "pokemon_height_179"
+            ]
+          ],
+          2834
+        ],
+        [
+          [
+            [
+              79,
+              "pokemon_height_160"
+            ]
+          ],
+          2857
+        ],
+        [
+          [],
+          2857
+        ],
+        [
+          [],
+          2857
+        ],
+        [
+          [],
+          2857
+        ],
+        [
+          [
+            [
+              43,
+              "pokemon_height_92"
+            ]
+          ],
+          2879
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 107,
+        "size": 1498,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

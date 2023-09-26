@@ -1,0 +1,315 @@
+{
+  "strings": {
+    "CommonPopup_ApplicationQuit_Message": [
+      "Are you sure you want to quit?"
+    ],
+    "CommonPopup_ApplicationQuit_Title": [
+      "Really Quit?"
+    ],
+    "CommonPopup_DataUpdate_Text": [
+      "An update has arrived, so you'll now\nbe returned to the title screen.\nWe apologize for the inconvenience."
+    ],
+    "CommonPopup_DataUpdate_Title": [
+      "Update"
+    ],
+    "CommonPopup_Datechange_Text": [
+      "An update has arrived, so you'll now\nbe returned to the title screen.\nWe apologize for the inconvenience."
+    ],
+    "CommonPopup_Datechange_Title": [
+      "Update"
+    ],
+    "CommonPopup_OKButton": [
+      "OK"
+    ],
+    "CommonPopup_ObtEnd_Message": [
+      "Thank you very much for participating\nin the open beta test.\nYour play data from the beta cannot\nbe used in the official release, so we\nask that you please delete the app.\n\nOnce it's deleted, you can download\nthe app again from your app store\nand start the game fresh."
+    ],
+    "CommonPopup_ObtEnd_Title": [
+      "Please Delete Your App"
+    ],
+    "CommonPopup_ObtFinishWaiting_Message": [
+      "The beta testing period has ended.\nPlease use the official app\nonce it is released.\n\nThank you for participating\nin the open beta test."
+    ],
+    "CommonPopup_ObtFinishWaiting_Title": [
+      "Open Beta Finished"
+    ],
+    "CommonPopup_ObtLockPopup_Message": [
+      "This feature cannot be used in this\nversion of the app."
+    ],
+    "CommonPopup_ObtLockPopup_Title": [
+      "Feature Unavailable"
+    ],
+    "CommonPopup_Option_UserNameChange_SuccessDialog_Text": [
+      "Your username was changed successfully."
+    ],
+    "CommonPopup_Option_UserNameChange_SuccessDialog_Top": [
+      "Success!"
+    ],
+    "CommonPopup_Playing_OfflineDialog_Text": [
+      "Your device is currently offline.\nPlease check your network\nconnection, then try again."
+    ],
+    "CommonPopup_Playing_OfflineDialog_Title": [
+      "Communication Error"
+    ],
+    "CommonPopup_TimeZoneChange_Text": [
+      "Your device's time zone settings\nhave changed, so you'll now be\nreturned to the title screen.\nWe apologize for the inconvenience."
+    ],
+    "CommonPopup_TimeZoneChange_Title": [
+      "Time Zone Changed"
+    ],
+    "CommonPopup_Title_OfflineDialog_Text": [
+      "Your device is currently offline.\nPlease check your network\nconnection, then try again."
+    ],
+    "CommonPopup_Title_OfflineDialog_Title": [
+      "Communication Error"
+    ],
+    "CommonPopup_Usercodes_Clipboard": [
+      "Let's be research buddies in Pokémon Sleep.\nHere's my Researcher ID!"
+    ],
+    "CommonPopup_Usercodes_Copy_Text": [
+      "This Researcher ID has been copied to\nyour device's clipboard."
+    ],
+    "CommonPopup_Usercodes_Copy_Title": [
+      "Successfully Copied!"
+    ],
+    "CommonPopup_Weekchange_Text": [
+      "Good work this past week!\nSince a new week has begun, you'll\nnow be returned to the title screen.\nWe apologize for the inconvenience."
+    ],
+    "CommonPopup_Weekchange_Title": [
+      "A New Week"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 26,
+        "size": 186,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 1111,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "CommonPopup_Option_UserNameChange_SuccessDialog_Top"
+            ]
+          ],
+          192
+        ],
+        [
+          [
+            [
+              5,
+              "CommonPopup_Title_OfflineDialog_Title"
+            ]
+          ],
+          234
+        ],
+        [
+          [
+            [
+              15,
+              "CommonPopup_TimeZoneChange_Text"
+            ]
+          ],
+          270
+        ],
+        [
+          [],
+          270
+        ],
+        [
+          [
+            [
+              2,
+              "CommonPopup_Usercodes_Clipboard"
+            ],
+            [
+              20,
+              "CommonPopup_ObtLockPopup_Title"
+            ],
+            [
+              25,
+              "CommonPopup_ObtFinishWaiting_Message"
+            ]
+          ],
+          382
+        ],
+        [
+          [
+            [
+              6,
+              "CommonPopup_Title_OfflineDialog_Text"
+            ],
+            [
+              14,
+              "CommonPopup_TimeZoneChange_Title"
+            ],
+            [
+              19,
+              "CommonPopup_ApplicationQuit_Message"
+            ]
+          ],
+          500
+        ],
+        [
+          [
+            [
+              9,
+              "CommonPopup_OKButton"
+            ],
+            [
+              10,
+              "CommonPopup_Datechange_Title"
+            ]
+          ],
+          558
+        ],
+        [
+          [
+            [
+              8,
+              "CommonPopup_Playing_OfflineDialog_Text"
+            ],
+            [
+              23,
+              "CommonPopup_ObtEnd_Message"
+            ]
+          ],
+          632
+        ],
+        [
+          [
+            [
+              11,
+              "CommonPopup_Datechange_Text"
+            ]
+          ],
+          664
+        ],
+        [
+          [],
+          664
+        ],
+        [
+          [
+            [
+              21,
+              "CommonPopup_ObtLockPopup_Message"
+            ]
+          ],
+          701
+        ],
+        [
+          [],
+          701
+        ],
+        [
+          [
+            [
+              22,
+              "CommonPopup_ObtEnd_Title"
+            ]
+          ],
+          730
+        ],
+        [
+          [
+            [
+              1,
+              "CommonPopup_Usercodes_Copy_Text"
+            ],
+            [
+              4,
+              "CommonPopup_Option_UserNameChange_SuccessDialog_Text"
+            ]
+          ],
+          823
+        ],
+        [
+          [
+            [
+              0,
+              "CommonPopup_Usercodes_Copy_Title"
+            ],
+            [
+              16,
+              "CommonPopup_DataUpdate_Title"
+            ],
+            [
+              24,
+              "CommonPopup_ObtFinishWaiting_Title"
+            ]
+          ],
+          932
+        ],
+        [
+          [
+            [
+              7,
+              "CommonPopup_Playing_OfflineDialog_Title"
+            ],
+            [
+              12,
+              "CommonPopup_Weekchange_Title"
+            ],
+            [
+              18,
+              "CommonPopup_ApplicationQuit_Title"
+            ]
+          ],
+          1047
+        ],
+        [
+          [
+            [
+              13,
+              "CommonPopup_Weekchange_Text"
+            ],
+            [
+              17,
+              "CommonPopup_DataUpdate_Text"
+            ]
+          ],
+          1111
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 26,
+        "size": 3118,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

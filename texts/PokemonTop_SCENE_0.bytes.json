@@ -1,0 +1,101 @@
+{
+  "strings": {
+    "PokemonTopScene_Content_Desc": [
+      "Choisissez les Pokémon de soutien pour vos équipes et organisez vos Boîtes Pokémon."
+    ],
+    "PokemonTopScene_Content_Name": [
+      "Équipes"
+    ],
+    "PokemonTopScene_Content_Name_2": [
+      "Boîte Pokémon"
+    ],
+    "PokemonTopScene_Content_Title": [
+      "Pokémon"
+    ],
+    "PokemonTopScene_Header_TitleText": [
+      "Pokémon"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 5,
+        "size": 39,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 196,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "PokemonTopScene_Content_Title"
+            ],
+            [
+              3,
+              "PokemonTopScene_Content_Name_2"
+            ],
+            [
+              4,
+              "PokemonTopScene_Header_TitleText"
+            ]
+          ],
+          130
+        ],
+        [
+          [
+            [
+              1,
+              "PokemonTopScene_Content_Desc"
+            ]
+          ],
+          163
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonTopScene_Content_Name"
+            ]
+          ],
+          196
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 5,
+        "size": 264,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

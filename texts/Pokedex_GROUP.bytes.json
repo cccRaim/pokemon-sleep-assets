@@ -1,0 +1,106 @@
+{
+  "strings": {
+    "PokedexPokemonListCell_NumberTitle": [
+      "No."
+    ],
+    "PokedexPokemonListCell_PokedexNumber": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokedexPokemonListCell_SleepingFaceCount": [
+      "\u000e\u0002",
+      "\u0002촀/\u000e\u0002",
+      "\u0002촁"
+    ],
+    "PokedexPreviewPopup_PokedexSubId": [
+      "ID - \u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "PokedexPreviewPopup_ResearchCount": [
+      "리서치 수 - \u000e\u0002\u0004\u0004",
+      "촁"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 5,
+        "size": 39,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 224,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "PokedexPokemonListCell_NumberTitle"
+            ],
+            [
+              1,
+              "PokedexPokemonListCell_PokedexNumber"
+            ],
+            [
+              2,
+              "PokedexPokemonListCell_SleepingFaceCount"
+            ]
+          ],
+          149
+        ],
+        [
+          [
+            [
+              4,
+              "PokedexPreviewPopup_ResearchCount"
+            ]
+          ],
+          187
+        ],
+        [
+          [
+            [
+              3,
+              "PokedexPreviewPopup_PokedexSubId"
+            ]
+          ],
+          224
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 5,
+        "size": 116,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

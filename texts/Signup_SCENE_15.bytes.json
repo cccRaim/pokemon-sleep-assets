@@ -1,0 +1,1317 @@
+{
+  "strings": {
+    "Signup_SCENE_Agree_Button": [
+      "同意する"
+    ],
+    "Signup_SCENE_AlreadyInherited_Popup_Text_1": [
+      "このアカウントのデータは\nすでに別の端末に引き継がれています"
+    ],
+    "Signup_SCENE_AlreadyInherited_Popup_Text_2": [
+      "引き継ぎ先の端末でプレイしてください"
+    ],
+    "Signup_SCENE_AlreadyInherited_Popup_Title": [
+      "引継ぎ済みデータ"
+    ],
+    "Signup_SCENE_BanAccount_Popup_Text_1": [
+      "このアカウントではゲームをプレイすることはできません"
+    ],
+    "Signup_SCENE_BanAccount_Popup_Text_2": [
+      "プレイが制限されたアカウントです"
+    ],
+    "Signup_SCENE_BanAccount_Popup_Title": [
+      "無効なアカウント"
+    ],
+    "Signup_SCENE_BirthdatePopup_Date": [
+      "\u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      ""
+    ],
+    "Signup_SCENE_BirthdatePopup_Text": [
+      "生年月日が正しいことを確認してください\n次のステップに進んでよろしいですか？"
+    ],
+    "Signup_SCENE_BirthdatePopup_Title": [
+      "生年月日の確認"
+    ],
+    "Signup_SCENE_Birthdate_Day": [
+      "\u000e\t",
+      "\b\u0004dd",
+      "日"
+    ],
+    "Signup_SCENE_Birthdate_Heading": [
+      "生年月日"
+    ],
+    "Signup_SCENE_Birthdate_Month": [
+      "\u000e\t\u0002\u0004Ā촀月"
+    ],
+    "Signup_SCENE_Birthdate_Text": [
+      "生年月日を選択してください"
+    ],
+    "Signup_SCENE_Birthdate_Year": [
+      "\u000e\u0002\u0003\u0004",
+      "촀年"
+    ],
+    "Signup_SCENE_BrazilBmode_Popup_Text": [
+      "大変申し訳ありませんが\nあなたはこのアプリをご利用いただけません"
+    ],
+    "Signup_SCENE_BrazilBmode_Popup_Title": [
+      "利用不可"
+    ],
+    "Signup_SCENE_CacheClearFinished_Popup_Text": [
+      "キャッシュを削除しました\nアプリを再起動してください"
+    ],
+    "Signup_SCENE_CacheClearFinished_Popup_Title": [
+      "キャッシュクリア完了"
+    ],
+    "Signup_SCENE_CacheClear_Popup_Text": [
+      "キャッシュクリアを行うと\n動作が改善されることがあります\nご利用中の進行データは削除されません\nキャッシュクリアを行いますか？\n"
+    ],
+    "Signup_SCENE_CacheClear_Popup_Title": [
+      "キャッシュクリア"
+    ],
+    "Signup_SCENE_CanChange_Language": [
+      "※あとで言語設定から変更できます"
+    ],
+    "Signup_SCENE_CanChange_Name": [
+      "※あとで変更できます"
+    ],
+    "Signup_SCENE_CannotChange": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ※あとから変更することはできません\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "Signup_SCENE_Confirm_Button": [
+      "確認する"
+    ],
+    "Signup_SCENE_CountryChoicePopup_Text": [
+      "でよろしいですか？"
+    ],
+    "Signup_SCENE_CountryChoicePopup_Title": [
+      "国・地域の最終確認"
+    ],
+    "Signup_SCENE_CountryChoice_Text": [
+      "お住まいの国・地域を選んでください"
+    ],
+    "Signup_SCENE_DataDownload_Popup_Button": [
+      "開始"
+    ],
+    "Signup_SCENE_DataDownload_Popup_Text_1": [
+      "更新データをダウンロードします\n(\u000e\u0002\t\u0004",
+      "촁MB)"
+    ],
+    "Signup_SCENE_DataDownload_Popup_Text_2": [
+      "Wi-Fi環境でのダウンロードをおすすめします"
+    ],
+    "Signup_SCENE_DataDownload_Popup_Text_3": [
+      "ゲームデータをダウンロードします\n(\u000e\u0002\t\u0004",
+      "촁MB)"
+    ],
+    "Signup_SCENE_DataDownload_Popup_Title": [
+      "データダウンロード"
+    ],
+    "Signup_SCENE_DataInherit_1h_Popup_Text": [
+      "このアカウントはデータを引き継いでから\n1時間以内のため、引き継ぎすることができません"
+    ],
+    "Signup_SCENE_DataInherit_1h_Popup_Title": [
+      "引き継げません"
+    ],
+    "Signup_SCENE_DataInherit_Confirm_Popup_Text": [
+      "このアカウントでデータを引き継ぎます\nよろしいですか？"
+    ],
+    "Signup_SCENE_DataInherit_Confirm_Popup_Title": [
+      "最終確認"
+    ],
+    "Signup_SCENE_DataInherit_InheritDataPopup_Text_1": [
+      "引き継ぐ方法を選んでください"
+    ],
+    "Signup_SCENE_DataInherit_InheritDataPopup_Text_2": [
+      "データを引き継いではじめると\n\u000e",
+      "\u0003\u0004毿Ｗ引き継ぎ元の端末ではプレイできなくなる\u000e",
+      "\u0003\u0004",
+      "＀ ので\n注意してください"
+    ],
+    "Signup_SCENE_DataInherit_InheritDataPopup_Title": [
+      "データを引き継いではじめる"
+    ],
+    "Signup_SCENE_DataInherit_InheritData_Button": [
+      "データを引き継いではじめる"
+    ],
+    "Signup_SCENE_DataInherit_NewData_Button": [
+      "あたらしくはじめる"
+    ],
+    "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": [
+      "アカウントに連携されているデータが\n見つかりませんでした"
+    ],
+    "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_2": [
+      "他の引き継ぎ方法をお試しください"
+    ],
+    "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": [
+      "短期間に5回間違えたため\n入力がロックされています"
+    ],
+    "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": [
+      "\u000e",
+      "\u0003\u0004毿Ｗロック解除まで：\u000e\u0002\u0001\u0002",
+      "分\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": [
+      "入力ロック中"
+    ],
+    "Signup_SCENE_DataInherit_PasswordEnter_Popup_Password": [
+      "引き継ぎコード"
+    ],
+    "Signup_SCENE_DataInherit_PasswordEnter_Popup_Password_Text": [
+      "引き継ぎコードを入力してください"
+    ],
+    "Signup_SCENE_DataInherit_PasswordEnter_Popup_SupportID": [
+      "サポートID"
+    ],
+    "Signup_SCENE_DataInherit_PasswordEnter_Popup_SupportID_Text": [
+      "サポートIDを入力してください"
+    ],
+    "Signup_SCENE_DataInherit_PasswordEnter_Popup_Text": [
+      "データ連携をした際に表示されていた\nサポートIDと、設定した引き継ぎコードを\n入力してください"
+    ],
+    "Signup_SCENE_DataInherit_PasswordEnter_Popup_Title": [
+      "サポートIDと引き継ぎコードで引き継ぎ"
+    ],
+    "Signup_SCENE_DataInherit_PasswordError_Popup_Text_1": [
+      "入力されたサポートIDと引き継ぎコードが\n一致しません"
+    ],
+    "Signup_SCENE_DataInherit_PasswordError_Popup_Text_2": [
+      "入力し直してください"
+    ],
+    "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Caution_1": [
+      "サポートID・引き継ぎコードが一致しません\n入力し直してください"
+    ],
+    "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Caution_2": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ※ あと\u000e\u0002",
+      "\u0002촀回間違えると\nサポートID/引き継ぎコードの入力が\nロックされます\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Lock_1": [
+      "入力されたサポートIDと引き継ぎコードが\n一致しません"
+    ],
+    "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Lock_2": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ短期間に5回間違えたため\n30分間入力がロックされました\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "Signup_SCENE_DataInherit_PasswordError_Popup_Title": [
+      "エラー"
+    ],
+    "Signup_SCENE_DataInherit_Password_Button": [
+      "サポートIDと引き継ぎコードで引き継ぎ"
+    ],
+    "Signup_SCENE_DataInherit_Text": [
+      "Pokémon Sleep へようこそ\nどのようにはじめますか？"
+    ],
+    "Signup_SCENE_DataInherit_Title": [
+      "アカウント"
+    ],
+    "Signup_SCENE_IDFAPermission_Text": [
+      "取得した広告識別子等の情報は、本サービスの利用に関する動向調査、本サービスの効果的な運営、不正行為防止のために使用されます"
+    ],
+    "Signup_SCENE_InitialError_Popup_Text": [
+      "エラーが発生しました\n再起動します"
+    ],
+    "Signup_SCENE_InitialError_Popup_Title": [
+      "エラー"
+    ],
+    "Signup_SCENE_LanguageChoicePopup_Text": [
+      "でよろしいですか？"
+    ],
+    "Signup_SCENE_LanguageChoicePopup_Title": [
+      "言語の確認"
+    ],
+    "Signup_SCENE_LanguageChoice_English": [
+      "English"
+    ],
+    "Signup_SCENE_LanguageChoice_French": [
+      "Français"
+    ],
+    "Signup_SCENE_LanguageChoice_German": [
+      "Deutsch"
+    ],
+    "Signup_SCENE_LanguageChoice_Heading": [
+      "アプリの言語一覧"
+    ],
+    "Signup_SCENE_LanguageChoice_Italian": [
+      "Italiano"
+    ],
+    "Signup_SCENE_LanguageChoice_Japanese": [
+      "日本語"
+    ],
+    "Signup_SCENE_LanguageChoice_Korean": [
+      "한국어"
+    ],
+    "Signup_SCENE_LanguageChoice_Spanish": [
+      "Español"
+    ],
+    "Signup_SCENE_LanguageChoice_Text": [
+      "使用する言語を選んでください"
+    ],
+    "Signup_SCENE_LanguageOption_Chinese": [
+      "繁體中文"
+    ],
+    "Signup_SCENE_MENU_Content_1": [
+      "サポートサイト"
+    ],
+    "Signup_SCENE_MENU_Content_2": [
+      "キャッシュクリア"
+    ],
+    "Signup_SCENE_MENU_Content_3": [
+      "お問い合わせ"
+    ],
+    "Signup_SCENE_MENU_Heading": [
+      "その他"
+    ],
+    "Signup_SCENE_MENU_Title": [
+      "MENU"
+    ],
+    "Signup_SCENE_NGword_Popup_Text_1": [
+      "ユーザーネームに使用できない単語が\n含まれています"
+    ],
+    "Signup_SCENE_NGword_Popup_Text_2": [
+      "申し訳ありませんが、ユーザーネームの\n変更をお願いします"
+    ],
+    "Signup_SCENE_NGword_Popup_Text_3": [
+      "ユーザーネームに使用できない単語の\nリストが更新されました"
+    ],
+    "Signup_SCENE_NGword_Popup_Title": [
+      "ユーザーネームを変更してください"
+    ],
+    "Signup_SCENE_Notes_Text_1": [
+      "このアプリは最後まで無料で遊ぶことができます。\n(有料アイテムあり)"
+    ],
+    "Signup_SCENE_Notes_Text_2": [
+      "未成年の方へ"
+    ],
+    "Signup_SCENE_Notes_Text_3": [
+      "有料アイテムを購入するときは必ず\n保護者(お父さんやお母さんなど)におゆるしを\nもらうか、一緒に購入するようにしてください。"
+    ],
+    "Signup_SCENE_Notes_Text_4": [
+      "その他の注意事項は、利用規約に書いてあります。\n必ず保護者(お父さんやお母さんなど)と一緒に\n読んでからサービスを利用してください。"
+    ],
+    "Signup_SCENE_Notes_Text_5": [
+      "ご案内"
+    ],
+    "Signup_SCENE_SDKAgree_Button_1": [
+      "同意して進む"
+    ],
+    "Signup_SCENE_SDKAgree_Button_2": [
+      "同意しないで進む"
+    ],
+    "Signup_SCENE_SDKAgree_Button_Apple": [
+      "次の画面へ進む"
+    ],
+    "Signup_SCENE_SDKAgree_Heading": [
+      "情報利用に関してお願い"
+    ],
+    "Signup_SCENE_SDKAgree_Text_1": [
+      "「Pokémon Sleep」はサービス改善\nお客様に適した広告・情報配信のため\n以下の情報を収集します"
+    ],
+    "Signup_SCENE_SDKAgree_Text_2": [
+      "ログイン情報、プレイデータ"
+    ],
+    "Signup_SCENE_SDKAgree_Text_3": [
+      "パフォーマンスに関するエラー"
+    ],
+    "Signup_SCENE_SDKAgree_Text_4": [
+      "サービス改善の為に、この情報利用に関して\n同意していただけますと幸いです"
+    ],
+    "Signup_SCENE_SDKAgree_Text_5": [
+      "上記に同意いただけない場合でも\n「Pokémon Sleep」はご利用可能です"
+    ],
+    "Signup_SCENE_TermsConfirm_Alarm_1": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ利用規約の\n内容を確認してから\n同意してください\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "Signup_SCENE_TermsConfirm_Alarm_2": [
+      "\u000e",
+      "\u0003\u0004毿Ｗプライバシーポリシーの\n内容を確認してから\n同意してください\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "Signup_SCENE_TermsConfirm_Button_1": [
+      "利用規約"
+    ],
+    "Signup_SCENE_TermsConfirm_Button_2": [
+      "プライバシー\nポリシー"
+    ],
+    "Signup_SCENE_TermsConfirm_Heading_1": [
+      "規約について"
+    ],
+    "Signup_SCENE_TermsConfirm_Heading_2": [
+      "セーブデータについて"
+    ],
+    "Signup_SCENE_TermsConfirm_Text_1": [
+      "Pokémon Sleep をプレイするには\n利用規約とプライバシーポリシーを確認して\n同意していただく必要があります。\n"
+    ],
+    "Signup_SCENE_TermsConfirm_Text_2": [
+      "利用規約に同意します"
+    ],
+    "Signup_SCENE_TermsConfirm_Text_3": [
+      "プライバシーポリシーを確認しました"
+    ],
+    "Signup_SCENE_TermsConfirm_Text_4": [
+      "睡眠計測のデータを含めたセーブデータは\nサーバーに保存されます。"
+    ],
+    "Signup_SCENE_TermsConfirm_Text_5": [
+      "データについて同意する"
+    ],
+    "Signup_SCENE_TermsReconfirm_Popup_Text_1": [
+      "利用規約/プライバシーポリシーの確認が必要です"
+    ],
+    "Signup_SCENE_TermsReconfirm_Popup_Text_2": [
+      "確認して同意をお願いします"
+    ],
+    "Signup_SCENE_TermsReconfirm_Popup_Title": [
+      "利用規約の確認"
+    ],
+    "Signup_SCENE_TermsUpdate_Popup_Text_1": [
+      "利用規約/プライバシーポリシーが更新されました"
+    ],
+    "Signup_SCENE_TermsUpdate_Popup_Text_2": [
+      "確認して同意をお願いします"
+    ],
+    "Signup_SCENE_TermsUpdate_Popup_Title": [
+      "利用規約の更新"
+    ],
+    "Signup_SCENE_UsernamePopup_Text": [
+      "でよろしいですか？"
+    ],
+    "Signup_SCENE_UsernamePopup_Title": [
+      "ユーザーネームの確認"
+    ],
+    "Signup_SCENE_Username_Text_1": [
+      "あなたの名前を教えてください"
+    ],
+    "Signup_SCENE_Username_Text_2": [
+      "※ 全角6文字、半角12文字\nまで入力することができます\n本名などの個人情報は入力しないでください\nあとで変更もできます"
+    ],
+    "Signup_SCENE_Username_Text_3": [
+      "ユーザーネーム"
+    ],
+    "Signup_SCENE_Username_Title": [
+      "ユーザーネーム"
+    ],
+    "Signup_SCENE_VersionUp_Popup_Button": [
+      "ストアへ"
+    ],
+    "Signup_SCENE_VersionUp_Popup_Button2": [
+      "あとで"
+    ],
+    "Signup_SCENE_VersionUp_Popup_Text_1": [
+      "新しいバージョンがあります"
+    ],
+    "Signup_SCENE_VersionUp_Popup_Text_2": [
+      "新しいバージョンのアプリが利用可能です\n最新バージョンにアップデートしてご利用ください"
+    ],
+    "Signup_SCENE_VersionUp_Popup_Text_3": [
+      "新しいバージョンのアプリがリリースされました\n最新バージョンにアップデートしてください"
+    ],
+    "Signup_SCENE_VersionUp_Popup_Title": [
+      "アップデートのお知らせ"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 130,
+        "size": 914,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 67,
+        "size": 5920,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              7,
+              "Signup_SCENE_VersionUp_Popup_Text_2"
+            ],
+            [
+              29,
+              "Signup_SCENE_TermsUpdate_Popup_Text_2"
+            ],
+            [
+              85,
+              "Signup_SCENE_DataInherit_InheritDataPopup_Text_1"
+            ],
+            [
+              115,
+              "Signup_SCENE_BrazilBmode_Popup_Title"
+            ]
+          ],
+          712
+        ],
+        [
+          [
+            [
+              8,
+              "Signup_SCENE_VersionUp_Popup_Text_3"
+            ],
+            [
+              38,
+              "Signup_SCENE_AlreadyInherited_Popup_Title"
+            ],
+            [
+              63,
+              "Signup_SCENE_LanguageChoicePopup_Title"
+            ],
+            [
+              86,
+              "Signup_SCENE_DataInherit_InheritDataPopup_Text_2"
+            ]
+          ],
+          894
+        ],
+        [
+          [
+            [
+              101,
+              "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title"
+            ],
+            [
+              116,
+              "Signup_SCENE_BrazilBmode_Popup_Text"
+            ],
+            [
+              121,
+              "Signup_SCENE_UsernamePopup_Title"
+            ]
+          ],
+          1033
+        ],
+        [
+          [],
+          1033
+        ],
+        [
+          [],
+          1033
+        ],
+        [
+          [
+            [
+              91,
+              "Signup_SCENE_DataInherit_PasswordEnter_Popup_SupportID_Text"
+            ]
+          ],
+          1097
+        ],
+        [
+          [],
+          1097
+        ],
+        [
+          [
+            [
+              55,
+              "Signup_SCENE_LanguageChoice_English"
+            ]
+          ],
+          1137
+        ],
+        [
+          [
+            [
+              62,
+              "Signup_SCENE_LanguageOption_Chinese"
+            ],
+            [
+              81,
+              "Signup_SCENE_DataInherit_Text"
+            ]
+          ],
+          1211
+        ],
+        [
+          [
+            [
+              5,
+              "Signup_SCENE_VersionUp_Popup_Title"
+            ],
+            [
+              72,
+              "Signup_SCENE_Birthdate_Day"
+            ]
+          ],
+          1281
+        ],
+        [
+          [
+            [
+              94,
+              "Signup_SCENE_DataInherit_PasswordError_Popup_Title"
+            ]
+          ],
+          1336
+        ],
+        [
+          [
+            [
+              11,
+              "Signup_SCENE_DataDownload_Popup_Title"
+            ],
+            [
+              124,
+              "Signup_SCENE_MENU_Heading"
+            ]
+          ],
+          1408
+        ],
+        [
+          [
+            [
+              50,
+              "Signup_SCENE_SDKAgree_Button_1"
+            ],
+            [
+              57,
+              "Signup_SCENE_LanguageChoice_French"
+            ],
+            [
+              93,
+              "Signup_SCENE_DataInherit_PasswordEnter_Popup_Password_Text"
+            ],
+            [
+              118,
+              "Signup_SCENE_Username_Text_1"
+            ]
+          ],
+          1578
+        ],
+        [
+          [
+            [
+              16,
+              "Signup_SCENE_TermsConfirm_Text_1"
+            ],
+            [
+              51,
+              "Signup_SCENE_SDKAgree_Button_2"
+            ],
+            [
+              119,
+              "Signup_SCENE_Username_Text_2"
+            ]
+          ],
+          1683
+        ],
+        [
+          [
+            [
+              17,
+              "Signup_SCENE_TermsConfirm_Text_2"
+            ],
+            [
+              79,
+              "Signup_SCENE_IDFAPermission_Text"
+            ],
+            [
+              84,
+              "Signup_SCENE_DataInherit_InheritDataPopup_Title"
+            ],
+            [
+              120,
+              "Signup_SCENE_Username_Text_3"
+            ]
+          ],
+          1842
+        ],
+        [
+          [
+            [
+              18,
+              "Signup_SCENE_TermsConfirm_Text_3"
+            ],
+            [
+              44,
+              "Signup_SCENE_SDKAgree_Heading"
+            ]
+          ],
+          1913
+        ],
+        [
+          [
+            [
+              19,
+              "Signup_SCENE_TermsConfirm_Text_4"
+            ],
+            [
+              30,
+              "Signup_SCENE_TermsReconfirm_Popup_Title"
+            ],
+            [
+              87,
+              "Signup_SCENE_DataInherit_Password_Button"
+            ]
+          ],
+          2039
+        ],
+        [
+          [
+            [
+              20,
+              "Signup_SCENE_TermsConfirm_Text_5"
+            ]
+          ],
+          2076
+        ],
+        [
+          [
+            [
+              70,
+              "Signup_SCENE_Birthdate_Year"
+            ]
+          ],
+          2108
+        ],
+        [
+          [],
+          2108
+        ],
+        [
+          [],
+          2108
+        ],
+        [
+          [],
+          2108
+        ],
+        [
+          [
+            [
+              15,
+              "Signup_SCENE_DataDownload_Popup_Button"
+            ]
+          ],
+          2151
+        ],
+        [
+          [
+            [
+              12,
+              "Signup_SCENE_DataDownload_Popup_Text_1"
+            ],
+            [
+              88,
+              "Signup_SCENE_DataInherit_PasswordEnter_Popup_Title"
+            ],
+            [
+              99,
+              "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Lock_1"
+            ],
+            [
+              102,
+              "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1"
+            ],
+            [
+              104,
+              "Signup_SCENE_DataInherit_1h_Popup_Title"
+            ]
+          ],
+          2417
+        ],
+        [
+          [
+            [
+              0,
+              "Signup_SCENE_Notes_Text_1"
+            ],
+            [
+              13,
+              "Signup_SCENE_DataDownload_Popup_Text_2"
+            ],
+            [
+              42,
+              "Signup_SCENE_BanAccount_Popup_Text_1"
+            ],
+            [
+              100,
+              "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Lock_2"
+            ],
+            [
+              103,
+              "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2"
+            ]
+          ],
+          2655
+        ],
+        [
+          [
+            [
+              1,
+              "Signup_SCENE_Notes_Text_2"
+            ],
+            [
+              14,
+              "Signup_SCENE_DataDownload_Popup_Text_3"
+            ],
+            [
+              41,
+              "Signup_SCENE_BanAccount_Popup_Title"
+            ],
+            [
+              43,
+              "Signup_SCENE_BanAccount_Popup_Text_2"
+            ],
+            [
+              82,
+              "Signup_SCENE_DataInherit_NewData_Button"
+            ]
+          ],
+          2853
+        ],
+        [
+          [
+            [
+              2,
+              "Signup_SCENE_Notes_Text_3"
+            ]
+          ],
+          2883
+        ],
+        [
+          [
+            [
+              3,
+              "Signup_SCENE_Notes_Text_4"
+            ],
+            [
+              78,
+              "Signup_SCENE_CannotChange"
+            ],
+            [
+              108,
+              "Signup_SCENE_DataInherit_Confirm_Popup_Title"
+            ]
+          ],
+          2992
+        ],
+        [
+          [
+            [
+              4,
+              "Signup_SCENE_Notes_Text_5"
+            ],
+            [
+              111,
+              "Signup_SCENE_NGword_Popup_Text_1"
+            ]
+          ],
+          3059
+        ],
+        [
+          [
+            [
+              33,
+              "Signup_SCENE_CacheClear_Popup_Title"
+            ],
+            [
+              112,
+              "Signup_SCENE_NGword_Popup_Text_2"
+            ]
+          ],
+          3136
+        ],
+        [
+          [
+            [
+              95,
+              "Signup_SCENE_DataInherit_PasswordError_Popup_Text_1"
+            ],
+            [
+              113,
+              "Signup_SCENE_NGword_Popup_Text_3"
+            ],
+            [
+              123,
+              "Signup_SCENE_MENU_Title"
+            ]
+          ],
+          3257
+        ],
+        [
+          [
+            [
+              9,
+              "Signup_SCENE_VersionUp_Popup_Button"
+            ],
+            [
+              96,
+              "Signup_SCENE_DataInherit_PasswordError_Popup_Text_2"
+            ]
+          ],
+          3353
+        ],
+        [
+          [],
+          3353
+        ],
+        [
+          [],
+          3353
+        ],
+        [
+          [
+            [
+              76,
+              "Signup_SCENE_CanChange_Language"
+            ],
+            [
+              92,
+              "Signup_SCENE_DataInherit_PasswordEnter_Popup_Password"
+            ]
+          ],
+          3447
+        ],
+        [
+          [
+            [
+              10,
+              "Signup_SCENE_VersionUp_Popup_Button2"
+            ],
+            [
+              27,
+              "Signup_SCENE_TermsUpdate_Popup_Title"
+            ],
+            [
+              56,
+              "Signup_SCENE_LanguageChoice_Spanish"
+            ],
+            [
+              68,
+              "Signup_SCENE_Birthdate_Heading"
+            ],
+            [
+              117,
+              "Signup_SCENE_Username_Title"
+            ]
+          ],
+          3636
+        ],
+        [
+          [],
+          3636
+        ],
+        [
+          [
+            [
+              39,
+              "Signup_SCENE_AlreadyInherited_Popup_Text_1"
+            ]
+          ],
+          3683
+        ],
+        [
+          [
+            [
+              40,
+              "Signup_SCENE_AlreadyInherited_Popup_Text_2"
+            ],
+            [
+              52,
+              "Signup_SCENE_SDKAgree_Button_Apple"
+            ]
+          ],
+          3769
+        ],
+        [
+          [
+            [
+              59,
+              "Signup_SCENE_LanguageChoice_Italian"
+            ],
+            [
+              125,
+              "Signup_SCENE_MENU_Content_1"
+            ]
+          ],
+          3841
+        ],
+        [
+          [
+            [
+              126,
+              "Signup_SCENE_MENU_Content_2"
+            ]
+          ],
+          3873
+        ],
+        [
+          [
+            [
+              23,
+              "Signup_SCENE_TermsConfirm_Button_1"
+            ],
+            [
+              54,
+              "Signup_SCENE_LanguageChoice_Text"
+            ],
+            [
+              127,
+              "Signup_SCENE_MENU_Content_3"
+            ]
+          ],
+          3981
+        ],
+        [
+          [
+            [
+              24,
+              "Signup_SCENE_TermsConfirm_Button_2"
+            ],
+            [
+              75,
+              "Signup_SCENE_BirthdatePopup_Text"
+            ]
+          ],
+          4057
+        ],
+        [
+          [
+            [
+              58,
+              "Signup_SCENE_LanguageChoice_German"
+            ]
+          ],
+          4096
+        ],
+        [
+          [
+            [
+              110,
+              "Signup_SCENE_NGword_Popup_Title"
+            ]
+          ],
+          4132
+        ],
+        [
+          [
+            [
+              31,
+              "Signup_SCENE_TermsReconfirm_Popup_Text_1"
+            ]
+          ],
+          4177
+        ],
+        [
+          [
+            [
+              32,
+              "Signup_SCENE_TermsReconfirm_Popup_Text_2"
+            ],
+            [
+              45,
+              "Signup_SCENE_SDKAgree_Text_1"
+            ],
+            [
+              105,
+              "Signup_SCENE_DataInherit_1h_Popup_Text"
+            ],
+            [
+              106,
+              "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1"
+            ],
+            [
+              122,
+              "Signup_SCENE_UsernamePopup_Text"
+            ]
+          ],
+          4390
+        ],
+        [
+          [
+            [
+              46,
+              "Signup_SCENE_SDKAgree_Text_2"
+            ],
+            [
+              71,
+              "Signup_SCENE_Birthdate_Month"
+            ],
+            [
+              107,
+              "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_2"
+            ]
+          ],
+          4512
+        ],
+        [
+          [
+            [
+              35,
+              "Signup_SCENE_CacheClearFinished_Popup_Title"
+            ],
+            [
+              47,
+              "Signup_SCENE_SDKAgree_Text_3"
+            ],
+            [
+              69,
+              "Signup_SCENE_Birthdate_Text"
+            ],
+            [
+              89,
+              "Signup_SCENE_DataInherit_PasswordEnter_Popup_Text"
+            ]
+          ],
+          4679
+        ],
+        [
+          [
+            [
+              48,
+              "Signup_SCENE_SDKAgree_Text_4"
+            ],
+            [
+              66,
+              "Signup_SCENE_CountryChoicePopup_Title"
+            ],
+            [
+              77,
+              "Signup_SCENE_CanChange_Name"
+            ]
+          ],
+          4786
+        ],
+        [
+          [
+            [
+              49,
+              "Signup_SCENE_SDKAgree_Text_5"
+            ]
+          ],
+          4819
+        ],
+        [
+          [
+            [
+              128,
+              "Signup_SCENE_InitialError_Popup_Title"
+            ]
+          ],
+          4861
+        ],
+        [
+          [
+            [
+              97,
+              "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Caution_1"
+            ]
+          ],
+          4925
+        ],
+        [
+          [
+            [
+              98,
+              "Signup_SCENE_DataInherit_PasswordError_Popup_Text_Caution_2"
+            ]
+          ],
+          4989
+        ],
+        [
+          [
+            [
+              83,
+              "Signup_SCENE_DataInherit_InheritData_Button"
+            ],
+            [
+              90,
+              "Signup_SCENE_DataInherit_PasswordEnter_Popup_SupportID"
+            ],
+            [
+              114,
+              "Signup_SCENE_Confirm_Button"
+            ]
+          ],
+          5128
+        ],
+        [
+          [
+            [
+              25,
+              "Signup_SCENE_TermsConfirm_Alarm_1"
+            ],
+            [
+              37,
+              "Signup_SCENE_Agree_Button"
+            ]
+          ],
+          5196
+        ],
+        [
+          [
+            [
+              21,
+              "Signup_SCENE_TermsConfirm_Heading_1"
+            ],
+            [
+              26,
+              "Signup_SCENE_TermsConfirm_Alarm_2"
+            ],
+            [
+              61,
+              "Signup_SCENE_LanguageChoice_Korean"
+            ]
+          ],
+          5313
+        ],
+        [
+          [
+            [
+              22,
+              "Signup_SCENE_TermsConfirm_Heading_2"
+            ],
+            [
+              129,
+              "Signup_SCENE_InitialError_Popup_Text"
+            ]
+          ],
+          5394
+        ],
+        [
+          [
+            [
+              74,
+              "Signup_SCENE_BirthdatePopup_Date"
+            ],
+            [
+              109,
+              "Signup_SCENE_DataInherit_Confirm_Popup_Text"
+            ]
+          ],
+          5479
+        ],
+        [
+          [
+            [
+              80,
+              "Signup_SCENE_DataInherit_Title"
+            ]
+          ],
+          5514
+        ],
+        [
+          [
+            [
+              73,
+              "Signup_SCENE_BirthdatePopup_Title"
+            ]
+          ],
+          5552
+        ],
+        [
+          [
+            [
+              64,
+              "Signup_SCENE_LanguageChoicePopup_Text"
+            ]
+          ],
+          5594
+        ],
+        [
+          [
+            [
+              53,
+              "Signup_SCENE_LanguageChoice_Heading"
+            ],
+            [
+              60,
+              "Signup_SCENE_LanguageChoice_Japanese"
+            ]
+          ],
+          5675
+        ],
+        [
+          [
+            [
+              65,
+              "Signup_SCENE_CountryChoice_Text"
+            ],
+            [
+              67,
+              "Signup_SCENE_CountryChoicePopup_Text"
+            ]
+          ],
+          5752
+        ],
+        [
+          [
+            [
+              36,
+              "Signup_SCENE_CacheClearFinished_Popup_Text"
+            ]
+          ],
+          5799
+        ],
+        [
+          [
+            [
+              34,
+              "Signup_SCENE_CacheClear_Popup_Text"
+            ]
+          ],
+          5838
+        ],
+        [
+          [
+            [
+              6,
+              "Signup_SCENE_VersionUp_Popup_Text_1"
+            ],
+            [
+              28,
+              "Signup_SCENE_TermsUpdate_Popup_Text_1"
+            ]
+          ],
+          5920
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 130,
+        "size": 5544,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "strings": {
+    "SleepingFacePokedexScene_Content_Countum": [
+      "\u000e\u0002\u0002\u0002",
+      "%"
+    ],
+    "SleepingFacePokedexScene_Content_Desc": [
+      "Guarda i Pokémon su cui hai fatto ricerche."
+    ],
+    "SleepingFacePokedexScene_Content_Title": [
+      "Sonnodex"
+    ],
+    "SleepingFacePokedexScene_Footer_Title_2": [
+      "Nessun filtro"
+    ],
+    "SleepingFacePokedexScene_Footer_Title_3": [
+      "Tipo sonno"
+    ],
+    "SleepingFacePokedexScene_Header_Title": [
+      "Vedi stili"
+    ],
+    "SleepingFacePokedexScene_Header_TitleText": [
+      "Sonnodex"
+    ],
+    "SleepingFacePokedexScene_Order_Heading": [
+      "Ordine per: \u000e\u0003\u0013\u0002",
+      ""
+    ],
+    "SleepingFacePokedexScene_Secret": [
+      "???"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 9,
+        "size": 67,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 425,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              4,
+              "SleepingFacePokedexScene_Header_Title"
+            ],
+            [
+              6,
+              "SleepingFacePokedexScene_Footer_Title_3"
+            ]
+          ],
+          126
+        ],
+        [
+          [
+            [
+              7,
+              "SleepingFacePokedexScene_Order_Heading"
+            ],
+            [
+              8,
+              "SleepingFacePokedexScene_Secret"
+            ]
+          ],
+          205
+        ],
+        [
+          [],
+          205
+        ],
+        [
+          [
+            [
+              0,
+              "SleepingFacePokedexScene_Content_Title"
+            ],
+            [
+              1,
+              "SleepingFacePokedexScene_Content_Countum"
+            ],
+            [
+              3,
+              "SleepingFacePokedexScene_Header_TitleText"
+            ]
+          ],
+          339
+        ],
+        [
+          [
+            [
+              2,
+              "SleepingFacePokedexScene_Content_Desc"
+            ],
+            [
+              5,
+              "SleepingFacePokedexScene_Footer_Title_2"
+            ]
+          ],
+          425
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 9,
+        "size": 290,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

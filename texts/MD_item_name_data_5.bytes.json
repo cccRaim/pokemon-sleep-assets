@@ -1,0 +1,1055 @@
+{
+  "strings": {
+    "item_desc_1": [
+      "Un Encens qui double les points de\nrecherche obtenus pendant une\nsession de recherche sur le sommeil.\nValable pour une seule session après\nutilisation."
+    ],
+    "item_desc_10": [
+      "Une délicieuse friandise permettant\nde rendre un Pokémon plus\naffectueux. Chacun de ces biscuits\ndonne 3 points d'amitié."
+    ],
+    "item_desc_11": [
+      "Une friandise spéciale permettant\nde maximiser l'affection d'un\nPokémon. Chacun de ces biscuits\ndonne le maximum de points d'amitié."
+    ],
+    "item_desc_12": [
+      "Un petit bonbon très spécial pouvant\ndevenir un bonbon pour n'importe quel\nPokémon."
+    ],
+    "item_desc_13": [
+      "Un bonbon très spécial pouvant\ndevenir un bonbon pour n'importe quel\nPokémon."
+    ],
+    "item_desc_14": [
+      "Un gros bonbon très spécial pouvant\ndevenir un bonbon pour n'importe quel\nPokémon."
+    ],
+    "item_desc_15": [
+      "Un super ticket à échanger\ncontre \u000e\u0002\u0002\u0002",
+      " ingrédient\u000e\u0004",
+      "\b",
+      "\u0002s촀 de cuisine."
+    ],
+    "item_desc_16": [
+      "Un incroyable ticket à échanger\ncontre \u000e\u0002\u0002\u0002",
+      " ingrédient\u000e\u0004",
+      "\b",
+      "\u0002s촀 de cuisine."
+    ],
+    "item_desc_17": [
+      "Un ticket pour les plus fins gourmets,\nà échanger contre \u000e\u0002\u0002\u0002",
+      " ingrédient\u000e\u0004",
+      "\b",
+      "\u0002s촀\nde cuisine."
+    ],
+    "item_desc_18": [
+      "Un mystérieux agrégat de matière\nqui brille intensément. Il peut être\néchangé contre \u000e\u0002\u0004\u0004",
+      "촁 Fragment\u000e\u0004",
+      "\b",
+      "\u0002s촀\nde Rêve."
+    ],
+    "item_desc_19": [
+      "Un mystérieux agrégat de matière qui\nbrille intensément. Il peut être\néchangé contre \u000e\u0002\u0004\u0004",
+      "촁 Fragment\u000e\u0004",
+      "\b",
+      "\u0002s촀 de\nRêve."
+    ],
+    "item_desc_2": [
+      "Un Encens qui double les Fragments de\nRêve obtenus pendant une session de\nrecherche sur le sommeil. Valable\npour une seule session après\nutilisation."
+    ],
+    "item_desc_20": [
+      "Un mystérieux agrégat de matière qui\nbrille intensément. Il peut être\néchangé contre \u000e\u0002\u0004\u0004",
+      "촁 Fragment\u000e\u0004",
+      "\b",
+      "\u0002s촀 de\nRêve."
+    ],
+    "item_desc_21": [
+      "Un fil qui semble abriter une étrange\nénergie capable de nouer des liens\nentre les êtres."
+    ],
+    "item_desc_22": [
+      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nest jaune et orange."
+    ],
+    "item_desc_23": [
+      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nest de couleur bleue."
+    ],
+    "item_desc_24": [
+      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Un\néclair est dessiné dessus."
+    ],
+    "item_desc_25": [
+      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Une\nfeuille est dessinée dessus."
+    ],
+    "item_desc_26": [
+      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Un\nflocon de neige semble dessiné\ndessus."
+    ],
+    "item_desc_27": [
+      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nest sombre comme la nuit."
+    ],
+    "item_desc_28": [
+      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nbrille d'une lumière aveuglante."
+    ],
+    "item_desc_29": [
+      "Une pellicule métallique qui fait\névoluer certaines espèces de\nPokémon. Elle est faite d'un métal\nparticulier.\n"
+    ],
+    "item_desc_3": [
+      "Un Encens qui double les points\nd'expérience obtenus par les Pokémon\nde soutien pendant une session de\nrecherche sur le sommeil. Valable\npour une seule session après\nutilisation."
+    ],
+    "item_desc_30": [
+      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle a\nla forme d'un œuf."
+    ],
+    "item_desc_31": [
+      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle a\nla forme d'une couronne."
+    ],
+    "item_desc_32": [
+      "Une graine mystérieuse qui augmente\nde 1 niveau la Compétence Principale\nd'un Pokémon."
+    ],
+    "item_desc_33": [
+      "Une graine mystérieuse qui améliore\nd'un rang les effets d'une des\nCompétences Secondaires au hasard\npour un Pokémon."
+    ],
+    "item_desc_34": [
+      "Un Encens qui garantit l'apparition\nd'au moins un Pokémon super affamé à\nl'heure du goûter. Valable pour une\nseule session après utilisation."
+    ],
+    "item_desc_4": [
+      "Un Encens qui double l'Énergie\nrécupérée par les Pokémon de soutien\npendant une session de recherche sur\nle sommeil. Valable pour une seule\nsession après utilisation."
+    ],
+    "item_desc_5": [
+      "Un oreiller spécial qui restaure de 50\nl'Énergie d'un Pokémon de soutien."
+    ],
+    "item_desc_6": [
+      "Un sifflet spécial qui motive les\nPokémon et permet d'obtenir\nl'équivalent de 3 heures de recherche\nen Baies et ingrédients. N'active pas\nde Compétence Principale."
+    ],
+    "item_desc_7": [
+      "Un ticket spécial qui permet de\nchanger de zone de recherche à tout\nmoment.\n(Fonctionne uniquement vers les zones\nde recherche déjà débloquées.)"
+    ],
+    "item_desc_8": [
+      "Permet d'utiliser un Kit de Camping\nfacilitant les recherches et le\nrenforcement de Ronflex pendant\n7 jours."
+    ],
+    "item_desc_9": [
+      "Une friandise permettant de rendre\nun Pokémon un peu plus affectueux.\nChacun de ces biscuits donne 1 point\nd'amitié."
+    ],
+    "item_desc_short_1": [
+      "Double les points de recherche\nobtenus pendant les recherches."
+    ],
+    "item_desc_short_10": [
+      "Rend un Pokémon plus affectueux.\nDonne 3 points d'amitié."
+    ],
+    "item_desc_short_11": [
+      "Maximise l'affection d'un Pokémon.\nDonne le maximum de points\nd'amitié."
+    ],
+    "item_desc_short_12": [
+      "Peut devenir un petit bonbon pour\nn'importe quel Pokémon."
+    ],
+    "item_desc_short_13": [
+      "Peut devenir un bonbon pour\nn'importe quel Pokémon."
+    ],
+    "item_desc_short_14": [
+      "Peut devenir un gros bonbon pour\nn'importe quel Pokémon."
+    ],
+    "item_desc_short_15": [
+      "S'échange contre \u000e\u0002\u0002\u0002",
+      " ingrédient\u000e\u0004",
+      "\b",
+      "\u0002s촀\nde cuisine."
+    ],
+    "item_desc_short_16": [
+      "S'échange contre \u000e\u0002\u0002\u0002",
+      " ingrédient\u000e\u0004",
+      "\b",
+      "\u0002s촀\nde cuisine."
+    ],
+    "item_desc_short_17": [
+      "S'échange contre \u000e\u0002\u0002\u0002",
+      " ingrédient\u000e\u0004",
+      "\b",
+      "\u0002s촀\nde cuisine."
+    ],
+    "item_desc_short_18": [
+      "S'échange contre \u000e\u0002\u0004\u0004",
+      "촁 Fragment\u000e\u0004",
+      "\b",
+      "\u0002s촀\nde Rêve."
+    ],
+    "item_desc_short_19": [
+      "S'échange contre \u000e\u0002\u0004\u0004",
+      "촁 Fragment\u000e\u0004",
+      "\b",
+      "\u0002s촀\nde Rêve."
+    ],
+    "item_desc_short_2": [
+      "Double les Fragments de Rêve\nobtenus pendant les recherches."
+    ],
+    "item_desc_short_20": [
+      "S'échange contre \u000e\u0002\u0004\u0004",
+      "촁 Fragment\u000e\u0004",
+      "\b",
+      "\u0002s촀\nde Rêve."
+    ],
+    "item_desc_short_21": [
+      "Semble abriter une étrange énergie\ncapable de nouer des liens entre les\nêtres."
+    ],
+    "item_desc_short_22": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_23": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_24": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_25": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_26": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_27": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_28": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_29": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_3": [
+      "Double les points d'expérience\nobtenus par les Pokémon de soutien\npendant les recherches."
+    ],
+    "item_desc_short_30": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_31": [
+      "Fait évoluer certaines espèces de\nPokémon."
+    ],
+    "item_desc_short_32": [
+      "Augmente de 1 niveau\nla Compétence Principale\nd'un Pokémon."
+    ],
+    "item_desc_short_33": [
+      "Améliore d'un rang les effets d'une\ndes Compétences Secondaires au\nhasard pour un Pokémon."
+    ],
+    "item_desc_short_34": [
+      "Garantit l'apparition d'au moins un\nPokémon super affamé à l'heure du\ngoûter."
+    ],
+    "item_desc_short_4": [
+      "Double l'Énergie récupérée\npar les Pokémon de soutien\npendant les recherches."
+    ],
+    "item_desc_short_5": [
+      "Restaure de 50 l'Énergie d'un\nPokémon de soutien."
+    ],
+    "item_desc_short_6": [
+      "Permet d'obtenir l'équivalent de\n3 heures de recherche en Baies et\ningrédients."
+    ],
+    "item_desc_short_7": [
+      "Permet de changer de zone de\nrecherche à tout moment."
+    ],
+    "item_desc_short_8": [
+      "Facilite les recherches et le\nrenforcement de Ronflex pendant\n7 jours."
+    ],
+    "item_desc_short_9": [
+      "Rend un Pokémon un peu plus\naffectueux. Donne 1 point d'amitié."
+    ],
+    "item_name_1": [
+      "Encens Concentration"
+    ],
+    "item_name_10": [
+      "Super Biscuit"
+    ],
+    "item_name_11": [
+      "Master Biscuit"
+    ],
+    "item_name_12": [
+      "Bonbon Toubon S"
+    ],
+    "item_name_13": [
+      "Bonbon Toubon M"
+    ],
+    "item_name_14": [
+      "Bonbon Toubon L"
+    ],
+    "item_name_15": [
+      "Ticket Ingrédients S"
+    ],
+    "item_name_16": [
+      "Ticket Ingrédients M"
+    ],
+    "item_name_17": [
+      "Ticket Ingrédients L"
+    ],
+    "item_name_18": [
+      "Amas de Rêve S"
+    ],
+    "item_name_19": [
+      "Amas de Rêve M"
+    ],
+    "item_name_2": [
+      "Encens Veine"
+    ],
+    "item_name_20": [
+      "Amas de Rêve L"
+    ],
+    "item_name_21": [
+      "Fil de Liaison"
+    ],
+    "item_name_22": [
+      "Pierre Feu"
+    ],
+    "item_name_23": [
+      "Pierre Eau"
+    ],
+    "item_name_24": [
+      "Pierre Foudre"
+    ],
+    "item_name_25": [
+      "Pierre Plante"
+    ],
+    "item_name_26": [
+      "Pierre Glace"
+    ],
+    "item_name_27": [
+      "Pierre Lune"
+    ],
+    "item_name_28": [
+      "Pierre Éclat"
+    ],
+    "item_name_29": [
+      "Peau Métal"
+    ],
+    "item_name_3": [
+      "Encens Croissance"
+    ],
+    "item_name_30": [
+      "Pierre Ovale"
+    ],
+    "item_name_31": [
+      "Roche Royale"
+    ],
+    "item_name_32": [
+      "Graine de Compétence Principale"
+    ],
+    "item_name_33": [
+      "Graine de Compétence Secondaire"
+    ],
+    "item_name_34": [
+      "Encens Amitié"
+    ],
+    "item_name_4": [
+      "Encens Récupération"
+    ],
+    "item_name_5": [
+      "Oreiller Énergie"
+    ],
+    "item_name_6": [
+      "Sifflet de Soutien"
+    ],
+    "item_name_7": [
+      "Ticket Transport"
+    ],
+    "item_name_8": [
+      "Ticket de Camping"
+    ],
+    "item_name_9": [
+      "Poké Biscuit"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 102,
+        "size": 718,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 53,
+        "size": 2335,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              28,
+              "item_name_29"
+            ],
+            [
+              62,
+              "item_desc_29"
+            ],
+            [
+              85,
+              "item_desc_short_18"
+            ],
+            [
+              91,
+              "item_desc_short_24"
+            ],
+            [
+              97,
+              "item_desc_short_30"
+            ]
+          ],
+          527
+        ],
+        [
+          [
+            [
+              86,
+              "item_desc_short_19"
+            ],
+            [
+              92,
+              "item_desc_short_25"
+            ],
+            [
+              98,
+              "item_desc_short_31"
+            ]
+          ],
+          596
+        ],
+        [
+          [
+            [
+              93,
+              "item_desc_short_26"
+            ],
+            [
+              99,
+              "item_desc_short_32"
+            ]
+          ],
+          642
+        ],
+        [
+          [
+            [
+              94,
+              "item_desc_short_27"
+            ],
+            [
+              100,
+              "item_desc_short_33"
+            ]
+          ],
+          688
+        ],
+        [
+          [
+            [
+              0,
+              "item_name_1"
+            ],
+            [
+              95,
+              "item_desc_short_28"
+            ],
+            [
+              101,
+              "item_desc_short_34"
+            ]
+          ],
+          750
+        ],
+        [
+          [
+            [
+              1,
+              "item_name_2"
+            ],
+            [
+              96,
+              "item_desc_short_29"
+            ]
+          ],
+          789
+        ],
+        [
+          [
+            [
+              2,
+              "item_name_3"
+            ]
+          ],
+          805
+        ],
+        [
+          [
+            [
+              3,
+              "item_name_4"
+            ]
+          ],
+          821
+        ],
+        [
+          [
+            [
+              4,
+              "item_name_5"
+            ]
+          ],
+          837
+        ],
+        [
+          [
+            [
+              5,
+              "item_name_6"
+            ]
+          ],
+          853
+        ],
+        [
+          [
+            [
+              6,
+              "item_name_7"
+            ]
+          ],
+          869
+        ],
+        [
+          [
+            [
+              7,
+              "item_name_8"
+            ],
+            [
+              68,
+              "item_desc_short_1"
+            ]
+          ],
+          907
+        ],
+        [
+          [
+            [
+              8,
+              "item_name_9"
+            ],
+            [
+              69,
+              "item_desc_short_2"
+            ]
+          ],
+          945
+        ],
+        [
+          [
+            [
+              70,
+              "item_desc_short_3"
+            ]
+          ],
+          967
+        ],
+        [
+          [
+            [
+              71,
+              "item_desc_short_4"
+            ]
+          ],
+          989
+        ],
+        [
+          [
+            [
+              72,
+              "item_desc_short_5"
+            ]
+          ],
+          1011
+        ],
+        [
+          [
+            [
+              73,
+              "item_desc_short_6"
+            ]
+          ],
+          1033
+        ],
+        [
+          [
+            [
+              74,
+              "item_desc_short_7"
+            ]
+          ],
+          1055
+        ],
+        [
+          [
+            [
+              75,
+              "item_desc_short_8"
+            ]
+          ],
+          1077
+        ],
+        [
+          [
+            [
+              76,
+              "item_desc_short_9"
+            ]
+          ],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [
+            [
+              34,
+              "item_desc_1"
+            ]
+          ],
+          1115
+        ],
+        [
+          [
+            [
+              35,
+              "item_desc_2"
+            ]
+          ],
+          1131
+        ],
+        [
+          [
+            [
+              36,
+              "item_desc_3"
+            ]
+          ],
+          1147
+        ],
+        [
+          [
+            [
+              37,
+              "item_desc_4"
+            ]
+          ],
+          1163
+        ],
+        [
+          [
+            [
+              38,
+              "item_desc_5"
+            ]
+          ],
+          1179
+        ],
+        [
+          [
+            [
+              39,
+              "item_desc_6"
+            ]
+          ],
+          1195
+        ],
+        [
+          [
+            [
+              40,
+              "item_desc_7"
+            ]
+          ],
+          1211
+        ],
+        [
+          [
+            [
+              41,
+              "item_desc_8"
+            ]
+          ],
+          1227
+        ],
+        [
+          [
+            [
+              42,
+              "item_desc_9"
+            ]
+          ],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [],
+          1243
+        ],
+        [
+          [
+            [
+              9,
+              "item_name_10"
+            ],
+            [
+              43,
+              "item_desc_10"
+            ]
+          ],
+          1277
+        ],
+        [
+          [
+            [
+              10,
+              "item_name_11"
+            ],
+            [
+              44,
+              "item_desc_11"
+            ]
+          ],
+          1311
+        ],
+        [
+          [
+            [
+              11,
+              "item_name_12"
+            ],
+            [
+              45,
+              "item_desc_12"
+            ]
+          ],
+          1345
+        ],
+        [
+          [
+            [
+              12,
+              "item_name_13"
+            ],
+            [
+              46,
+              "item_desc_13"
+            ]
+          ],
+          1379
+        ],
+        [
+          [
+            [
+              13,
+              "item_name_14"
+            ],
+            [
+              19,
+              "item_name_20"
+            ],
+            [
+              47,
+              "item_desc_14"
+            ],
+            [
+              53,
+              "item_desc_20"
+            ]
+          ],
+          1447
+        ],
+        [
+          [
+            [
+              14,
+              "item_name_15"
+            ],
+            [
+              20,
+              "item_name_21"
+            ],
+            [
+              48,
+              "item_desc_15"
+            ],
+            [
+              54,
+              "item_desc_21"
+            ],
+            [
+              77,
+              "item_desc_short_10"
+            ]
+          ],
+          1538
+        ],
+        [
+          [
+            [
+              15,
+              "item_name_16"
+            ],
+            [
+              21,
+              "item_name_22"
+            ],
+            [
+              49,
+              "item_desc_16"
+            ],
+            [
+              55,
+              "item_desc_22"
+            ],
+            [
+              78,
+              "item_desc_short_11"
+            ]
+          ],
+          1629
+        ],
+        [
+          [
+            [
+              16,
+              "item_name_17"
+            ],
+            [
+              22,
+              "item_name_23"
+            ],
+            [
+              50,
+              "item_desc_17"
+            ],
+            [
+              56,
+              "item_desc_23"
+            ],
+            [
+              79,
+              "item_desc_short_12"
+            ]
+          ],
+          1720
+        ],
+        [
+          [
+            [
+              17,
+              "item_name_18"
+            ],
+            [
+              23,
+              "item_name_24"
+            ],
+            [
+              29,
+              "item_name_30"
+            ],
+            [
+              51,
+              "item_desc_18"
+            ],
+            [
+              57,
+              "item_desc_24"
+            ],
+            [
+              63,
+              "item_desc_30"
+            ],
+            [
+              80,
+              "item_desc_short_13"
+            ]
+          ],
+          1845
+        ],
+        [
+          [
+            [
+              18,
+              "item_name_19"
+            ],
+            [
+              24,
+              "item_name_25"
+            ],
+            [
+              30,
+              "item_name_31"
+            ],
+            [
+              52,
+              "item_desc_19"
+            ],
+            [
+              58,
+              "item_desc_25"
+            ],
+            [
+              64,
+              "item_desc_31"
+            ],
+            [
+              81,
+              "item_desc_short_14"
+            ],
+            [
+              87,
+              "item_desc_short_20"
+            ]
+          ],
+          1993
+        ],
+        [
+          [
+            [
+              25,
+              "item_name_26"
+            ],
+            [
+              31,
+              "item_name_32"
+            ],
+            [
+              59,
+              "item_desc_26"
+            ],
+            [
+              65,
+              "item_desc_32"
+            ],
+            [
+              82,
+              "item_desc_short_15"
+            ],
+            [
+              88,
+              "item_desc_short_21"
+            ]
+          ],
+          2107
+        ],
+        [
+          [
+            [
+              26,
+              "item_name_27"
+            ],
+            [
+              32,
+              "item_name_33"
+            ],
+            [
+              60,
+              "item_desc_27"
+            ],
+            [
+              66,
+              "item_desc_33"
+            ],
+            [
+              83,
+              "item_desc_short_16"
+            ],
+            [
+              89,
+              "item_desc_short_22"
+            ]
+          ],
+          2221
+        ],
+        [
+          [
+            [
+              27,
+              "item_name_28"
+            ],
+            [
+              33,
+              "item_name_34"
+            ],
+            [
+              61,
+              "item_desc_28"
+            ],
+            [
+              67,
+              "item_desc_34"
+            ],
+            [
+              84,
+              "item_desc_short_17"
+            ],
+            [
+              90,
+              "item_desc_short_23"
+            ]
+          ],
+          2335
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 102,
+        "size": 13002,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

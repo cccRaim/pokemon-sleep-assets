@@ -1,0 +1,101 @@
+{
+  "strings": {
+    "TutorialSleepAnalyzeFinishSceneController_Text_1": [
+      "첫 수면 계측에 성공한 모양이구나!\n그럼 이제 수면 리서치에 대해 가르쳐 줄게."
+    ],
+    "TutorialSleepAnalyzeFinishScene_WaitingView_Message": [
+      "준비가 되면 수면 리서치를\n다시 시작해 봅시다.\n먼저, 계측한 수면 데이터를\n확인하는 것부터 시작합니다."
+    ],
+    "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": [
+      "수면 리서치를 재개한다"
+    ],
+    "TutorialSleepAnalyzeFinishScene_WaitingView_Title": [
+      "튜토리얼 대기 중"
+    ],
+    "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": [
+      "수면 리서치 튜토리얼"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 5,
+        "size": 39,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 304,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "TutorialSleepAnalyzeFinishScene_WaitingView_Title"
+            ],
+            [
+              2,
+              "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2"
+            ]
+          ],
+          134
+        ],
+        [
+          [
+            [
+              0,
+              "TutorialSleepAnalyzeFinishSceneController_Text_1"
+            ],
+            [
+              3,
+              "TutorialSleepAnalyzeFinishScene_WaitingView_Message"
+            ]
+          ],
+          243
+        ],
+        [
+          [
+            [
+              4,
+              "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton"
+            ]
+          ],
+          304
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 5,
+        "size": 298,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

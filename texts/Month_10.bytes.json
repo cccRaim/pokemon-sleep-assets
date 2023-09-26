@@ -1,0 +1,284 @@
+{
+  "strings": {
+    "Month_Full_1": [
+      "1월"
+    ],
+    "Month_Full_10": [
+      "10월"
+    ],
+    "Month_Full_11": [
+      "11월"
+    ],
+    "Month_Full_12": [
+      "12월"
+    ],
+    "Month_Full_2": [
+      "2월"
+    ],
+    "Month_Full_3": [
+      "3월"
+    ],
+    "Month_Full_4": [
+      "4월"
+    ],
+    "Month_Full_5": [
+      "5월"
+    ],
+    "Month_Full_6": [
+      "6월"
+    ],
+    "Month_Full_7": [
+      "7월"
+    ],
+    "Month_Full_8": [
+      "8월"
+    ],
+    "Month_Full_9": [
+      "9월"
+    ],
+    "Month_Short_1": [
+      "1"
+    ],
+    "Month_Short_10": [
+      "10"
+    ],
+    "Month_Short_11": [
+      "11"
+    ],
+    "Month_Short_12": [
+      "12"
+    ],
+    "Month_Short_2": [
+      "2"
+    ],
+    "Month_Short_3": [
+      "3"
+    ],
+    "Month_Short_4": [
+      "4"
+    ],
+    "Month_Short_5": [
+      "5"
+    ],
+    "Month_Short_6": [
+      "6"
+    ],
+    "Month_Short_7": [
+      "7"
+    ],
+    "Month_Short_8": [
+      "8"
+    ],
+    "Month_Short_9": [
+      "9"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 24,
+        "size": 172,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 530,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              22,
+              "Month_Short_11"
+            ]
+          ],
+          123
+        ],
+        [
+          [
+            [
+              23,
+              "Month_Short_12"
+            ]
+          ],
+          142
+        ],
+        [
+          [
+            [
+              0,
+              "Month_Full_1"
+            ],
+            [
+              9,
+              "Month_Full_10"
+            ]
+          ],
+          177
+        ],
+        [
+          [
+            [
+              1,
+              "Month_Full_2"
+            ],
+            [
+              10,
+              "Month_Full_11"
+            ],
+            [
+              12,
+              "Month_Short_1"
+            ]
+          ],
+          230
+        ],
+        [
+          [
+            [
+              2,
+              "Month_Full_3"
+            ],
+            [
+              11,
+              "Month_Full_12"
+            ],
+            [
+              13,
+              "Month_Short_2"
+            ]
+          ],
+          283
+        ],
+        [
+          [
+            [
+              3,
+              "Month_Full_4"
+            ],
+            [
+              14,
+              "Month_Short_3"
+            ]
+          ],
+          318
+        ],
+        [
+          [
+            [
+              4,
+              "Month_Full_5"
+            ],
+            [
+              15,
+              "Month_Short_4"
+            ]
+          ],
+          353
+        ],
+        [
+          [
+            [
+              5,
+              "Month_Full_6"
+            ],
+            [
+              16,
+              "Month_Short_5"
+            ]
+          ],
+          388
+        ],
+        [
+          [
+            [
+              6,
+              "Month_Full_7"
+            ],
+            [
+              17,
+              "Month_Short_6"
+            ]
+          ],
+          423
+        ],
+        [
+          [
+            [
+              7,
+              "Month_Full_8"
+            ],
+            [
+              18,
+              "Month_Short_7"
+            ]
+          ],
+          458
+        ],
+        [
+          [
+            [
+              8,
+              "Month_Full_9"
+            ],
+            [
+              19,
+              "Month_Short_8"
+            ]
+          ],
+          493
+        ],
+        [
+          [
+            [
+              20,
+              "Month_Short_9"
+            ]
+          ],
+          511
+        ],
+        [
+          [
+            [
+              21,
+              "Month_Short_10"
+            ]
+          ],
+          530
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 24,
+        "size": 228,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

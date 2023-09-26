@@ -1,0 +1,394 @@
+{
+  "strings": {
+    "md_berries_desc_1": [
+      "Je mehr Sonnenlicht diese Beere\nabsorbiert, desto kräftiger wird ihre\nFarbe.\n"
+    ],
+    "md_berries_desc_10": [
+      "Diese Beere kam einst von weit übers\nMeer nach Sinnoh, wo sie heutzutage\nangebaut wird."
+    ],
+    "md_berries_desc_11": [
+      "Diese Beere krümmt sich im Laufe\nihres Wachstums. Je stärker die\nKrümmung, desto schmackhafter ist\ndie Frucht."
+    ],
+    "md_berries_desc_12": [
+      "Diese Beere bildet nach und nach\nNährstoffe, die für Pokémon gesund\nsind. Allerdings verläuft ihr\nWachstum dadurch eher langsam."
+    ],
+    "md_berries_desc_13": [
+      "Diese Beere entstammt derselben\nFamilie wie die Sinelbeere, ist\nallerdings größer als diese und\nbesitzt einen milden Geschmack.\n"
+    ],
+    "md_berries_desc_14": [
+      "Diese kleine von einer weichen Haut\numgebene Beere ist außen blau,\nverfärbt einem beim Verzehr den\nMund aber schwarz.\n"
+    ],
+    "md_berries_desc_15": [
+      "Diese Beere hat einen erfrischenden,\ngut ausbalancierten herb-sauren\nGeschmack. Gekühlt schmeckt sie\nnoch besser."
+    ],
+    "md_berries_desc_16": [
+      "An dieser Beere wachsen Noppen,\ndamit Pokémon sie besser greifen\nkönnen. Dies dient ihrer leichteren\nVerbreitung."
+    ],
+    "md_berries_desc_17": [
+      "Farbe und Glanz dieser Beere lassen\nsie äußerst schmackhaft aussehen. In\nWirklichkeit ist sie jedoch unfassbar\nsauer."
+    ],
+    "md_berries_desc_18": [
+      "Da sie im Inneren fast hohl ist,\nverfügt sie nur über wenig\nFruchtfleisch, welches aber süß und\ndelikat schmeckt."
+    ],
+    "md_berries_desc_2": [
+      "Sie wächst langsamer als\nbeispielsweise die Amrenabeere. Je\nkleiner die Frucht, desto besser\nschmeckt sie.\n"
+    ],
+    "md_berries_desc_3": [
+      "Die Gaben der Natur sind in dieser\nBeerensorte vereinigt. Im Mund\nentfaltet sie eine wunderbare\nMischung verschiedener Aromen."
+    ],
+    "md_berries_desc_4": [
+      "Schon ein einziger Bissen von dieser\nsehr weichen Frucht erfüllt den Mund\nmit ihrem süß-sauren Geschmack."
+    ],
+    "md_berries_desc_5": [
+      "Diese Beere ist unglaublich bitter.\nSchon ein einziger Biss genügt, um\neinen Schluckauf augenblicklich zu\nstoppen."
+    ],
+    "md_berries_desc_6": [
+      "Wenn die Blätter lang und wellig sind,\nschmeckt diese Beere etwas bitter."
+    ],
+    "md_berries_desc_7": [
+      "Diese knallrote Beere schmeckt\ngeradezu brennend scharf. Sie erblüht\nmit hübschen, zarten Blüten."
+    ],
+    "md_berries_desc_8": [
+      "Diese Beere hat eine dicke Haut und\nhartes Fruchtfleisch. Sie ist trocken,\naber vollständig essbar."
+    ],
+    "md_berries_desc_9": [
+      "Diese Beere steckt voller scharfer\nInhaltsstoffe und sieht aus, als hätte\njemand in sie hineingebissen."
+    ],
+    "md_berries_name_1": [
+      "Persimbeere"
+    ],
+    "md_berries_name_10": [
+      "Pallmbeere"
+    ],
+    "md_berries_name_11": [
+      "Magobeere"
+    ],
+    "md_berries_name_12": [
+      "Prunusbeere"
+    ],
+    "md_berries_name_13": [
+      "Tsitrubeere"
+    ],
+    "md_berries_name_14": [
+      "Morbbeere"
+    ],
+    "md_berries_name_15": [
+      "Kiroyabeere"
+    ],
+    "md_berries_name_16": [
+      "Wikibeere"
+    ],
+    "md_berries_name_17": [
+      "Myrtilbeere"
+    ],
+    "md_berries_name_18": [
+      "Pirsifbeere"
+    ],
+    "md_berries_name_2": [
+      "Jonagobeere"
+    ],
+    "md_berries_name_3": [
+      "Sinelbeere"
+    ],
+    "md_berries_name_4": [
+      "Labrusbeere"
+    ],
+    "md_berries_name_5": [
+      "Durinbeere"
+    ],
+    "md_berries_name_6": [
+      "Fragiabeere"
+    ],
+    "md_berries_name_7": [
+      "Amrenabeere"
+    ],
+    "md_berries_name_8": [
+      "Maronbeere"
+    ],
+    "md_berries_name_9": [
+      "Giefebeere"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 36,
+        "size": 256,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 962,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "md_berries_name_4"
+            ],
+            [
+              9,
+              "md_berries_name_10"
+            ],
+            [
+              32,
+              "md_berries_desc_15"
+            ]
+          ],
+          220
+        ],
+        [
+          [
+            [
+              4,
+              "md_berries_name_5"
+            ],
+            [
+              10,
+              "md_berries_name_11"
+            ],
+            [
+              18,
+              "md_berries_desc_1"
+            ],
+            [
+              33,
+              "md_berries_desc_16"
+            ]
+          ],
+          310
+        ],
+        [
+          [
+            [
+              5,
+              "md_berries_name_6"
+            ],
+            [
+              11,
+              "md_berries_name_12"
+            ],
+            [
+              19,
+              "md_berries_desc_2"
+            ],
+            [
+              34,
+              "md_berries_desc_17"
+            ]
+          ],
+          400
+        ],
+        [
+          [
+            [
+              6,
+              "md_berries_name_7"
+            ],
+            [
+              12,
+              "md_berries_name_13"
+            ],
+            [
+              20,
+              "md_berries_desc_3"
+            ],
+            [
+              35,
+              "md_berries_desc_18"
+            ]
+          ],
+          490
+        ],
+        [
+          [
+            [
+              7,
+              "md_berries_name_8"
+            ],
+            [
+              13,
+              "md_berries_name_14"
+            ],
+            [
+              21,
+              "md_berries_desc_4"
+            ]
+          ],
+          557
+        ],
+        [
+          [
+            [
+              8,
+              "md_berries_name_9"
+            ],
+            [
+              14,
+              "md_berries_name_15"
+            ],
+            [
+              22,
+              "md_berries_desc_5"
+            ]
+          ],
+          624
+        ],
+        [
+          [
+            [
+              15,
+              "md_berries_name_16"
+            ],
+            [
+              23,
+              "md_berries_desc_6"
+            ]
+          ],
+          669
+        ],
+        [
+          [
+            [
+              16,
+              "md_berries_name_17"
+            ],
+            [
+              24,
+              "md_berries_desc_7"
+            ]
+          ],
+          714
+        ],
+        [
+          [
+            [
+              17,
+              "md_berries_name_18"
+            ],
+            [
+              25,
+              "md_berries_desc_8"
+            ]
+          ],
+          759
+        ],
+        [
+          [
+            [
+              26,
+              "md_berries_desc_9"
+            ]
+          ],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [
+            [
+              27,
+              "md_berries_desc_10"
+            ]
+          ],
+          804
+        ],
+        [
+          [
+            [
+              28,
+              "md_berries_desc_11"
+            ]
+          ],
+          827
+        ],
+        [
+          [
+            [
+              0,
+              "md_berries_name_1"
+            ],
+            [
+              29,
+              "md_berries_desc_12"
+            ]
+          ],
+          872
+        ],
+        [
+          [
+            [
+              1,
+              "md_berries_name_2"
+            ],
+            [
+              30,
+              "md_berries_desc_13"
+            ]
+          ],
+          917
+        ],
+        [
+          [
+            [
+              2,
+              "md_berries_name_3"
+            ],
+            [
+              31,
+              "md_berries_desc_14"
+            ]
+          ],
+          962
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 36,
+        "size": 4446,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

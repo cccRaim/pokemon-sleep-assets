@@ -1,0 +1,132 @@
+{
+  "strings": {
+    "PokemonBoxSortType_1": [
+      "N° Pokédex"
+    ],
+    "PokemonBoxSortType_2": [
+      "Rango:"
+    ],
+    "PokemonBoxSortType_3": [
+      "Nome:"
+    ],
+    "PokemonBoxSortType_4": [
+      "Data registr."
+    ],
+    "PokemonBoxSortType_5": [
+      "Vigore:"
+    ],
+    "PokemonBoxSortType_6": [
+      "Tempo sonno"
+    ],
+    "PokemonBoxSortType_7": [
+      "PR"
+    ],
+    "PokemonBoxSortType_8": [
+      "Tipo di sonno"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 8,
+        "size": 60,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 240,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "PokemonBoxSortType_4"
+            ]
+          ],
+          65
+        ],
+        [
+          [
+            [
+              4,
+              "PokemonBoxSortType_5"
+            ]
+          ],
+          90
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonBoxSortType_1"
+            ],
+            [
+              5,
+              "PokemonBoxSortType_6"
+            ]
+          ],
+          140
+        ],
+        [
+          [
+            [
+              1,
+              "PokemonBoxSortType_2"
+            ],
+            [
+              6,
+              "PokemonBoxSortType_7"
+            ]
+          ],
+          190
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonBoxSortType_3"
+            ],
+            [
+              7,
+              "PokemonBoxSortType_8"
+            ]
+          ],
+          240
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 8,
+        "size": 182,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

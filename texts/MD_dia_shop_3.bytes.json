@@ -1,0 +1,170 @@
+{
+  "strings": {
+    "md_dia_shop_name_1": [
+      "しゅうちゅうのおこう"
+    ],
+    "md_dia_shop_name_10": [
+      "カビゴン育成パック"
+    ],
+    "md_dia_shop_name_11": [
+      "睡眠リサーチパック"
+    ],
+    "md_dia_shop_name_12": [
+      "なかよしのおこう"
+    ],
+    "md_dia_shop_name_2": [
+      "こううんのおこう"
+    ],
+    "md_dia_shop_name_3": [
+      "せいちょうのおこう"
+    ],
+    "md_dia_shop_name_4": [
+      "げんきマクラ"
+    ],
+    "md_dia_shop_name_5": [
+      "おてつだいホイッスル"
+    ],
+    "md_dia_shop_name_6": [
+      "フィールドいどうチケット"
+    ],
+    "md_dia_shop_name_7": [
+      "いいキャンプチケット"
+    ],
+    "md_dia_shop_name_8": [
+      "ポケサブレ x3"
+    ],
+    "md_dia_shop_name_9": [
+      "スーパーサブレ x3"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 12,
+        "size": 88,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 7,
+        "size": 335,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              5,
+              "md_dia_shop_name_6"
+            ]
+          ],
+          79
+        ],
+        [
+          [
+            [
+              6,
+              "md_dia_shop_name_7"
+            ],
+            [
+              9,
+              "md_dia_shop_name_10"
+            ]
+          ],
+          126
+        ],
+        [
+          [
+            [
+              0,
+              "md_dia_shop_name_1"
+            ],
+            [
+              7,
+              "md_dia_shop_name_8"
+            ],
+            [
+              10,
+              "md_dia_shop_name_11"
+            ]
+          ],
+          196
+        ],
+        [
+          [
+            [
+              1,
+              "md_dia_shop_name_2"
+            ],
+            [
+              8,
+              "md_dia_shop_name_9"
+            ],
+            [
+              11,
+              "md_dia_shop_name_12"
+            ]
+          ],
+          266
+        ],
+        [
+          [
+            [
+              2,
+              "md_dia_shop_name_3"
+            ]
+          ],
+          289
+        ],
+        [
+          [
+            [
+              3,
+              "md_dia_shop_name_4"
+            ]
+          ],
+          312
+        ],
+        [
+          [
+            [
+              4,
+              "md_dia_shop_name_5"
+            ]
+          ],
+          335
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 12,
+        "size": 290,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

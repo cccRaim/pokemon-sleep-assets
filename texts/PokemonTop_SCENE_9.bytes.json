@@ -1,0 +1,101 @@
+{
+  "strings": {
+    "PokemonTopScene_Content_Desc": [
+      "포켓몬을 편성하거나 박스를 관리할 수 있습니다"
+    ],
+    "PokemonTopScene_Content_Name": [
+      "팀 편성"
+    ],
+    "PokemonTopScene_Content_Name_2": [
+      "포켓몬 박스"
+    ],
+    "PokemonTopScene_Content_Title": [
+      "포켓몬"
+    ],
+    "PokemonTopScene_Header_TitleText": [
+      "포켓몬"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 5,
+        "size": 39,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 196,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "PokemonTopScene_Content_Title"
+            ],
+            [
+              3,
+              "PokemonTopScene_Content_Name_2"
+            ],
+            [
+              4,
+              "PokemonTopScene_Header_TitleText"
+            ]
+          ],
+          130
+        ],
+        [
+          [
+            [
+              1,
+              "PokemonTopScene_Content_Desc"
+            ]
+          ],
+          163
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonTopScene_Content_Name"
+            ]
+          ],
+          196
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 5,
+        "size": 112,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

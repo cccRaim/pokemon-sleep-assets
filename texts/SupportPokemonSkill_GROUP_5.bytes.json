@@ -1,0 +1,164 @@
+{
+  "strings": {
+    "Message_ActivatePokemonSkill": [
+      "Main skill triggered!"
+    ],
+    "SkillAction_SelectSkillRandom": [
+      ""
+    ],
+    "SkillEffect_AllActivePokemonPowerUp": [
+      "The team recovered \u000e\u0002\u0002\u0002",
+      " Energy!"
+    ],
+    "SkillEffect_CoinGet": [
+      "\u000e\u0002\u0004\u0004",
+      "촂 Dream \u000e\u0001",
+      "\u001c\nShard\fShards촀 gained!"
+    ],
+    "SkillEffect_CookingIngredientNumLimitUp": [
+      "The pot can hold \u000e\u0002\u0002\u0002",
+      " more \u000e\u0001",
+      "0\u0014ingredient\u0016ingredients촀!"
+    ],
+    "SkillEffect_FoodPowerUp": [
+      "Snorlax got \u000e\u0002\u0004\u0004",
+      "촂 Strength!"
+    ],
+    "SkillEffect_OtherPokemonPowerUp": [
+      "\u000e\u0003\n\u0002촀 recovered \u000e\u0002\u0002\u0002\u0001 Energy!"
+    ],
+    "SkillEffect_PickupFinishRandom": [
+      "Bonus help from \u000e\u0003\n\u0002촀 (×\u000e\u0002\u0004\u0004\u0001촁)!"
+    ],
+    "SkillEffect_PickupIngredientRandom": [
+      "\u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "0\u0014ingredient\u0016ingredients촀 obtained!"
+    ],
+    "SkillEffect_SelfPokemonPowerUp": [
+      "\u000e\u0002\u0002\u0002",
+      " Energy recovered!"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 10,
+        "size": 74,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 7,
+        "size": 404,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              9,
+              "SkillAction_SelectSkillRandom"
+            ]
+          ],
+          90
+        ],
+        [
+          [
+            [
+              6,
+              "SkillEffect_PickupFinishRandom"
+            ],
+            [
+              8,
+              "SkillEffect_CookingIngredientNumLimitUp"
+            ]
+          ],
+          169
+        ],
+        [
+          [
+            [
+              1,
+              "SkillEffect_FoodPowerUp"
+            ],
+            [
+              4,
+              "SkillEffect_OtherPokemonPowerUp"
+            ],
+            [
+              7,
+              "SkillEffect_PickupIngredientRandom"
+            ]
+          ],
+          272
+        ],
+        [
+          [
+            [
+              3,
+              "SkillEffect_SelfPokemonPowerUp"
+            ],
+            [
+              5,
+              "SkillEffect_AllActivePokemonPowerUp"
+            ]
+          ],
+          347
+        ],
+        [
+          [
+            [
+              0,
+              "Message_ActivatePokemonSkill"
+            ]
+          ],
+          380
+        ],
+        [
+          [],
+          380
+        ],
+        [
+          [
+            [
+              2,
+              "SkillEffect_CoinGet"
+            ]
+          ],
+          404
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 10,
+        "size": 670,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "strings": {
+    "HomeSceneTutorialController_AskCookingTutorialStart_Message": [
+      "料理チュートリアルを\n開始しますか？"
+    ],
+    "HomeSceneTutorialController_AskCookingTutorialStart_OK": [
+      "開始する"
+    ],
+    "HomeSceneTutorialController_AskCookingTutorialStart_Title": [
+      "料理チュートリアル"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": [
+      "報酬として\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002\nを獲得しました"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": [
+      "料理チュートリアル完了"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": [
+      "料理に使う食材として\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002\nを博士から受け取りました"
+    ],
+    "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": [
+      "料理の食材"
+    ],
+    "HomeSceneTutorialController_FooterMessage_FieldChange": [
+      "リサーチお疲れ様でした"
+    ],
+    "HomeSceneTutorialController_Text_29": [
+      "チュートリアル完了ボーナス"
+    ],
+    "HomeSceneTutorialController_Text_30": [
+      "ダイヤ x\u000e\u0002\u0003\u0004",
+      "촁\nを獲得しました"
+    ],
+    "HomeSceneTutorialController_Text_31": [
+      "この機能はまだ使えません"
+    ],
+    "HomeSceneTutorialController_Text_32": [
+      "ピカチュウ・きのみをタップしてください"
+    ],
+    "HomeSceneTutorialController_Text_7": [
+      "ピカチュウをタップして\nきのみをカビゴンにあげよう！"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 13,
+        "size": 95,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 7,
+        "size": 790,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message"
+            ],
+            [
+              12,
+              "HomeSceneTutorialController_Text_32"
+            ]
+          ],
+          171
+        ],
+        [
+          [
+            [
+              5,
+              "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title"
+            ]
+          ],
+          244
+        ],
+        [
+          [
+            [
+              0,
+              "HomeSceneTutorialController_AskCookingTutorialStart_Title"
+            ],
+            [
+              4,
+              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message"
+            ],
+            [
+              8,
+              "HomeSceneTutorialController_Text_7"
+            ]
+          ],
+          418
+        ],
+        [
+          [],
+          418
+        ],
+        [
+          [],
+          418
+        ],
+        [
+          [
+            [
+              1,
+              "HomeSceneTutorialController_AskCookingTutorialStart_Message"
+            ],
+            [
+              3,
+              "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title"
+            ],
+            [
+              10,
+              "HomeSceneTutorialController_Text_30"
+            ]
+          ],
+          593
+        ],
+        [
+          [
+            [
+              2,
+              "HomeSceneTutorialController_AskCookingTutorialStart_OK"
+            ],
+            [
+              7,
+              "HomeSceneTutorialController_FooterMessage_FieldChange"
+            ],
+            [
+              9,
+              "HomeSceneTutorialController_Text_29"
+            ],
+            [
+              11,
+              "HomeSceneTutorialController_Text_31"
+            ]
+          ],
+          790
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 13,
+        "size": 500,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "strings": {
+    "md_pokemon_main_skills_desc_1": [
+      "Erhöht Relaxos Stärke um \u000e\u0002\u0006\u0004",
+      "촁."
+    ],
+    "md_pokemon_main_skills_desc_10": [
+      "Du erhältst \u000e\u0002\u0006\u0004",
+      "촁 zufällige \u000e\u0006",
+      "\u001e\nZutat\u000eZutaten촀."
+    ],
+    "md_pokemon_main_skills_desc_11": [
+      "Der Topf enthält \u000e\u0002\u0006\u0004",
+      "촁 \u000e\u0006",
+      "\u001e\nZutat\u000eZutaten촀\nmehr beim nächsten Mal Kochen."
+    ],
+    "md_pokemon_main_skills_desc_12": [
+      "Beschleunigt die Hilfe von Pokémon\nvom Typ \u000e\u0003\u0002\u0002촀 um \u000e\t",
+      "\f\bmmmm\u0001"
+    ],
+    "md_pokemon_main_skills_desc_13": [
+      "Setzt ein zufälliges Haupttalent ein."
+    ],
+    "md_pokemon_main_skills_desc_2": [
+      "Erhöht Relaxos Stärke um \u000e\u0002\u0006\u0004",
+      "촁."
+    ],
+    "md_pokemon_main_skills_desc_3": [
+      "Du erhältst \u000e\u0002\u0006\u0004",
+      "촁 Traumsplitter."
+    ],
+    "md_pokemon_main_skills_desc_4": [
+      "Füllt die Energie eines zufälligen\nanderen Pokémon um \u000e\u0002\u0006\u0004",
+      "촁 auf."
+    ],
+    "md_pokemon_main_skills_desc_5": [
+      "Erhöht Relaxos Stärke um einen Wert\nvon \u000e\u0002\u0006\u0004",
+      "촁 bis \u000e\u0002\u0006\u0004\u0001촁."
+    ],
+    "md_pokemon_main_skills_desc_6": [
+      "Du erhältst zwischen \u000e\u0002\u0006\u0004",
+      "촁 und\n\u000e\u0002\u0006\u0004\u0001촁 Traumsplitter."
+    ],
+    "md_pokemon_main_skills_desc_7": [
+      "Füllt die Energie des Pokémon\num \u000e\u0002\u0006\u0004",
+      "촁 auf."
+    ],
+    "md_pokemon_main_skills_desc_8": [
+      "Füllt die Energie aller Pokémon\ndeines Teams um \u000e\u0002\u0006\u0004",
+      "촁 auf."
+    ],
+    "md_pokemon_main_skills_desc_9": [
+      "Die Hilfe eines Pokémon wird auf der\nStelle \u000e\u0002\u0006\u0004",
+      "촁 Mal durchgeführt."
+    ],
+    "md_pokemon_main_skills_name_1": [
+      "Stärkezufuhr S"
+    ],
+    "md_pokemon_main_skills_name_10": [
+      "Zutaten-Magnet S"
+    ],
+    "md_pokemon_main_skills_name_11": [
+      "Kochgeschick S"
+    ],
+    "md_pokemon_main_skills_name_12": [
+      "Typen-Boost S"
+    ],
+    "md_pokemon_main_skills_name_13": [
+      "Metronom"
+    ],
+    "md_pokemon_main_skills_name_2": [
+      "Stärkezufuhr M"
+    ],
+    "md_pokemon_main_skills_name_3": [
+      "Traumsplitter-Magnet S"
+    ],
+    "md_pokemon_main_skills_name_4": [
+      "Energisches Anfeuern S"
+    ],
+    "md_pokemon_main_skills_name_5": [
+      "Stärkezufuhr S"
+    ],
+    "md_pokemon_main_skills_name_6": [
+      "Traumsplitter-Magnet S"
+    ],
+    "md_pokemon_main_skills_name_7": [
+      "Energiezufuhr S"
+    ],
+    "md_pokemon_main_skills_name_8": [
+      "Rundum-Energie S"
+    ],
+    "md_pokemon_main_skills_name_9": [
+      "Extra-Hilfe S"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 26,
+        "size": 186,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 1028,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "md_pokemon_main_skills_name_1"
+            ],
+            [
+              15,
+              "md_pokemon_main_skills_desc_8"
+            ],
+            [
+              18,
+              "md_pokemon_main_skills_name_10"
+            ],
+            [
+              23,
+              "md_pokemon_main_skills_desc_12"
+            ]
+          ],
+          274
+        ],
+        [
+          [
+            [
+              2,
+              "md_pokemon_main_skills_name_2"
+            ],
+            [
+              17,
+              "md_pokemon_main_skills_desc_9"
+            ],
+            [
+              20,
+              "md_pokemon_main_skills_name_11"
+            ],
+            [
+              25,
+              "md_pokemon_main_skills_desc_13"
+            ]
+          ],
+          412
+        ],
+        [
+          [
+            [
+              4,
+              "md_pokemon_main_skills_name_3"
+            ],
+            [
+              22,
+              "md_pokemon_main_skills_name_12"
+            ]
+          ],
+          481
+        ],
+        [
+          [
+            [
+              6,
+              "md_pokemon_main_skills_name_4"
+            ],
+            [
+              24,
+              "md_pokemon_main_skills_name_13"
+            ]
+          ],
+          550
+        ],
+        [
+          [
+            [
+              8,
+              "md_pokemon_main_skills_name_5"
+            ]
+          ],
+          584
+        ],
+        [
+          [
+            [
+              10,
+              "md_pokemon_main_skills_name_6"
+            ]
+          ],
+          618
+        ],
+        [
+          [
+            [
+              12,
+              "md_pokemon_main_skills_name_7"
+            ]
+          ],
+          652
+        ],
+        [
+          [
+            [
+              14,
+              "md_pokemon_main_skills_name_8"
+            ]
+          ],
+          686
+        ],
+        [
+          [
+            [
+              16,
+              "md_pokemon_main_skills_name_9"
+            ]
+          ],
+          720
+        ],
+        [
+          [],
+          720
+        ],
+        [
+          [
+            [
+              1,
+              "md_pokemon_main_skills_desc_1"
+            ]
+          ],
+          754
+        ],
+        [
+          [
+            [
+              3,
+              "md_pokemon_main_skills_desc_2"
+            ]
+          ],
+          788
+        ],
+        [
+          [
+            [
+              5,
+              "md_pokemon_main_skills_desc_3"
+            ]
+          ],
+          822
+        ],
+        [
+          [
+            [
+              7,
+              "md_pokemon_main_skills_desc_4"
+            ]
+          ],
+          856
+        ],
+        [
+          [
+            [
+              9,
+              "md_pokemon_main_skills_desc_5"
+            ]
+          ],
+          890
+        ],
+        [
+          [
+            [
+              11,
+              "md_pokemon_main_skills_desc_6"
+            ],
+            [
+              19,
+              "md_pokemon_main_skills_desc_10"
+            ]
+          ],
+          959
+        ],
+        [
+          [
+            [
+              13,
+              "md_pokemon_main_skills_desc_7"
+            ],
+            [
+              21,
+              "md_pokemon_main_skills_desc_11"
+            ]
+          ],
+          1028
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 26,
+        "size": 1894,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

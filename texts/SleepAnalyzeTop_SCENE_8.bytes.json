@@ -1,0 +1,100 @@
+{
+  "strings": {
+    "SleepAnalyzeTop_ContentDesc": [
+      "See various breakdowns of your sleep data."
+    ],
+    "SleepAnalyzeTop_ContentTitle": [
+      "Sleep Trends"
+    ],
+    "SleepAnalyzeTop_HeadTitle": [
+      "Sleep Trends"
+    ],
+    "SleepAnalyzeTop_RegularityButton": [
+      "Sleep Consistency"
+    ],
+    "SleepAnalyzeTop_StatisticButton": [
+      "Sleep Statistics"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 5,
+        "size": 39,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 192,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          24
+        ],
+        [
+          [
+            [
+              1,
+              "SleepAnalyzeTop_ContentTitle"
+            ],
+            [
+              2,
+              "SleepAnalyzeTop_ContentDesc"
+            ]
+          ],
+          89
+        ],
+        [
+          [
+            [
+              0,
+              "SleepAnalyzeTop_HeadTitle"
+            ],
+            [
+              3,
+              "SleepAnalyzeTop_RegularityButton"
+            ],
+            [
+              4,
+              "SleepAnalyzeTop_StatisticButton"
+            ]
+          ],
+          192
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 5,
+        "size": 228,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

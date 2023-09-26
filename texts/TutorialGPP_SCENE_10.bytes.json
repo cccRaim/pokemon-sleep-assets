@@ -1,0 +1,271 @@
+{
+  "strings": {
+    "GPPTutorialSceneController_Text_1": [
+      "繼續"
+    ],
+    "GPPTutorialSceneController_Text_10": [
+      "請\u000e",
+      "\u0003\u0004毿Ｗ長按「主要按鈕」\u000e",
+      "\u0003\u0004",
+      "＀\n來\u000e",
+      "\u0003\u0004毿Ｗ結束測量睡眠\u000e",
+      "\u0003\u0004",
+      "＀。"
+    ],
+    "GPPTutorialSceneController_Text_11": [
+      "測量完成"
+    ],
+    "GPPTutorialSceneController_Text_12": [
+      "這樣一來，睡眠測量便結束了。\n\u000e",
+      "\u0003\u0004毿Ｗ實際使用時\u000e",
+      "\u0003\u0004",
+      "＀，在測量之後\u000e",
+      "\u0003\u0004毿Ｗ讓裝置\n和《Pokémon Sleep》連線\u000e",
+      "\u0003\u0004",
+      "＀，\n即可\u000e",
+      "\u0003\u0004毿Ｗ確認睡眠結果\u000e",
+      "\u0003\u0004",
+      "＀。"
+    ],
+    "GPPTutorialSceneController_Text_13": [
+      "結束教學"
+    ],
+    "GPPTutorialSceneController_Text_15": [
+      "開始測量時發生錯誤"
+    ],
+    "GPPTutorialSceneController_Text_16": [
+      "若Pokémon GO Plus +\n處於傾斜狀態，將無法開始測量。\n請把裝置放置於床墊之類的平坦處，\n再長按主要按鈕。"
+    ],
+    "GPPTutorialSceneController_Text_17": [
+      "無法使用Bluetooth。\n請確認裝置設定，\n並且開啟Bluetooth。\n要重新開始教學嗎？"
+    ],
+    "GPPTutorialSceneController_Text_18": [
+      "重新開始"
+    ],
+    "GPPTutorialSceneController_Text_2": [
+      "即將跳過教學。\n確定要繼續嗎？"
+    ],
+    "GPPTutorialSceneController_Text_20": [
+      "和Pokémon GO Plus +的連線已中斷。\n要重新開始教學嗎？"
+    ],
+    "GPPTutorialSceneController_Text_3": [
+      "開始測量睡眠"
+    ],
+    "GPPTutorialSceneController_Text_4": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ長按\u000e",
+      "\u0003\u0004",
+      "＀Pokémon GO Plus +的\n\u000e",
+      "\u0003\u0004毿Ｗ「主要按鈕」\u000e",
+      "\u0003\u0004",
+      "＀，來\u000e",
+      "\u0003\u0004毿Ｗ開始測量睡眠\u000e",
+      "\u0003\u0004",
+      "＀。\n\u000e",
+      "\u0003\u0004毿Ｗ※\u000e",
+      "\u0003\u0004",
+      "＀Pokémon GO Plus +會發出聲音。"
+    ],
+    "GPPTutorialSceneController_Text_5": [
+      "正在測量睡眠……"
+    ],
+    "GPPTutorialSceneController_Text_6": [
+      "當\u000e",
+      "\u0003\u0004毿Ｗ皮卡丘的搖籃曲\u000e",
+      "\u0003\u0004",
+      "＀響起，\n就表示已開始測量睡眠。\n\u000e",
+      "\u0003\u0004毿Ｗ實際使用時，請在此時將裝置放在枕邊\u000e",
+      "\u0003\u0004",
+      "＀。\n若要停止搖籃曲，可以短按主要按鈕。\n（亦可從選項中切換為OFF。）"
+    ],
+    "GPPTutorialSceneController_Text_7": [
+      "測量結束"
+    ],
+    "GPPTutorialSceneController_Text_8": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ長按\u000e",
+      "\u0003\u0004",
+      "＀「主要按鈕」，即可\u000e",
+      "\u0003\u0004毿Ｗ結束測量睡眠\u000e",
+      "\u0003\u0004",
+      "＀。\n繼續下一步時，會響起測試用的鬧鈴，\n屆時請結束測量。"
+    ],
+    "GPPTutorialSceneController_Text_9": [
+      "結束測量"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 18,
+        "size": 130,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 781,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "GPPTutorialSceneController_Text_4"
+            ],
+            [
+              16,
+              "GPPTutorialSceneController_Text_18"
+            ]
+          ],
+          165
+        ],
+        [
+          [
+            [
+              4,
+              "GPPTutorialSceneController_Text_5"
+            ]
+          ],
+          203
+        ],
+        [
+          [
+            [
+              5,
+              "GPPTutorialSceneController_Text_6"
+            ]
+          ],
+          241
+        ],
+        [
+          [
+            [
+              6,
+              "GPPTutorialSceneController_Text_7"
+            ],
+            [
+              9,
+              "GPPTutorialSceneController_Text_10"
+            ]
+          ],
+          318
+        ],
+        [
+          [
+            [
+              7,
+              "GPPTutorialSceneController_Text_8"
+            ],
+            [
+              10,
+              "GPPTutorialSceneController_Text_11"
+            ]
+          ],
+          395
+        ],
+        [
+          [
+            [
+              8,
+              "GPPTutorialSceneController_Text_9"
+            ],
+            [
+              11,
+              "GPPTutorialSceneController_Text_12"
+            ]
+          ],
+          472
+        ],
+        [
+          [
+            [
+              12,
+              "GPPTutorialSceneController_Text_13"
+            ]
+          ],
+          511
+        ],
+        [
+          [
+            [
+              17,
+              "GPPTutorialSceneController_Text_20"
+            ]
+          ],
+          550
+        ],
+        [
+          [
+            [
+              0,
+              "GPPTutorialSceneController_Text_1"
+            ],
+            [
+              13,
+              "GPPTutorialSceneController_Text_15"
+            ]
+          ],
+          627
+        ],
+        [
+          [
+            [
+              1,
+              "GPPTutorialSceneController_Text_2"
+            ],
+            [
+              14,
+              "GPPTutorialSceneController_Text_16"
+            ]
+          ],
+          704
+        ],
+        [
+          [
+            [
+              2,
+              "GPPTutorialSceneController_Text_3"
+            ],
+            [
+              15,
+              "GPPTutorialSceneController_Text_17"
+            ]
+          ],
+          781
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 18,
+        "size": 1344,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

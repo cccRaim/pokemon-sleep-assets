@@ -1,0 +1,549 @@
+{
+  "strings": {
+    "PokemonBoxDetailSceneController_Text_1": [
+      "Modifica soprannome"
+    ],
+    "PokemonBoxDetailScene_Footer_Name": [
+      "Invia al Professore"
+    ],
+    "PokemonBoxDetailScene_Footer_Name_2": [
+      "Usa strumento"
+    ],
+    "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": [
+      "Nuovo livello!"
+    ],
+    "PokemonBoxDetailScene_NewFood_Popup_Text": [
+      "Il Pokémon è salito di livello e ora può\ntrovare un nuovo tipo di ingredienti!"
+    ],
+    "PokemonBoxDetailScene_NewFood_Popup_Title": [
+      "Ingrediente sbloccato"
+    ],
+    "PokemonBoxDetailScene_NewSkill_Popup_Text": [
+      "Il Pokémon è salito di livello e ha\nimparato un'abilità secondaria nuova!"
+    ],
+    "PokemonBoxDetailScene_NewSkill_Popup_Title": [
+      "Abilità sbloccata"
+    ],
+    "PokemonBoxDetailScene_ScrollView_BuffName_3": [
+      "Nessun effetto"
+    ],
+    "PokemonBoxDetailScene_ScrollView_EvolutionButton": [
+      "Fai evolvere"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Exp_Label": [
+      "+"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Exp_Unit": [
+      "PE"
+    ],
+    "PokemonBoxDetailScene_ScrollView_FieldTile": [
+      "Incontrato:"
+    ],
+    "PokemonBoxDetailScene_ScrollView_FieldTile_2": [
+      "Luogo dell'incontro:"
+    ],
+    "PokemonBoxDetailScene_ScrollView_FieldTile_3": [
+      "Durata sonno condiviso:"
+    ],
+    "PokemonBoxDetailScene_ScrollView_HeadlineTitle": [
+      "Statistiche aiuto"
+    ],
+    "PokemonBoxDetailScene_ScrollView_HeadlineTitle_2": [
+      "Abilità"
+    ],
+    "PokemonBoxDetailScene_ScrollView_HeadlineTitle_3": [
+      "Altre statistiche"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Level": [
+      "L. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_LevelText": [
+      "L. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_LevelUpButton": [
+      "Nuovo livello"
+    ],
+    "PokemonBoxDetailScene_ScrollView_LevelUpButton_2": [
+      "Nuovo livello"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Name": [
+      "Tipo"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Name_2": [
+      "Sesso"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Name_3": [
+      "Specialità"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Name_4": [
+      "Preferiti"
+    ],
+    "PokemonBoxDetailScene_ScrollView_NatureLabel": [
+      "Natura"
+    ],
+    "PokemonBoxDetailScene_ScrollView_NatureLabel_Desc": [
+      "\u000e\u0003\u0011\u0002",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_NormalLabel": [
+      "Bacche"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Num": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Num_2": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Num_3": [
+      "×\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_Number": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Number_2": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "PokemonBoxDetailScene_ScrollView_PickupMaxNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_PickupMaxNumLabel": [
+      "Massimo"
+    ],
+    "PokemonBoxDetailScene_ScrollView_PickupTime": [
+      "Ogni \u000e\t",
+      "\u0018\u0014hhhhmmmsss",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_PickupTimeLabel": [
+      "Frequenza"
+    ],
+    "PokemonBoxDetailScene_ScrollView_PickupTime_lessthan1h": [
+      "Ogni \u000e\t",
+      "\u0014\u0010mmmmssss",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_Power": [
+      "\u000e\u0002\u0002\u0002",
+      "%"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Rank": [
+      "L. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_RareLabel": [
+      "Ingredienti"
+    ],
+    "PokemonBoxDetailScene_ScrollView_SPNum": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "PokemonBoxDetailScene_ScrollView_SPTitle": [
+      "PR"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Unit": [
+      "PR"
+    ],
+    "PokemonBoxDetailScene_ScrollView_Unit_2": [
+      "PR"
+    ],
+    "PokemonBoxDetailScene_ScrollView_UnlockLevel": [
+      "L. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_UnlockRank": [
+      "L. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonBoxDetailScene_ScrollView_Value": [
+      "\u000e\t",
+      "\u001a\u0016yyyyyMMMddd",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 49,
+        "size": 347,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 29,
+        "size": 2531,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              30,
+              "PokemonBoxDetailScene_ScrollView_NatureLabel"
+            ]
+          ],
+          281
+        ],
+        [
+          [],
+          281
+        ],
+        [
+          [
+            [
+              9,
+              "PokemonBoxDetailScene_ScrollView_Num"
+            ],
+            [
+              19,
+              "PokemonBoxDetailScene_ScrollView_RareLabel"
+            ],
+            [
+              20,
+              "PokemonBoxDetailScene_ScrollView_UnlockLevel"
+            ],
+            [
+              31,
+              "PokemonBoxDetailScene_ScrollView_NatureLabel_Desc"
+            ],
+            [
+              41,
+              "PokemonBoxDetailScene_ScrollView_Rank"
+            ]
+          ],
+          514
+        ],
+        [
+          [],
+          514
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonBoxDetailSceneController_Text_1"
+            ]
+          ],
+          557
+        ],
+        [
+          [
+            [
+              38,
+              "PokemonBoxDetailScene_ScrollView_Number_2"
+            ]
+          ],
+          603
+        ],
+        [
+          [],
+          603
+        ],
+        [
+          [],
+          603
+        ],
+        [
+          [
+            [
+              4,
+              "PokemonBoxDetailScene_ScrollView_Name_2"
+            ],
+            [
+              35,
+              "PokemonBoxDetailScene_ScrollView_FieldTile_2"
+            ]
+          ],
+          696
+        ],
+        [
+          [
+            [
+              5,
+              "PokemonBoxDetailScene_ScrollView_Name_3"
+            ],
+            [
+              36,
+              "PokemonBoxDetailScene_ScrollView_FieldTile_3"
+            ]
+          ],
+          789
+        ],
+        [
+          [
+            [
+              6,
+              "PokemonBoxDetailScene_ScrollView_Name_4"
+            ],
+            [
+              10,
+              "PokemonBoxDetailScene_ScrollView_Exp_Label"
+            ],
+            [
+              21,
+              "PokemonBoxDetailScene_ScrollView_PickupTimeLabel"
+            ],
+            [
+              22,
+              "PokemonBoxDetailScene_ScrollView_PickupTime"
+            ],
+            [
+              43,
+              "PokemonBoxDetailScene_Footer_Name_2"
+            ]
+          ],
+          1021
+        ],
+        [
+          [
+            [
+              1,
+              "PokemonBoxDetailScene_ScrollView_Unit"
+            ]
+          ],
+          1063
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonBoxDetailScene_ScrollView_Number"
+            ],
+            [
+              16,
+              "PokemonBoxDetailScene_ScrollView_HeadlineTitle"
+            ],
+            [
+              17,
+              "PokemonBoxDetailScene_ScrollView_NormalLabel"
+            ],
+            [
+              25,
+              "PokemonBoxDetailScene_ScrollView_PickupMaxNum"
+            ],
+            [
+              28,
+              "PokemonBoxDetailScene_ScrollView_UnlockRank"
+            ],
+            [
+              42,
+              "PokemonBoxDetailScene_Footer_Name"
+            ]
+          ],
+          1343
+        ],
+        [
+          [
+            [
+              37,
+              "PokemonBoxDetailScene_ScrollView_Unit_2"
+            ],
+            [
+              45,
+              "PokemonBoxDetailScene_NewSkill_Popup_Text"
+            ],
+            [
+              47,
+              "PokemonBoxDetailScene_NewFood_Popup_Text"
+            ]
+          ],
+          1478
+        ],
+        [
+          [],
+          1478
+        ],
+        [
+          [],
+          1478
+        ],
+        [
+          [
+            [
+              13,
+              "PokemonBoxDetailScene_ScrollView_LevelUpButton"
+            ],
+            [
+              40,
+              "PokemonBoxDetailScene_ScrollView_SPNum"
+            ]
+          ],
+          1572
+        ],
+        [
+          [],
+          1572
+        ],
+        [
+          [
+            [
+              24,
+              "PokemonBoxDetailScene_ScrollView_PickupMaxNumLabel"
+            ],
+            [
+              48,
+              "PokemonBoxDetailScene_NewFood_Popup_LevelUnit"
+            ]
+          ],
+          1677
+        ],
+        [
+          [
+            [
+              7,
+              "PokemonBoxDetailScene_ScrollView_Power"
+            ],
+            [
+              15,
+              "PokemonBoxDetailScene_ScrollView_EvolutionButton"
+            ],
+            [
+              26,
+              "PokemonBoxDetailScene_ScrollView_HeadlineTitle_2"
+            ]
+          ],
+          1826
+        ],
+        [
+          [
+            [
+              3,
+              "PokemonBoxDetailScene_ScrollView_Name"
+            ],
+            [
+              12,
+              "PokemonBoxDetailScene_ScrollView_Num_2"
+            ],
+            [
+              29,
+              "PokemonBoxDetailScene_ScrollView_HeadlineTitle_3"
+            ],
+            [
+              39,
+              "PokemonBoxDetailScene_ScrollView_SPTitle"
+            ]
+          ],
+          2009
+        ],
+        [
+          [
+            [
+              8,
+              "PokemonBoxDetailScene_ScrollView_LevelText"
+            ],
+            [
+              11,
+              "PokemonBoxDetailScene_ScrollView_Exp_Unit"
+            ],
+            [
+              18,
+              "PokemonBoxDetailScene_ScrollView_Num_3"
+            ]
+          ],
+          2145
+        ],
+        [
+          [],
+          2145
+        ],
+        [
+          [],
+          2145
+        ],
+        [
+          [
+            [
+              23,
+              "PokemonBoxDetailScene_ScrollView_PickupTime_lessthan1h"
+            ],
+            [
+              27,
+              "PokemonBoxDetailScene_ScrollView_Level"
+            ],
+            [
+              46,
+              "PokemonBoxDetailScene_NewFood_Popup_Title"
+            ]
+          ],
+          2293
+        ],
+        [
+          [
+            [
+              14,
+              "PokemonBoxDetailScene_ScrollView_LevelUpButton_2"
+            ],
+            [
+              44,
+              "PokemonBoxDetailScene_NewSkill_Popup_Title"
+            ]
+          ],
+          2393
+        ],
+        [
+          [
+            [
+              33,
+              "PokemonBoxDetailScene_ScrollView_FieldTile"
+            ],
+            [
+              34,
+              "PokemonBoxDetailScene_ScrollView_Value"
+            ]
+          ],
+          2483
+        ],
+        [
+          [
+            [
+              32,
+              "PokemonBoxDetailScene_ScrollView_BuffName_3"
+            ]
+          ],
+          2531
+        ],
+        [
+          [],
+          2531
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 49,
+        "size": 1546,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

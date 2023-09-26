@@ -1,0 +1,447 @@
+{
+  "strings": {
+    "md_pokemon_rankup_bonus_desc_1": [
+      "チーム全員の睡眠でもらえるEXPが\n\u000e\u0002\u0001\u0002",
+      "%増える"
+    ],
+    "md_pokemon_rankup_bonus_desc_10": [
+      "きのみ・食材の最大所持数が\u000e\u0002\u0001\u0002",
+      "個増える"
+    ],
+    "md_pokemon_rankup_bonus_desc_11": [
+      "スキルレベルが\u000e\u0002\u0001\u0002",
+      "上がる"
+    ],
+    "md_pokemon_rankup_bonus_desc_12": [
+      "食材をとってくる確率が少し上がる"
+    ],
+    "md_pokemon_rankup_bonus_desc_13": [
+      "食材をとってくる確率が上がる"
+    ],
+    "md_pokemon_rankup_bonus_desc_14": [
+      "スキル発生確率が少し上がる"
+    ],
+    "md_pokemon_rankup_bonus_desc_15": [
+      "スキル発生確率が上がる"
+    ],
+    "md_pokemon_rankup_bonus_desc_16": [
+      "睡眠で回復するげんきが\u000e\u0002\u0001\u0002",
+      "%増える"
+    ],
+    "md_pokemon_rankup_bonus_desc_17": [
+      "睡眠で回復するげんきが\u000e\u0002\u0001\u0002",
+      "%増える"
+    ],
+    "md_pokemon_rankup_bonus_desc_18": [
+      "メインスキルレベルが\u000e\u0002\u0001\u0002",
+      "上がる"
+    ],
+    "md_pokemon_rankup_bonus_desc_19": [
+      "きのみ・食材の最大所持数が\u000e\u0002\u0001\u0002",
+      "個増える"
+    ],
+    "md_pokemon_rankup_bonus_desc_2": [
+      "チーム全員のおてつだい時間が\n\u000e\u0002\u0001\u0002",
+      "%短くなる"
+    ],
+    "md_pokemon_rankup_bonus_desc_3": [
+      "チーム全員の睡眠で回復するげんきが\n\u000e\u0002\u0003\u0004",
+      "촁倍になる"
+    ],
+    "md_pokemon_rankup_bonus_desc_4": [
+      "睡眠リサーチでもらえるゆめのかけらが\n\u000e\u0002\u0001\u0002",
+      "%増える"
+    ],
+    "md_pokemon_rankup_bonus_desc_5": [
+      "睡眠リサーチでもらえるリサーチEXPが\n\u000e\u0002\u0001\u0002",
+      "%増える"
+    ],
+    "md_pokemon_rankup_bonus_desc_6": [
+      "おてつだい時間が\u000e\u0002\u0001\u0002",
+      "%短くなる"
+    ],
+    "md_pokemon_rankup_bonus_desc_7": [
+      "おてつだい時間が\u000e\u0002\u0001\u0002",
+      "%短くなる"
+    ],
+    "md_pokemon_rankup_bonus_desc_8": [
+      "一度に拾うきのみの数が\u000e\u0002\u0001\u0002",
+      "個増える"
+    ],
+    "md_pokemon_rankup_bonus_desc_9": [
+      "きのみ・食材の最大所持数が\u000e\u0002\u0001\u0002",
+      "個増える"
+    ],
+    "md_pokemon_rankup_bonus_name_1": [
+      "睡眠EXPボーナス"
+    ],
+    "md_pokemon_rankup_bonus_name_10": [
+      "最大所持数アップM"
+    ],
+    "md_pokemon_rankup_bonus_name_11": [
+      "スキルレベルアップS"
+    ],
+    "md_pokemon_rankup_bonus_name_12": [
+      "食材確率アップS"
+    ],
+    "md_pokemon_rankup_bonus_name_13": [
+      "食材確率アップM"
+    ],
+    "md_pokemon_rankup_bonus_name_14": [
+      "スキル確率アップS"
+    ],
+    "md_pokemon_rankup_bonus_name_15": [
+      "スキル確率アップM"
+    ],
+    "md_pokemon_rankup_bonus_name_16": [
+      "げんき回復アップS"
+    ],
+    "md_pokemon_rankup_bonus_name_17": [
+      "げんき回復アップM"
+    ],
+    "md_pokemon_rankup_bonus_name_18": [
+      "スキルレベルアップM"
+    ],
+    "md_pokemon_rankup_bonus_name_19": [
+      "最大所持数アップL"
+    ],
+    "md_pokemon_rankup_bonus_name_2": [
+      "おてつだいボーナス"
+    ],
+    "md_pokemon_rankup_bonus_name_3": [
+      "げんき回復ボーナス"
+    ],
+    "md_pokemon_rankup_bonus_name_4": [
+      "ゆめのかけらボーナス"
+    ],
+    "md_pokemon_rankup_bonus_name_5": [
+      "リサーチEXPボーナス"
+    ],
+    "md_pokemon_rankup_bonus_name_6": [
+      "おてつだいスピードS"
+    ],
+    "md_pokemon_rankup_bonus_name_7": [
+      "おてつだいスピードM"
+    ],
+    "md_pokemon_rankup_bonus_name_8": [
+      "きのみの数S"
+    ],
+    "md_pokemon_rankup_bonus_name_9": [
+      "最大所持数アップS"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 38,
+        "size": 270,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 23,
+        "size": 1534,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              33,
+              "md_pokemon_rankup_bonus_desc_17"
+            ]
+          ],
+          220
+        ],
+        [
+          [
+            [
+              0,
+              "md_pokemon_rankup_bonus_name_1"
+            ],
+            [
+              35,
+              "md_pokemon_rankup_bonus_desc_18"
+            ]
+          ],
+          291
+        ],
+        [
+          [
+            [
+              2,
+              "md_pokemon_rankup_bonus_name_2"
+            ],
+            [
+              37,
+              "md_pokemon_rankup_bonus_desc_19"
+            ]
+          ],
+          362
+        ],
+        [
+          [
+            [
+              4,
+              "md_pokemon_rankup_bonus_name_3"
+            ]
+          ],
+          397
+        ],
+        [
+          [
+            [
+              6,
+              "md_pokemon_rankup_bonus_name_4"
+            ]
+          ],
+          432
+        ],
+        [
+          [
+            [
+              8,
+              "md_pokemon_rankup_bonus_name_5"
+            ]
+          ],
+          467
+        ],
+        [
+          [
+            [
+              10,
+              "md_pokemon_rankup_bonus_name_6"
+            ]
+          ],
+          502
+        ],
+        [
+          [
+            [
+              12,
+              "md_pokemon_rankup_bonus_name_7"
+            ],
+            [
+              18,
+              "md_pokemon_rankup_bonus_name_10"
+            ]
+          ],
+          573
+        ],
+        [
+          [
+            [
+              14,
+              "md_pokemon_rankup_bonus_name_8"
+            ],
+            [
+              20,
+              "md_pokemon_rankup_bonus_name_11"
+            ]
+          ],
+          644
+        ],
+        [
+          [
+            [
+              16,
+              "md_pokemon_rankup_bonus_name_9"
+            ],
+            [
+              22,
+              "md_pokemon_rankup_bonus_name_12"
+            ]
+          ],
+          715
+        ],
+        [
+          [
+            [
+              24,
+              "md_pokemon_rankup_bonus_name_13"
+            ]
+          ],
+          751
+        ],
+        [
+          [
+            [
+              26,
+              "md_pokemon_rankup_bonus_name_14"
+            ]
+          ],
+          787
+        ],
+        [
+          [
+            [
+              1,
+              "md_pokemon_rankup_bonus_desc_1"
+            ],
+            [
+              28,
+              "md_pokemon_rankup_bonus_name_15"
+            ]
+          ],
+          858
+        ],
+        [
+          [
+            [
+              3,
+              "md_pokemon_rankup_bonus_desc_2"
+            ],
+            [
+              30,
+              "md_pokemon_rankup_bonus_name_16"
+            ]
+          ],
+          929
+        ],
+        [
+          [
+            [
+              5,
+              "md_pokemon_rankup_bonus_desc_3"
+            ],
+            [
+              32,
+              "md_pokemon_rankup_bonus_name_17"
+            ]
+          ],
+          1000
+        ],
+        [
+          [
+            [
+              7,
+              "md_pokemon_rankup_bonus_desc_4"
+            ],
+            [
+              34,
+              "md_pokemon_rankup_bonus_name_18"
+            ]
+          ],
+          1071
+        ],
+        [
+          [
+            [
+              9,
+              "md_pokemon_rankup_bonus_desc_5"
+            ],
+            [
+              19,
+              "md_pokemon_rankup_bonus_desc_10"
+            ],
+            [
+              36,
+              "md_pokemon_rankup_bonus_name_19"
+            ]
+          ],
+          1178
+        ],
+        [
+          [
+            [
+              11,
+              "md_pokemon_rankup_bonus_desc_6"
+            ],
+            [
+              21,
+              "md_pokemon_rankup_bonus_desc_11"
+            ]
+          ],
+          1249
+        ],
+        [
+          [
+            [
+              13,
+              "md_pokemon_rankup_bonus_desc_7"
+            ],
+            [
+              23,
+              "md_pokemon_rankup_bonus_desc_12"
+            ]
+          ],
+          1320
+        ],
+        [
+          [
+            [
+              15,
+              "md_pokemon_rankup_bonus_desc_8"
+            ],
+            [
+              25,
+              "md_pokemon_rankup_bonus_desc_13"
+            ]
+          ],
+          1391
+        ],
+        [
+          [
+            [
+              17,
+              "md_pokemon_rankup_bonus_desc_9"
+            ],
+            [
+              27,
+              "md_pokemon_rankup_bonus_desc_14"
+            ]
+          ],
+          1462
+        ],
+        [
+          [
+            [
+              29,
+              "md_pokemon_rankup_bonus_desc_15"
+            ]
+          ],
+          1498
+        ],
+        [
+          [
+            [
+              31,
+              "md_pokemon_rankup_bonus_desc_16"
+            ]
+          ],
+          1534
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 38,
+        "size": 1346,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

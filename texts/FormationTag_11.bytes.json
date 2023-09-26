@@ -1,0 +1,82 @@
+{
+  "strings": {
+    "FormationTag_1": [
+      "Bacche"
+    ],
+    "FormationTag_2": [
+      "Ingredienti"
+    ],
+    "FormationTag_3": [
+      "Tecniche"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 3,
+        "size": 25,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 2,
+        "size": 73,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "FormationTag_2"
+            ]
+          ],
+          35
+        ],
+        [
+          [
+            [
+              0,
+              "FormationTag_1"
+            ],
+            [
+              2,
+              "FormationTag_3"
+            ]
+          ],
+          73
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 3,
+        "size": 68,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

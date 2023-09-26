@@ -1,0 +1,394 @@
+{
+  "strings": {
+    "md_berries_desc_1": [
+      "降り注ぐ太陽のエネルギーを\n吸収すればするほど色鮮やかに成長する。"
+    ],
+    "md_berries_desc_10": [
+      "遠い海から漂ってきたが今ではこの島でも\n栽培ができるようになった。"
+    ],
+    "md_berries_desc_11": [
+      "だんだんと成長するにつれてきのみの形が\n曲がっていく。曲がり方が大きいほど甘い。"
+    ],
+    "md_berries_desc_12": [
+      "ポケモンの体にいい成分を内部にじっくり\nたくわえるので育つまでに時間がかかる。"
+    ],
+    "md_berries_desc_13": [
+      "もともとはオレンのみと同じ種類から\n別れてできた。オレンより大きくまろやか。"
+    ],
+    "md_berries_desc_14": [
+      "柔らかい皮に包まれた小さな青い粒は\n食べると口の中を黒く染めてしまう。"
+    ],
+    "md_berries_desc_15": [
+      "渋さと酸っぱさがほどよく調和した\n爽やかな味。冷やすとよりおいしくなる。"
+    ],
+    "md_berries_desc_16": [
+      "繁殖範囲を広げるため\nポケモンが持ちやすいように\nまわりのイボイボができたという。"
+    ],
+    "md_berries_desc_17": [
+      "見るからにおいしそうな色と艶をしているが\n食べてみるとものすごく酸っぱい。"
+    ],
+    "md_berries_desc_18": [
+      "中に空洞があるので食べられる部分は\n少ないがとても甘くておいしい。"
+    ],
+    "md_berries_desc_2": [
+      "クラボなどに比べると少し成長するのが\n遅い。実が小さいものほどおいしい。"
+    ],
+    "md_berries_desc_3": [
+      "自然の恵み一つになって口の中で\nいろいろな味が広がる不思議なおいしさ。"
+    ],
+    "md_berries_desc_4": [
+      "とても柔らかくガブリとかじると\n甘さと酸っぱさが口いっぱいに広がる。"
+    ],
+    "md_berries_desc_5": [
+      "とんでもなく苦いきのみで\nこれひとかじりでしゃっくりも\n一瞬で止まる。"
+    ],
+    "md_berries_desc_6": [
+      "他のものより葉っぱが\n長く丸まっているやつはすこし苦味が強い。"
+    ],
+    "md_berries_desc_7": [
+      "真っ赤な実はたいへん辛くて\n刺激的な味がする。\nとてもかわいい花が咲く。"
+    ],
+    "md_berries_desc_8": [
+      "カゴのみは外側も中身も硬くて渋いけれど\nちゃんと全部食べられる。"
+    ],
+    "md_berries_desc_9": [
+      "丸いきのみをかじったような形をしているが\nその中には辛い成分が詰まっている。"
+    ],
+    "md_berries_name_1": [
+      "キーのみ"
+    ],
+    "md_berries_name_10": [
+      "シーヤのみ"
+    ],
+    "md_berries_name_11": [
+      "マゴのみ"
+    ],
+    "md_berries_name_12": [
+      "ラムのみ"
+    ],
+    "md_berries_name_13": [
+      "オボンのみ"
+    ],
+    "md_berries_name_14": [
+      "ブリーのみ"
+    ],
+    "md_berries_name_15": [
+      "ヤチェのみ"
+    ],
+    "md_berries_name_16": [
+      "ウイのみ"
+    ],
+    "md_berries_name_17": [
+      "ベリブのみ"
+    ],
+    "md_berries_name_18": [
+      "モモンのみ"
+    ],
+    "md_berries_name_2": [
+      "ヒメリのみ"
+    ],
+    "md_berries_name_3": [
+      "オレンのみ"
+    ],
+    "md_berries_name_4": [
+      "ウブのみ"
+    ],
+    "md_berries_name_5": [
+      "ドリのみ"
+    ],
+    "md_berries_name_6": [
+      "チーゴのみ"
+    ],
+    "md_berries_name_7": [
+      "クラボのみ"
+    ],
+    "md_berries_name_8": [
+      "カゴのみ"
+    ],
+    "md_berries_name_9": [
+      "フィラのみ"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 36,
+        "size": 256,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 962,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "md_berries_name_4"
+            ],
+            [
+              9,
+              "md_berries_name_10"
+            ],
+            [
+              32,
+              "md_berries_desc_15"
+            ]
+          ],
+          220
+        ],
+        [
+          [
+            [
+              4,
+              "md_berries_name_5"
+            ],
+            [
+              10,
+              "md_berries_name_11"
+            ],
+            [
+              18,
+              "md_berries_desc_1"
+            ],
+            [
+              33,
+              "md_berries_desc_16"
+            ]
+          ],
+          310
+        ],
+        [
+          [
+            [
+              5,
+              "md_berries_name_6"
+            ],
+            [
+              11,
+              "md_berries_name_12"
+            ],
+            [
+              19,
+              "md_berries_desc_2"
+            ],
+            [
+              34,
+              "md_berries_desc_17"
+            ]
+          ],
+          400
+        ],
+        [
+          [
+            [
+              6,
+              "md_berries_name_7"
+            ],
+            [
+              12,
+              "md_berries_name_13"
+            ],
+            [
+              20,
+              "md_berries_desc_3"
+            ],
+            [
+              35,
+              "md_berries_desc_18"
+            ]
+          ],
+          490
+        ],
+        [
+          [
+            [
+              7,
+              "md_berries_name_8"
+            ],
+            [
+              13,
+              "md_berries_name_14"
+            ],
+            [
+              21,
+              "md_berries_desc_4"
+            ]
+          ],
+          557
+        ],
+        [
+          [
+            [
+              8,
+              "md_berries_name_9"
+            ],
+            [
+              14,
+              "md_berries_name_15"
+            ],
+            [
+              22,
+              "md_berries_desc_5"
+            ]
+          ],
+          624
+        ],
+        [
+          [
+            [
+              15,
+              "md_berries_name_16"
+            ],
+            [
+              23,
+              "md_berries_desc_6"
+            ]
+          ],
+          669
+        ],
+        [
+          [
+            [
+              16,
+              "md_berries_name_17"
+            ],
+            [
+              24,
+              "md_berries_desc_7"
+            ]
+          ],
+          714
+        ],
+        [
+          [
+            [
+              17,
+              "md_berries_name_18"
+            ],
+            [
+              25,
+              "md_berries_desc_8"
+            ]
+          ],
+          759
+        ],
+        [
+          [
+            [
+              26,
+              "md_berries_desc_9"
+            ]
+          ],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [],
+          781
+        ],
+        [
+          [
+            [
+              27,
+              "md_berries_desc_10"
+            ]
+          ],
+          804
+        ],
+        [
+          [
+            [
+              28,
+              "md_berries_desc_11"
+            ]
+          ],
+          827
+        ],
+        [
+          [
+            [
+              0,
+              "md_berries_name_1"
+            ],
+            [
+              29,
+              "md_berries_desc_12"
+            ]
+          ],
+          872
+        ],
+        [
+          [
+            [
+              1,
+              "md_berries_name_2"
+            ],
+            [
+              30,
+              "md_berries_desc_13"
+            ]
+          ],
+          917
+        ],
+        [
+          [
+            [
+              2,
+              "md_berries_name_3"
+            ],
+            [
+              31,
+              "md_berries_desc_14"
+            ]
+          ],
+          962
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 36,
+        "size": 1666,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

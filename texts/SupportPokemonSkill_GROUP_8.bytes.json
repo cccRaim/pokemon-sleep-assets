@@ -1,0 +1,161 @@
+{
+  "strings": {
+    "Message_ActivatePokemonSkill": [
+      "\u000e\u0003\n\u0002촀的主技能！"
+    ],
+    "SkillAction_SelectSkillRandom": [
+      ""
+    ],
+    "SkillEffect_AllActivePokemonPowerUp": [
+      "隊伍的活力回復\u000e\u0002\u0002\u0002",
+      "！"
+    ],
+    "SkillEffect_CoinGet": [
+      "得到夢之碎片 x\u000e\u0002\u0004\u0004",
+      "촁！"
+    ],
+    "SkillEffect_CookingIngredientNumLimitUp": [
+      "鍋子能多放\u000e\u0002\u0006\u0004",
+      "촁個食材了！"
+    ],
+    "SkillEffect_FoodPowerUp": [
+      "得到\u000e\u0002\u0004\u0004",
+      "촁能量！"
+    ],
+    "SkillEffect_OtherPokemonPowerUp": [
+      "\u000e\u0003\n\u0002촀的活力回復\u000e\u0002\u0002\u0002\u0001！"
+    ],
+    "SkillEffect_PickupFinishRandom": [
+      "\u000e\u0003\n\u0002촀完成了\u000e\u0002\u0004\u0004\u0001촁次幫忙！"
+    ],
+    "SkillEffect_PickupIngredientRandom": [
+      "得到\u000e\u0002\u0002\u0002",
+      "個食材！"
+    ],
+    "SkillEffect_SelfPokemonPowerUp": [
+      "活力回復\u000e\u0002\u0002\u0002",
+      "！"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 10,
+        "size": 74,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 7,
+        "size": 404,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              9,
+              "SkillAction_SelectSkillRandom"
+            ]
+          ],
+          90
+        ],
+        [
+          [
+            [
+              6,
+              "SkillEffect_PickupFinishRandom"
+            ],
+            [
+              8,
+              "SkillEffect_CookingIngredientNumLimitUp"
+            ]
+          ],
+          169
+        ],
+        [
+          [
+            [
+              1,
+              "SkillEffect_FoodPowerUp"
+            ],
+            [
+              4,
+              "SkillEffect_OtherPokemonPowerUp"
+            ],
+            [
+              7,
+              "SkillEffect_PickupIngredientRandom"
+            ]
+          ],
+          272
+        ],
+        [
+          [
+            [
+              3,
+              "SkillEffect_SelfPokemonPowerUp"
+            ],
+            [
+              5,
+              "SkillEffect_AllActivePokemonPowerUp"
+            ]
+          ],
+          347
+        ],
+        [
+          [
+            [
+              0,
+              "Message_ActivatePokemonSkill"
+            ]
+          ],
+          380
+        ],
+        [
+          [],
+          380
+        ],
+        [
+          [
+            [
+              2,
+              "SkillEffect_CoinGet"
+            ]
+          ],
+          404
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 10,
+        "size": 300,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

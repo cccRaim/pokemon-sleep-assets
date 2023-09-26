@@ -1,0 +1,74 @@
+{
+  "strings": {
+    "BaseDataService_Text_1": [
+      "エラーコード"
+    ],
+    "BaseDataService_Text_3": [
+      "エラーコード:\u000e\u0002\u0005\u0004Ā촀\nタイトルに戻ります"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 2,
+        "size": 18,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 2,
+        "size": 70,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          16
+        ],
+        [
+          [
+            [
+              0,
+              "BaseDataService_Text_1"
+            ],
+            [
+              1,
+              "BaseDataService_Text_3"
+            ]
+          ],
+          70
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 2,
+        "size": 70,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

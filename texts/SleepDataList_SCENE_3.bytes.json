@@ -1,0 +1,124 @@
+{
+  "strings": {
+    "SleepDataListScene_Content_Desc": [
+      "Consulta tus datos de sueño y de estudio."
+    ],
+    "SleepDataListScene_Content_LimitButton": [
+      "30 días (máx.)"
+    ],
+    "SleepDataListScene_Content_Title": [
+      "Datos de sueño"
+    ],
+    "SleepDataListScene_Header_CalendarButton": [
+      "Calendario"
+    ],
+    "SleepDataListScene_Header_ListButton": [
+      "Lista"
+    ],
+    "SleepDataListScene_Header_Title": [
+      "Datos de sueño"
+    ],
+    "SleepDataListScene_NoDataDesc": [
+      "Aún no dispones de datos de sueño."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 7,
+        "size": 53,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 312,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "SleepDataListScene_Content_Title"
+            ]
+          ],
+          77
+        ],
+        [
+          [],
+          77
+        ],
+        [
+          [
+            [
+              4,
+              "SleepDataListScene_Header_CalendarButton"
+            ]
+          ],
+          122
+        ],
+        [
+          [
+            [
+              1,
+              "SleepDataListScene_Content_Desc"
+            ],
+            [
+              5,
+              "SleepDataListScene_Header_ListButton"
+            ],
+            [
+              6,
+              "SleepDataListScene_NoDataDesc"
+            ]
+          ],
+          233
+        ],
+        [
+          [
+            [
+              2,
+              "SleepDataListScene_Content_LimitButton"
+            ],
+            [
+              3,
+              "SleepDataListScene_Header_Title"
+            ]
+          ],
+          312
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 7,
+        "size": 306,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

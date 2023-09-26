@@ -1,0 +1,937 @@
+{
+  "strings": {
+    "AutoCookingOptionPopup_Desc": [
+      "Vous pouvez sélectionner jusqu'à \u000e\u0002\u0001\u0002",
+      " ingrédient\u000e\u0004",
+      "\b",
+      "\u0002s촀\nà conserver. Ceux-ci ne seront pas versés\ndans la marmite quand vous utilisez\nla fonction cuisine automatique."
+    ],
+    "AutoCookingOptionPopup_SubTitle": [
+      "Exclure des ingrédients favoris (\u000e\u0002\u0001\u0002",
+      " max.)"
+    ],
+    "AutoCookingOptionPopup_Title": [
+      "Infos ingrédients"
+    ],
+    "AutoCookingResultItemCell_Count": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "AutoCookingSceneSelectViewController_Text_2": [
+      "Votre marmite sera vidée.\nVoulez-vous vraiment recommencer ?"
+    ],
+    "AutoCookingSceneSelectViewController_Text_6": [
+      "Vos sélections seront annulées.\nVoulez-vous vraiment continuer ?"
+    ],
+    "AutoCookingScene_AutoOptionButton": [
+      "Infos ingrédients"
+    ],
+    "AutoCookingScene_CampTicketExpired_Popup_Text": [
+      "La période de location du kit de\ncamping est terminée.\nVeuillez sélectionner les ingrédients\nà nouveau."
+    ],
+    "AutoCookingScene_CampTicketExpired_Popup_Title": [
+      "Fin de la location"
+    ],
+    "AutoCookingScene_Cooking_AddEnergy": [
+      "+ \u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "AutoCookingScene_Cooking_DishEnergy": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "AutoCookingScene_Cooking_GaugeText": [
+      "Préparation en cours..."
+    ],
+    "AutoCookingScene_Cooking_Level": [
+      "N. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "AutoCookingScene_Cooking_LevelBonus": [
+      "Bonus de niveau\n+ \u000e\u0002\t\u0004",
+      "촁 %"
+    ],
+    "AutoCookingScene_Cooking_TipNumber": [
+      "Astuce de sommeil nº \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "AutoCookingScene_EmptyRecipeDesc": [
+      "Choisir les ingrédients soi-même"
+    ],
+    "AutoCookingScene_EmptyRecipeTitle": [
+      "Pas de recette"
+    ],
+    "AutoCookingScene_ExpandButton": [
+      "Max. : \u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "AutoCookingScene_HeadTitleCooking": [
+      "En cours..."
+    ],
+    "AutoCookingScene_HeadTitleRecipes": [
+      "Recettes"
+    ],
+    "AutoCookingScene_HeadTitleSelect": [
+      "Ajoutés :"
+    ],
+    "AutoCookingScene_HeadTitleSelect_Count": [
+      "\u000e\u0002\u0001\u0002",
+      "/\u000e\u0002\u0001\u0002\u0001"
+    ],
+    "AutoCookingScene_HeadTitleTop": [
+      "Cuisiner"
+    ],
+    "AutoCookingScene_Header_Counter": [
+      "\u000e\u0002\u0001\u0002",
+      "/\u000e\u0002\u0001\u0002\u0001"
+    ],
+    "AutoCookingScene_PotExpandBonusNum": [
+      "MAX ↑"
+    ],
+    "AutoCookingScene_PreviewButton": [
+      "Aperçu"
+    ],
+    "AutoCookingScene_RecipeListOrder": [
+      "Trier par : \u000e\u0003\u0010\u0002Ā"
+    ],
+    "AutoCookingScene_RecipeList_Energy": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "AutoCookingScene_RecipeList_EnergyUnkown": [
+      "???"
+    ],
+    "AutoCookingScene_RecipeList_Ingredients": [
+      "Ingr. :"
+    ],
+    "AutoCookingScene_RecipeList_IngredientsNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "AutoCookingScene_RecipeList_Level": [
+      "N. \u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "AutoCookingScene_RecipeList_ShortageLabel": [
+      "Indisponible"
+    ],
+    "AutoCookingScene_RecipeViewDesc": [
+      "Choisissez la recette\nà réaliser."
+    ],
+    "AutoCookingScene_ResultView_OKButton": [
+      "Terminer"
+    ],
+    "AutoCookingScene_ResultView_Title": [
+      "Puissance du repas"
+    ],
+    "AutoCookingScene_ResultView_TotalPower": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "AutoCookingScene_Result_GreatSuccess": [
+      "Super bon !"
+    ],
+    "AutoCookingScene_SelectView_PreviewButton": [
+      "Aperçu"
+    ],
+    "AutoCookingScene_SelectView_RecipeButton": [
+      "Recettes"
+    ],
+    "AutoCookingScene_SelectView_ResetButton": [
+      "Tout réinitialiser"
+    ],
+    "AutoCookingScene_SelectView_StartButton": [
+      "Commencer"
+    ],
+    "AutoCookingScene_SelectView_Title": [
+      "Choisissez les ingrédients"
+    ],
+    "AutoCookingScene_SortButton": [
+      "\u000e\u0003\u0010\u0002",
+      ""
+    ],
+    "AutoCookingScene_TopView_AutoButton": [
+      "Cuisine automatique"
+    ],
+    "AutoCookingScene_TopView_Desc": [
+      "Requête de la semaine : \u000e\u0003\u000f\u0002",
+      ""
+    ],
+    "AutoCookingScene_TopView_SelfChoiceButton": [
+      "Choisir une recette"
+    ],
+    "AutoCookingScene_TopView_Title": [
+      "Cuisiner"
+    ],
+    "AutoCookingScene_UnknownDish": [
+      "???"
+    ],
+    "AutoCookingScene_WeekendBonus_1": [
+      "Bonus de fin de semaine"
+    ],
+    "AutoCookingScene_WeekendBonus_2": [
+      "Agrandir la marmite"
+    ],
+    "AutoCookingSelectIngredientCell_Counter": [
+      "\u000e\u0002\u0001\u0002",
+      "/\u000e\u0002\u0001\u0002\u0001"
+    ],
+    "AutoCookingSelectedIngredientCell_Count": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "AutoCookingStartPopup_Desc_Afternoon": [
+      "C'est l'heure du déjeuner !"
+    ],
+    "AutoCookingStartPopup_Desc_Evening": [
+      "C'est l'heure du dîner !"
+    ],
+    "AutoCookingStartPopup_Desc_Morning": [
+      "C'est l'heure du petit déjeuner !"
+    ],
+    "AutoCookingStartPopup_OKButton": [
+      "Cuisiner !"
+    ],
+    "AutoCookingStartPopup_TimeLabel_Afternoon": [
+      "Après-midi : 12:00 - 18:00"
+    ],
+    "AutoCookingStartPopup_TimeLabel_Evening": [
+      "Soir : 18:00 - 06:00"
+    ],
+    "AutoCookingStartPopup_TimeLabel_Morning": [
+      "Matin : 06:00 - 12:00"
+    ],
+    "AutoCookingStartPopup_Title": [
+      "Cuisiner"
+    ],
+    "AutoCooking_NoFoodsPopup_Message": [
+      "Vous ne pouvez rien cuisiner\nsi vous n'avez aucun ingrédient !"
+    ],
+    "AutoCooking_NoFoodsPopup_Title": [
+      "Aucun ingrédient"
+    ],
+    "AutomaticConfirmPopup_Desc": [
+      "Voulez-vous utiliser \u000e\u0002\u0002\u0002",
+      " \u000e\u0004",
+      "0\u0014ingrédient\u0016ingrédients촀\nau hasard et découvrir le résultat ?"
+    ],
+    "AutomaticConfirmPopup_Title": [
+      "Cuisine automatique"
+    ],
+    "ExpansionPopup_CoinNum": [
+      "\u000e\u0002\u0006\u0004",
+      "촁"
+    ],
+    "ExpansionPopup_ConfirmDesc": [
+      "Voulez-vous utiliser \u000e\u0002\t\u0004",
+      "촁 Fragment\u000e\u0004",
+      "\b",
+      "\u0002s촀\nde Rêve pour augmenter la quantité\nd'ingrédients que vous pouvez utiliser ?"
+    ],
+    "ExpansionPopup_ConfirmTitle": [
+      "Confirmer l'agrandissement"
+    ],
+    "ExpansionPopup_Count": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "ExpansionPopup_Desc": [
+      "Augmentez de \u000e\u0002\u0002\u0002",
+      " le nombre\nmaximal d'ingrédients\nqu'il est possible d'ajouter."
+    ],
+    "ExpansionPopup_Desc_Max": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ(Vous avez atteint la quantité\nmaximale.)\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "ExpansionPopup_Error_CoinShortage": [
+      "Vous n'avez pas assez de Fragments de Rêve."
+    ],
+    "ExpansionPopup_Error_MaxExpansion": [
+      "Impossible d'agrandir la marmite\ndavantage."
+    ],
+    "ExpansionPopup_ExpansionDone": [
+      "La marmite peut contenir\n\u000e\u0002\u0002\u0002",
+      " ingrédient\u000e\u0004",
+      "\b",
+      "\u0002s촀 de plus !"
+    ],
+    "ExpansionPopup_Title": [
+      "Agrandir la marmite"
+    ],
+    "FillIngredientPopup_AddButton": [
+      "Ajouter"
+    ],
+    "FillIngredientPopup_CancelButton": [
+      "Non"
+    ],
+    "FillIngredientPopup_Desc": [
+      "Il reste encore de la place\ndans la marmite pour \u000e\u0002\u0002\u0002",
+      " \u000e\u0004",
+      "0\u0014ingrédient\u0016ingrédients촀.\nVoulez-vous \u000e\u0004",
+      "\u0012\u0004l'\bles 촀ajouter\naléatoirement ?"
+    ],
+    "FillIngredientPopup_Note": [
+      "(Les ingrédients ajoutés de cette manière\nn'auront pas d'impact sur le plat final.)"
+    ],
+    "FillIngredientPopup_Title": [
+      "Remplir la marmite ?"
+    ],
+    "PopupMessage_CannotCook_IgnoreOptionOver": [
+      "Vous avez enregistré tous les\ningrédients de votre Sac en favoris !\nVeuillez en retirer certains \npour pouvoir utiliser la fonction\ncuisine automatique."
+    ],
+    "PopupTitle_CannotCook": [
+      "Impossible de cuisiner"
+    ],
+    "RecipeLevelPpopup_AddEnergy": [
+      "+ \u000e\u0002\u0006\u0004",
+      "촁"
+    ],
+    "RecipeLevelPpopup_Level": [
+      "N. \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "RecipeLevelPpopup_NextLevelEnergy": [
+      "\u000e\u0002\b\u0004",
+      "촁"
+    ],
+    "RecipeLevelPpopup_NextLevelLabel": [
+      "Niveau suivant dans :"
+    ],
+    "RecipeLevelPpopup_Title": [
+      "Niveau de recette"
+    ],
+    "RecipeSortPopup_Title": [
+      "Ordre d'affichage"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 88,
+        "size": 620,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 47,
+        "size": 3656,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              51,
+              "ExpansionPopup_Error_CoinShortage"
+            ]
+          ],
+          414
+        ],
+        [
+          [
+            [
+              8,
+              "FillIngredientPopup_Note"
+            ],
+            [
+              13,
+              "RecipeLevelPpopup_Title"
+            ],
+            [
+              32,
+              "AutoCookingScene_EmptyRecipeDesc"
+            ],
+            [
+              55,
+              "AutoCookingScene_RecipeList_IngredientsNum"
+            ],
+            [
+              60,
+              "AutoCookingScene_SelectView_RecipeButton"
+            ]
+          ],
+          600
+        ],
+        [
+          [
+            [
+              7,
+              "FillIngredientPopup_Desc"
+            ],
+            [
+              50,
+              "ExpansionPopup_Error_MaxExpansion"
+            ]
+          ],
+          667
+        ],
+        [
+          [
+            [
+              2,
+              "AutoCookingStartPopup_Desc_Evening"
+            ],
+            [
+              56,
+              "AutoCookingSceneSelectViewController_Text_2"
+            ]
+          ],
+          754
+        ],
+        [
+          [
+            [
+              42,
+              "ExpansionPopup_Title"
+            ],
+            [
+              66,
+              "AutoCookingResultItemCell_Count"
+            ]
+          ],
+          815
+        ],
+        [
+          [],
+          815
+        ],
+        [
+          [],
+          815
+        ],
+        [
+          [
+            [
+              57,
+              "AutoCookingSceneSelectViewController_Text_6"
+            ]
+          ],
+          863
+        ],
+        [
+          [
+            [
+              35,
+              "AutoCookingScene_RecipeViewDesc"
+            ],
+            [
+              52,
+              "AutoCookingScene_RecipeList_Level"
+            ],
+            [
+              62,
+              "AutoCookingScene_SelectView_ResetButton"
+            ]
+          ],
+          981
+        ],
+        [
+          [
+            [
+              61,
+              "AutoCookingScene_SelectView_Title"
+            ],
+            [
+              67,
+              "AutoCookingSelectedIngredientCell_Count"
+            ]
+          ],
+          1063
+        ],
+        [
+          [
+            [
+              29,
+              "AutoCookingScene_UnknownDish"
+            ]
+          ],
+          1096
+        ],
+        [
+          [
+            [
+              4,
+              "AutoCookingStartPopup_TimeLabel_Afternoon"
+            ],
+            [
+              53,
+              "AutoCookingScene_RecipeList_Energy"
+            ]
+          ],
+          1181
+        ],
+        [
+          [
+            [
+              0,
+              "AutoCookingStartPopup_Desc_Morning"
+            ],
+            [
+              24,
+              "RecipeSortPopup_Title"
+            ]
+          ],
+          1246
+        ],
+        [
+          [
+            [
+              28,
+              "AutoCookingScene_TopView_Desc"
+            ],
+            [
+              30,
+              "AutoCookingScene_ExpandButton"
+            ]
+          ],
+          1314
+        ],
+        [
+          [],
+          1314
+        ],
+        [
+          [
+            [
+              15,
+              "RecipeLevelPpopup_AddEnergy"
+            ],
+            [
+              84,
+              "AutoCookingScene_CampTicketExpired_Popup_Title"
+            ]
+          ],
+          1397
+        ],
+        [
+          [
+            [
+              1,
+              "AutoCookingStartPopup_Desc_Afternoon"
+            ],
+            [
+              45,
+              "ExpansionPopup_Desc_Max"
+            ],
+            [
+              48,
+              "ExpansionPopup_ConfirmDesc"
+            ],
+            [
+              71,
+              "AutoCooking_NoFoodsPopup_Title"
+            ],
+            [
+              79,
+              "AutoCookingScene_RecipeList_EnergyUnkown"
+            ]
+          ],
+          1577
+        ],
+        [
+          [
+            [
+              70,
+              "AutoCookingStartPopup_OKButton"
+            ],
+            [
+              83,
+              "AutoCookingScene_PotExpandBonusNum"
+            ]
+          ],
+          1651
+        ],
+        [
+          [
+            [
+              25,
+              "AutoCookingScene_SortButton"
+            ]
+          ],
+          1683
+        ],
+        [
+          [
+            [
+              64,
+              "AutoCookingScene_ResultView_TotalPower"
+            ]
+          ],
+          1726
+        ],
+        [
+          [
+            [
+              36,
+              "AutoCookingScene_HeadTitleCooking"
+            ],
+            [
+              81,
+              "AutoCookingScene_Cooking_GaugeText"
+            ]
+          ],
+          1803
+        ],
+        [
+          [
+            [
+              6,
+              "FillIngredientPopup_Title"
+            ],
+            [
+              20,
+              "AutoCookingScene_Cooking_AddEnergy"
+            ],
+            [
+              63,
+              "AutoCookingScene_SelectView_StartButton"
+            ]
+          ],
+          1916
+        ],
+        [
+          [
+            [
+              21,
+              "AutoCookingScene_Cooking_TipNumber"
+            ],
+            [
+              37,
+              "AutoCookingScene_HeadTitleRecipes"
+            ],
+            [
+              77,
+              "PopupMessage_CannotCook_IgnoreOptionOver"
+            ]
+          ],
+          2038
+        ],
+        [
+          [
+            [
+              19,
+              "AutoCookingScene_Cooking_Level"
+            ],
+            [
+              69,
+              "AutoCookingStartPopup_Title"
+            ]
+          ],
+          2105
+        ],
+        [
+          [
+            [
+              86,
+              "AutoCookingScene_WeekendBonus_1"
+            ]
+          ],
+          2141
+        ],
+        [
+          [
+            [
+              46,
+              "ExpansionPopup_CoinNum"
+            ],
+            [
+              87,
+              "AutoCookingScene_WeekendBonus_2"
+            ]
+          ],
+          2204
+        ],
+        [
+          [
+            [
+              16,
+              "RecipeLevelPpopup_NextLevelLabel"
+            ],
+            [
+              75,
+              "AutoCookingOptionPopup_Desc"
+            ],
+            [
+              82,
+              "AutoCookingScene_Result_GreatSuccess"
+            ]
+          ],
+          2314
+        ],
+        [
+          [],
+          2314
+        ],
+        [
+          [
+            [
+              40,
+              "AutoCookingScene_HeadTitleTop"
+            ]
+          ],
+          2348
+        ],
+        [
+          [],
+          2348
+        ],
+        [
+          [
+            [
+              65,
+              "AutoCookingScene_Header_Counter"
+            ]
+          ],
+          2384
+        ],
+        [
+          [
+            [
+              17,
+              "RecipeLevelPpopup_NextLevelEnergy"
+            ],
+            [
+              23,
+              "AutoCookingScene_ResultView_OKButton"
+            ]
+          ],
+          2463
+        ],
+        [
+          [
+            [
+              38,
+              "AutoCookingScene_HeadTitleSelect"
+            ]
+          ],
+          2500
+        ],
+        [
+          [
+            [
+              41,
+              "AutoCookingScene_RecipeListOrder"
+            ]
+          ],
+          2537
+        ],
+        [
+          [
+            [
+              11,
+              "AutomaticConfirmPopup_Title"
+            ],
+            [
+              26,
+              "AutoCookingScene_TopView_AutoButton"
+            ],
+            [
+              72,
+              "AutoCooking_NoFoodsPopup_Message"
+            ],
+            [
+              74,
+              "AutoCookingOptionPopup_SubTitle"
+            ]
+          ],
+          2682
+        ],
+        [
+          [
+            [
+              9,
+              "FillIngredientPopup_AddButton"
+            ],
+            [
+              14,
+              "RecipeLevelPpopup_Level"
+            ],
+            [
+              54,
+              "AutoCookingScene_RecipeList_Ingredients"
+            ]
+          ],
+          2788
+        ],
+        [
+          [
+            [
+              31,
+              "AutoCookingScene_EmptyRecipeTitle"
+            ],
+            [
+              80,
+              "AutoCookingScene_Cooking_DishEnergy"
+            ]
+          ],
+          2866
+        ],
+        [
+          [
+            [
+              5,
+              "AutoCookingStartPopup_TimeLabel_Evening"
+            ],
+            [
+              44,
+              "ExpansionPopup_Desc"
+            ]
+          ],
+          2934
+        ],
+        [
+          [
+            [
+              68,
+              "AutoCookingSelectIngredientCell_Counter"
+            ],
+            [
+              73,
+              "AutoCookingOptionPopup_Title"
+            ]
+          ],
+          3011
+        ],
+        [
+          [],
+          3011
+        ],
+        [
+          [
+            [
+              10,
+              "FillIngredientPopup_CancelButton"
+            ],
+            [
+              39,
+              "AutoCookingScene_HeadTitleSelect_Count"
+            ]
+          ],
+          3091
+        ],
+        [
+          [
+            [
+              18,
+              "AutoCookingScene_Cooking_LevelBonus"
+            ],
+            [
+              34,
+              "AutoCookingScene_PreviewButton"
+            ],
+            [
+              43,
+              "ExpansionPopup_Count"
+            ],
+            [
+              58,
+              "AutoCookingScene_TopView_Title"
+            ],
+            [
+              59,
+              "AutoCookingScene_SelectView_PreviewButton"
+            ]
+          ],
+          3272
+        ],
+        [
+          [
+            [
+              49,
+              "ExpansionPopup_ExpansionDone"
+            ]
+          ],
+          3305
+        ],
+        [
+          [
+            [
+              33,
+              "AutoCookingScene_AutoOptionButton"
+            ]
+          ],
+          3343
+        ],
+        [
+          [
+            [
+              12,
+              "AutomaticConfirmPopup_Desc"
+            ],
+            [
+              27,
+              "AutoCookingScene_TopView_SelfChoiceButton"
+            ]
+          ],
+          3420
+        ],
+        [
+          [
+            [
+              22,
+              "AutoCookingScene_ResultView_Title"
+            ],
+            [
+              47,
+              "ExpansionPopup_ConfirmTitle"
+            ],
+            [
+              78,
+              "AutoCookingScene_RecipeList_ShortageLabel"
+            ]
+          ],
+          3536
+        ],
+        [
+          [
+            [
+              3,
+              "AutoCookingStartPopup_TimeLabel_Morning"
+            ],
+            [
+              76,
+              "PopupTitle_CannotCook"
+            ],
+            [
+              85,
+              "AutoCookingScene_CampTicketExpired_Popup_Text"
+            ]
+          ],
+          3656
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 88,
+        "size": 5276,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

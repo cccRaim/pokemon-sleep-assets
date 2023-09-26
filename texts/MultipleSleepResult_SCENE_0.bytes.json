@@ -1,0 +1,562 @@
+{
+  "strings": {
+    "MultipleSleepResultRewardPopup_Desc": [
+      "dans la poche !"
+    ],
+    "MultipleSleepResultRewardPopup_ItemNum": [
+      "× \u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "MultipleSleepResultRewardPopup_Title": [
+      "Récompenses de recherche"
+    ],
+    "MultipleSleepResultRewardPopup_Title_2": [
+      "Récompenses de recherche"
+    ],
+    "MultipleSleepResultScene_Content_Desc": [
+      "Bilan de vos dernières recherches"
+    ],
+    "MultipleSleepResultScene_Content_DetailButton": [
+      "Détails"
+    ],
+    "MultipleSleepResultScene_Content_LevelNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "MultipleSleepResultScene_Content_LevelTitle": [
+      "N."
+    ],
+    "MultipleSleepResultScene_Content_SleepTime": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "MultipleSleepResultScene_Content_Title": [
+      "Bilan"
+    ],
+    "MultipleSleepResultScene_Content_Title_2": [
+      "Données de sommeil"
+    ],
+    "MultipleSleepResultScene_Content_Title_3": [
+      "Recherches sur le sommeil"
+    ],
+    "MultipleSleepResultScene_Content_Title_4": [
+      "Nouveaux amis"
+    ],
+    "MultipleSleepResultScene_Content_Title_5": [
+      "Résumé"
+    ],
+    "MultipleSleepResultScene_Content_Title_6": [
+      "Pokémon vus"
+    ],
+    "MultipleSleepResultScene_Content_Title_7": [
+      "Points de recherche"
+    ],
+    "MultipleSleepResultScene_Content_Title_8": [
+      "Fragments de Rêve"
+    ],
+    "MultipleSleepResultScene_Content_Title_9": [
+      "Exp gagnée par votre\nPokémon de soutien"
+    ],
+    "MultipleSleepResultScene_Content_Title_Date": [
+      "\u000e\t",
+      "\"\u001eyyyyyMMMddd_aaa",
+      ""
+    ],
+    "MultipleSleepResultScene_Content_Value_3": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "MultipleSleepResultScene_Content_Value_4": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "MultipleSleepResultScene_Content_Value_5": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "MultipleSleepResultScene_Content_Value_6": [
+      "\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "MultipleSleepResultScene_Footer_NextButton": [
+      "Suivant"
+    ],
+    "MultipleSleepResultScene_Footer_PrevButton": [
+      "Précédent"
+    ],
+    "MultipleSleepResultScene_Footer_StartButton": [
+      "Commencer"
+    ],
+    "MultipleSleepResultScene_HeadTitle_BaitBall": [
+      "Biscuits Bonus donnés"
+    ],
+    "MultipleSleepResultScene_HeadTitle_ResearchResult": [
+      "Résultats des recherches"
+    ],
+    "MultipleSleepResultScene_HeadTitle_Reward": [
+      "Résultats et récompenses"
+    ],
+    "MultipleSleepResultScene_HeadTitle_SleepData": [
+      "Données de sommeil"
+    ],
+    "MultipleSleepResultScene_Header_DataNum": [
+      "Résumé (\u000e\u0002\u0001\u0002",
+      " session)"
+    ],
+    "MultipleSleepResultScene_Header_DataNum_multiple": [
+      "Résumé (\u000e\u0002\u0001\u0002",
+      " sessions)"
+    ],
+    "MultipleSleepResultScene_Header_PageCount": [
+      "\u000e\u0002\u0001\u0002",
+      "/\u000e\u0002\u0001\u0002\u0001"
+    ],
+    "MultipleSleepResultScene_Header_Title": [
+      "Pokémon GO Plus +"
+    ],
+    "MultipleSleepResultScene_Summary_SleepingFace": [
+      "Pokémon vus"
+    ],
+    "MultipleSleepResultScene_Top_DayCountUnit": [
+      "Session"
+    ],
+    "MultipleSleepResultScene_Top_DayCountUnit_multiple": [
+      "Sessions"
+    ],
+    "MultipleSleepResultScene_Top_DayCountValue": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "MultipleSleepResultSingleDaySleepingFaceCell_DetailButton": [
+      "Détails"
+    ],
+    "MultipleSleepResultSingleDaySleepingFaceCell_PowerTitle": [
+      "Dodoforce"
+    ],
+    "MultipleSleepResultSingleDaySleepingFaceCell_PowerValue": [
+      "\u000e\u0002\u0006\u0004",
+      "촁"
+    ],
+    "MultipleSleepResultSingleDaySleepingFaceCell_ScoreTitle": [
+      "Puissance × Score"
+    ],
+    "MultipleSleepResultSingleDaySleepingFaceCell_ScoreValue": [
+      "\u000e\u0002\u0004\u0004",
+      "촁 × \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "MultipleSleepResultSleepDataCell_PowerLabel": [
+      "Dodoforce :"
+    ],
+    "MultipleSleepResultSleepDataCell_PowerValue": [
+      "\u000e\u0002\u0006\u0004",
+      "촁"
+    ],
+    "MultipleSleepResultSleepDataCell_TimeLabel": [
+      "Sommeil :"
+    ],
+    "MultipleSleepResultSleepDataCell_TimeValue": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      " – \u000e\t",
+      "\u000e\nhh:mm\u0001"
+    ],
+    "MutipleSleepResultExpireDataCell_Desc": [
+      "Ces données datent de plus de 14 jours\net ne peuvent plus être consultées."
+    ],
+    "MutipleSleepResultExpireDataCell_Desc_NoResearch": [
+      "Ces données n'ont pas pu être exploitées\ncar elles contiennent un score de 0."
+    ],
+    "MutipleSleepResultScene_SleepingFaceName": [
+      "\u000e\u0003\r\u0002",
+      ""
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 50,
+        "size": 354,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 29,
+        "size": 2617,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "MultipleSleepResultScene_Content_SleepTime"
+            ],
+            [
+              10,
+              "MultipleSleepResultScene_Content_LevelTitle"
+            ],
+            [
+              18,
+              "MultipleSleepResultScene_Content_Value_5"
+            ],
+            [
+              47,
+              "MultipleSleepResultScene_Top_DayCountUnit_multiple"
+            ]
+          ],
+          427
+        ],
+        [
+          [
+            [
+              20,
+              "MultipleSleepResultScene_Content_Value_6"
+            ],
+            [
+              24,
+              "MultipleSleepResultRewardPopup_Title"
+            ],
+            [
+              29,
+              "MultipleSleepResultScene_Header_DataNum_multiple"
+            ],
+            [
+              42,
+              "MultipleSleepResultSingleDaySleepingFaceCell_DetailButton"
+            ]
+          ],
+          628
+        ],
+        [
+          [
+            [
+              30,
+              "MultipleSleepResultScene_HeadTitle_SleepData"
+            ]
+          ],
+          677
+        ],
+        [
+          [
+            [
+              21,
+              "MultipleSleepResultScene_Footer_StartButton"
+            ],
+            [
+              25,
+              "MultipleSleepResultRewardPopup_ItemNum"
+            ]
+          ],
+          768
+        ],
+        [
+          [
+            [
+              1,
+              "MultipleSleepResultScene_Header_PageCount"
+            ],
+            [
+              26,
+              "MultipleSleepResultRewardPopup_Title_2"
+            ],
+            [
+              40,
+              "MultipleSleepResultSingleDaySleepingFaceCell_ScoreTitle"
+            ],
+            [
+              43,
+              "MutipleSleepResultExpireDataCell_Desc"
+            ]
+          ],
+          959
+        ],
+        [
+          [],
+          959
+        ],
+        [
+          [],
+          959
+        ],
+        [
+          [
+            [
+              44,
+              "MultipleSleepResultScene_Summary_SleepingFace"
+            ],
+            [
+              49,
+              "MutipleSleepResultScene_SleepingFaceName"
+            ]
+          ],
+          1054
+        ],
+        [
+          [
+            [
+              23,
+              "MultipleSleepResultScene_Footer_NextButton"
+            ]
+          ],
+          1101
+        ],
+        [
+          [
+            [
+              46,
+              "MultipleSleepResultScene_Top_DayCountUnit"
+            ]
+          ],
+          1147
+        ],
+        [
+          [],
+          1147
+        ],
+        [
+          [
+            [
+              4,
+              "MultipleSleepResultScene_Content_Title_2"
+            ],
+            [
+              28,
+              "MultipleSleepResultScene_Header_DataNum"
+            ],
+            [
+              39,
+              "MultipleSleepResultSingleDaySleepingFaceCell_PowerValue"
+            ]
+          ],
+          1296
+        ],
+        [
+          [
+            [
+              8,
+              "MultipleSleepResultScene_Content_Title_3"
+            ],
+            [
+              32,
+              "MultipleSleepResultScene_HeadTitle_BaitBall"
+            ]
+          ],
+          1389
+        ],
+        [
+          [
+            [
+              9,
+              "MultipleSleepResultScene_Content_Title_4"
+            ],
+            [
+              41,
+              "MultipleSleepResultSingleDaySleepingFaceCell_ScoreValue"
+            ]
+          ],
+          1494
+        ],
+        [
+          [
+            [
+              12,
+              "MultipleSleepResultScene_Content_Title_5"
+            ]
+          ],
+          1539
+        ],
+        [
+          [
+            [
+              13,
+              "MultipleSleepResultScene_Content_Title_6"
+            ],
+            [
+              38,
+              "MultipleSleepResultSingleDaySleepingFaceCell_PowerTitle"
+            ]
+          ],
+          1644
+        ],
+        [
+          [
+            [
+              11,
+              "MultipleSleepResultScene_Content_LevelNum"
+            ],
+            [
+              15,
+              "MultipleSleepResultScene_Content_Title_7"
+            ]
+          ],
+          1735
+        ],
+        [
+          [
+            [
+              17,
+              "MultipleSleepResultScene_Content_Title_8"
+            ]
+          ],
+          1780
+        ],
+        [
+          [
+            [
+              7,
+              "MultipleSleepResultScene_Content_DetailButton"
+            ],
+            [
+              19,
+              "MultipleSleepResultScene_Content_Title_9"
+            ]
+          ],
+          1875
+        ],
+        [
+          [
+            [
+              27,
+              "MultipleSleepResultRewardPopup_Desc"
+            ]
+          ],
+          1915
+        ],
+        [
+          [
+            [
+              3,
+              "MultipleSleepResultScene_Content_Desc"
+            ],
+            [
+              35,
+              "MultipleSleepResultSleepDataCell_TimeValue"
+            ],
+            [
+              48,
+              "MutipleSleepResultExpireDataCell_Desc_NoResearch"
+            ]
+          ],
+          2057
+        ],
+        [
+          [
+            [
+              22,
+              "MultipleSleepResultScene_Footer_PrevButton"
+            ],
+            [
+              31,
+              "MultipleSleepResultScene_HeadTitle_ResearchResult"
+            ],
+            [
+              33,
+              "MultipleSleepResultScene_HeadTitle_Reward"
+            ],
+            [
+              37,
+              "MultipleSleepResultSleepDataCell_PowerValue"
+            ]
+          ],
+          2252
+        ],
+        [
+          [],
+          2252
+        ],
+        [
+          [],
+          2252
+        ],
+        [
+          [
+            [
+              34,
+              "MultipleSleepResultSleepDataCell_TimeLabel"
+            ]
+          ],
+          2299
+        ],
+        [
+          [
+            [
+              0,
+              "MultipleSleepResultScene_Header_Title"
+            ],
+            [
+              2,
+              "MultipleSleepResultScene_Content_Title"
+            ],
+            [
+              36,
+              "MultipleSleepResultSleepDataCell_PowerLabel"
+            ]
+          ],
+          2432
+        ],
+        [
+          [
+            [
+              5,
+              "MultipleSleepResultScene_Content_Title_Date"
+            ]
+          ],
+          2480
+        ],
+        [
+          [
+            [
+              14,
+              "MultipleSleepResultScene_Content_Value_3"
+            ]
+          ],
+          2525
+        ],
+        [
+          [
+            [
+              16,
+              "MultipleSleepResultScene_Content_Value_4"
+            ],
+            [
+              45,
+              "MultipleSleepResultScene_Top_DayCountValue"
+            ]
+          ],
+          2617
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 50,
+        "size": 1908,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "strings": {
+    "md_weekly_report_comment_comment_1": [
+      "Du konntest dich letzte Woche anscheinend nicht\nausruhen wie die Allerbesten. Versuche, einen\nguten Schlafrhythmus zu finden, indem du täglich\nzu ähnlichen Zeiten schlafen gehst und aufstehst\nsowie für eine gleichmäßige Schlafdauer sorgst."
+    ],
+    "md_weekly_report_comment_comment_2": [
+      "Du bist letzte Woche täglich zu ähnlichen Zeiten\nschlafen gegangen und aufgestanden. Du kannst\nversuchen, einen noch besseren Schlafrhythmus\nzu finden, indem du für eine gleichmäßige tägliche\nSchlafdauer sorgst."
+    ],
+    "md_weekly_report_comment_comment_3": [
+      "Du hattest letzte Woche eine gleichmäßige\ntägliche Schlafdauer. Du kannst versuchen,\neinen noch besseren Schlafrhythmus zu finden,\nindem du täglich zu ähnlichen Zeiten schlafen\ngehst und aufstehst."
+    ],
+    "md_weekly_report_comment_comment_4": [
+      "Dein Schlaf war in der letzten Woche recht\ngleichmäßig. Es gibt nur wenig, das du an deinem\nSchlafrhythmus verbessern könntest. Versuche,\nauf deine Schlaf- und Aufwachzeit zu achten,\nund sorge für eine gleichmäßige Schlafdauer."
+    ],
+    "md_weekly_report_comment_comment_5": [
+      "Dein Schlaf war in der letzten Woche sehr\ngleichmäßig. Es gibt nur sehr wenig, das du an\ndeinem Schlafrhythmus verbessern könntest.\nVersuche, dafür zu sorgen, dass die Dauer deines\nSchlafs von Tag zu Tag nicht zu stark variiert."
+    ],
+    "md_weekly_report_comment_comment_6": [
+      "Dein Schlaf war in der letzten Woche sehr\ngleichmäßig. Es gibt nur sehr wenig, das du an\ndeinem Schlafrhythmus verbessern könntest.\nVersuche, dafür zu sorgen, dass deine tägliche\nSchlaf- und Aufwachzeit nicht zu stark variiert."
+    ],
+    "md_weekly_report_comment_comment_7": [
+      "Du hast dich letzte Woche wirklich ausgeruht\nwie die Allerbesten! Mach weiter so!"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 7,
+        "size": 53,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 313,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "md_weekly_report_comment_comment_4"
+            ]
+          ],
+          79
+        ],
+        [
+          [
+            [
+              4,
+              "md_weekly_report_comment_comment_5"
+            ]
+          ],
+          118
+        ],
+        [
+          [
+            [
+              0,
+              "md_weekly_report_comment_comment_1"
+            ],
+            [
+              5,
+              "md_weekly_report_comment_comment_6"
+            ]
+          ],
+          196
+        ],
+        [
+          [
+            [
+              1,
+              "md_weekly_report_comment_comment_2"
+            ],
+            [
+              6,
+              "md_weekly_report_comment_comment_7"
+            ]
+          ],
+          274
+        ],
+        [
+          [
+            [
+              2,
+              "md_weekly_report_comment_comment_3"
+            ]
+          ],
+          313
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 7,
+        "size": 2862,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

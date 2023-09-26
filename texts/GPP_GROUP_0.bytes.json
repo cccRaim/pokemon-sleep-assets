@@ -1,0 +1,334 @@
+{
+  "strings": {
+    "DontShowNextView_Desc": [
+      "（可從選項變更）"
+    ],
+    "DontShowNextView_Title": [
+      "今後不再顯示這個警告"
+    ],
+    "GPPAlready_Connected_Text": [
+      "這個Pokémon GO Plus +\n已登錄於其他裝置。"
+    ],
+    "GPPAlready_Connected_Title": [
+      "確認"
+    ],
+    "GPPSleepData_Trouble_Desc": [
+      "在睡眠資料發現了問題。\n\u000e",
+      "\u0003\u0004毿Ｗ下列睡眠資料將被捨棄\u000e",
+      "\u0003\u0004",
+      "＀。"
+    ],
+    "GPPSyncLoader_Confirm_Multiple_All_Research_Desc": [
+      "點心時間能夠自動進行。"
+    ],
+    "GPPSyncLoader_Confirm_Multiple_All_Research_Header_Title": [
+      "一併研究"
+    ],
+    "GPPSyncLoader_Confirm_Multiple_All_Research_Message": [
+      "要一併報告包含最新研究\n在內的所有研究嗎？"
+    ],
+    "GPPSyncLoader_SleepData_Found_Multiple": [
+      "在Pokémon GO Plus +\n找到了\u000e\u0002",
+      "\u0002촀筆睡眠資料。"
+    ],
+    "GPPSyncLoader_Start_Multiple_Research": [
+      "一併研究"
+    ],
+    "GPPSyncLoader_Start_Single_Research": [
+      "開始研究"
+    ],
+    "GPPSyncLoader_Text_1": [
+      "在Pokémon GO Plus +\n找到了睡眠資料。"
+    ],
+    "GPPSyncLoader_Text_10": [
+      "無法使用Bluetooth。\n請確認裝置設定，\n並在開啟Bluetooth後重新操作。"
+    ],
+    "GPPSyncLoader_Text_11": [
+      "即將開始睡眠研究。\n請選擇報告方法。"
+    ],
+    "GPPSyncLoader_Text_12": [
+      "詳細報告"
+    ],
+    "GPPSyncLoader_Text_13": [
+      "全部一併報告"
+    ],
+    "GPPSyncLoader_Text_2": [
+      "要開始睡眠研究嗎？"
+    ],
+    "GPPSyncLoader_Text_3": [
+      "開始"
+    ],
+    "GPPSyncLoader_Text_4": [
+      "稍後報告"
+    ],
+    "GPPSyncLoader_Text_5": [
+      "Pokémon GO Plus +"
+    ],
+    "GPPSyncLoader_Text_6": [
+      "Pokémon GO Plus +發生故障，\n或是連線發生問題。"
+    ],
+    "GPPSyncLoader_Text_7": [
+      "重試"
+    ],
+    "GPPSyncLoader_Text_8": [
+      "取消"
+    ],
+    "GPPSyncLoader_Text_9": [
+      "發生了錯誤。\n即將重新嘗試。\n錯誤：\u000e\u0002\u0005\u0004Ā촀"
+    ],
+    "GPPUnregisterLoader_Text_1": [
+      "確定要初始化儲存在\nPokémon GO Plus +的鬧鈴等設定嗎？"
+    ],
+    "GPPUnregisterLoader_Text_4": [
+      "已解除登錄Pokémon GO Plus +。"
+    ],
+    "GPPUnregisterLoader_Text_5": [
+      "無法連線到Pokémon GO Plus +。\n要略過和Pokémon GO Plus +連線，\n直接解除登錄嗎？\n（Pokémon GO Plus +內的設定不會初始化）"
+    ],
+    "GPPUnregisterLoader_Text_6": [
+      "解除登錄"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 28,
+        "size": 200,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 1028,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              5,
+              "GPPSyncLoader_Text_6"
+            ],
+            [
+              15,
+              "GPPUnregisterLoader_Text_5"
+            ],
+            [
+              17,
+              "DontShowNextView_Title"
+            ]
+          ],
+          219
+        ],
+        [
+          [
+            [
+              6,
+              "GPPSyncLoader_Text_7"
+            ],
+            [
+              16,
+              "GPPUnregisterLoader_Text_6"
+            ],
+            [
+              20,
+              "GPPAlready_Connected_Title"
+            ]
+          ],
+          306
+        ],
+        [
+          [
+            [
+              7,
+              "GPPSyncLoader_Text_8"
+            ],
+            [
+              19,
+              "GPPSleepData_Trouble_Desc"
+            ],
+            [
+              22,
+              "GPPSyncLoader_SleepData_Found_Multiple"
+            ]
+          ],
+          404
+        ],
+        [
+          [
+            [
+              8,
+              "GPPSyncLoader_Text_9"
+            ],
+            [
+              25,
+              "GPPSyncLoader_Confirm_Multiple_All_Research_Header_Title"
+            ]
+          ],
+          490
+        ],
+        [
+          [],
+          490
+        ],
+        [
+          [],
+          490
+        ],
+        [
+          [
+            [
+              24,
+              "GPPSyncLoader_Start_Multiple_Research"
+            ]
+          ],
+          532
+        ],
+        [
+          [
+            [
+              9,
+              "GPPSyncLoader_Text_10"
+            ]
+          ],
+          558
+        ],
+        [
+          [
+            [
+              10,
+              "GPPSyncLoader_Text_11"
+            ],
+            [
+              27,
+              "GPPSyncLoader_Confirm_Multiple_All_Research_Desc"
+            ]
+          ],
+          637
+        ],
+        [
+          [
+            [
+              11,
+              "GPPSyncLoader_Text_12"
+            ],
+            [
+              26,
+              "GPPSyncLoader_Confirm_Multiple_All_Research_Message"
+            ]
+          ],
+          719
+        ],
+        [
+          [
+            [
+              12,
+              "GPPSyncLoader_Text_13"
+            ],
+            [
+              18,
+              "DontShowNextView_Desc"
+            ]
+          ],
+          771
+        ],
+        [
+          [
+            [
+              23,
+              "GPPSyncLoader_Start_Single_Research"
+            ]
+          ],
+          811
+        ],
+        [
+          [
+            [
+              0,
+              "GPPSyncLoader_Text_1"
+            ]
+          ],
+          836
+        ],
+        [
+          [
+            [
+              1,
+              "GPPSyncLoader_Text_2"
+            ],
+            [
+              13,
+              "GPPUnregisterLoader_Text_1"
+            ]
+          ],
+          892
+        ],
+        [
+          [
+            [
+              2,
+              "GPPSyncLoader_Text_3"
+            ]
+          ],
+          917
+        ],
+        [
+          [
+            [
+              3,
+              "GPPSyncLoader_Text_4"
+            ],
+            [
+              21,
+              "GPPAlready_Connected_Text"
+            ]
+          ],
+          972
+        ],
+        [
+          [
+            [
+              4,
+              "GPPSyncLoader_Text_5"
+            ],
+            [
+              14,
+              "GPPUnregisterLoader_Text_4"
+            ]
+          ],
+          1028
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 28,
+        "size": 1166,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

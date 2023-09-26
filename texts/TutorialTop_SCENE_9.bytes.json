@@ -1,0 +1,296 @@
+{
+  "strings": {
+    "TutorialTopMenuPopup_Title_4": [
+      "Unpair Your Device"
+    ],
+    "TutorialTopSceneController_Text_4": [
+      "Microphone Access"
+    ],
+    "TutorialTopSceneController_Text_5": [
+      "The app can’t track your sleep\nbecause it doesn’t have permission\nto record audio.\n\nPlease go to your device’s settings\nand grant the app access to your\nmicrophone."
+    ],
+    "TutorialTopSceneController_Text_6": [
+      "This Pokémon GO Plus + is registered\nto another device."
+    ],
+    "TutorialTopSceneController_Text_7": [
+      "The Pokémon GO Plus + is\nmalfunctioning or something is\npreventing communication."
+    ],
+    "TutorialTopSceneController_Text_8": [
+      "Currently Unavailable"
+    ],
+    "TutorialTopSceneController_Text_9": [
+      "In order to track sleep, the app needs\npermission to record audio."
+    ],
+    "TutorialTopScene_Canvas-UI_Desc_1": [
+      "・Sleep has to be at least \u000e",
+      "\u0003\u0004毿Ｗ90 minutes \u000e",
+      "\u0003\u0004",
+      "＀long\n  to be counted for research"
+    ],
+    "TutorialTopScene_Canvas-UI_Desc_2": [
+      "・You can track \u000e",
+      "\u0003\u0004毿Ｗ2 sleep sessions\u000e",
+      "\u0003\u0004",
+      "＀ per day"
+    ],
+    "TutorialTopScene_Canvas-UI_Desc_GPP": [
+      "・Start by tracking your sleep with your\n  \u000e",
+      "\u0003\u0004쨗ｎPokémon GO Plus +\u000e",
+      "\u0003\u0004",
+      "＀, then sync your data"
+    ],
+    "TutorialTopScene_Canvas-UI_GPPInfoButton": [
+      "How to Use"
+    ],
+    "TutorialTopScene_Canvas-UI_GPPSyncButton": [
+      "Sync GO Plus +"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepStartButton": [
+      "Start Tracking Sleep"
+    ],
+    "TutorialTopScene_Canvas-UI_Title": [
+      "Let's Get Sleeping"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_2": [
+      "Sleep Tutorial"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_3": [
+      "Friends"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_4": [
+      "Bedtime"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_5": [
+      "Pokémon\nGO Plus +"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_6": [
+      "Friends"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_7": [
+      "Bedtime"
+    ],
+    "TutorialTopScene_Canvas-UI_Title_LeftTime": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      " to go!"
+    ],
+    "TutorialTopScene_GPPInfoPopup_Button": [
+      "Details"
+    ],
+    "TutorialTopScene_GPPInfoPopup_Text_1": [
+      "Track your sleep with your Pokémon\nGO Plus +, then open Pokémon Sleep,\nand the device and app will sync\nautomatically."
+    ],
+    "TutorialTopScene_GPPInfoPopup_Text_2": [
+      "If the automatic sync does not occur,\npress the Sync GO Plus + button."
+    ],
+    "TutorialTopScene_GPPInfoPopup_Title": [
+      "Tracking Sleep with Pokémon GO Plus +"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 25,
+        "size": 179,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 1099,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          104
+        ],
+        [
+          [],
+          104
+        ],
+        [
+          [
+            [
+              7,
+              "TutorialTopScene_Canvas-UI_Title_LeftTime"
+            ],
+            [
+              9,
+              "TutorialTopScene_Canvas-UI_Desc_1"
+            ]
+          ],
+          188
+        ],
+        [
+          [
+            [
+              2,
+              "TutorialTopSceneController_Text_4"
+            ],
+            [
+              8,
+              "TutorialTopScene_Canvas-UI_Title_2"
+            ],
+            [
+              10,
+              "TutorialTopScene_Canvas-UI_Desc_2"
+            ],
+            [
+              20,
+              "TutorialTopScene_Canvas-UI_GPPInfoButton"
+            ]
+          ],
+          348
+        ],
+        [
+          [
+            [
+              3,
+              "TutorialTopSceneController_Text_5"
+            ],
+            [
+              11,
+              "TutorialTopScene_Canvas-UI_Title_3"
+            ]
+          ],
+          425
+        ],
+        [
+          [
+            [
+              4,
+              "TutorialTopSceneController_Text_6"
+            ],
+            [
+              12,
+              "TutorialTopScene_Canvas-UI_Title_4"
+            ],
+            [
+              15,
+              "TutorialTopScene_Canvas-UI_Desc_GPP"
+            ],
+            [
+              24,
+              "TutorialTopScene_GPPInfoPopup_Button"
+            ]
+          ],
+          583
+        ],
+        [
+          [
+            [
+              5,
+              "TutorialTopSceneController_Text_7"
+            ],
+            [
+              6,
+              "TutorialTopScene_Canvas-UI_Title"
+            ],
+            [
+              13,
+              "TutorialTopScene_Canvas-UI_Title_5"
+            ],
+            [
+              21,
+              "TutorialTopScene_GPPInfoPopup_Title"
+            ]
+          ],
+          737
+        ],
+        [
+          [
+            [
+              0,
+              "TutorialTopSceneController_Text_8"
+            ],
+            [
+              14,
+              "TutorialTopScene_Canvas-UI_SleepStartButton"
+            ],
+            [
+              16,
+              "TutorialTopScene_Canvas-UI_Title_6"
+            ],
+            [
+              18,
+              "TutorialTopScene_Canvas-UI_GPPSyncButton"
+            ],
+            [
+              22,
+              "TutorialTopScene_GPPInfoPopup_Text_1"
+            ]
+          ],
+          948
+        ],
+        [
+          [
+            [
+              1,
+              "TutorialTopSceneController_Text_9"
+            ],
+            [
+              17,
+              "TutorialTopScene_Canvas-UI_Title_7"
+            ],
+            [
+              19,
+              "TutorialTopMenuPopup_Title_4"
+            ],
+            [
+              23,
+              "TutorialTopScene_GPPInfoPopup_Text_2"
+            ]
+          ],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ],
+        [
+          [],
+          1099
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 25,
+        "size": 2190,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

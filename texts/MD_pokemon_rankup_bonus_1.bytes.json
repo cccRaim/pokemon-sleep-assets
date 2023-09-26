@@ -1,0 +1,447 @@
+{
+  "strings": {
+    "md_pokemon_rankup_bonus_desc_1": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " % l'Exp obtenue par\nl'équipe après une session de sommeil."
+    ],
+    "md_pokemon_rankup_bonus_desc_10": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " le nombre maximal\nde Baies et d'ingrédients que peut\nporter le Pokémon."
+    ],
+    "md_pokemon_rankup_bonus_desc_11": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " le niveau de la\nCompétence Principale du Pokémon."
+    ],
+    "md_pokemon_rankup_bonus_desc_12": [
+      "Augmente un peu la probabilité qu'a\nle Pokémon de trouver des ingrédients."
+    ],
+    "md_pokemon_rankup_bonus_desc_13": [
+      "Augmente la probabilité qu'a\nle Pokémon de trouver des ingrédients."
+    ],
+    "md_pokemon_rankup_bonus_desc_14": [
+      "Augmente un peu la probabilité qu'a\nle Pokémon d'utiliser sa Compétence\nPrincipale."
+    ],
+    "md_pokemon_rankup_bonus_desc_15": [
+      "Augmente la probabilité qu'a\nle Pokémon d'utiliser sa Compétence\nPrincipale."
+    ],
+    "md_pokemon_rankup_bonus_desc_16": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " % l'énergie récupérée\npar le Pokémon pendant une session\nde sommeil."
+    ],
+    "md_pokemon_rankup_bonus_desc_17": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " % l'énergie récupérée\npar le Pokémon pendant une session\nde sommeil."
+    ],
+    "md_pokemon_rankup_bonus_desc_18": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " le niveau de la\nCompétence Principale du Pokémon."
+    ],
+    "md_pokemon_rankup_bonus_desc_19": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " le nombre maximal\nde Baies et d'ingrédients que peut\nporter le Pokémon."
+    ],
+    "md_pokemon_rankup_bonus_desc_2": [
+      "Réduit de \u000e\u0002\u0001\u0002",
+      " % le temps nécessaire\nau soutien des Pokémon de l'équipe."
+    ],
+    "md_pokemon_rankup_bonus_desc_3": [
+      "Multiplie par \u000e\u0002\u0003\u0004",
+      "촁 l'énergie récupérée\npar l'équipe pendant une session\nde sommeil."
+    ],
+    "md_pokemon_rankup_bonus_desc_4": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " % le nombre\nde Fragments de Rêve obtenus\npendant une session de recherche."
+    ],
+    "md_pokemon_rankup_bonus_desc_5": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " % l'Exp obtenue\npendant une session de recherche."
+    ],
+    "md_pokemon_rankup_bonus_desc_6": [
+      "Réduit de \u000e\u0002\u0001\u0002",
+      " % le temps nécessaire\nau soutien du Pokémon."
+    ],
+    "md_pokemon_rankup_bonus_desc_7": [
+      "Réduit de \u000e\u0002\u0001\u0002",
+      " % le temps nécessaire\nau soutien du Pokémon."
+    ],
+    "md_pokemon_rankup_bonus_desc_8": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " le nombre de Baies\nque trouve le Pokémon d'un seul coup."
+    ],
+    "md_pokemon_rankup_bonus_desc_9": [
+      "Augmente de \u000e\u0002\u0001\u0002",
+      " le nombre maximal\nde Baies et d'ingrédients que peut\nporter le Pokémon."
+    ],
+    "md_pokemon_rankup_bonus_name_1": [
+      "Bonus Dodo"
+    ],
+    "md_pokemon_rankup_bonus_name_10": [
+      "Inventaire + M"
+    ],
+    "md_pokemon_rankup_bonus_name_11": [
+      "Niveau Compétence + S"
+    ],
+    "md_pokemon_rankup_bonus_name_12": [
+      "Ingrédients + S"
+    ],
+    "md_pokemon_rankup_bonus_name_13": [
+      "Ingrédients + M"
+    ],
+    "md_pokemon_rankup_bonus_name_14": [
+      "Compétence + S"
+    ],
+    "md_pokemon_rankup_bonus_name_15": [
+      "Compétence + M"
+    ],
+    "md_pokemon_rankup_bonus_name_16": [
+      "Récup'Énergie + S"
+    ],
+    "md_pokemon_rankup_bonus_name_17": [
+      "Récup'Énergie + M"
+    ],
+    "md_pokemon_rankup_bonus_name_18": [
+      "Niveau Compétence + M"
+    ],
+    "md_pokemon_rankup_bonus_name_19": [
+      "Inventaire + L"
+    ],
+    "md_pokemon_rankup_bonus_name_2": [
+      "Bonus Soutien"
+    ],
+    "md_pokemon_rankup_bonus_name_3": [
+      "Bonus Récup'Énergie"
+    ],
+    "md_pokemon_rankup_bonus_name_4": [
+      "Bonus Fragment de Rêve"
+    ],
+    "md_pokemon_rankup_bonus_name_5": [
+      "Bonus Point de recherche"
+    ],
+    "md_pokemon_rankup_bonus_name_6": [
+      "Soutien Rapide S"
+    ],
+    "md_pokemon_rankup_bonus_name_7": [
+      "Soutien Rapide M"
+    ],
+    "md_pokemon_rankup_bonus_name_8": [
+      "Fan de Baies S"
+    ],
+    "md_pokemon_rankup_bonus_name_9": [
+      "Inventaire + S"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 38,
+        "size": 270,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 23,
+        "size": 1534,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              33,
+              "md_pokemon_rankup_bonus_desc_17"
+            ]
+          ],
+          220
+        ],
+        [
+          [
+            [
+              0,
+              "md_pokemon_rankup_bonus_name_1"
+            ],
+            [
+              35,
+              "md_pokemon_rankup_bonus_desc_18"
+            ]
+          ],
+          291
+        ],
+        [
+          [
+            [
+              2,
+              "md_pokemon_rankup_bonus_name_2"
+            ],
+            [
+              37,
+              "md_pokemon_rankup_bonus_desc_19"
+            ]
+          ],
+          362
+        ],
+        [
+          [
+            [
+              4,
+              "md_pokemon_rankup_bonus_name_3"
+            ]
+          ],
+          397
+        ],
+        [
+          [
+            [
+              6,
+              "md_pokemon_rankup_bonus_name_4"
+            ]
+          ],
+          432
+        ],
+        [
+          [
+            [
+              8,
+              "md_pokemon_rankup_bonus_name_5"
+            ]
+          ],
+          467
+        ],
+        [
+          [
+            [
+              10,
+              "md_pokemon_rankup_bonus_name_6"
+            ]
+          ],
+          502
+        ],
+        [
+          [
+            [
+              12,
+              "md_pokemon_rankup_bonus_name_7"
+            ],
+            [
+              18,
+              "md_pokemon_rankup_bonus_name_10"
+            ]
+          ],
+          573
+        ],
+        [
+          [
+            [
+              14,
+              "md_pokemon_rankup_bonus_name_8"
+            ],
+            [
+              20,
+              "md_pokemon_rankup_bonus_name_11"
+            ]
+          ],
+          644
+        ],
+        [
+          [
+            [
+              16,
+              "md_pokemon_rankup_bonus_name_9"
+            ],
+            [
+              22,
+              "md_pokemon_rankup_bonus_name_12"
+            ]
+          ],
+          715
+        ],
+        [
+          [
+            [
+              24,
+              "md_pokemon_rankup_bonus_name_13"
+            ]
+          ],
+          751
+        ],
+        [
+          [
+            [
+              26,
+              "md_pokemon_rankup_bonus_name_14"
+            ]
+          ],
+          787
+        ],
+        [
+          [
+            [
+              1,
+              "md_pokemon_rankup_bonus_desc_1"
+            ],
+            [
+              28,
+              "md_pokemon_rankup_bonus_name_15"
+            ]
+          ],
+          858
+        ],
+        [
+          [
+            [
+              3,
+              "md_pokemon_rankup_bonus_desc_2"
+            ],
+            [
+              30,
+              "md_pokemon_rankup_bonus_name_16"
+            ]
+          ],
+          929
+        ],
+        [
+          [
+            [
+              5,
+              "md_pokemon_rankup_bonus_desc_3"
+            ],
+            [
+              32,
+              "md_pokemon_rankup_bonus_name_17"
+            ]
+          ],
+          1000
+        ],
+        [
+          [
+            [
+              7,
+              "md_pokemon_rankup_bonus_desc_4"
+            ],
+            [
+              34,
+              "md_pokemon_rankup_bonus_name_18"
+            ]
+          ],
+          1071
+        ],
+        [
+          [
+            [
+              9,
+              "md_pokemon_rankup_bonus_desc_5"
+            ],
+            [
+              19,
+              "md_pokemon_rankup_bonus_desc_10"
+            ],
+            [
+              36,
+              "md_pokemon_rankup_bonus_name_19"
+            ]
+          ],
+          1178
+        ],
+        [
+          [
+            [
+              11,
+              "md_pokemon_rankup_bonus_desc_6"
+            ],
+            [
+              21,
+              "md_pokemon_rankup_bonus_desc_11"
+            ]
+          ],
+          1249
+        ],
+        [
+          [
+            [
+              13,
+              "md_pokemon_rankup_bonus_desc_7"
+            ],
+            [
+              23,
+              "md_pokemon_rankup_bonus_desc_12"
+            ]
+          ],
+          1320
+        ],
+        [
+          [
+            [
+              15,
+              "md_pokemon_rankup_bonus_desc_8"
+            ],
+            [
+              25,
+              "md_pokemon_rankup_bonus_desc_13"
+            ]
+          ],
+          1391
+        ],
+        [
+          [
+            [
+              17,
+              "md_pokemon_rankup_bonus_desc_9"
+            ],
+            [
+              27,
+              "md_pokemon_rankup_bonus_desc_14"
+            ]
+          ],
+          1462
+        ],
+        [
+          [
+            [
+              29,
+              "md_pokemon_rankup_bonus_desc_15"
+            ]
+          ],
+          1498
+        ],
+        [
+          [
+            [
+              31,
+              "md_pokemon_rankup_bonus_desc_16"
+            ]
+          ],
+          1534
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 38,
+        "size": 3768,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

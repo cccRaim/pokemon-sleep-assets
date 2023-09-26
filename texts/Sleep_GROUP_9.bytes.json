@@ -1,0 +1,421 @@
+{
+  "strings": {
+    "AlarmModal_Desc": [
+      "Il est l'heure de se lever !"
+    ],
+    "AlarmModal_StopButton": [
+      "Rappel de réveil"
+    ],
+    "MidSleepTimeInfoPopup_Desc": [
+      "On appelle\u000e",
+      "\u0003\u0004毿Ｗ point médian du sommeil\n\u000e",
+      "\u0003\u0004",
+      "＀le moment situé \u000e",
+      "\u0003\u0004毿Ｗà l'exact milieu\n\u000e",
+      "\u0003\u0004",
+      "＀entre l'heure du coucher et celle du lever.\nOn dit que plus ce point médian\nest régulier d'un jour à l'autre,\nmeilleur est le rythme de sommeil."
+    ],
+    "MidSleepTimeInfoPopup_Time": [
+      "Le point médian du sommeil"
+    ],
+    "SleepAnalyzerManager_Text_1": [
+      "Mesurer le sommeil"
+    ],
+    "SleepAnalyzerManager_Text_2": [
+      "Garder l'application ouverte garantit\nle bon fonctionnement des mesures."
+    ],
+    "SleepAnalyzerManager_Text_3": [
+      "L'application s'est arrêtée. Veuillez\nla rouvrir et relancer les mesures."
+    ],
+    "SleepDataLimitPopup_DataDayNumValue": [
+      "\u000e\u0002\u0003\u0004",
+      "촁 j"
+    ],
+    "SleepDataLimitPopup_DataNumLabel": [
+      "Mémoire"
+    ],
+    "SleepDataLimitPopup_DataWeekNumValue": [
+      "\u000e\u0002\u0002\u0002",
+      " sem."
+    ],
+    "SleepDataLimitPopup_RegularityDataLimitDesc": [
+      "Avec un Pass standard, vous pouvez voir\nvos données de sommeil les plus récentes\n(moins de \u000e\u0002",
+      "\u0002촀 semaine\u000e\u0004",
+      "\b",
+      "\u0002s촀).\nSeul le \u000e",
+      "\u0003\u0004毿ＷPass premium\u000e",
+      "\u0003\u0004",
+      "＀ vous permet de\n\u000e",
+      "\u0003\u0004毿Ｗconsulter toutes vos données précédentes\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "SleepDataLimitPopup_SleepDataLimitDesc": [
+      "Avec un Pass standard, vous pouvez voir\nvos données de sommeil les plus récentes\n(moins de \u000e\u0002\u0001\u0002",
+      " jour\u000e\u0004",
+      "\b",
+      "\u0002s촀).\nSeul le \u000e",
+      "\u0003\u0004毿ＷPass premium\u000e",
+      "\u0003\u0004",
+      "＀ vous permet de\n\u000e",
+      "\u0003\u0004毿Ｗconsulter toutes vos données précédentes\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "SleepDataLimitPopup_Title": [
+      "Anciennes données enregistrées"
+    ],
+    "SleepDataLimitPopup_ToSleepPass": [
+      "Voir les Pass Dodo"
+    ],
+    "SleepDataSalvageLoader_Error_DataVersionNotMatch_Message": [
+      "Les données de sommeil enregistrées\nproviennent d'une ancienne version\nsystème. Elles sont inutilisables."
+    ],
+    "SleepDataSalvageLoader_Text_1": [
+      "Restauration de données terminée"
+    ],
+    "SleepDataSalvageLoader_Text_2": [
+      "Chargement des recherches..."
+    ],
+    "SleepDataSalvageLoader_Text_3": [
+      "Des données dupliquées correspondant\nà une seule et même période de mesure\nont été trouvées."
+    ],
+    "SleepDataSalvageLoader_Text_4": [
+      "Vous avez dépassé le nombre maximal\nde sessions mesurables en une journée."
+    ],
+    "SleepDataSalvageLoader_Text_5": [
+      "Ces données de sommeil ont déjà\nété enregistrées."
+    ],
+    "SleepDataSalvageLoader_Text_6": [
+      "Aucune donnée de sommeil valable\nn'a été trouvée."
+    ],
+    "SleepDataSalvageLoader_Text_7": [
+      "Aucune donnée de sommeil valable\nn'a été trouvée."
+    ],
+    "SleepDataSalvageLoader_Text_8": [
+      "Erreur du serveur"
+    ],
+    "SleepDataSalvageLoader_Text_9": [
+      "Erreur de données de sommeil"
+    ],
+    "SleepResultManager_Text_2": [
+      "Vous semblez dormir d'un sommeil de type \u000e\u0003\u0004\u0002Ȁ\nplus souvent que la moyenne mondiale."
+    ],
+    "SleepResultManager_Text_4": [
+      "Votre temps de sommeil de type \u000e\u0003\u0004\u0002Ȁ semble avoir\naugmenté de \u000e\u0002\u0001\u0002\u0001 %, par rapport aux données précédentes."
+    ],
+    "SleepTypeDetector_Text_1": [
+      "Type équilibré"
+    ],
+    "SleepTypeDetector_Text_2": [
+      "Type \u000e\u0003\u0004\u0002Ȁ"
+    ],
+    "SleepTypeDetector_Text_5": [
+      "Indéterminé"
+    ],
+    "SleepTypeDetector_Text_6": [
+      "Par rapport à la moyenne mondiale"
+    ],
+    "SleepTypeDetector_Text_7": [
+      "Résultats récents (moins de 7 jours)"
+    ],
+    "SleepTypeDetector_Text_8": [
+      "Résultats récents (30 jours max)"
+    ],
+    "SleepingFaceAssetDownloadLoader_Text_1": [
+      "Erreur de téléchargement"
+    ],
+    "SleepingFaceAssetDownloadLoader_Text_2": [
+      "Une erreur est survenue pendant\nle téléchargement.\nVeuillez réessayer ultérieurement."
+    ],
+    "SleepingFaceAssetDownloadLoader_Text_3": [
+      "Erreur"
+    ],
+    "SleepingFaceAssetDownloadLoader_Text_4": [
+      "Votre appareil ne dispose pas de\nsuffisamment d'espace de stockage.\nLibérez de l'espace, puis réessayez."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 36,
+        "size": 256,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 1404,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          152
+        ],
+        [
+          [
+            [
+              32,
+              "SleepDataLimitPopup_RegularityDataLimitDesc"
+            ]
+          ],
+          200
+        ],
+        [
+          [
+            [
+              27,
+              "SleepDataLimitPopup_Title"
+            ]
+          ],
+          230
+        ],
+        [
+          [
+            [
+              24,
+              "AlarmModal_Desc"
+            ],
+            [
+              31,
+              "SleepDataLimitPopup_SleepDataLimitDesc"
+            ]
+          ],
+          293
+        ],
+        [
+          [
+            [
+              9,
+              "SleepingFaceAssetDownloadLoader_Text_1"
+            ]
+          ],
+          336
+        ],
+        [
+          [
+            [
+              10,
+              "SleepingFaceAssetDownloadLoader_Text_2"
+            ],
+            [
+              18,
+              "SleepTypeDetector_Text_1"
+            ]
+          ],
+          408
+        ],
+        [
+          [
+            [
+              11,
+              "SleepingFaceAssetDownloadLoader_Text_3"
+            ],
+            [
+              19,
+              "SleepTypeDetector_Text_2"
+            ],
+            [
+              28,
+              "SleepDataLimitPopup_DataNumLabel"
+            ]
+          ],
+          517
+        ],
+        [
+          [
+            [
+              12,
+              "SleepingFaceAssetDownloadLoader_Text_4"
+            ],
+            [
+              15,
+              "SleepAnalyzerManager_Text_1"
+            ],
+            [
+              35,
+              "MidSleepTimeInfoPopup_Desc"
+            ]
+          ],
+          623
+        ],
+        [
+          [
+            [
+              0,
+              "SleepDataSalvageLoader_Text_1"
+            ],
+            [
+              16,
+              "SleepAnalyzerManager_Text_2"
+            ],
+            [
+              34,
+              "MidSleepTimeInfoPopup_Time"
+            ]
+          ],
+          720
+        ],
+        [
+          [
+            [
+              1,
+              "SleepDataSalvageLoader_Text_2"
+            ],
+            [
+              13,
+              "SleepResultManager_Text_2"
+            ],
+            [
+              17,
+              "SleepAnalyzerManager_Text_3"
+            ],
+            [
+              20,
+              "SleepTypeDetector_Text_5"
+            ],
+            [
+              30,
+              "SleepDataLimitPopup_DataWeekNumValue"
+            ]
+          ],
+          886
+        ],
+        [
+          [
+            [
+              2,
+              "SleepDataSalvageLoader_Text_3"
+            ],
+            [
+              21,
+              "SleepTypeDetector_Text_6"
+            ],
+            [
+              26,
+              "SleepDataSalvageLoader_Error_DataVersionNotMatch_Message"
+            ],
+            [
+              33,
+              "SleepDataLimitPopup_ToSleepPass"
+            ]
+          ],
+          1046
+        ],
+        [
+          [
+            [
+              3,
+              "SleepDataSalvageLoader_Text_4"
+            ],
+            [
+              14,
+              "SleepResultManager_Text_4"
+            ],
+            [
+              22,
+              "SleepTypeDetector_Text_7"
+            ]
+          ],
+          1139
+        ],
+        [
+          [
+            [
+              4,
+              "SleepDataSalvageLoader_Text_5"
+            ],
+            [
+              23,
+              "SleepTypeDetector_Text_8"
+            ]
+          ],
+          1202
+        ],
+        [
+          [
+            [
+              5,
+              "SleepDataSalvageLoader_Text_6"
+            ]
+          ],
+          1236
+        ],
+        [
+          [
+            [
+              6,
+              "SleepDataSalvageLoader_Text_7"
+            ],
+            [
+              25,
+              "AlarmModal_StopButton"
+            ]
+          ],
+          1296
+        ],
+        [
+          [
+            [
+              7,
+              "SleepDataSalvageLoader_Text_8"
+            ]
+          ],
+          1330
+        ],
+        [
+          [
+            [
+              8,
+              "SleepDataSalvageLoader_Text_9"
+            ],
+            [
+              29,
+              "SleepDataLimitPopup_DataDayNumValue"
+            ]
+          ],
+          1404
+        ],
+        [
+          [],
+          1404
+        ],
+        [
+          [],
+          1404
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 36,
+        "size": 4296,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

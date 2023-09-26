@@ -1,0 +1,225 @@
+{
+  "strings": {
+    "ContentDesc": [
+      "Sieh dir deine Schlafdaten und -trends an."
+    ],
+    "ContentTitle": [
+      "Schlafstatistiken"
+    ],
+    "DaysLimitedButton": [
+      "30 Tage (max.)"
+    ],
+    "HeadTitle": [
+      "Schlafstatistiken"
+    ],
+    "ItemDataNum": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "ItemPeriod": [
+      "\u000e\t",
+      "\u0018\u0014yyyy-MM-dd",
+      "–\u000e\t",
+      "\u0018\u0014yyyy-MM-dd\u0001"
+    ],
+    "ItemTotalTime": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "PeriodType_Days": [
+      "\u000e\t",
+      "\f\bdddd",
+      ""
+    ],
+    "PeriodType_Days_WithLabel": [
+      "\u000e\t",
+      "\f\bdddd",
+      ""
+    ],
+    "PeriodType_Years": [
+      "\u000e\t",
+      "\u0010\fyyyyyy",
+      " (\u000e\t",
+      "\f\bdddd\u0001)"
+    ],
+    "PeriodType_Years_WithLabel": [
+      "\u000e\t",
+      "\u0010\fyyyyyy",
+      ""
+    ],
+    "SectionHeader": [
+      "\u000e\t",
+      "\u000e\nyyyyy",
+      ""
+    ],
+    "SleepStatisticsList_Nodata": [
+      "Du hast noch keine Schlafdaten gesammelt."
+    ],
+    "SleepStatisticsList_PeriodDialog_Heading": [
+      "Dauer"
+    ],
+    "SleepStatisticsList_PeriodDialog_Title": [
+      "Zeitraum der Schlafaufzeichnungen"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 15,
+        "size": 109,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 445,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          88
+        ],
+        [
+          [
+            [
+              11,
+              "PeriodType_Days"
+            ]
+          ],
+          108
+        ],
+        [
+          [
+            [
+              1,
+              "ContentTitle"
+            ]
+          ],
+          125
+        ],
+        [
+          [
+            [
+              4,
+              "SectionHeader"
+            ],
+            [
+              6,
+              "ItemPeriod"
+            ]
+          ],
+          158
+        ],
+        [
+          [],
+          158
+        ],
+        [
+          [
+            [
+              3,
+              "DaysLimitedButton"
+            ],
+            [
+              8,
+              "PeriodType_Years_WithLabel"
+            ]
+          ],
+          211
+        ],
+        [
+          [
+            [
+              9,
+              "PeriodType_Days_WithLabel"
+            ],
+            [
+              12,
+              "SleepStatisticsList_Nodata"
+            ],
+            [
+              13,
+              "SleepStatisticsList_PeriodDialog_Title"
+            ]
+          ],
+          315
+        ],
+        [
+          [
+            [
+              7,
+              "ItemTotalTime"
+            ]
+          ],
+          333
+        ],
+        [
+          [
+            [
+              2,
+              "ContentDesc"
+            ],
+            [
+              10,
+              "PeriodType_Years"
+            ],
+            [
+              14,
+              "SleepStatisticsList_PeriodDialog_Heading"
+            ]
+          ],
+          415
+        ],
+        [
+          [],
+          415
+        ],
+        [
+          [
+            [
+              0,
+              "HeadTitle"
+            ],
+            [
+              5,
+              "ItemDataNum"
+            ]
+          ],
+          445
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 15,
+        "size": 666,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

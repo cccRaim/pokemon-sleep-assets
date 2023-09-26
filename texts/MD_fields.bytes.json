@@ -1,0 +1,230 @@
+{
+  "strings": {
+    "md_fields_desc_1": [
+      "The largest island in the region, known for\nits fertile land covered with greenery.\nIt hosts the greatest variety of Pokémon."
+    ],
+    "md_fields_desc_2": [
+      "This shore of fine white sand stretches to\nthe horizon, kissed by a gentle sea breeze.\nMany Water-type Pokémon live here."
+    ],
+    "md_fields_desc_3": [
+      "Shafts of sunlight pour through the open\nceiling to light up the cavern walls. Rock-\nand Ground-type Pokémon love it here."
+    ],
+    "md_fields_desc_4": [
+      "Gorgeous flowers bloom in this freezing\ntundra, despite the unrelenting snowfall.\nMany Ice-type Pokémon can be found here."
+    ],
+    "md_fields_desc_6": [
+      "The scant plant life growing in patches\namid the flowing magma is very tenacious.\nFire-type Pokémon are abundant here."
+    ],
+    "md_fields_desc_7": [
+      "A thin mist hangs over this eerie lakeside,\nwhere the only sound is the gentle lapping\nof waves. Dragon-type Pokémon rule here."
+    ],
+    "md_fields_name_1": [
+      "Greengrass Isle"
+    ],
+    "md_fields_name_2": [
+      "Cyan Beach"
+    ],
+    "md_fields_name_3": [
+      "Taupe Hollow"
+    ],
+    "md_fields_name_4": [
+      "Snowdrop Tundra"
+    ],
+    "md_fields_name_6": [
+      "Carmine Volcano"
+    ],
+    "md_fields_name_7": [
+      "Lapis Lakeside"
+    ],
+    "md_fields_name_indirect_1": [
+      "Greengrass Isle"
+    ],
+    "md_fields_name_indirect_2": [
+      "Cyan Beach"
+    ],
+    "md_fields_name_indirect_3": [
+      "Taupe Hollow"
+    ],
+    "md_fields_name_indirect_4": [
+      "Snowdrop Tundra"
+    ],
+    "md_fields_name_indirect_6": [
+      "Carmine Volcano"
+    ],
+    "md_fields_name_indirect_7": [
+      "Lapis Lakeside"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 18,
+        "size": 130,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 520,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          88
+        ],
+        [
+          [
+            [
+              3,
+              "md_fields_name_indirect_1"
+            ],
+            [
+              6,
+              "md_fields_desc_1"
+            ]
+          ],
+          139
+        ],
+        [
+          [
+            [
+              5,
+              "md_fields_name_indirect_2"
+            ],
+            [
+              8,
+              "md_fields_desc_2"
+            ]
+          ],
+          190
+        ],
+        [
+          [
+            [
+              0,
+              "md_fields_name_1"
+            ],
+            [
+              4,
+              "md_fields_name_indirect_3"
+            ],
+            [
+              7,
+              "md_fields_desc_3"
+            ]
+          ],
+          262
+        ],
+        [
+          [
+            [
+              2,
+              "md_fields_name_2"
+            ],
+            [
+              12,
+              "md_fields_name_indirect_4"
+            ],
+            [
+              15,
+              "md_fields_desc_4"
+            ]
+          ],
+          334
+        ],
+        [
+          [
+            [
+              1,
+              "md_fields_name_3"
+            ]
+          ],
+          355
+        ],
+        [
+          [
+            [
+              9,
+              "md_fields_name_4"
+            ],
+            [
+              13,
+              "md_fields_name_indirect_6"
+            ],
+            [
+              16,
+              "md_fields_desc_6"
+            ]
+          ],
+          427
+        ],
+        [
+          [
+            [
+              14,
+              "md_fields_name_indirect_7"
+            ],
+            [
+              17,
+              "md_fields_desc_7"
+            ]
+          ],
+          478
+        ],
+        [
+          [
+            [
+              10,
+              "md_fields_name_6"
+            ]
+          ],
+          499
+        ],
+        [
+          [
+            [
+              11,
+              "md_fields_name_7"
+            ]
+          ],
+          520
+        ],
+        [
+          [],
+          520
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 18,
+        "size": 1902,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

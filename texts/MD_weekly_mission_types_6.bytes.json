@@ -1,0 +1,132 @@
+{
+  "strings": {
+    "md_weekly_mission_types_tips_1": [
+      "用樹果和料理將卡比獸培育到\n指定的卡比獸評價吧。"
+    ],
+    "md_weekly_mission_types_tips_10": [
+      "透過睡眠研究等管道獲得\n寶可夢的糖果，來強化寶可夢吧。"
+    ],
+    "md_weekly_mission_types_tips_2": [
+      "1天最多能做3次料理。\n可做下個料理的時間帶為早上（6:00～）、\n午後（12:00～）、晚上（18:00～）。"
+    ],
+    "md_weekly_mission_types_tips_5": [
+      "如果有寶可夢擅長撿來樹果，\n就把牠編入隊伍，來收集樹果吧。"
+    ],
+    "md_weekly_mission_types_tips_6": [
+      "如果有寶可夢會撿來\n這週的卡比獸喜歡的樹果，\n就把牠編入隊伍，來收集樹果吧。"
+    ],
+    "md_weekly_mission_types_tips_7": [
+      "在和寶可夢約定的就寢時間\n前後30分鐘內開始測量睡眠吧。"
+    ],
+    "md_weekly_mission_types_tips_8": [
+      "在點心時間用寶可沙布蕾餵寶可夢，\n並將友情點數提高到MAX，\n即可讓該寶可夢成為夥伴。"
+    ],
+    "md_weekly_mission_types_tips_9": [
+      "在點心時間用寶可沙布蕾\n等點心餵寶可夢吧。\n每天能得到1個獎勵沙布蕾。"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 8,
+        "size": 60,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 321,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "md_weekly_mission_types_tips_2"
+            ],
+            [
+              4,
+              "md_weekly_mission_types_tips_7"
+            ]
+          ],
+          110
+        ],
+        [
+          [
+            [
+              5,
+              "md_weekly_mission_types_tips_8"
+            ]
+          ],
+          145
+        ],
+        [
+          [
+            [
+              6,
+              "md_weekly_mission_types_tips_9"
+            ]
+          ],
+          180
+        ],
+        [
+          [
+            [
+              2,
+              "md_weekly_mission_types_tips_5"
+            ]
+          ],
+          215
+        ],
+        [
+          [
+            [
+              0,
+              "md_weekly_mission_types_tips_1"
+            ],
+            [
+              3,
+              "md_weekly_mission_types_tips_6"
+            ],
+            [
+              7,
+              "md_weekly_mission_types_tips_10"
+            ]
+          ],
+          321
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 8,
+        "size": 608,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

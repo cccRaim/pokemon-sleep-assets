@@ -1,0 +1,219 @@
+{
+  "strings": {
+    "PokemonNature_Text_1": [
+      "メインスキル発生確率"
+    ],
+    "PokemonNature_Text_2": [
+      "EXP獲得量"
+    ],
+    "PokemonNature_Text_3": [
+      "げんき回復量"
+    ],
+    "PokemonNature_Text_4": [
+      "食材おてつだい確率"
+    ],
+    "PokemonNature_Text_5": [
+      "おてつだいスピード"
+    ],
+    "SleepingFace_LibrarySubId": [
+      "ID-\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SpeciesCandy_Text_1": [
+      "\u000e\u0003\u0003\u0004Ā촀のアメ"
+    ],
+    "WeeklyMission_Text_10": [
+      "ポケサブレ等を\u000e\u0002\u0001\u0002",
+      "個使おう"
+    ],
+    "WeeklyMission_Text_11": [
+      "アメを\u000e\u0002\u0001\u0002",
+      "個使おう"
+    ],
+    "WeeklyMission_Text_2": [
+      "カビゴンを\u000e\u0003\u0007\u0004Ā촀にしよう"
+    ],
+    "WeeklyMission_Text_3": [
+      "料理を\u000e\u0002\u0001\u0002",
+      "回つくろう"
+    ],
+    "WeeklyMission_Text_6": [
+      "カビゴンにきのみを\u000e\u0002\u0002\u0002",
+      "個あげよう"
+    ],
+    "WeeklyMission_Text_7": [
+      "カビゴンの好きなきのみを\u000e\u0002\u0002\u0002",
+      "個あげよう"
+    ],
+    "WeeklyMission_Text_8": [
+      "ねむりの約束を\u000e\u0002\u0001\u0002",
+      "回まもろう"
+    ],
+    "WeeklyMission_Text_9": [
+      "ポケモンを\u000e\u0002\u0001\u0002",
+      "匹仲間にしよう"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 15,
+        "size": 109,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 469,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              8,
+              "WeeklyMission_Text_6"
+            ]
+          ],
+          113
+        ],
+        [
+          [
+            [
+              9,
+              "WeeklyMission_Text_7"
+            ]
+          ],
+          138
+        ],
+        [
+          [
+            [
+              5,
+              "SpeciesCandy_Text_1"
+            ],
+            [
+              10,
+              "WeeklyMission_Text_8"
+            ]
+          ],
+          187
+        ],
+        [
+          [
+            [
+              11,
+              "WeeklyMission_Text_9"
+            ]
+          ],
+          212
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonNature_Text_1"
+            ]
+          ],
+          237
+        ],
+        [
+          [
+            [
+              1,
+              "PokemonNature_Text_2"
+            ]
+          ],
+          262
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonNature_Text_3"
+            ]
+          ],
+          287
+        ],
+        [
+          [
+            [
+              3,
+              "PokemonNature_Text_4"
+            ],
+            [
+              6,
+              "WeeklyMission_Text_2"
+            ]
+          ],
+          337
+        ],
+        [
+          [
+            [
+              4,
+              "PokemonNature_Text_5"
+            ],
+            [
+              7,
+              "WeeklyMission_Text_3"
+            ],
+            [
+              12,
+              "WeeklyMission_Text_10"
+            ]
+          ],
+          413
+        ],
+        [
+          [
+            [
+              13,
+              "WeeklyMission_Text_11"
+            ]
+          ],
+          439
+        ],
+        [
+          [
+            [
+              14,
+              "SleepingFace_LibrarySubId"
+            ]
+          ],
+          469
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 15,
+        "size": 466,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

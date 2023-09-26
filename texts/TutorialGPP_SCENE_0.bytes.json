@@ -1,0 +1,286 @@
+{
+  "strings": {
+    "GPPTutorialSceneController_Text_1": [
+      "次に進む"
+    ],
+    "GPPTutorialSceneController_Text_10": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ「メインボタン」 \u000e",
+      "\u0003\u0004",
+      "＀を \u000e",
+      "\u0003\u0004毿Ｗ長押し \u000e",
+      "\u0003\u0004",
+      "＀して\n\u000e",
+      "\u0003\u0004毿Ｗ睡眠計測を終了 \u000e",
+      "\u0003\u0004",
+      "＀してください。"
+    ],
+    "GPPTutorialSceneController_Text_11": [
+      "計測を完了しました"
+    ],
+    "GPPTutorialSceneController_Text_12": [
+      "これで睡眠計測は終わりです。\n\u000e",
+      "\u0003\u0004毿Ｗ実際に使用するとき \u000e",
+      "\u0003\u0004",
+      "＀は\n\u000e",
+      "\u0003\u0004毿Ｗ計測後にPokémon Sleepと通信 \u000e",
+      "\u0003\u0004",
+      "＀させると、\n\u000e",
+      "\u0003\u0004毿Ｗ睡眠結果が確認 \u000e",
+      "\u0003\u0004",
+      "＀できます。"
+    ],
+    "GPPTutorialSceneController_Text_13": [
+      "チュートリアルを終了"
+    ],
+    "GPPTutorialSceneController_Text_15": [
+      "計測開始エラー"
+    ],
+    "GPPTutorialSceneController_Text_16": [
+      "Pokémon GO Plus +が傾いていると、\n計測開始することができません\nベッドや布団など平らな場所に置いて、\nメインボタンを長押ししてください"
+    ],
+    "GPPTutorialSceneController_Text_17": [
+      "Bluetoothが利用できません\n端末の設定をご確認いただき\nBluetoothをオンにしてください\nもう一度チュートリアルをやり直しますか？"
+    ],
+    "GPPTutorialSceneController_Text_18": [
+      "やり直す"
+    ],
+    "GPPTutorialSceneController_Text_2": [
+      "チュートリアルをスキップします\nよろしいですか？"
+    ],
+    "GPPTutorialSceneController_Text_20": [
+      "Pokémon GO Plus +との通信が切断されました\nもう一度チュートリアルをやり直しますか？"
+    ],
+    "GPPTutorialSceneController_Text_3": [
+      "睡眠計測を開始"
+    ],
+    "GPPTutorialSceneController_Text_4": [
+      "Pokémon GO Plus +の \u000e",
+      "\u0003\u0004毿Ｗ「メインボタン」 \u000e",
+      "\u0003\u0004",
+      "＀を\n\u000e",
+      "\u0003\u0004毿Ｗ長押しする \u000e",
+      "\u0003\u0004",
+      "＀ことで、\n\u000e",
+      "\u0003\u0004毿Ｗ睡眠計測を開始 \u000e",
+      "\u0003\u0004",
+      "＀します。\n\u000e",
+      "\u0003\u0004毿Ｗ※\u000e",
+      "\u0003\u0004",
+      "＀Pokémon GO Plus +から音がでます"
+    ],
+    "GPPTutorialSceneController_Text_5": [
+      "睡眠計測中…"
+    ],
+    "GPPTutorialSceneController_Text_6": [
+      "\u000e",
+      "\u0003\u0004毿Ｗピカチュウの子守唄 \u000e",
+      "\u0003\u0004",
+      "＀が鳴り始め、睡眠計測が\n始まりました。 \u000e",
+      "\u0003\u0004毿Ｗ実際に使用するとき \u000e",
+      "\u0003\u0004",
+      "＀は、\n\u000e",
+      "\u0003\u0004毿Ｗこの状態で枕元に設置して \u000e",
+      "\u0003\u0004",
+      "＀ください。\nメインボタンを短く押すと子守唄を止められます。\n( 設定からOFFにもできます )"
+    ],
+    "GPPTutorialSceneController_Text_7": [
+      "計測の終了"
+    ],
+    "GPPTutorialSceneController_Text_8": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ「メインボタン」 \u000e",
+      "\u0003\u0004",
+      "＀を \u000e",
+      "\u0003\u0004毿Ｗ長押しする \u000e",
+      "\u0003\u0004",
+      "＀ことで、\n\u000e",
+      "\u0003\u0004毿Ｗ睡眠計測を終了 \u000e",
+      "\u0003\u0004",
+      "＀できます。\n次に進むと \u000e",
+      "\u0003\u0004毿Ｗテスト用にアラーム \u000e",
+      "\u0003\u0004",
+      "＀が\n\u000e",
+      "\u0003\u0004毿Ｗ鳴ります \u000e",
+      "\u0003\u0004",
+      "＀ので、計測を終了してください。"
+    ],
+    "GPPTutorialSceneController_Text_9": [
+      "計測を終了する"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 18,
+        "size": 130,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 781,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "GPPTutorialSceneController_Text_4"
+            ],
+            [
+              16,
+              "GPPTutorialSceneController_Text_18"
+            ]
+          ],
+          165
+        ],
+        [
+          [
+            [
+              4,
+              "GPPTutorialSceneController_Text_5"
+            ]
+          ],
+          203
+        ],
+        [
+          [
+            [
+              5,
+              "GPPTutorialSceneController_Text_6"
+            ]
+          ],
+          241
+        ],
+        [
+          [
+            [
+              6,
+              "GPPTutorialSceneController_Text_7"
+            ],
+            [
+              9,
+              "GPPTutorialSceneController_Text_10"
+            ]
+          ],
+          318
+        ],
+        [
+          [
+            [
+              7,
+              "GPPTutorialSceneController_Text_8"
+            ],
+            [
+              10,
+              "GPPTutorialSceneController_Text_11"
+            ]
+          ],
+          395
+        ],
+        [
+          [
+            [
+              8,
+              "GPPTutorialSceneController_Text_9"
+            ],
+            [
+              11,
+              "GPPTutorialSceneController_Text_12"
+            ]
+          ],
+          472
+        ],
+        [
+          [
+            [
+              12,
+              "GPPTutorialSceneController_Text_13"
+            ]
+          ],
+          511
+        ],
+        [
+          [
+            [
+              17,
+              "GPPTutorialSceneController_Text_20"
+            ]
+          ],
+          550
+        ],
+        [
+          [
+            [
+              0,
+              "GPPTutorialSceneController_Text_1"
+            ],
+            [
+              13,
+              "GPPTutorialSceneController_Text_15"
+            ]
+          ],
+          627
+        ],
+        [
+          [
+            [
+              1,
+              "GPPTutorialSceneController_Text_2"
+            ],
+            [
+              14,
+              "GPPTutorialSceneController_Text_16"
+            ]
+          ],
+          704
+        ],
+        [
+          [
+            [
+              2,
+              "GPPTutorialSceneController_Text_3"
+            ],
+            [
+              15,
+              "GPPTutorialSceneController_Text_17"
+            ]
+          ],
+          781
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 18,
+        "size": 1814,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

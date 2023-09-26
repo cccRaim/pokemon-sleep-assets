@@ -1,0 +1,1117 @@
+{
+  "strings": {
+    "SleepPassSceneGraphicText_NormalPass": [
+      "STANDARD-\nPASS"
+    ],
+    "SleepPassSceneGraphicText_PremiumPass": [
+      "PREMIUM-\nPASS"
+    ],
+    "SleepPassSceneNormalPassInfoCampaign": [
+      "Du kannst 2 Wochen lang\nkostenlos testen!"
+    ],
+    "SleepPassSceneNormalPassInfoPopup_Desc": [
+      "Erhalte einen Schlafpunkt für jeden Punkt\ndeines Schlafresultats (max. 100 täglich)"
+    ],
+    "SleepPassSceneNormalPassInfoPopup_Desc_2": [
+      "Schau dir 30 Tage vergangener\nSchlafforschung an"
+    ],
+    "SleepPassSceneNormalPassInfoPopup_HeadlineTitle": [
+      "Effekte"
+    ],
+    "SleepPassSceneNormalPassInfoPopup_Title": [
+      "Was ist ein Standardpass?"
+    ],
+    "SleepPassSceneNormalPassInfoPopup_Title_2": [
+      "Standardpass"
+    ],
+    "SleepPassScenePremiumPassNextBonus": [
+      "Treuebelohnungen"
+    ],
+    "SleepPassScenePremiumPassPlanInfo_0": [
+      "1-Monatsabo aktiv"
+    ],
+    "SleepPassScenePremiumPassPlanInfo_1": [
+      "6-Monatsabo aktiv"
+    ],
+    "SleepPassSceneSleepPointButton_Text": [
+      "・ Du erhältst einen Schlafpunkt für\n   jeden Punkt in deinem Schlafresultat\n・ Mit einem Premiumpass erhältst du\n   100 Bonuspunkte für jeden Tag, an\n   dem du Schlaf aufzeichnest\n・ Du erhältst außerdem 1000 Bonus-\n   punkte ein Mal im Monat, wenn dein\n   Premiumpass aktiv ist"
+    ],
+    "SleepPassSceneSleepPointButton_Title": [
+      "Schlafpunkte erhalten"
+    ],
+    "SleepPassScene_Content_Desc": [
+      "Du erhältst einen Schlafpunkt für jeden Punkt in\ndeinem Schlafresultat."
+    ],
+    "SleepPassScene_Content_Desc_2": [
+      "Du erhältst einen Schlafpunkt für jeden Punkt in\ndeinem Schlafresultat und 100 Bonuspunkte an\njedem Tag, den du deinen Schlaf aufzeichnest."
+    ],
+    "SleepPassScene_Content_ExchangeShopButton": [
+      "Punktetausch"
+    ],
+    "SleepPassScene_Content_PointNum": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "SleepPassScene_Content_PointNum_2": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_1": [
+      "Schau dir \u000e",
+      "\u0003\u0004毿Ｗunbegrenzt\n\u000e",
+      "\u0003\u0004",
+      "＀Schlafdaten und\nStatistiken an"
+    ],
+    "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_2": [
+      "Tägl. Bonuskeks verbessert\nzu \u000e",
+      "\u0003\u0004毿ＷPremium-Bonuskeks\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_3": [
+      "Erhalte einen Bonus von\n\u000e",
+      "\u0003\u0004毿Ｗ100 Schlafpunkten\u000e",
+      "\u0003\u0004",
+      "＀ für jeden\nTag, den du aufzeichnest"
+    ],
+    "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_4": [
+      "Erhalte Zugriff auf den\n\u000e",
+      "\u0003\u0004毿ＷPremiumtausch\u000e",
+      "\u0003\u0004",
+      "＀, um deine\nSchlafpunkte zu tauschen"
+    ],
+    "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_5": [
+      "Monatliche Geschenke:\nein \u000e",
+      "\u0003\u0004毿ＷProfi-Camping-Ticket\u000e",
+      "\u0003\u0004",
+      "＀ und\n\u000e",
+      "\u0003\u0004毿Ｗ1000 Schlafpunkte\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_6": [
+      "Zusätzliche \u000e",
+      "\u0003\u0004毿Ｗüppige\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿ＷBelohnungen\u000e",
+      "\u0003\u0004",
+      "＀ alle drei Monate"
+    ],
+    "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_7": [
+      "Schalte ein \u000e",
+      "\u0003\u0004毿ＷSchlaftagebuch\u000e",
+      "\u0003\u0004",
+      "＀\nfrei, in das du Notizen zu\ndeinem Schlaf machen kannst"
+    ],
+    "SleepPassScene_Content_PremiumPassBenefitsPopup_Heading": [
+      "Vorteile mit dem Premiumpass"
+    ],
+    "SleepPassScene_Content_PremiumPassBenefitsPopup_Text": [
+      "Dieser Pass verschafft dir sieben besondere\nVorteile bei der Nutzung von Pokémon Sleep."
+    ],
+    "SleepPassScene_Content_PremiumPassButton": [
+      "Premiumpass kaufen"
+    ],
+    "SleepPassScene_Content_PremiumPassContent1Popup_About": [
+      "Schau dir \u000e",
+      "\u0003\u0004毿Ｗunbegrenzt \u000e",
+      "\u0003\u0004",
+      "＀Schlafdaten und\nStatistiken an"
+    ],
+    "SleepPassScene_Content_PremiumPassContent1Popup_Text_1": [
+      "Mit einem Standardpass kannst du nur\nDaten der letzten 30 Tage einsehen. Mit\neinem Premiumpass kannst du alle bereits\nerhobenen Daten unbegrenzt anschauen."
+    ],
+    "SleepPassScene_Content_PremiumPassContent1Popup_Text_2": [
+      "Alle Schlafdaten werden auf dem Server\ngespeichert, egal welchen Pass du besitzt.\nSo bekommst du Zugang dazu, sobald du\neinen Premiumpass kaufst."
+    ],
+    "SleepPassScene_Content_PremiumPassContent1Popup_Title": [
+      "Vorteil Nr. 1"
+    ],
+    "SleepPassScene_Content_PremiumPassContent2Popup_About": [
+      "Tägl. Bonuskeks verbessert\nzu \u000e",
+      "\u0003\u0004毿ＷPremium-Bonuskeks\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SleepPassScene_Content_PremiumPassContent2Popup_Text_1": [
+      "Zur Snackzeit bekommst du einen Premium-\nBonuskeks anstelle eines gewöhnlichen\nBonuskekses."
+    ],
+    "SleepPassScene_Content_PremiumPassContent2Popup_Text_2": [
+      "Ein Premium-Bonuskeks erhöht die\nFreundespunkte eins Pokémon um 4."
+    ],
+    "SleepPassScene_Content_PremiumPassContent2Popup_Title": [
+      "Vorteil Nr. 2"
+    ],
+    "SleepPassScene_Content_PremiumPassContent3Popup_About": [
+      "Erhalte einen Bonus von\n\u000e",
+      "\u0003\u0004毿Ｗ100 Schlafpunkten\u000e",
+      "\u0003\u0004",
+      "＀ für jeden Tag, den\ndu aufzeichnest"
+    ],
+    "SleepPassScene_Content_PremiumPassContent3Popup_Text_1": [
+      "Jeden Tag, an dem du deinen Schlaf\naufzeichnest, kannst du 100 zusätzliche\nSchlafpunkte erhalten."
+    ],
+    "SleepPassScene_Content_PremiumPassContent3Popup_Text_2": [
+      "Diese Bonus-Schlafpunkte werden nur ein\nMal täglich vergeben. Zeichnest du also\nmehr als ein Mal Schlaf am Tag auf,\nbekommst du den Bonus nur einmalig."
+    ],
+    "SleepPassScene_Content_PremiumPassContent3Popup_Title": [
+      "Vorteil Nr. 3"
+    ],
+    "SleepPassScene_Content_PremiumPassContent4Popup_About": [
+      "Erhalte Zugriff auf den\n\u000e",
+      "\u0003\u0004毿ＷPremiumtausch\u000e",
+      "\u0003\u0004",
+      "＀, um deine\nSchlafpunkte zu tauschen"
+    ],
+    "SleepPassScene_Content_PremiumPassContent4Popup_Text_1": [
+      "Du kannst den Premiumtausch verwenden,\num Schlafpunkte für Items zu tauschen."
+    ],
+    "SleepPassScene_Content_PremiumPassContent4Popup_Text_2": [
+      "Das Itemangebot beim Premiumtausch\nwechselt monatlich."
+    ],
+    "SleepPassScene_Content_PremiumPassContent4Popup_Title": [
+      "Vorteil Nr. 4"
+    ],
+    "SleepPassScene_Content_PremiumPassContent5Popup_About": [
+      "Monatliche Geschenke:\nein \u000e",
+      "\u0003\u0004毿ＷProfi-Camping-Ticket\u000e",
+      "\u0003\u0004",
+      "＀ und\n\u000e",
+      "\u0003\u0004毿Ｗ1000 Schlafpunkte\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SleepPassScene_Content_PremiumPassContent5Popup_Text_1": [
+      "Mit einem aktiven Premiumpass, kannst du\nmonatlich ein Profi-Camping-Ticket und\n1000 Schlafpunkte erhalten."
+    ],
+    "SleepPassScene_Content_PremiumPassContent5Popup_Text_2": [
+      "Prüfe den Schlafpass-Bildschirm, um zu\nsehen, wann deine nächsten monatlichen\nGeschenke eintreffen."
+    ],
+    "SleepPassScene_Content_PremiumPassContent5Popup_Title": [
+      "Vorteil Nr. 5"
+    ],
+    "SleepPassScene_Content_PremiumPassContent6Popup_About": [
+      "Zusätzliche \u000e",
+      "\u0003\u0004毿Ｗüppige Belohnungen\u000e",
+      "\u0003\u0004",
+      "＀ alle\ndrei Monate"
+    ],
+    "SleepPassScene_Content_PremiumPassContent6Popup_Text_1": [
+      "Alle drei Monate, während du einen\nPremiumpass abonniert hast, erhältst\ndu jeweils ein Universalbonbon L,\neinen Nebentalentsamen und einen\nTraumbrocken M.\n(Das kostenlose Probeabo zählt nicht zum\nfortlaufenden Zeitraum des Abonnements.)"
+    ],
+    "SleepPassScene_Content_PremiumPassContent6Popup_Text_2": [
+      "Berühre den Treuebelohnungen-Knopf und\nschaue, wann deine nächste Belohnung für\ndas Quartal fällig ist."
+    ],
+    "SleepPassScene_Content_PremiumPassContent6Popup_Title": [
+      "Vorteil Nr. 6"
+    ],
+    "SleepPassScene_Content_PremiumPassContent7Popup_About": [
+      "Schalte ein \u000e",
+      "\u0003\u0004毿ＷSchlaftagebuch\u000e",
+      "\u0003\u0004",
+      "＀ frei, in das\ndu Notizen zu deinem Schlaf\nmachen kannst"
+    ],
+    "SleepPassScene_Content_PremiumPassContent7Popup_Text_1": [
+      "Du kannst zu deinen Schlafdaten allerlei\nDinge in ein Tagebuch eintragen. Halte\nBeobachtungen zu deinem Schlaf, deinem\nAufwachgefühl und mehr fest!"
+    ],
+    "SleepPassScene_Content_PremiumPassContent7Popup_Text_2": [
+      "Du kannst bis zu 200 Zeichen nutzen, wenn\ndu einen Tagebucheintrag verfasst."
+    ],
+    "SleepPassScene_Content_PremiumPassContent7Popup_Title": [
+      "Vorteil Nr. 7"
+    ],
+    "SleepPassScene_Content_PremiumPassContentPopup_Button": [
+      "Abo auswählen"
+    ],
+    "SleepPassScene_Content_PremiumPassContentPopup_Heading": [
+      "Details"
+    ],
+    "SleepPassScene_Content_PremiumPassPopup_Button_1": [
+      "Vorteile des Premiumpasses prüfen"
+    ],
+    "SleepPassScene_Content_PremiumPassPopup_Button_2": [
+      "Hilfe zum Premiumpass"
+    ],
+    "SleepPassScene_Content_PremiumPassPopup_SmallButton_1_1": [
+      "Gesetz über spezifische Handelsgeschäfte"
+    ],
+    "SleepPassScene_Content_PremiumPassPopup_SmallButton_1_2": [
+      "Kündigung"
+    ],
+    "SleepPassScene_Content_PremiumPassPopup_SmallButton_2": [
+      "Nutzungsbedingungen"
+    ],
+    "SleepPassScene_Content_PremiumPassPopup_SmallButton_3": [
+      "Datenschutzerklärung"
+    ],
+    "SleepPassScene_Content_PremiumPassPopup_SmallButton_4": [
+      "Abonnement verwalten"
+    ],
+    "SleepPassScene_Content_PremiumPassPopup_Text_1": [
+      "Dein nächstes monatliches Geschenk: \u000e\t",
+      "\u000e\nMM/dd",
+      "!"
+    ],
+    "SleepPassScene_Content_PremiumPassPopup_Text_2": [
+      "(Zeitpunkt kann je nach App-Store variieren)"
+    ],
+    "SleepPassScene_Content_PremiumPassUsingTerm_1": [
+      "\u000e\u0002\u0001\u0002",
+      "-Monatsfolge"
+    ],
+    "SleepPassScene_Content_PremiumPassUsingTerm_2": [
+      "\u000e\u0002\u0002\u0002",
+      "-Jahresfolge"
+    ],
+    "SleepPassScene_Content_PremiumPassUsingTerm_3": [
+      "\u000e\u0002\u0002\u0002",
+      "-Jahres- und\n\u000e\u0002\u0001\u0002\u0001-Monatsfolge"
+    ],
+    "SleepPassScene_Content_Title": [
+      "Schlafpass"
+    ],
+    "SleepPassScene_Content_Title_2": [
+      "Standardpass"
+    ],
+    "SleepPassScene_Content_Title_3": [
+      "Premiumpass"
+    ],
+    "SleepPassScene_Content_Title_4": [
+      "Erhaltene Schlafpunkte (letzte 30 Male)"
+    ],
+    "SleepPassScene_Content_UsingTerm": [
+      "\u000e\u0002\u0001\u0002",
+      "-Monatsfolge"
+    ],
+    "SleepPassScene_Content_UsingTerm_1": [
+      "\u000e\u0002\u0002\u0002",
+      "-Jahresfolge"
+    ],
+    "SleepPassScene_Content_UsingTerm_2": [
+      "\u000e\u0002\u0002\u0002",
+      "-Jahres- und\n\u000e\u0002\u0001\u0002\u0001-Monatsfolge"
+    ],
+    "SleepPassScene_Content_UsingTerm_3": [
+      "Kostenloses Probeabo"
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_ItemName": [
+      "\u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_ItemNumber": [
+      "×\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Next": [
+      "Nächste Belohnung: etwa \u000e\t",
+      "\u0010\fMMMddd",
+      ""
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Next_Heading": [
+      "Details"
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Next_Text": [
+      "(Zeitpunkt kann je nach App-Store variieren)"
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Next_Text_1": [
+      "Treuebelohnungen werden \u000e",
+      "\u0003\u0004旾ｷalle 3 Monate\u000e",
+      "\u0003\u0004",
+      "＀ verteilt,\nbeginnend mit dem Datum, an dem dein\nPremiumpass-Abo begann."
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Next_Text_2": [
+      "Kündigst du dein Abo oder wird es unterbrochen,\nweil du nicht bezahlen konntest oder wegen\nanderer Probleme, wirst du auf den Standardpass\nzurückgestuft und \u000e",
+      "\u0003\u0004旾ｷdieser Zähler zurückgesetzt\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Next_Text_3": [
+      "Das kostenlose Probeabo zählt nicht zum\nfortlaufenden Zeitraum deines Abonnements."
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Title": [
+      "Treuebelohnungen mit Premiumpass"
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Title_Period_1": [
+      "Momentane Folge:  \u000e\u0002\u0001\u0002",
+      " \u000e\u0006",
+      "\u001c\nMonat\fMonate촀"
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Title_Period_2": [
+      "Momentane Folge:  \u000e\u0002\u0001\u0002",
+      " \u000e\u0006",
+      "\u0018\bJahr\nJahre촀"
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Title_Period_3": [
+      "Momentane Folge:  \u000e\u0002\u0001\u0002",
+      " \u000e\u0006",
+      "\u0018\bJahr\nJahre촀 und \u000e\u0002\u0001\u0002\u0001 \u000e\u0006",
+      "\u001c\nMonat\fMonate촀"
+    ],
+    "SleepPassScene_ContinuingBenefitsPopup_Title_Period_4": [
+      "Kostenloses Probeabo"
+    ],
+    "SleepPassScene_FreeTime_Text_Android": [
+      "Für Android-Nutzer:\n\n\u000e",
+      "\u0003\u0004毿ＷWenn dein Google-Konto bereits für ein Probeabo\ngenutzt wurde, kannst du das 14-tägige kostenlose\nProbeabo nicht mehr in Anspruch nehmen.\u000e",
+      "\u0003\u0004",
+      "＀\n\nNach Ablauf des 14-tägigen Probeabos wird dein Abo\nautomatisch auf ein kostenpflichtiges Premiumpass-\nAbo umgestellt, das sich automatisch erneuert.\n\nWenn du dein Abo beenden möchtest, kündige die\nautomatische Erneuerung bitte mindestens 24 Stunden\nvor Ablaufdatum deines Premiumpasses.\n\nUm das Ablaufdatum deines Passes zu überprüfen,\nöffne den Play Store, tippe auf dein Profilsymbol und\nwähle dann „Zahlungen und Abos“ aus. Du solltest die\nInfos unter „Abos“ finden.\n\nWeitere Informationen zu Zahlungszeiträumen und\n-methoden, Kündigung von Abos, Rückerstattung und\nmehr findest du, indem du das Hauptmenü öffnest,\n„Einstellungen und mehr“ und dann „Internetseite\ndes Kundenservice“ auswählst."
+    ],
+    "SleepPassScene_FreeTime_Text_Compare": [
+      "\u000e",
+      "\u0003\u0004毿Ｗ- Das 14-tägige kostenlose Probeabo ist nur für neue\nAbonnenten des Premiumpasses verfügbar.\u000e",
+      "\u0003\u0004",
+      "＀\n- Wenn du dein erstes Premiumpass-Abo abschließt,\nkannst du es die ersten 14 Tage lang kostenlos nutzen.\n- Die vierteljährlichen Treuebelohnungen für\nPremiumpass-Abonnenten werden einmal alle drei\nMonate verteilt.\n\u000e",
+      "\u0003\u0004毿Ｗ- Das kostenlose Probeabo zählt nicht zum\nfortlaufenden Zeitraum deines Abonnements.\u000e",
+      "\u0003\u0004",
+      "＀\n- Wenn du dein Abo kündigst oder aufgrund eines\nZahlungsfehlers oder eines anderen Problems zurück\nzum Standardpass wechselst, gilt der fortlaufende\nZeitraum des Abonnements als unterbrochen und der\nFortschritt der Treuebelohnungen wird zurückgesetzt.\n- Entscheidest du dich, dein Abo vor seiner Erneuerung\nzu kündigen, bleibt dein Premiumpass dennoch bis zu\nseinem Ablaufdatum aktiv.\n- Möchtest du einen Premiumpass erwerben, nachdem\ndu auf ein Gerät mit einem anderen Betriebssystem\ngewechselt hast, kündige bitte zunächst dein Abo auf\ndem vorherigen Betriebssystem.\n- Mehr Informationen zu Abo-Änderungen und zur\nKündigung sowie zum Übertragen von Daten auf neue\nGeräte findest du, indem du das Hauptmenü öffnest,\n„Einstellungen und mehr“ und dann „Internetseite\ndes Kundenservice“ auswählst."
+    ],
+    "SleepPassScene_FreeTime_Text_iOS": [
+      "Für iOS-Nutzer:\n\n\u000e",
+      "\u0003\u0004毿ＷWenn deine Apple-ID bereits für ein Probeabo genutzt\nwurde, kannst du das 14-tägige kostenlose Probeabo\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗnicht mehr in Anspruch nehmen.\n\u000e",
+      "\u0003\u0004",
+      "＀\nNach Ablauf des 14-tägigen Probeabos wird dein Abo\nautomatisch auf ein kostenpflichtiges Premiumpass-\nAbo umgestellt, das sich automatisch erneuert.\n\nWenn du dein Abo beenden möchtest, kündige die\nautomatische Erneuerung bitte mindestens 24 Stunden\nvor Ablaufdatum deines Premiumpasses.\n\nUm das Ablaufdatum deines Passes zu überprüfen,\nöffne die Einstellungen deines Geräts, wähle deine\nApple-ID und dann „Abonnements“ aus.\nHinweis: Je nach Version des Betriebssystems könnten\ndie Optionen auf deinem Gerät anders aussehen.\n\nWeitere Informationen zu Zahlungszeiträumen und\n-methoden, Kündigung von Abos, Rückerstattung und\nmehr findest du, indem du das Hauptmenü öffnest,\n„Einstellungen und mehr“ und dann „Internetseite\ndes Kundenservice“ auswählst."
+    ],
+    "SleepPassScene_PlanChoice_Button_1": [
+      "1-Monats-Abo"
+    ],
+    "SleepPassScene_PlanChoice_Button_2": [
+      "6-Monats-Abo"
+    ],
+    "SleepPassScene_PlanChoice_Button_Caption_2": [
+      "Angebot!"
+    ],
+    "SleepPassScene_PlanChoice_HeaderTitle": [
+      "Abo auswählen"
+    ],
+    "SleepPassScene_PlanChoice_Text_1": [
+      "Wenn du einen Premiumpass kaufst, wirst\ndu automatisch beim Eneuerungsdatum\ndeines Abos belastet."
+    ],
+    "SleepPassScene_PlanChoice_Text_2": [
+      "Wenn du deinen ersten Premiumpass kaufst,\nwirst du für die ersten 14 Tage nicht\nbelastet. Wenn du nicht zahlen möchtest,\nkündige das Abo mindestens 24 Stunden\nbevor das Probeabo abläuft."
+    ],
+    "SleepPassScene_PlanChoice_Title": [
+      "Premiumpass\nkaufen"
+    ],
+    "SleepPointEffectCutinWindow_Title": [
+      "Du erhältst Schlafpunkte!"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 102,
+        "size": 718,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 53,
+        "size": 5602,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              72,
+              "SleepPassScene_Content_PremiumPassContent5Popup_Text_2"
+            ],
+            [
+              97,
+              "SleepPassScene_ContinuingBenefitsPopup_Next_Heading"
+            ]
+          ],
+          539
+        ],
+        [
+          [
+            [
+              1,
+              "SleepPassScene_Content_PointNum"
+            ]
+          ],
+          575
+        ],
+        [
+          [
+            [
+              10,
+              "SleepPassScene_Content_UsingTerm_1"
+            ],
+            [
+              30,
+              "SleepPassScene_Content_PremiumPassUsingTerm_1"
+            ],
+            [
+              69,
+              "SleepPassScene_Content_PremiumPassContent5Popup_Title"
+            ],
+            [
+              75,
+              "SleepPassScene_Content_PremiumPassContent6Popup_Text_1"
+            ],
+            [
+              93,
+              "SleepPassScene_ContinuingBenefitsPopup_Next"
+            ]
+          ],
+          829
+        ],
+        [
+          [
+            [
+              11,
+              "SleepPassScene_Content_UsingTerm_2"
+            ],
+            [
+              16,
+              "SleepPassSceneNormalPassInfoPopup_HeadlineTitle"
+            ],
+            [
+              18,
+              "SleepPassSceneNormalPassInfoPopup_Desc_2"
+            ],
+            [
+              31,
+              "SleepPassScene_Content_PremiumPassUsingTerm_2"
+            ],
+            [
+              76,
+              "SleepPassScene_Content_PremiumPassContent6Popup_Text_2"
+            ]
+          ],
+          1074
+        ],
+        [
+          [
+            [
+              12,
+              "SleepPassScene_Content_UsingTerm_3"
+            ],
+            [
+              15,
+              "SleepPassSceneNormalPassInfoPopup_Title_2"
+            ],
+            [
+              32,
+              "SleepPassScene_Content_PremiumPassUsingTerm_3"
+            ],
+            [
+              73,
+              "SleepPassScene_Content_PremiumPassContent6Popup_Title"
+            ]
+          ],
+          1267
+        ],
+        [
+          [],
+          1267
+        ],
+        [
+          [
+            [
+              17,
+              "SleepPassSceneNormalPassInfoPopup_Desc"
+            ],
+            [
+              74,
+              "SleepPassScene_Content_PremiumPassContent6Popup_About"
+            ]
+          ],
+          1368
+        ],
+        [
+          [
+            [
+              67,
+              "SleepPassScene_Content_PremiumPassContent4Popup_Text_1"
+            ]
+          ],
+          1427
+        ],
+        [
+          [
+            [
+              68,
+              "SleepPassScene_Content_PremiumPassContent4Popup_Text_2"
+            ],
+            [
+              78,
+              "SleepPassScene_Content_PremiumPassContent7Popup_About"
+            ]
+          ],
+          1544
+        ],
+        [
+          [],
+          1544
+        ],
+        [
+          [
+            [
+              33,
+              "SleepPassScene_Content_PremiumPassPopup_Text_1"
+            ]
+          ],
+          1595
+        ],
+        [
+          [
+            [
+              34,
+              "SleepPassScene_Content_PremiumPassPopup_Text_2"
+            ],
+            [
+              65,
+              "SleepPassScene_Content_PremiumPassContent4Popup_Title"
+            ]
+          ],
+          1704
+        ],
+        [
+          [
+            [
+              59,
+              "SleepPassScene_Content_PremiumPassContent2Popup_Text_1"
+            ]
+          ],
+          1763
+        ],
+        [
+          [
+            [
+              5,
+              "SleepPassScene_Content_ExchangeShopButton"
+            ],
+            [
+              60,
+              "SleepPassScene_Content_PremiumPassContent2Popup_Text_2"
+            ]
+          ],
+          1868
+        ],
+        [
+          [
+            [
+              85,
+              "SleepPassScene_PlanChoice_Button_1"
+            ]
+          ],
+          1907
+        ],
+        [
+          [
+            [
+              63,
+              "SleepPassScene_Content_PremiumPassContent3Popup_Text_1"
+            ],
+            [
+              70,
+              "SleepPassScene_Content_PremiumPassContent5Popup_About"
+            ],
+            [
+              86,
+              "SleepPassScene_PlanChoice_Button_2"
+            ]
+          ],
+          2063
+        ],
+        [
+          [
+            [
+              0,
+              "SleepPassScene_Content_Title"
+            ],
+            [
+              64,
+              "SleepPassScene_Content_PremiumPassContent3Popup_Text_2"
+            ]
+          ],
+          2155
+        ],
+        [
+          [
+            [
+              39,
+              "SleepPassScene_Content_PremiumPassPopup_SmallButton_2"
+            ]
+          ],
+          2213
+        ],
+        [
+          [
+            [
+              40,
+              "SleepPassScene_Content_PremiumPassPopup_SmallButton_3"
+            ],
+            [
+              57,
+              "SleepPassScene_Content_PremiumPassContent2Popup_Title"
+            ],
+            [
+              87,
+              "SleepPassScene_PlanChoice_Button_Caption_2"
+            ]
+          ],
+          2376
+        ],
+        [
+          [
+            [
+              41,
+              "SleepPassScene_Content_PremiumPassPopup_SmallButton_4"
+            ]
+          ],
+          2434
+        ],
+        [
+          [
+            [
+              37,
+              "SleepPassScene_Content_PremiumPassPopup_SmallButton_1_1"
+            ],
+            [
+              55,
+              "SleepPassScene_Content_PremiumPassContent1Popup_Text_1"
+            ],
+            [
+              61,
+              "SleepPassScene_Content_PremiumPassContent3Popup_Title"
+            ]
+          ],
+          2611
+        ],
+        [
+          [
+            [
+              6,
+              "SleepPassScene_Content_PointNum_2"
+            ],
+            [
+              38,
+              "SleepPassScene_Content_PremiumPassPopup_SmallButton_1_2"
+            ],
+            [
+              56,
+              "SleepPassScene_Content_PremiumPassContent1Popup_Text_2"
+            ]
+          ],
+          2768
+        ],
+        [
+          [
+            [
+              62,
+              "SleepPassScene_Content_PremiumPassContent3Popup_About"
+            ]
+          ],
+          2826
+        ],
+        [
+          [
+            [
+              8,
+              "SleepPassScene_Content_Desc_2"
+            ],
+            [
+              26,
+              "SleepPassSceneSleepPointButton_Text"
+            ],
+            [
+              82,
+              "SleepPassScene_PlanChoice_Title"
+            ]
+          ],
+          2936
+        ],
+        [
+          [
+            [
+              66,
+              "SleepPassScene_Content_PremiumPassContent4Popup_About"
+            ],
+            [
+              83,
+              "SleepPassScene_PlanChoice_Text_1"
+            ],
+            [
+              98,
+              "SleepPassScene_ContinuingBenefitsPopup_Next_Text_1"
+            ]
+          ],
+          3086
+        ],
+        [
+          [
+            [
+              84,
+              "SleepPassScene_PlanChoice_Text_2"
+            ],
+            [
+              100,
+              "SleepPassScene_ContinuingBenefitsPopup_Next_Text_2"
+            ]
+          ],
+          3178
+        ],
+        [
+          [
+            [
+              29,
+              "SleepPassScene_FreeTime_Text_Android"
+            ],
+            [
+              99,
+              "SleepPassScene_ContinuingBenefitsPopup_Next_Text_3"
+            ]
+          ],
+          3274
+        ],
+        [
+          [
+            [
+              52,
+              "SleepPassScene_Content_PremiumPassContentPopup_Heading"
+            ],
+            [
+              53,
+              "SleepPassScene_Content_PremiumPassContent1Popup_Title"
+            ],
+            [
+              101,
+              "SleepPointEffectCutinWindow_Title"
+            ]
+          ],
+          3429
+        ],
+        [
+          [
+            [
+              28,
+              "SleepPassScene_FreeTime_Text_iOS"
+            ]
+          ],
+          3466
+        ],
+        [
+          [],
+          3466
+        ],
+        [
+          [
+            [
+              9,
+              "SleepPassScene_Content_UsingTerm"
+            ],
+            [
+              42,
+              "SleepPassScene_Content_PremiumPassBenefitsPopup_Text"
+            ],
+            [
+              95,
+              "SleepPassScene_ContinuingBenefitsPopup_ItemName"
+            ]
+          ],
+          3612
+        ],
+        [
+          [
+            [
+              58,
+              "SleepPassScene_Content_PremiumPassContent2Popup_About"
+            ]
+          ],
+          3670
+        ],
+        [
+          [],
+          3670
+        ],
+        [
+          [
+            [
+              44,
+              "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_1"
+            ]
+          ],
+          3732
+        ],
+        [
+          [
+            [
+              19,
+              "SleepPassSceneNormalPassInfoCampaign"
+            ],
+            [
+              23,
+              "SleepPassSceneGraphicText_NormalPass"
+            ],
+            [
+              45,
+              "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_2"
+            ],
+            [
+              81,
+              "SleepPassScene_PlanChoice_HeaderTitle"
+            ]
+          ],
+          3918
+        ],
+        [
+          [
+            [
+              46,
+              "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_3"
+            ]
+          ],
+          3980
+        ],
+        [
+          [
+            [
+              47,
+              "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_4"
+            ]
+          ],
+          4042
+        ],
+        [
+          [
+            [
+              43,
+              "SleepPassScene_Content_PremiumPassBenefitsPopup_Heading"
+            ],
+            [
+              48,
+              "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_5"
+            ],
+            [
+              51,
+              "SleepPassScene_Content_PremiumPassContentPopup_Button"
+            ]
+          ],
+          4222
+        ],
+        [
+          [
+            [
+              4,
+              "SleepPassScene_Content_PremiumPassButton"
+            ],
+            [
+              14,
+              "SleepPassSceneNormalPassInfoPopup_Title"
+            ],
+            [
+              49,
+              "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_6"
+            ]
+          ],
+          4373
+        ],
+        [
+          [
+            [
+              50,
+              "SleepPassScene_Content_PremiumPassBenefitsPopup_Content_7"
+            ]
+          ],
+          4435
+        ],
+        [
+          [
+            [
+              54,
+              "SleepPassScene_Content_PremiumPassContent1Popup_About"
+            ]
+          ],
+          4493
+        ],
+        [
+          [
+            [
+              35,
+              "SleepPassScene_Content_PremiumPassPopup_Button_1"
+            ],
+            [
+              88,
+              "SleepPassScene_ContinuingBenefitsPopup_Title"
+            ]
+          ],
+          4595
+        ],
+        [
+          [
+            [
+              36,
+              "SleepPassScene_Content_PremiumPassPopup_Button_2"
+            ]
+          ],
+          4648
+        ],
+        [
+          [
+            [
+              25,
+              "SleepPassSceneSleepPointButton_Title"
+            ]
+          ],
+          4689
+        ],
+        [
+          [
+            [
+              3,
+              "SleepPassScene_Content_Desc"
+            ]
+          ],
+          4721
+        ],
+        [
+          [
+            [
+              27,
+              "SleepPassScene_FreeTime_Text_Compare"
+            ],
+            [
+              96,
+              "SleepPassScene_ContinuingBenefitsPopup_ItemNumber"
+            ]
+          ],
+          4816
+        ],
+        [
+          [],
+          4816
+        ],
+        [
+          [
+            [
+              22,
+              "SleepPassScenePremiumPassNextBonus"
+            ],
+            [
+              79,
+              "SleepPassScene_Content_PremiumPassContent7Popup_Text_1"
+            ]
+          ],
+          4914
+        ],
+        [
+          [
+            [
+              2,
+              "SleepPassScene_Content_Title_2"
+            ],
+            [
+              77,
+              "SleepPassScene_Content_PremiumPassContent7Popup_Title"
+            ],
+            [
+              80,
+              "SleepPassScene_Content_PremiumPassContent7Popup_Text_2"
+            ],
+            [
+              89,
+              "SleepPassScene_ContinuingBenefitsPopup_Title_Period_1"
+            ]
+          ],
+          5124
+        ],
+        [
+          [
+            [
+              7,
+              "SleepPassScene_Content_Title_3"
+            ],
+            [
+              24,
+              "SleepPassSceneGraphicText_PremiumPass"
+            ],
+            [
+              90,
+              "SleepPassScene_ContinuingBenefitsPopup_Title_Period_2"
+            ]
+          ],
+          5259
+        ],
+        [
+          [
+            [
+              13,
+              "SleepPassScene_Content_Title_4"
+            ],
+            [
+              20,
+              "SleepPassScenePremiumPassPlanInfo_0"
+            ],
+            [
+              91,
+              "SleepPassScene_ContinuingBenefitsPopup_Title_Period_3"
+            ]
+          ],
+          5392
+        ],
+        [
+          [
+            [
+              21,
+              "SleepPassScenePremiumPassPlanInfo_1"
+            ],
+            [
+              92,
+              "SleepPassScene_ContinuingBenefitsPopup_Title_Period_4"
+            ],
+            [
+              94,
+              "SleepPassScene_ContinuingBenefitsPopup_Next_Text"
+            ]
+          ],
+          5543
+        ],
+        [
+          [
+            [
+              71,
+              "SleepPassScene_Content_PremiumPassContent5Popup_Text_1"
+            ]
+          ],
+          5602
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 102,
+        "size": 17256,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

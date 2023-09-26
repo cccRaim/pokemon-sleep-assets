@@ -1,0 +1,118 @@
+{
+  "strings": {
+    "md_bait_balls_desc_1": [
+      "ポケモンにあげると\nちょっぴり仲良くなれるおやつ。\nフレンドPが1上がる。"
+    ],
+    "md_bait_balls_desc_2": [
+      "ポケモンにあげると、\n最高に仲良くなれる特別なおやつ。\nフレンドPがMAXまで上がる。"
+    ],
+    "md_bait_balls_desc_3": [
+      "ポケモンにあげると\nかなり仲良くなれる素敵なおやつ。\nフレンドPが2上がる。"
+    ],
+    "md_bait_balls_name_1": [
+      "エサだま"
+    ],
+    "md_bait_balls_name_2": [
+      "マスターエサだま"
+    ],
+    "md_bait_balls_name_3": [
+      "スーパーエサだま"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 190,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "md_bait_balls_name_1"
+            ],
+            [
+              5,
+              "md_bait_balls_desc_3"
+            ]
+          ],
+          90
+        ],
+        [
+          [
+            [
+              1,
+              "md_bait_balls_name_2"
+            ]
+          ],
+          115
+        ],
+        [
+          [
+            [
+              2,
+              "md_bait_balls_name_3"
+            ]
+          ],
+          140
+        ],
+        [
+          [
+            [
+              3,
+              "md_bait_balls_desc_1"
+            ]
+          ],
+          165
+        ],
+        [
+          [
+            [
+              4,
+              "md_bait_balls_desc_2"
+            ]
+          ],
+          190
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 312,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

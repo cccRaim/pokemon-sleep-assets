@@ -1,0 +1,132 @@
+{
+  "strings": {
+    "md_weekly_mission_types_tips_1": [
+      "きのみや料理でカビゴンを\n指定のカビゴン評価まで育てましょう"
+    ],
+    "md_weekly_mission_types_tips_10": [
+      "睡眠リサーチ等でポケモンのアメを\n入手して、ポケモンを強化しましょう"
+    ],
+    "md_weekly_mission_types_tips_2": [
+      "1日3回まで料理をつくることができます\n新しく料理をつくることができる時間帯は\n朝（6:00~)、昼（12:00~)、夜（18:00~）です"
+    ],
+    "md_weekly_mission_types_tips_5": [
+      "きのみを拾ってくるのが得意な\nポケモンをチームに入れて、\nきのみを集めましょう"
+    ],
+    "md_weekly_mission_types_tips_6": [
+      "今週のカビゴンの好きなきのみを\n拾ってくるポケモンをチームに\n入れて、きのみを集めましょう"
+    ],
+    "md_weekly_mission_types_tips_7": [
+      "ポケモンと約束した就寝時間の\n前後30分以内に睡眠計測を開始しましょう"
+    ],
+    "md_weekly_mission_types_tips_8": [
+      "おやつタイムでポケモンに\nポケサブレをあげて、フレンドポイントMAXに\nすることで、ポケモンを仲間にすることができます"
+    ],
+    "md_weekly_mission_types_tips_9": [
+      "おやつタイムでポケモンにポケサブレ等を\nあげましょう。毎日１個\nボーナスサブレがもらえます"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 8,
+        "size": 60,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 321,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "md_weekly_mission_types_tips_2"
+            ],
+            [
+              4,
+              "md_weekly_mission_types_tips_7"
+            ]
+          ],
+          110
+        ],
+        [
+          [
+            [
+              5,
+              "md_weekly_mission_types_tips_8"
+            ]
+          ],
+          145
+        ],
+        [
+          [
+            [
+              6,
+              "md_weekly_mission_types_tips_9"
+            ]
+          ],
+          180
+        ],
+        [
+          [
+            [
+              2,
+              "md_weekly_mission_types_tips_5"
+            ]
+          ],
+          215
+        ],
+        [
+          [
+            [
+              0,
+              "md_weekly_mission_types_tips_1"
+            ],
+            [
+              3,
+              "md_weekly_mission_types_tips_6"
+            ],
+            [
+              7,
+              "md_weekly_mission_types_tips_10"
+            ]
+          ],
+          321
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 8,
+        "size": 762,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

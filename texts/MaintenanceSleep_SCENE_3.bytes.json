@@ -1,0 +1,179 @@
+{
+  "strings": {
+    "SleepSceneMainView_Text_1": [
+      "Not Set"
+    ],
+    "SleepScene_BatteryLittlePopup_Text": [
+      "Your battery seems to be running low!\nWe recommend that you keep your\ndevice plugged in while tracking\nyour sleep."
+    ],
+    "SleepScene_BatteryLittlePopup_Title": [
+      "Battery Running Low!"
+    ],
+    "SleepScene_SleepMainView_AlarmSetting": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      ""
+    ],
+    "SleepScene_SleepMainView_AlarmTime": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      "–\u000e\t",
+      "\u000e\nhh:mm\u0001"
+    ],
+    "SleepScene_SleepMainView_Hour": [
+      "\u000e\t",
+      "\b\u0004hh",
+      ""
+    ],
+    "SleepScene_SleepMainView_Minute": [
+      "\u000e\t",
+      "\b\u0004mm",
+      ""
+    ],
+    "SleepScene_SleepMainView_SleepStopButton": [
+      "End Sleep Session"
+    ],
+    "SleepScene_SleepMainView_Title": [
+      "・・・TRACKING SLEEP・・・"
+    ],
+    "SleepScene_SleepMainView_Title_2": [
+      "Alarm"
+    ],
+    "SleepScene_SleepMainView_Title_3": [
+      "Relaxing Sounds"
+    ],
+    "SleepScene_SleepResultLoadingView_Message": [
+      "Sending your\nsleep data..."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 12,
+        "size": 88,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 7,
+        "size": 516,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "SleepScene_SleepMainView_Title_2"
+            ],
+            [
+              10,
+              "SleepScene_BatteryLittlePopup_Title"
+            ]
+          ],
+          133
+        ],
+        [
+          [
+            [
+              4,
+              "SleepScene_SleepMainView_SleepStopButton"
+            ],
+            [
+              7,
+              "SleepScene_SleepMainView_Title_3"
+            ],
+            [
+              11,
+              "SleepScene_BatteryLittlePopup_Text"
+            ]
+          ],
+          254
+        ],
+        [
+          [
+            [
+              2,
+              "SleepScene_SleepMainView_Minute"
+            ]
+          ],
+          290
+        ],
+        [
+          [
+            [
+              1,
+              "SleepScene_SleepMainView_Hour"
+            ]
+          ],
+          324
+        ],
+        [
+          [
+            [
+              9,
+              "SleepSceneMainView_Text_1"
+            ]
+          ],
+          354
+        ],
+        [
+          [
+            [
+              0,
+              "SleepScene_SleepMainView_AlarmSetting"
+            ],
+            [
+              3,
+              "SleepScene_SleepResultLoadingView_Message"
+            ],
+            [
+              5,
+              "SleepScene_SleepMainView_Title"
+            ]
+          ],
+          477
+        ],
+        [
+          [
+            [
+              8,
+              "SleepScene_SleepMainView_AlarmTime"
+            ]
+          ],
+          516
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 12,
+        "size": 620,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,1249 @@
+{
+  "strings": {
+    "ShopConsumableItemCell_Text_1": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "ShopConsumableItemCell_Text_1_DiaVer": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "ShopSceneController_Text_10": [
+      "Si tenterà di eseguire di nuovo tutte\nquelle operazioni interrotte da un\nerrore prima che fossero completate.\nVuoi che l'app si connetta al server\nper ritentare?"
+    ],
+    "ShopSceneController_Text_11": [
+      "Tutte le operazioni sono state\ncompletate!"
+    ],
+    "ShopSceneController_Text_12": [
+      "Pokédiamanti insufficienti"
+    ],
+    "ShopSceneController_Text_13": [
+      "Non è stato possibile completare\nl'operazione perché non hai\nabbastanza diamanti."
+    ],
+    "ShopSceneController_Text_14": [
+      "Strumento non più in vendita"
+    ],
+    "ShopSceneController_Text_15": [
+      "Non è stato possibile completare\nl'operazione perché lo strumento\nnon è più disponibile."
+    ],
+    "ShopSceneController_Text_16": [
+      "Nessun errore rilevato\nnelle operazioni."
+    ],
+    "ShopSceneController_Text_17": [
+      "Operazione non riuscita"
+    ],
+    "ShopSceneController_Text_18": [
+      "Hai superato il limite mensile. Riprova\nil mese prossimo."
+    ],
+    "ShopSceneController_Text_19": [
+      "Operazioni riuscite"
+    ],
+    "ShopSceneController_Text_3": [
+      "Pokédiamanti insufficienti"
+    ],
+    "ShopSceneController_Text_4": [
+      "Non hai abbastanza Pokédiamanti"
+    ],
+    "ShopSceneController_Text_7": [
+      "Fatto!"
+    ],
+    "ShopSceneController_Text_8": [
+      "Operazione completata!"
+    ],
+    "ShopSceneController_Text_9": [
+      "Ritenta operazioni"
+    ],
+    "ShopScene_Content_BagUpgradePopup_Success_Text": [
+      "Ora la Borsa può contenere\n\u000e\u0002\u0002\u0002",
+      " strument\u000e\u0005",
+      "\n\u0002o\u0002i촀 in più!"
+    ],
+    "ShopScene_Content_BagUpgradePopup_Text": [
+      "Vuoi scambiare \u000e\u0002\u0004\u0004",
+      "촁 diamant\u000e\u0005",
+      "\n\u0002e\u0002i촀\nper aumentare di \u000e\u0002\u0002\u0002\u0001 la capienza\ndella Borsa?\n\n(Hai \u000e\u0002\t\u0004\u0002촁 diamant\u000e\u0005",
+      "\n\u0002e\u0002i촂.)"
+    ],
+    "ShopScene_Content_BagUpgradePopup_Title": [
+      "Ingrandimento Borsa"
+    ],
+    "ShopScene_Content_BoxUpgradePopup_Success_Text": [
+      "Ora il box può ospitare \u000e\u0002\u0002\u0002",
+      " Pokémon\nin più!"
+    ],
+    "ShopScene_Content_BoxUpgradePopup_Text": [
+      "Vuoi scambiare \u000e\u0002\u0004\u0004",
+      "촁 diamant\u000e\u0005",
+      "\n\u0002e\u0002i촀\nper aumentare di \u000e\u0002\u0002\u0002\u0001 la capienza\ndel box Pokémon?\n\n(Disponibili: \u000e\u0002\t\u0004\u0002촁)"
+    ],
+    "ShopScene_Content_BoxUpgradePopup_Title": [
+      "Potenzia"
+    ],
+    "ShopScene_Content_Desc": [
+      "Puoi ottenere diamanti e strumenti vari!"
+    ],
+    "ShopScene_Content_Message": [
+      "Scegliendo i\npacchetti in offerta\npuoi ricevere fino a\n3 Blocchi di sogni M\nal mese come bonus."
+    ],
+    "ShopScene_Content_Messasge": [
+      "solo \u000e\u0002\u0001\u0002",
+      " unità"
+    ],
+    "ShopScene_Content_Messasge_2": [
+      "Restanti: \u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "ShopScene_Content_Messasge_3": [
+      "\u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "ShopScene_Content_Messasge_4": [
+      "Nessun bonus"
+    ],
+    "ShopScene_Content_Messasge_Soldout": [
+      "solo \u000e\u0002\u0001\u0002",
+      " unità"
+    ],
+    "ShopScene_Content_Name_3": [
+      "Pokédiamanti"
+    ],
+    "ShopScene_Content_Name_4": [
+      "Legge sui servizi di pagamento"
+    ],
+    "ShopScene_Content_Name_5": [
+      "Legge su specifiche transazioni commerciali"
+    ],
+    "ShopScene_Content_Name_6": [
+      "Recesso"
+    ],
+    "ShopScene_Content_Name_7": [
+      "Ritenta operazioni precedenti"
+    ],
+    "ShopScene_Content_Number": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "ShopScene_Content_Price_Dia": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "ShopScene_Content_Title": [
+      "Negozio"
+    ],
+    "ShopScene_Content_Title_2": [
+      "Pacchetti a tempo limitato (\u000e\u0002\u0001\u0002",
+      " g)"
+    ],
+    "ShopScene_Content_Title_2_0day": [
+      "Pacchetti a tempo limitato (ancora \u000e\u0002\u0001\u0002",
+      " h)"
+    ],
+    "ShopScene_Content_Title_2_0hour": [
+      "Pacchetti a tempo limitato (ancora \u000e\u0002\u0001\u0002",
+      " m)"
+    ],
+    "ShopScene_Content_Title_3": [
+      "Pacchetti in offerta (aggiornati tra \u000e\u0002\u0001\u0002",
+      " g)"
+    ],
+    "ShopScene_Content_Title_3_0day": [
+      "Pacchetti in offerta (aggiornati tra \u000e\u0002\u0001\u0002",
+      " h)"
+    ],
+    "ShopScene_Content_Title_3_0hour": [
+      "Pacchetti in offerta (aggiornati tra \u000e\u0002\u0001\u0002",
+      " m)"
+    ],
+    "ShopScene_Content_Title_4": [
+      "Utensile"
+    ],
+    "ShopScene_Content_Title_5": [
+      "Potenzia"
+    ],
+    "ShopScene_Content_Title_6": [
+      "Pokédiamanti"
+    ],
+    "ShopScene_Content_UpgradeName_1": [
+      "Potenzia"
+    ],
+    "ShopScene_Content_UpgradeName_2": [
+      "Espandi tasca\ningredienti"
+    ],
+    "ShopScene_Content_UpgradeName_3": [
+      "Espandi tasca\nstrumenti"
+    ],
+    "ShopScene_Dia_Detail_0": [
+      "Pokédiamanti posseduti:"
+    ],
+    "ShopScene_Dia_Detail_1": [
+      "Diamanti a pagamento: \u000e\u0002\u0007\u0004",
+      "촁\nDiamanti senza costo: \u000e\u0002\u0007\u0004\u0001촁\n\n(I diamanti a pagamento saranno usati\nper primi.)"
+    ],
+    "ShopScene_Dialog_Heading": [
+      "Contenuto"
+    ],
+    "ShopScene_Dialog_Text_1": [
+      "\u000e\u0002\u0003\u0004",
+      "촁 diamant\u000e\u0005",
+      "\n\u0002e\u0002i촀 (a pagamento)"
+    ],
+    "ShopScene_Dialog_Text_2": [
+      "\u000e\u0002\u0003\u0004",
+      "촁 diamant\u000e\u0005",
+      "\n\u0002e\u0002i촀 (senza costo)"
+    ],
+    "ShopScene_Header_Title": [
+      "Negozio di generi vari"
+    ],
+    "ShopScene_Hub_Header": [
+      "- \u000e\u0002\u0002\u0002\u0001 Pokédiamanti (gratuiti)"
+    ],
+    "ShopScene_Hub_HeaderTitle": [
+      "- \u000e\u0002\u0002\u0002\u0001 Pokédiamanti (gratuiti)"
+    ],
+    "ShopScene_Hub_NormalButton": [
+      "- \u000e\u0002\u0002\u0002\u0001 Pokédiamanti (gratuiti)"
+    ],
+    "ShopScene_Hub_PremiumButton": [
+      "- \u000e\u0002\u0002\u0002\u0001 Pokédiamanti (gratuiti)"
+    ],
+    "ShopScene_Hub_ShopButton": [
+      "- \u000e\u0002\u0002\u0002\u0001 Pokédiamanti (gratuiti)"
+    ],
+    "ShopScene_Hub_Text": [
+      "Qui puoi acquistare o scambiare strumenti!"
+    ],
+    "ShopScene_Hub_Title": [
+      "- \u000e\u0002\u0002\u0002\u0001 Pokédiamanti (gratuiti)"
+    ],
+    "ShopScene_Hub_UpdateDate": [
+      "Aggiornato tra \u000e\u0002\u0001\u0002",
+      " g"
+    ],
+    "ShopScene_Hub_UpdateDate_0day": [
+      "Aggiornato tra \u000e\u0002\u0001\u0002",
+      " h"
+    ],
+    "ShopScene_Hub_UpdateDate_0hour": [
+      "Aggiornato tra \u000e\u0002\u0001\u0002",
+      " m"
+    ],
+    "ShopScene_Item_Detail_0": [
+      "Operazione"
+    ],
+    "ShopScene_Item_Detail_1": [
+      "Ne hai \u000e\u0002\u0006\u0004",
+      "촁"
+    ],
+    "ShopScene_Item_Detail_10": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "ShopScene_Item_Detail_11": [
+      "\u000e\u0002\t\u0004",
+      "촁"
+    ],
+    "ShopScene_Item_Detail_12": [
+      "Continua"
+    ],
+    "ShopScene_Item_Detail_13": [
+      "Operazione eseguita! Hai ricevuto:\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002"
+    ],
+    "ShopScene_Item_Detail_14": [
+      "Altre \u000e\u0002",
+      "\u0002촀 unità in omaggio"
+    ],
+    "ShopScene_Item_Detail_15": [
+      "Contenuto pacchetto"
+    ],
+    "ShopScene_Item_Detail_16": [
+      "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0002\u0002\u0002"
+    ],
+    "ShopScene_Item_Detail_17": [
+      "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0002\u0002\u0002 (extra)"
+    ],
+    "ShopScene_Item_Detail_18": [
+      "x\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "ShopScene_Item_Detail_19": [
+      "Conferma"
+    ],
+    "ShopScene_Item_Detail_2": [
+      "Spiegazione"
+    ],
+    "ShopScene_Item_Detail_20": [
+      "Termina"
+    ],
+    "ShopScene_Item_Detail_21": [
+      "\u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "ShopScene_Item_Detail_22": [
+      "x\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "ShopScene_Item_Detail_23": [
+      "Strumenti limitati residui: \u000e\u0002",
+      "\u0002촀"
+    ],
+    "ShopScene_Item_Detail_3": [
+      "Annulla"
+    ],
+    "ShopScene_Item_Detail_4": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "ShopScene_Item_Detail_5": [
+      "Ne hai:"
+    ],
+    "ShopScene_Item_Detail_6": [
+      "Pokédiamanti"
+    ],
+    "ShopScene_Item_Detail_7": [
+      "Vuoi fare questa operazione?"
+    ],
+    "ShopScene_Item_Detail_8": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "ShopScene_Item_Detail_9": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "ShopScene_ShopPopup_BagAlreadyMaxPopup_Text": [
+      "Non puoi fare questo scambio perché\nla tasca strumenti della Borsa è piena.\nFai spazio e riprova!"
+    ],
+    "ShopScene_ShopPopup_BagAlreadyMaxPopup_Title": [
+      "Raggiunta capienza Borsa"
+    ],
+    "ShopScene_ShopPopup_BaitBall_Cell_ItemName": [
+      "\u000e\u0003\u0003\u0004Ā촀 \u000e",
+      "\u0003\u0004香ﾙ×\u000e",
+      "\u0003\u0004",
+      "＀\u000e\u0002\u0002\u0002\u0002"
+    ],
+    "ShopScene_ShopPopup_BaitBall_Title": [
+      "Pokébiscotti"
+    ],
+    "ShopScene_ShopPopup_DiaAlreadyMaxPopup_Text": [
+      "Non puoi fare questo acquisto perché\npuoi avere solo fino a 50.000 diamanti\na pagamento per volta."
+    ],
+    "ShopScene_ShopPopup_DiaAlreadyMaxPopup_Title": [
+      "Raggiunto limite diamanti a pagamento"
+    ],
+    "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Text_1": [
+      "Non puoi eseguire lo scambio perché\nraggiungeresti il limite per\nquesto strumento."
+    ],
+    "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Text_2": [
+      "Non puoi eseguire lo scambio perché\nraggiungeresti il limite per uno degli\nstrumenti nel pacchetto."
+    ],
+    "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Title": [
+      "Raggiunto limite strumenti"
+    ],
+    "ShopScene_ShopPopup_Limited_Label": [
+      "Limitato"
+    ],
+    "ShopScene_ShopPopup_Limited_LeftNum": [
+      "Ancora \u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "ShopScene_ShopPopup_Limited_Soldout": [
+      "Articolo esaurito"
+    ],
+    "ShopScene_ShopPopup_Pack_Bonus_Desc": [
+      "Quando scegli di ricevere un pacchetto in offerta,\npuoi ottenere un bonus (\u000e\u0003\u0003\u0004Ā촀).\nMax \u000e\u0002\u0001\u0002\u0002 volt\u000e\u0005",
+      "\n\u0002a\u0002e촂 al mese."
+    ],
+    "ShopScene_ShopPopup_Pack_Label": [
+      "Bonus compreso"
+    ],
+    "ShopScene_ShopPopup_Pack_Label_Soldout": [
+      "Bonus esauriti"
+    ],
+    "ShopScene_ShopPopup_PurchaseCell_ItemName_1": [
+      "Diamanti"
+    ],
+    "ShopScene_ShopPopup_PurchaseCell_ItemName_2": [
+      "Diamanti"
+    ],
+    "ShopScene_ShopPopup_PurchaseCell_ItemName_3": [
+      "Diamanti"
+    ],
+    "ShopScene_ShopPopup_PurchaseCell_ItemName_4": [
+      "Diamanti"
+    ],
+    "ShopScene_ShopPopup_PurchaseCell_ItemName_5": [
+      "Diamanti"
+    ],
+    "ShopScene_ShopPopup_PurchaseCell_ItemName_6": [
+      "Diamanti"
+    ],
+    "ShopScene_ShopPopup_PurchasePopupCell_Desc_NoBonus": [
+      "Diamante a pagamento \u000e",
+      "\u0003\u0004香ﾙ×\u000e",
+      "\u0003\u0004",
+      "＀\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "ShopScene_ShopPopup_PurchasePopupCell_Desc_WithBonus": [
+      "Diamanti a pagamento \u000e",
+      "\u0003\u0004香ﾙ×\u000e",
+      "\u0003\u0004",
+      "＀\u000e\u0002\u0004\u0004",
+      "촁\n+ diamanti senza costo \u000e",
+      "\u0003\u0004香ﾙ×\u000e",
+      "\u0003\u0004",
+      "＀\u000e\u0002\u0004\u0004\u0001촁"
+    ],
+    "ShopScene_ShopPopup_PurchasePopupCell_ItemName": [
+      "Diamante \u000e",
+      "\u0003\u0004香ﾙ×\u000e",
+      "\u0003\u0004",
+      "＀\u000e\u0002\u0004\u0004",
+      "촁"
+    ],
+    "ShopScene_ShopPopup_PurchasePopup_Title": [
+      "Acquista diamanti"
+    ],
+    "ShopScene_ShopPopup_StoreRefund_Text_Apple": [
+      "Un prodotto è stato rimborsato\nattraverso l'App Store.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: App Store\nStrumento: \u000e\u0003\u0012\u0002촀\nAcquistato: \u000e\t",
+      "$ yyyy/MM/dd_hh:mm\u0001"
+    ],
+    "ShopScene_ShopPopup_StoreRefund_Text_Google": [
+      "Un prodotto è stato rimborsato\nattraverso Google Play.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: Google Play\nStrumento: \u000e\u0003\u0012\u0002촀\nAcquistato: \u000e\t",
+      "$ yyyy/MM/dd_hh:mm\u0001\nRimborsato: \u000e\t",
+      "$ yyyy/MM/dd_hh:mm\u0002"
+    ],
+    "ShopScene_ShopPopup_StoreRefund_Title": [
+      "Comunicazione importante"
+    ],
+    "ShopScene_ShopPopup_Tab_DiamondShop": [
+      "Diamanti"
+    ],
+    "ShopScene_ShopPopup_Tab_SleepPointShop": [
+      "Punti sonno"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 120,
+        "size": 844,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 61,
+        "size": 4701,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              42,
+              "ShopScene_Content_BoxUpgradePopup_Success_Text"
+            ],
+            [
+              74,
+              "ShopScene_Item_Detail_19"
+            ]
+          ],
+          568
+        ],
+        [
+          [],
+          568
+        ],
+        [
+          [
+            [
+              44,
+              "ShopScene_Content_Name_3"
+            ],
+            [
+              50,
+              "ShopScene_Header_Title"
+            ],
+            [
+              75,
+              "ShopScene_Item_Detail_20"
+            ]
+          ],
+          653
+        ],
+        [
+          [
+            [
+              46,
+              "ShopScene_Content_Name_4"
+            ],
+            [
+              76,
+              "ShopScene_Item_Detail_21"
+            ]
+          ],
+          711
+        ],
+        [
+          [
+            [
+              47,
+              "ShopScene_Content_Name_5"
+            ],
+            [
+              73,
+              "ShopScene_Item_Detail_22"
+            ]
+          ],
+          769
+        ],
+        [
+          [
+            [
+              48,
+              "ShopScene_Content_Name_6"
+            ],
+            [
+              68,
+              "ShopScene_Item_Detail_23"
+            ],
+            [
+              88,
+              "ShopScene_Hub_UpdateDate_0day"
+            ]
+          ],
+          861
+        ],
+        [
+          [
+            [
+              49,
+              "ShopScene_Content_Name_7"
+            ]
+          ],
+          890
+        ],
+        [
+          [],
+          890
+        ],
+        [
+          [],
+          890
+        ],
+        [
+          [
+            [
+              95,
+              "ShopScene_ShopPopup_Pack_Bonus_Desc"
+            ]
+          ],
+          930
+        ],
+        [
+          [],
+          930
+        ],
+        [
+          [],
+          930
+        ],
+        [
+          [],
+          930
+        ],
+        [
+          [
+            [
+              0,
+              "ShopSceneController_Text_3"
+            ],
+            [
+              41,
+              "ShopScene_Content_BagUpgradePopup_Success_Text"
+            ],
+            [
+              82,
+              "ShopScene_Hub_Text"
+            ]
+          ],
+          1035
+        ],
+        [
+          [
+            [
+              1,
+              "ShopSceneController_Text_4"
+            ],
+            [
+              78,
+              "ShopScene_Dialog_Text_1"
+            ]
+          ],
+          1094
+        ],
+        [
+          [
+            [
+              79,
+              "ShopScene_Dialog_Text_2"
+            ]
+          ],
+          1122
+        ],
+        [
+          [
+            [
+              19,
+              "ShopScene_Content_Title_2"
+            ],
+            [
+              20,
+              "ShopScene_Content_Title_2_0day"
+            ],
+            [
+              37,
+              "ShopScene_Content_BagUpgradePopup_Title"
+            ],
+            [
+              83,
+              "ShopScene_Hub_ShopButton"
+            ]
+          ],
+          1260
+        ],
+        [
+          [
+            [
+              2,
+              "ShopSceneController_Text_7"
+            ],
+            [
+              25,
+              "ShopScene_Content_Title_3"
+            ]
+          ],
+          1321
+        ],
+        [
+          [
+            [
+              3,
+              "ShopSceneController_Text_8"
+            ],
+            [
+              15,
+              "ShopConsumableItemCell_Text_1"
+            ],
+            [
+              32,
+              "ShopScene_Content_Title_4"
+            ],
+            [
+              80,
+              "ShopScene_Hub_HeaderTitle"
+            ],
+            [
+              91,
+              "ShopScene_ShopPopup_Limited_LeftNum"
+            ]
+          ],
+          1486
+        ],
+        [
+          [
+            [
+              4,
+              "ShopSceneController_Text_9"
+            ],
+            [
+              33,
+              "ShopScene_Content_Title_5"
+            ],
+            [
+              99,
+              "ShopScene_ShopPopup_Tab_DiamondShop"
+            ]
+          ],
+          1587
+        ],
+        [
+          [
+            [
+              43,
+              "ShopScene_Content_Title_6"
+            ]
+          ],
+          1617
+        ],
+        [
+          [],
+          1617
+        ],
+        [
+          [
+            [
+              34,
+              "ShopScene_Content_UpgradeName_1"
+            ],
+            [
+              94,
+              "ShopScene_ShopPopup_Pack_Label_Soldout"
+            ]
+          ],
+          1696
+        ],
+        [
+          [
+            [
+              35,
+              "ShopScene_Content_UpgradeName_2"
+            ]
+          ],
+          1732
+        ],
+        [
+          [
+            [
+              36,
+              "ShopScene_Content_UpgradeName_3"
+            ]
+          ],
+          1768
+        ],
+        [
+          [
+            [
+              40,
+              "ShopScene_Content_BoxUpgradePopup_Text"
+            ]
+          ],
+          1811
+        ],
+        [
+          [
+            [
+              84,
+              "ShopScene_Hub_NormalButton"
+            ],
+            [
+              117,
+              "ShopScene_ShopPopup_StoreRefund_Title"
+            ]
+          ],
+          1884
+        ],
+        [
+          [
+            [
+              85,
+              "ShopScene_Hub_PremiumButton"
+            ],
+            [
+              113,
+              "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Text_1"
+            ]
+          ],
+          1967
+        ],
+        [
+          [
+            [
+              89,
+              "ShopScene_Hub_UpdateDate_0hour"
+            ],
+            [
+              114,
+              "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Text_2"
+            ]
+          ],
+          2053
+        ],
+        [
+          [
+            [
+              107,
+              "ShopScene_ShopPopup_PurchasePopupCell_ItemName"
+            ]
+          ],
+          2104
+        ],
+        [
+          [
+            [
+              39,
+              "ShopScene_Content_BoxUpgradePopup_Title"
+            ],
+            [
+              110,
+              "ShopScene_ShopPopup_DiaAlreadyMaxPopup_Title"
+            ],
+            [
+              115,
+              "ShopScene_ShopPopup_BagAlreadyMaxPopup_Title"
+            ]
+          ],
+          2246
+        ],
+        [
+          [
+            [
+              92,
+              "ShopScene_ShopPopup_Limited_Soldout"
+            ]
+          ],
+          2286
+        ],
+        [
+          [
+            [
+              81,
+              "ShopScene_Hub_Title"
+            ],
+            [
+              93,
+              "ShopScene_ShopPopup_Pack_Label"
+            ]
+          ],
+          2345
+        ],
+        [
+          [],
+          2345
+        ],
+        [
+          [
+            [
+              119,
+              "ShopScene_ShopPopup_StoreRefund_Text_Google"
+            ]
+          ],
+          2393
+        ],
+        [
+          [
+            [
+              5,
+              "ShopSceneController_Text_10"
+            ],
+            [
+              77,
+              "ShopScene_Dialog_Heading"
+            ]
+          ],
+          2454
+        ],
+        [
+          [
+            [
+              7,
+              "ShopSceneController_Text_11"
+            ],
+            [
+              101,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_1"
+            ]
+          ],
+          2534
+        ],
+        [
+          [
+            [
+              8,
+              "ShopSceneController_Text_12"
+            ],
+            [
+              102,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_2"
+            ],
+            [
+              108,
+              "ShopScene_ShopPopup_PurchasePopupCell_Desc_NoBonus"
+            ]
+          ],
+          2669
+        ],
+        [
+          [
+            [
+              9,
+              "ShopSceneController_Text_13"
+            ],
+            [
+              97,
+              "ShopScene_ShopPopup_BaitBall_Cell_ItemName"
+            ],
+            [
+              98,
+              "ShopScene_ShopPopup_PurchasePopup_Title"
+            ],
+            [
+              103,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_3"
+            ]
+          ],
+          2840
+        ],
+        [
+          [
+            [
+              10,
+              "ShopSceneController_Text_14"
+            ],
+            [
+              87,
+              "ShopScene_Hub_UpdateDate"
+            ],
+            [
+              104,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_4"
+            ],
+            [
+              112,
+              "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Title"
+            ]
+          ],
+          2999
+        ],
+        [
+          [
+            [
+              11,
+              "ShopSceneController_Text_15"
+            ],
+            [
+              105,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_5"
+            ],
+            [
+              111,
+              "ShopScene_ShopPopup_DiaAlreadyMaxPopup_Text"
+            ],
+            [
+              118,
+              "ShopScene_ShopPopup_StoreRefund_Text_Apple"
+            ]
+          ],
+          3174
+        ],
+        [
+          [
+            [
+              12,
+              "ShopSceneController_Text_16"
+            ],
+            [
+              96,
+              "ShopScene_ShopPopup_BaitBall_Title"
+            ],
+            [
+              106,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_6"
+            ]
+          ],
+          3293
+        ],
+        [
+          [
+            [
+              13,
+              "ShopSceneController_Text_17"
+            ],
+            [
+              86,
+              "ShopScene_Hub_Header"
+            ],
+            [
+              116,
+              "ShopScene_ShopPopup_BagAlreadyMaxPopup_Text"
+            ]
+          ],
+          3398
+        ],
+        [
+          [
+            [
+              14,
+              "ShopSceneController_Text_18"
+            ],
+            [
+              16,
+              "ShopConsumableItemCell_Text_1_DiaVer"
+            ],
+            [
+              27,
+              "ShopScene_Content_Title_3_0hour"
+            ]
+          ],
+          3507
+        ],
+        [
+          [
+            [
+              6,
+              "ShopSceneController_Text_19"
+            ],
+            [
+              17,
+              "ShopScene_Content_Title"
+            ],
+            [
+              45,
+              "ShopScene_Content_Number"
+            ]
+          ],
+          3596
+        ],
+        [
+          [],
+          3596
+        ],
+        [
+          [
+            [
+              24,
+              "ShopScene_Content_Price_Dia"
+            ]
+          ],
+          3628
+        ],
+        [
+          [
+            [
+              28,
+              "ShopScene_Content_Message"
+            ]
+          ],
+          3658
+        ],
+        [
+          [
+            [
+              51,
+              "ShopScene_Dia_Detail_0"
+            ]
+          ],
+          3685
+        ],
+        [
+          [
+            [
+              52,
+              "ShopScene_Dia_Detail_1"
+            ]
+          ],
+          3712
+        ],
+        [
+          [
+            [
+              18,
+              "ShopScene_Content_Desc"
+            ],
+            [
+              26,
+              "ShopScene_Content_Title_3_0day"
+            ],
+            [
+              53,
+              "ShopScene_Item_Detail_0"
+            ]
+          ],
+          3802
+        ],
+        [
+          [
+            [
+              54,
+              "ShopScene_Item_Detail_1"
+            ]
+          ],
+          3830
+        ],
+        [
+          [
+            [
+              38,
+              "ShopScene_Content_BagUpgradePopup_Text"
+            ],
+            [
+              55,
+              "ShopScene_Item_Detail_2"
+            ],
+            [
+              63,
+              "ShopScene_Item_Detail_10"
+            ]
+          ],
+          3930
+        ],
+        [
+          [
+            [
+              56,
+              "ShopScene_Item_Detail_3"
+            ],
+            [
+              64,
+              "ShopScene_Item_Detail_11"
+            ]
+          ],
+          3987
+        ],
+        [
+          [
+            [
+              21,
+              "ShopScene_Content_Title_2_0hour"
+            ],
+            [
+              57,
+              "ShopScene_Item_Detail_4"
+            ],
+            [
+              65,
+              "ShopScene_Item_Detail_12"
+            ]
+          ],
+          4080
+        ],
+        [
+          [
+            [
+              23,
+              "ShopScene_Content_Messasge_Soldout"
+            ],
+            [
+              29,
+              "ShopScene_Content_Messasge_2"
+            ],
+            [
+              58,
+              "ShopScene_Item_Detail_5"
+            ],
+            [
+              66,
+              "ShopScene_Item_Detail_13"
+            ]
+          ],
+          4209
+        ],
+        [
+          [
+            [
+              31,
+              "ShopScene_Content_Messasge_3"
+            ],
+            [
+              59,
+              "ShopScene_Item_Detail_6"
+            ],
+            [
+              67,
+              "ShopScene_Item_Detail_14"
+            ]
+          ],
+          4299
+        ],
+        [
+          [
+            [
+              30,
+              "ShopScene_Content_Messasge_4"
+            ],
+            [
+              60,
+              "ShopScene_Item_Detail_7"
+            ],
+            [
+              69,
+              "ShopScene_Item_Detail_15"
+            ]
+          ],
+          4389
+        ],
+        [
+          [
+            [
+              22,
+              "ShopScene_Content_Messasge"
+            ],
+            [
+              61,
+              "ShopScene_Item_Detail_8"
+            ],
+            [
+              70,
+              "ShopScene_Item_Detail_16"
+            ],
+            [
+              90,
+              "ShopScene_ShopPopup_Limited_Label"
+            ],
+            [
+              109,
+              "ShopScene_ShopPopup_PurchasePopupCell_Desc_WithBonus"
+            ]
+          ],
+          4572
+        ],
+        [
+          [
+            [
+              62,
+              "ShopScene_Item_Detail_9"
+            ],
+            [
+              71,
+              "ShopScene_Item_Detail_17"
+            ]
+          ],
+          4629
+        ],
+        [
+          [
+            [
+              72,
+              "ShopScene_Item_Detail_18"
+            ],
+            [
+              100,
+              "ShopScene_ShopPopup_Tab_SleepPointShop"
+            ]
+          ],
+          4701
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 120,
+        "size": 8544,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

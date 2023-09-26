@@ -1,0 +1,132 @@
+{
+  "strings": {
+    "md_premium_pass_products_desc_1": [
+      "Pokémon Sleep\nサブスクリプション"
+    ],
+    "md_premium_pass_products_desc_2": [
+      "Pokémon Sleep\nサブスクリプション"
+    ],
+    "md_premium_pass_products_desc_3": [
+      "Pokémon Sleep\nサブスクリプション"
+    ],
+    "md_premium_pass_products_desc_4": [
+      "Pokémon Sleep\nサブスクリプション"
+    ],
+    "md_premium_pass_products_name_1": [
+      "プレミアムパス1ヶ月"
+    ],
+    "md_premium_pass_products_name_2": [
+      "プレミアムパス6ヶ月"
+    ],
+    "md_premium_pass_products_name_3": [
+      "プレミアムパス1ヶ月"
+    ],
+    "md_premium_pass_products_name_4": [
+      "プレミアムパス6ヶ月"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 8,
+        "size": 60,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 328,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              0,
+              "md_premium_pass_products_name_1"
+            ],
+            [
+              5,
+              "md_premium_pass_products_desc_3"
+            ]
+          ],
+          112
+        ],
+        [
+          [
+            [
+              2,
+              "md_premium_pass_products_name_2"
+            ],
+            [
+              7,
+              "md_premium_pass_products_desc_4"
+            ]
+          ],
+          184
+        ],
+        [
+          [
+            [
+              4,
+              "md_premium_pass_products_name_3"
+            ]
+          ],
+          220
+        ],
+        [
+          [
+            [
+              1,
+              "md_premium_pass_products_desc_1"
+            ],
+            [
+              6,
+              "md_premium_pass_products_name_4"
+            ]
+          ],
+          292
+        ],
+        [
+          [
+            [
+              3,
+              "md_premium_pass_products_desc_2"
+            ]
+          ],
+          328
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 8,
+        "size": 312,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

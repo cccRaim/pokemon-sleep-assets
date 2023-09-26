@@ -1,0 +1,285 @@
+{
+  "strings": {
+    "TitleSceneController_Ask_GPP_Sync_Desc": [
+      "Se van a recuperar tus datos de sueño."
+    ],
+    "TitleSceneController_Ask_GPP_Sync_OK": [
+      "Sincronizar"
+    ],
+    "TitleSceneController_Text_1": [
+      "Hay una actualización disponible\n(\u000e\u0002\t\u0004",
+      "촁 MB aprox.)"
+    ],
+    "TitleSceneController_Text_10": [
+      "Recuperar datos de sueño"
+    ],
+    "TitleSceneController_Text_11": [
+      "Parece que la aplicación se ha cerrado\nmientras registraba datos de sueño.\nIntentemos restablecer la conexión\ncon el servidor."
+    ],
+    "TitleSceneController_Text_2": [
+      "Descarga de datos"
+    ],
+    "TitleSceneController_Text_4": [
+      "No se han podido encontrar los datos\nde la actualización. Comprueba tu\nconexión y vuelve a intentarlo."
+    ],
+    "TitleSceneController_Text_5": [
+      "Resultados"
+    ],
+    "TitleSceneController_Text_6": [
+      "Retomemos los resultados de la sesión\nanterior para continuar el estudio."
+    ],
+    "TitleSceneController_Text_7": [
+      "¿Quieres sincronizar con tu\nPokémon GO Plus + y recibir\ndatos de sueño?"
+    ],
+    "TitleSceneController_Text_8": [
+      "Comprobar datos"
+    ],
+    "TitleSceneController_Text_9": [
+      "Parece que se ha interrumpido la\nconexión con el servidor durante la\núltima sesión. Intentemos recuperarla."
+    ],
+    "TitleSceneController_UserDataDownloadPopup_Message": [
+      "Se descargarán los datos necesarios\npara completar la transferencia."
+    ],
+    "TitleSceneController_UserDataDownloadPopup_Title": [
+      "Descarga de datos"
+    ],
+    "TitleScene_DownloadProgress": [
+      "Descargando... (\u000e\u0002\u0002\u0002",
+      " %)"
+    ],
+    "TitleScene_Footer_Rights": [
+      "©2023 Pokémon. ©1995-2023 Nintendo / Creatures Inc. / GAME FREAK inc.\nDeveloped by SELECT BUTTON inc."
+    ],
+    "TitleScene_Header_MenuButton": [
+      "Menú"
+    ],
+    "TitleScene_Header_UserId": [
+      "Ver ID de usuario"
+    ],
+    "TitleScene_Header_Version": [
+      "Ver. \u000e\u0002\u0001\u0002",
+      ".\u000e\u0002\u0002\u0002\u0001.\u000e\u0002\u0002\u0002\u0002"
+    ],
+    "TitleScene_LoadingText": [
+      "Cargando..."
+    ],
+    "TitleScene_StartButton": [
+      "Toca para empezar"
+    ],
+    "TitleScene_TutorialAndMaintenance_Text": [
+      "Parece que tu última sesión se ha visto\ninterrumpida por unas labores de\nmantenimiento. Echemos un vistazo."
+    ],
+    "TitleScene_TutorialAndMaintenance_Title": [
+      "Revisar datos"
+    ],
+    "TitleScene_ValidationProgress": [
+      "Verificando datos..."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 24,
+        "size": 172,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 946,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          104
+        ],
+        [
+          [
+            [
+              11,
+              "TitleScene_TutorialAndMaintenance_Text"
+            ]
+          ],
+          147
+        ],
+        [
+          [],
+          147
+        ],
+        [
+          [
+            [
+              0,
+              "TitleSceneController_Text_1"
+            ],
+            [
+              8,
+              "TitleSceneController_Text_10"
+            ],
+            [
+              16,
+              "TitleScene_LoadingText"
+            ],
+            [
+              18,
+              "TitleScene_ValidationProgress"
+            ]
+          ],
+          273
+        ],
+        [
+          [
+            [
+              1,
+              "TitleSceneController_Text_2"
+            ],
+            [
+              9,
+              "TitleSceneController_Text_11"
+            ],
+            [
+              12,
+              "TitleScene_Header_MenuButton"
+            ]
+          ],
+          371
+        ],
+        [
+          [
+            [
+              10,
+              "TitleScene_TutorialAndMaintenance_Title"
+            ]
+          ],
+          415
+        ],
+        [
+          [
+            [
+              2,
+              "TitleSceneController_Text_4"
+            ],
+            [
+              17,
+              "TitleScene_DownloadProgress"
+            ],
+            [
+              19,
+              "TitleScene_Footer_Rights"
+            ],
+            [
+              22,
+              "TitleSceneController_UserDataDownloadPopup_Title"
+            ]
+          ],
+          561
+        ],
+        [
+          [
+            [
+              3,
+              "TitleSceneController_Text_5"
+            ]
+          ],
+          593
+        ],
+        [
+          [
+            [
+              4,
+              "TitleSceneController_Text_6"
+            ],
+            [
+              21,
+              "TitleSceneController_Ask_GPP_Sync_OK"
+            ]
+          ],
+          666
+        ],
+        [
+          [
+            [
+              5,
+              "TitleSceneController_Text_7"
+            ],
+            [
+              20,
+              "TitleSceneController_Ask_GPP_Sync_Desc"
+            ]
+          ],
+          741
+        ],
+        [
+          [
+            [
+              6,
+              "TitleSceneController_Text_8"
+            ],
+            [
+              14,
+              "TitleScene_Header_UserId"
+            ]
+          ],
+          802
+        ],
+        [
+          [
+            [
+              7,
+              "TitleSceneController_Text_9"
+            ],
+            [
+              15,
+              "TitleScene_StartButton"
+            ],
+            [
+              23,
+              "TitleSceneController_UserDataDownloadPopup_Message"
+            ]
+          ],
+          916
+        ],
+        [
+          [
+            [
+              13,
+              "TitleScene_Header_Version"
+            ]
+          ],
+          946
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 24,
+        "size": 2276,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

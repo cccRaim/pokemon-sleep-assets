@@ -1,0 +1,245 @@
+{
+  "strings": {
+    "BackToTitle_Message": [
+      "發生了錯誤。\n請從標題畫面重新開始遊戲。\n\n錯誤代碼：\u000e\u0002\u0005\u0004Ā촀"
+    ],
+    "CommonError_AdmissionRestriction_Button": [
+      "查看通知"
+    ],
+    "CommonError_AdmissionRestriction_Text_AlreadyUser": [
+      "由於伺服器正在忙碌中，\n目前暫時限制遊戲的遊玩人數。\n請稍後再試一次。"
+    ],
+    "CommonError_AdmissionRestriction_Text_NewUser": [
+      "由於伺服器正在忙碌中，\n目前暫時不開放新用戶登錄。\n請稍後再試一次。"
+    ],
+    "CommonError_AdmissionRestriction_Title": [
+      "伺服器忙碌中"
+    ],
+    "CommonError_MaybeTimeSettingWrong_Text": [
+      "端末の日付・時刻設定が\n合っていない可能性があります\n端末の日付・時刻設定をご確認の上\n少し時間をおいてから、再度お試しください\nエラーコード：\u000e\u0002\u0005\u0004Ā촀"
+    ],
+    "CommonError_NickNameCharNotAllowedPopup_Text": [
+      "暱稱中包含無法使用的文字。\n請輸入其他暱稱。"
+    ],
+    "CommonError_NickNameCharSetNotAllowedPopup_Text": [
+      "這個暱稱無法使用。\n請輸入其他暱稱。"
+    ],
+    "CommonError_NickNameNgWordPopup_Text": [
+      "這個暱稱無法使用。\n請輸入其他暱稱。"
+    ],
+    "CommonError_NickNameTooLongPopup_Text": [
+      "您輸入的暱稱太長。\n暱稱的字數上限為6個全形字\n或12個半形字。"
+    ],
+    "CommonError_ServerBusy": [
+      "由於伺服器正在忙碌中，\n即將返回標題畫面。\n請稍後再重新開始遊戲。\n\n錯誤代碼：\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "CommonError_SleepMemoNGWordPopup_Text": [
+      "含有無法使用的字詞。\n請重新輸入筆記。"
+    ],
+    "CommonError_TeamNameNgWordPopup_Text": [
+      "這個隊伍名稱無法使用。\n請輸入其他的隊伍名稱。"
+    ],
+    "CommonError_TimeProblem": [
+      "裝置目前設定在過去的時間。\n\n請正確設定裝置的時間後，\n再從標題畫面重新開始遊戲。"
+    ],
+    "ErrorCode_Text": [
+      "錯誤代碼"
+    ],
+    "NormalError_Title": [
+      "錯誤"
+    ],
+    "StringInputError_CharNotAllowed": [
+      "用戶名稱中包含無法使用的文字。\n請輸入其他的用戶名稱。"
+    ],
+    "StringInputError_CharSetNotAllowed": [
+      "這個用戶名無法使用。\n請輸入其他的用戶名稱。"
+    ],
+    "StringInputError_NgWord": [
+      "這個用戶名無法使用。\n請輸入其他的用戶名稱。"
+    ],
+    "StringInputError_TooLong": [
+      "您輸入的用戶名稱太長。\n用戶名稱的字數上限為6個全形字\n或12個半形字。"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 20,
+        "size": 144,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 841,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          88
+        ],
+        [
+          [
+            [
+              6,
+              "StringInputError_NgWord"
+            ],
+            [
+              18,
+              "CommonError_AdmissionRestriction_Button"
+            ]
+          ],
+          160
+        ],
+        [
+          [
+            [
+              12,
+              "CommonError_TeamNameNgWordPopup_Text"
+            ]
+          ],
+          201
+        ],
+        [
+          [
+            [
+              1,
+              "ErrorCode_Text"
+            ]
+          ],
+          220
+        ],
+        [
+          [
+            [
+              0,
+              "NormalError_Title"
+            ],
+            [
+              8,
+              "CommonError_NickNameCharNotAllowedPopup_Text"
+            ]
+          ],
+          291
+        ],
+        [
+          [
+            [
+              19,
+              "CommonError_MaybeTimeSettingWrong_Text"
+            ]
+          ],
+          334
+        ],
+        [
+          [],
+          334
+        ],
+        [
+          [
+            [
+              3,
+              "StringInputError_TooLong"
+            ],
+            [
+              7,
+              "CommonError_NickNameTooLongPopup_Text"
+            ],
+            [
+              10,
+              "CommonError_NickNameNgWordPopup_Text"
+            ],
+            [
+              14,
+              "CommonError_ServerBusy"
+            ],
+            [
+              16,
+              "CommonError_AdmissionRestriction_Text_NewUser"
+            ],
+            [
+              17,
+              "CommonError_AdmissionRestriction_Text_AlreadyUser"
+            ]
+          ],
+          577
+        ],
+        [
+          [
+            [
+              11,
+              "CommonError_SleepMemoNGWordPopup_Text"
+            ]
+          ],
+          619
+        ],
+        [
+          [
+            [
+              2,
+              "BackToTitle_Message"
+            ],
+            [
+              4,
+              "StringInputError_CharNotAllowed"
+            ],
+            [
+              5,
+              "StringInputError_CharSetNotAllowed"
+            ]
+          ],
+          718
+        ],
+        [
+          [
+            [
+              9,
+              "CommonError_NickNameCharSetNotAllowedPopup_Text"
+            ],
+            [
+              13,
+              "CommonError_TimeProblem"
+            ],
+            [
+              15,
+              "CommonError_AdmissionRestriction_Title"
+            ]
+          ],
+          841
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 20,
+        "size": 1164,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

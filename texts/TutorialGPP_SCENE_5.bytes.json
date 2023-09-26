@@ -1,0 +1,298 @@
+{
+  "strings": {
+    "GPPTutorialSceneController_Text_1": [
+      "Next"
+    ],
+    "GPPTutorialSceneController_Text_10": [
+      "\u000e",
+      "\u0003\u0004毿ＷPress and hold \u000e",
+      "\u0003\u0004",
+      "＀the \u000e",
+      "\u0003\u0004毿Ｗmain button\u000e",
+      "\u0003\u0004",
+      "＀ to bring\nyour current \u000e",
+      "\u0003\u0004毿Ｗsleep tracking to an end\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "GPPTutorialSceneController_Text_11": [
+      "Tracking Stopped"
+    ],
+    "GPPTutorialSceneController_Text_12": [
+      "You've now stopped tracking your sleep.\nWhen you're ready to \u000e",
+      "\u0003\u0004毿Ｗtrack a real session\u000e",
+      "\u0003\u0004",
+      "＀,\nthe device will \u000e",
+      "\u0003\u0004毿Ｗcommunicate with Pokémon\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿ＷSleep after tracking stops \u000e",
+      "\u0003\u0004",
+      "＀so you will be\nable to \u000e",
+      "\u0003\u0004毿Ｗcheck your sleep results\u000e",
+      "\u0003\u0004",
+      "＀ there."
+    ],
+    "GPPTutorialSceneController_Text_13": [
+      "End Tutorial"
+    ],
+    "GPPTutorialSceneController_Text_15": [
+      "Failed to Begin Tracking"
+    ],
+    "GPPTutorialSceneController_Text_16": [
+      "The Pokémon GO Plus + must lie flat\nin order to start tracking sleep.\nMake sure it is placed flat on your\nmattress, then press and hold the\nmain button."
+    ],
+    "GPPTutorialSceneController_Text_17": [
+      "Bluetooth couldn't be used.\nPlease enable Bluetooth in\nyour mobile device settings.\nDo you want to restart the tutorial?"
+    ],
+    "GPPTutorialSceneController_Text_18": [
+      "Restart"
+    ],
+    "GPPTutorialSceneController_Text_2": [
+      "You're about to skip the tutorial.\nIs that OK?"
+    ],
+    "GPPTutorialSceneController_Text_20": [
+      "Communication with the Pokémon GO\nPlus + has been interrupted.\nDo you want to restart the tutorial?"
+    ],
+    "GPPTutorialSceneController_Text_3": [
+      "Start Tracking"
+    ],
+    "GPPTutorialSceneController_Text_4": [
+      "You can \u000e",
+      "\u0003\u0004毿Ｗstart tracking your sleep \u000e",
+      "\u0003\u0004",
+      "＀by \u000e",
+      "\u0003\u0004毿Ｗholding down\n\u000e",
+      "\u0003\u0004",
+      "＀the \u000e",
+      "\u0003\u0004毿Ｗmain button\u000e",
+      "\u0003\u0004",
+      "＀ on your Pokémon GO Plus +.\n\u000e",
+      "\u0003\u0004毿ＷNote: \u000e",
+      "\u0003\u0004",
+      "＀You’ll hear a sound from the device."
+    ],
+    "GPPTutorialSceneController_Text_5": [
+      "Tracking Sleep..."
+    ],
+    "GPPTutorialSceneController_Text_6": [
+      "Tracking will begin as soon as \u000e",
+      "\u0003\u0004毿ＷPikachu’s\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗlullaby \u000e",
+      "\u0003\u0004",
+      "＀starts. If you’re ready to \u000e",
+      "\u0003\u0004毿Ｗtrack a\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗreal session\u000e",
+      "\u0003\u0004",
+      "＀, you should \u000e",
+      "\u0003\u0004毿Ｗplace the device\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗby your pillow \u000e",
+      "\u0003\u0004",
+      "＀once the song starts.\nYou can stop the lullaby with a short\npress on the main button.\n(You can also disable it in the settings.)"
+    ],
+    "GPPTutorialSceneController_Text_7": [
+      "To Stop Tracking"
+    ],
+    "GPPTutorialSceneController_Text_8": [
+      "You can \u000e",
+      "\u0003\u0004毿Ｗstop tracking \u000e",
+      "\u0003\u0004",
+      "＀by \u000e",
+      "\u0003\u0004毿Ｗholding down\n\u000e",
+      "\u0003\u0004",
+      "＀the \u000e",
+      "\u0003\u0004毿Ｗmain button \u000e",
+      "\u0003\u0004",
+      "＀again.\nOnce you go to the next step, a \u000e",
+      "\u0003\u0004毿Ｗtest alarm\n\u000e",
+      "\u0003\u0004",
+      "＀will \u000e",
+      "\u0003\u0004毿Ｗsound\u000e",
+      "\u0003\u0004",
+      "＀. Try to stop tracking when you\nhear it."
+    ],
+    "GPPTutorialSceneController_Text_9": [
+      "Stop Tracking"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 18,
+        "size": 130,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 781,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              3,
+              "GPPTutorialSceneController_Text_4"
+            ],
+            [
+              16,
+              "GPPTutorialSceneController_Text_18"
+            ]
+          ],
+          165
+        ],
+        [
+          [
+            [
+              4,
+              "GPPTutorialSceneController_Text_5"
+            ]
+          ],
+          203
+        ],
+        [
+          [
+            [
+              5,
+              "GPPTutorialSceneController_Text_6"
+            ]
+          ],
+          241
+        ],
+        [
+          [
+            [
+              6,
+              "GPPTutorialSceneController_Text_7"
+            ],
+            [
+              9,
+              "GPPTutorialSceneController_Text_10"
+            ]
+          ],
+          318
+        ],
+        [
+          [
+            [
+              7,
+              "GPPTutorialSceneController_Text_8"
+            ],
+            [
+              10,
+              "GPPTutorialSceneController_Text_11"
+            ]
+          ],
+          395
+        ],
+        [
+          [
+            [
+              8,
+              "GPPTutorialSceneController_Text_9"
+            ],
+            [
+              11,
+              "GPPTutorialSceneController_Text_12"
+            ]
+          ],
+          472
+        ],
+        [
+          [
+            [
+              12,
+              "GPPTutorialSceneController_Text_13"
+            ]
+          ],
+          511
+        ],
+        [
+          [
+            [
+              17,
+              "GPPTutorialSceneController_Text_20"
+            ]
+          ],
+          550
+        ],
+        [
+          [
+            [
+              0,
+              "GPPTutorialSceneController_Text_1"
+            ],
+            [
+              13,
+              "GPPTutorialSceneController_Text_15"
+            ]
+          ],
+          627
+        ],
+        [
+          [
+            [
+              1,
+              "GPPTutorialSceneController_Text_2"
+            ],
+            [
+              14,
+              "GPPTutorialSceneController_Text_16"
+            ]
+          ],
+          704
+        ],
+        [
+          [
+            [
+              2,
+              "GPPTutorialSceneController_Text_3"
+            ],
+            [
+              15,
+              "GPPTutorialSceneController_Text_17"
+            ]
+          ],
+          781
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 18,
+        "size": 3398,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

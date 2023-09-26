@@ -1,0 +1,117 @@
+{
+  "strings": {
+    "NSBluetoothAlwaysUsageDescription": [
+      "Questa app usa il Bluetooth per comunicare con Pokémon GO Plus +."
+    ],
+    "NSBluetoothPeripheralUsageDescription": [
+      "Questa app usa il Bluetooth per comunicare con Pokémon GO Plus +."
+    ],
+    "NSCameraUsageDescription": [
+      "Questa app usa la fotocamera per scansionare i codici amico. "
+    ],
+    "NSMicrophoneUsageDescription": [
+      "Questa app usa il microfono per misurare il sonno."
+    ],
+    "NSPhotoLibraryAddUsageDescription": [
+      "Questo permetterà all'app di salvare le foto sul tuo dispositivo."
+    ],
+    "NSUserTrackingUsageDescription": [
+      "Le informazioni raccolte da questa app, ivi compresi gli indentificativi per gli annunci pubblicitari, sono utilizzate per studiare l'andamento dell'uso del nostro servizio, aiutare a gestirlo efficacemente e prevenirne usi illeciti."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 255,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "NSBluetoothPeripheralUsageDescription"
+            ]
+          ],
+          82
+        ],
+        [
+          [
+            [
+              2,
+              "NSUserTrackingUsageDescription"
+            ],
+            [
+              3,
+              "NSCameraUsageDescription"
+            ],
+            [
+              4,
+              "NSMicrophoneUsageDescription"
+            ]
+          ],
+          179
+        ],
+        [
+          [
+            [
+              0,
+              "NSBluetoothAlwaysUsageDescription"
+            ]
+          ],
+          217
+        ],
+        [
+          [
+            [
+              5,
+              "NSPhotoLibraryAddUsageDescription"
+            ]
+          ],
+          255
+        ],
+        [
+          [],
+          255
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 1114,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

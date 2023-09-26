@@ -1,0 +1,1803 @@
+{
+  "strings": {
+    "md_cooking_foods_desc_1": [
+      "No se sabe si este es el tipo de\nverdura que le gusta a Farfetch'd."
+    ],
+    "md_cooking_foods_desc_10": [
+      "Su versatilidad lo hace apto para su\nuso en una gran variedad de platos."
+    ],
+    "md_cooking_foods_desc_1001": [
+      "Curri sencillo en el que destaca el\ndulzor natural de la manzana."
+    ],
+    "md_cooking_foods_desc_1002": [
+      "El sabor de la cola eleva el plato a\nnuevas cotas de exquisitez."
+    ],
+    "md_cooking_foods_desc_1003": [
+      "En su elaboración se emplean tomates\nmadurados al sol."
+    ],
+    "md_cooking_foods_desc_1004": [
+      "Curri elaborado con ingredientes de\npropiedades relajantes."
+    ],
+    "md_cooking_foods_desc_1005": [
+      "El dulzor del puerro caramelizado\nequilibra el picante del caldo."
+    ],
+    "md_cooking_foods_desc_1006": [
+      "Curri que adormece con la misma\neficacia que el movimiento Espora."
+    ],
+    "md_cooking_foods_desc_1007": [
+      "Un plato para los más pequeños,\ny preparado con mucho amor."
+    ],
+    "md_cooking_foods_desc_1008": [
+      "Un plato tan enorme que dejaría\nanonadado al mismísimo Snorlax."
+    ],
+    "md_cooking_foods_desc_1009": [
+      "Su densa textura se logra hirviendo\nlas patatas hasta que se deshacen."
+    ],
+    "md_cooking_foods_desc_1010": [
+      "Sencillo estofado en el que destaca\nel sabor de la leche."
+    ],
+    "md_cooking_foods_desc_1011": [
+      "Las hamburguesas de origen vegetal son las estrellas indiscutible de este curri."
+    ],
+    "md_cooking_foods_desc_1012": [
+      "Una generosa cantidad de miel hace de\neste curri un favorito entre los niños."
+    ],
+    "md_cooking_foods_desc_1013": [
+      "Se dice que este curri a base de tofu\nes el preferido de los ninjas."
+    ],
+    "md_cooking_foods_desc_1014": [
+      "El brillo del rebozado recién frito\nhace la boca agua solo con verlo."
+    ],
+    "md_cooking_foods_desc_1015": [
+      "La tortilla de este curri está cocinada\nen su punto y se deshace en la boca."
+    ],
+    "md_cooking_foods_desc_1016": [
+      "Un plato enorme que aporta todos los\nnutrientes para ganar corpulencia."
+    ],
+    "md_cooking_foods_desc_11": [
+      "Hace entrar en calor a quien lo ingiere\ncomo ningún otro ingrediente."
+    ],
+    "md_cooking_foods_desc_12": [
+      "Tomate de color rojo intenso que da\nsueño a quien lo ingiere."
+    ],
+    "md_cooking_foods_desc_13": [
+      "Sus propiedades relajantes bien valen\nel tiempo que requiere procesar los\ngranos de cacao. "
+    ],
+    "md_cooking_foods_desc_14": [
+      "Sabrosa cola de origen desconocido.\nSiempre vuelven a crecer al poco de\ndesprenderse."
+    ],
+    "md_cooking_foods_desc_15": [
+      "Variedad de Isla Verdegal de sencillo\nprocesado, ideal para entrenarse."
+    ],
+    "md_cooking_foods_desc_2": [
+      "Suculenta seta de textura jugosa y\nsabor intenso."
+    ],
+    "md_cooking_foods_desc_2001": [
+      "El picante de las especias resalta el\nsabor dulce de la cola."
+    ],
+    "md_cooking_foods_desc_2002": [
+      "Ensalada rica en ingredientes que\nayudan a mejorar la calidad del sueño."
+    ],
+    "md_cooking_foods_desc_2003": [
+      "Ensalada de panceta cubierta por una\ngenerosa capa de queso espolvoreado."
+    ],
+    "md_cooking_foods_desc_2004": [
+      "Ensalada de patata aderezada con\nligeras notas de Manzana Selecta."
+    ],
+    "md_cooking_foods_desc_2005": [
+      "Ensalada con guarnición a base de\ncubos de tofu gelatinoso."
+    ],
+    "md_cooking_foods_desc_2006": [
+      "Generosa porción de ensalada que\nalimenta para un día entero."
+    ],
+    "md_cooking_foods_desc_2007": [
+      "Sencilla ensalada preparada con\nFiambre Vegetariano."
+    ],
+    "md_cooking_foods_desc_2008": [
+      "Elaborada con una variedad de tomate\nque ayuda a conciliar el sueño."
+    ],
+    "md_cooking_foods_desc_2009": [
+      "Sencilla ensalada a base de queso,\ntomates y un chorrito de aceite."
+    ],
+    "md_cooking_foods_desc_2010": [
+      "Disfruta de la alternancia de sabores\nentre la salsa salada y la de chocolate."
+    ],
+    "md_cooking_foods_desc_2011": [
+      "El aderezo especial a base de jengibre\naporta calidez al plato y al cuerpo."
+    ],
+    "md_cooking_foods_desc_2012": [
+      "Sencilla ensalada con aderezo a base\nde puré de manzana."
+    ],
+    "md_cooking_foods_desc_2013": [
+      "El puerro crujiente de esta ensalada\nrefuerza el sistema inmunitario."
+    ],
+    "md_cooking_foods_desc_2014": [
+      "El sencillo aderezo resalta la sublime\ncombinación de ingredientes."
+    ],
+    "md_cooking_foods_desc_2015": [
+      "Ningún ninja puede resistirse a esta\nensalada de tofu. Visto y no visto."
+    ],
+    "md_cooking_foods_desc_2016": [
+      "Ensalada de tofu cubierta de salsa\npicante de color rojo intenso."
+    ],
+    "md_cooking_foods_desc_3": [
+      "Ingrediente de alto valor nutritivo que\ncombina con toda clase de aderezos."
+    ],
+    "md_cooking_foods_desc_3001": [
+      "Los boniatos maduros aportan todo el\ndulzor sin necesidad de añadir miel."
+    ],
+    "md_cooking_foods_desc_3002": [
+      "Galletas que dan fuerzas para\nafrontar cualquier adversidad."
+    ],
+    "md_cooking_foods_desc_3003": [
+      "Un zumo con cuerpo, a partir de las\nmejores manzanas exprimidas."
+    ],
+    "md_cooking_foods_desc_3004": [
+      "Chispeante bebida gaseosa\nde elaboración casera."
+    ],
+    "md_cooking_foods_desc_3005": [
+      "La manzana rebaja el jengibre y hace\nque sea más agradable al paladar."
+    ],
+    "md_cooking_foods_desc_3006": [
+      "Flan muy especial, de consistencia\nelástica como la de un globo."
+    ],
+    "md_cooking_foods_desc_3007": [
+      "Bebida relajante que alivia la fatiga\ny ayuda a conciliar el sueño."
+    ],
+    "md_cooking_foods_desc_3008": [
+      "Si tu porción lleva trozos de manzana,\n¡disfruta de tu buena suerte!"
+    ],
+    "md_cooking_foods_desc_3009": [
+      "Bebida reconstituyente, receta\noriginal del Profesor Neroli."
+    ],
+    "md_cooking_foods_desc_3010": [
+      "Ni humanos ni Pokémon pueden\nresistirse a su dulce aroma."
+    ],
+    "md_cooking_foods_desc_3011": [
+      "Calentar la Leche Mu-mu resalta\ntodavía más su dulzor natural."
+    ],
+    "md_cooking_foods_desc_3012": [
+      "Tarta de soja de textura ligera."
+    ],
+    "md_cooking_foods_desc_3013": [
+      "Bebida dulce con la que premiarse\ntras un duro entrenamiento."
+    ],
+    "md_cooking_foods_desc_3014": [
+      "Zumo de sencilla elaboración con\ntoques naturales dulces y ácidos."
+    ],
+    "md_cooking_foods_desc_3015": [
+      "Pan frito especial elaborado según\nuna receta de Alola."
+    ],
+    "md_cooking_foods_desc_3016": [
+      "Los culturistas adoran estos roscos\nde soja de fritura perfecta."
+    ],
+    "md_cooking_foods_desc_4": [
+      "Su sabor y textura suaves templan\nel cuerpo y la mente."
+    ],
+    "md_cooking_foods_desc_5": [
+      "Especialmente seleccionada por su\nforma y lustre perfectos."
+    ],
+    "md_cooking_foods_desc_6": [
+      "Hierba de color rojo, tan picante que\nespabila al instante a quien la prueba."
+    ],
+    "md_cooking_foods_desc_7": [
+      "Elaborado a base de habas, hace las\ndelicias de los Pokémon."
+    ],
+    "md_cooking_foods_desc_8": [
+      "Leche de alto valor nutritivo que\nrestaura la salud de los Pokémon."
+    ],
+    "md_cooking_foods_desc_9": [
+      "Miel de dulce aroma recolectada por\nlos Pokémon."
+    ],
+    "md_cooking_foods_name_1": [
+      "Puerro Grueso"
+    ],
+    "md_cooking_foods_name_10": [
+      "Aceite Puro"
+    ],
+    "md_cooking_foods_name_1000": [
+      "Curri Mixto"
+    ],
+    "md_cooking_foods_name_1001": [
+      "Curri de Manzana Selecta"
+    ],
+    "md_cooking_foods_name_1002": [
+      "Curri de Cola a la Parrilla"
+    ],
+    "md_cooking_foods_name_1003": [
+      "Curri de Tomate \"Poder Solar\""
+    ],
+    "md_cooking_foods_name_1004": [
+      "Curri Cremoso \"Comesueños\""
+    ],
+    "md_cooking_foods_name_1005": [
+      "Curri de Puerro Picante"
+    ],
+    "md_cooking_foods_name_1006": [
+      "Curri de Setas \"Espora\""
+    ],
+    "md_cooking_foods_name_1007": [
+      "Curri \"Bomba Huevo\""
+    ],
+    "md_cooking_foods_name_1008": [
+      "Curri Sustancioso de Hamburguesa con Queso"
+    ],
+    "md_cooking_foods_name_1009": [
+      "Estofado de Patata"
+    ],
+    "md_cooking_foods_name_1010": [
+      "Sopa Cremosa"
+    ],
+    "md_cooking_foods_name_1011": [
+      "Curri de Hamburguesa Vegetariana"
+    ],
+    "md_cooking_foods_name_1012": [
+      "Curri Meloso"
+    ],
+    "md_cooking_foods_name_1013": [
+      "Curri Ninja"
+    ],
+    "md_cooking_foods_name_1014": [
+      "Curri con Escalope \"Sequía\""
+    ],
+    "md_cooking_foods_name_1015": [
+      "Curri de Tortilla Jugosa"
+    ],
+    "md_cooking_foods_name_1016": [
+      "Curri de Habas \"Corpulencia\""
+    ],
+    "md_cooking_foods_name_11": [
+      "Jengibre Cálido"
+    ],
+    "md_cooking_foods_name_12": [
+      "Siestomate"
+    ],
+    "md_cooking_foods_name_13": [
+      "Cacao Relajante"
+    ],
+    "md_cooking_foods_name_14": [
+      "Cola de Slowpoke"
+    ],
+    "md_cooking_foods_name_15": [
+      "Soja Verdegal"
+    ],
+    "md_cooking_foods_name_2": [
+      "Seta Sabrosa"
+    ],
+    "md_cooking_foods_name_2000": [
+      "Ensalada Mixta"
+    ],
+    "md_cooking_foods_name_2001": [
+      "Ensalada de Cola de Slowpoke a la Pimienta"
+    ],
+    "md_cooking_foods_name_2002": [
+      "Ensalada de Setas \"Espora\""
+    ],
+    "md_cooking_foods_name_2003": [
+      "Ensalada César \"Manto Níveo\""
+    ],
+    "md_cooking_foods_name_2004": [
+      "Ensalada de Patata \"Gula\""
+    ],
+    "md_cooking_foods_name_2005": [
+      "Ensalada de Tofu \"Velo Agua\""
+    ],
+    "md_cooking_foods_name_2006": [
+      "Ensaladón \"Fuerza Bruta\""
+    ],
+    "md_cooking_foods_name_2007": [
+      "Ensalada de Jamón Vegetariano"
+    ],
+    "md_cooking_foods_name_2008": [
+      "Ensalada de Siestomate"
+    ],
+    "md_cooking_foods_name_2009": [
+      "Ensalada con Mozzarella de Leche Mu-mu"
+    ],
+    "md_cooking_foods_name_2010": [
+      "Ensalada de Carne al Cacao \"Respondón\""
+    ],
+    "md_cooking_foods_name_2011": [
+      "Ensalada de Jengibre \"Sofoco\""
+    ],
+    "md_cooking_foods_name_2012": [
+      "Ensalada de Manzana Selecta"
+    ],
+    "md_cooking_foods_name_2013": [
+      "Ensalada de Puerro \"Inmunidad\""
+    ],
+    "md_cooking_foods_name_2014": [
+      "Ensalada de Manzana y Queso \"Atracción\""
+    ],
+    "md_cooking_foods_name_2015": [
+      "Ensalada Ninja"
+    ],
+    "md_cooking_foods_name_2016": [
+      "Ensalada de Tofu \"Onda Ígnea\""
+    ],
+    "md_cooking_foods_name_3": [
+      "Huevo Selecto"
+    ],
+    "md_cooking_foods_name_3000": [
+      "Zumo Mixto"
+    ],
+    "md_cooking_foods_name_3001": [
+      "Boniatos \"Peluche\""
+    ],
+    "md_cooking_foods_name_3002": [
+      "Galletas de Jengibre \"Impasible\""
+    ],
+    "md_cooking_foods_name_3003": [
+      "Zumo de Manzana Selecta"
+    ],
+    "md_cooking_foods_name_3004": [
+      "Refresco Casero"
+    ],
+    "md_cooking_foods_name_3005": [
+      "Té de Jengibre \"Ascuas\""
+    ],
+    "md_cooking_foods_name_3006": [
+      "Flan con Frutas de Jigglypuff"
+    ],
+    "md_cooking_foods_name_3007": [
+      "Batido \"Beso Amoroso\""
+    ],
+    "md_cooking_foods_name_3008": [
+      "Tarta de Manzana \"Deseo\""
+    ],
+    "md_cooking_foods_name_3009": [
+      "Té Reconstituyente de Neroli"
+    ],
+    "md_cooking_foods_name_3010": [
+      "Tarta de Chocolate \"Dulce Aroma\""
+    ],
+    "md_cooking_foods_name_3011": [
+      "Leche Mu-mu Caliente"
+    ],
+    "md_cooking_foods_name_3012": [
+      "Tarta de Soja \"Liviano\""
+    ],
+    "md_cooking_foods_name_3013": [
+      "Batido de Proteínas \"Entusiasmo\""
+    ],
+    "md_cooking_foods_name_3014": [
+      "Zumo de Verduras \"Acérrimo\""
+    ],
+    "md_cooking_foods_name_3015": [
+      "Malasada Maxi"
+    ],
+    "md_cooking_foods_name_3016": [
+      "Dónuts de Soja \"Potencia\""
+    ],
+    "md_cooking_foods_name_4": [
+      "Patata"
+    ],
+    "md_cooking_foods_name_5": [
+      "Manzana Selecta"
+    ],
+    "md_cooking_foods_name_5_update_test": [
+      "とくせんりんごテスト"
+    ],
+    "md_cooking_foods_name_6": [
+      "Hierba Picante"
+    ],
+    "md_cooking_foods_name_7": [
+      "Fiambre Vegetariano"
+    ],
+    "md_cooking_foods_name_8": [
+      "Leche Mu-mu"
+    ],
+    "md_cooking_foods_name_9": [
+      "Miel"
+    ],
+    "md_cooking_foods_narrow_name_1000": [
+      "Curri Mixto"
+    ],
+    "md_cooking_foods_narrow_name_1001": [
+      "Curri de Manzana Selecta"
+    ],
+    "md_cooking_foods_narrow_name_1002": [
+      "Curri de Cola a la Parrilla"
+    ],
+    "md_cooking_foods_narrow_name_1003": [
+      "Curri de Tomate\n\"Poder Solar\""
+    ],
+    "md_cooking_foods_narrow_name_1004": [
+      "Curri Cremoso\n\"Comesueños\""
+    ],
+    "md_cooking_foods_narrow_name_1005": [
+      "Curri de Puerro Picante"
+    ],
+    "md_cooking_foods_narrow_name_1006": [
+      "Curri de Setas \"Espora\""
+    ],
+    "md_cooking_foods_narrow_name_1007": [
+      "Curri \"Bomba Huevo\""
+    ],
+    "md_cooking_foods_narrow_name_1008": [
+      "Curri Sustancioso de\nHamburguesa con Queso"
+    ],
+    "md_cooking_foods_narrow_name_1009": [
+      "Estofado de Patata"
+    ],
+    "md_cooking_foods_narrow_name_1010": [
+      "Sopa Cremosa"
+    ],
+    "md_cooking_foods_narrow_name_1011": [
+      "Curri de Hamburguesa\nVegetariana"
+    ],
+    "md_cooking_foods_narrow_name_1012": [
+      "Curri Meloso"
+    ],
+    "md_cooking_foods_narrow_name_1013": [
+      "Curri Ninja"
+    ],
+    "md_cooking_foods_narrow_name_1014": [
+      "Curri con Escalope\n\"Sequía\""
+    ],
+    "md_cooking_foods_narrow_name_1015": [
+      "Curri de Tortilla\nJugosa"
+    ],
+    "md_cooking_foods_narrow_name_1016": [
+      "Curri de Habas\n\"Corpulencia\""
+    ],
+    "md_cooking_foods_narrow_name_2000": [
+      "Ensalada Mixta"
+    ],
+    "md_cooking_foods_narrow_name_2001": [
+      "Ensalada de Cola de\nSlowpoke a la Pimienta"
+    ],
+    "md_cooking_foods_narrow_name_2002": [
+      "Ensalada de Setas\n\"Espora\""
+    ],
+    "md_cooking_foods_narrow_name_2003": [
+      "Ensalada César\n\"Manto Níveo\""
+    ],
+    "md_cooking_foods_narrow_name_2004": [
+      "Ensalada de Patata\n\"Gula\""
+    ],
+    "md_cooking_foods_narrow_name_2005": [
+      "Ensalada de Tofu\n\"Velo Agua\""
+    ],
+    "md_cooking_foods_narrow_name_2006": [
+      "Ensaladón \"Fuerza Bruta\""
+    ],
+    "md_cooking_foods_narrow_name_2007": [
+      "Ensalada de Jamón\nVegetariano"
+    ],
+    "md_cooking_foods_narrow_name_2008": [
+      "Ensalada de Siestomate"
+    ],
+    "md_cooking_foods_narrow_name_2009": [
+      "Ensalada con Mozzarella\nde Leche Mu-mu"
+    ],
+    "md_cooking_foods_narrow_name_2010": [
+      "Ensalada de Carne al\nCacao \"Respondón\""
+    ],
+    "md_cooking_foods_narrow_name_2011": [
+      "Ensalada de Jengibre\n\"Sofoco\""
+    ],
+    "md_cooking_foods_narrow_name_2012": [
+      "Ensalada de Manzana\nSelecta"
+    ],
+    "md_cooking_foods_narrow_name_2013": [
+      "Ensalada de Puerro\n\"Inmunidad\""
+    ],
+    "md_cooking_foods_narrow_name_2014": [
+      "Ensalada de Manzana\ny Queso \"Atracción\""
+    ],
+    "md_cooking_foods_narrow_name_2015": [
+      "Ensalada Ninja"
+    ],
+    "md_cooking_foods_narrow_name_2016": [
+      "Ensalada de Tofu\n\"Onda Ígnea\""
+    ],
+    "md_cooking_foods_narrow_name_3000": [
+      "Zumo Mixto"
+    ],
+    "md_cooking_foods_narrow_name_3001": [
+      "Boniatos \"Peluche\""
+    ],
+    "md_cooking_foods_narrow_name_3002": [
+      "Galletas de Jengibre\n\"Impasible\""
+    ],
+    "md_cooking_foods_narrow_name_3003": [
+      "Zumo de Manzana Selecta"
+    ],
+    "md_cooking_foods_narrow_name_3004": [
+      "Refresco Casero"
+    ],
+    "md_cooking_foods_narrow_name_3005": [
+      "Té de Jengibre \"Ascuas\""
+    ],
+    "md_cooking_foods_narrow_name_3006": [
+      "Flan de Frutas de\nJigglypuff"
+    ],
+    "md_cooking_foods_narrow_name_3007": [
+      "Batido \"Beso Amoroso\""
+    ],
+    "md_cooking_foods_narrow_name_3008": [
+      "Tarta de Manzana\n\"Deseo\""
+    ],
+    "md_cooking_foods_narrow_name_3009": [
+      "Té Reconstituyente\nde Neroli"
+    ],
+    "md_cooking_foods_narrow_name_3010": [
+      "Tarta de Chocolate\n\"Dulce Aroma\""
+    ],
+    "md_cooking_foods_narrow_name_3011": [
+      "Leche Mu-mu Caliente"
+    ],
+    "md_cooking_foods_narrow_name_3012": [
+      "Tarta de Soja \"Liviano\""
+    ],
+    "md_cooking_foods_narrow_name_3013": [
+      "Batido de Proteínas\n\"Entusiasmo\""
+    ],
+    "md_cooking_foods_narrow_name_3014": [
+      "Zumo de Verduras\n\"Acérrimo\""
+    ],
+    "md_cooking_foods_narrow_name_3015": [
+      "Malasada Maxi"
+    ],
+    "md_cooking_foods_narrow_name_3016": [
+      "Dónuts de Soja\n\"Potencia\""
+    ],
+    "md_cooking_foods_narrow_name_5_update_test": [
+      "とくせんりんごテスト"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 182,
+        "size": 1278,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 97,
+        "size": 6722,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              17,
+              "md_cooking_foods_narrow_name_1015"
+            ],
+            [
+              38,
+              "md_cooking_foods_narrow_name_3002"
+            ],
+            [
+              75,
+              "md_cooking_foods_name_1007"
+            ],
+            [
+              79,
+              "md_cooking_foods_name_1011"
+            ],
+            [
+              131,
+              "md_cooking_foods_desc_13"
+            ]
+          ],
+          943
+        ],
+        [
+          [
+            [
+              18,
+              "md_cooking_foods_narrow_name_1016"
+            ],
+            [
+              39,
+              "md_cooking_foods_narrow_name_3003"
+            ],
+            [
+              76,
+              "md_cooking_foods_name_1008"
+            ],
+            [
+              80,
+              "md_cooking_foods_name_1012"
+            ],
+            [
+              132,
+              "md_cooking_foods_desc_14"
+            ]
+          ],
+          1110
+        ],
+        [
+          [
+            [
+              40,
+              "md_cooking_foods_narrow_name_3004"
+            ],
+            [
+              77,
+              "md_cooking_foods_name_1009"
+            ],
+            [
+              81,
+              "md_cooking_foods_name_1013"
+            ],
+            [
+              102,
+              "md_cooking_foods_name_3000"
+            ],
+            [
+              133,
+              "md_cooking_foods_desc_15"
+            ]
+          ],
+          1270
+        ],
+        [
+          [
+            [
+              41,
+              "md_cooking_foods_narrow_name_3005"
+            ],
+            [
+              62,
+              "md_cooking_foods_name_10"
+            ],
+            [
+              82,
+              "md_cooking_foods_name_1014"
+            ],
+            [
+              103,
+              "md_cooking_foods_name_3001"
+            ]
+          ],
+          1399
+        ],
+        [
+          [
+            [
+              42,
+              "md_cooking_foods_narrow_name_3006"
+            ],
+            [
+              46,
+              "md_cooking_foods_narrow_name_3010"
+            ],
+            [
+              63,
+              "md_cooking_foods_name_11"
+            ],
+            [
+              83,
+              "md_cooking_foods_name_1015"
+            ],
+            [
+              104,
+              "md_cooking_foods_name_3002"
+            ]
+          ],
+          1566
+        ],
+        [
+          [
+            [
+              43,
+              "md_cooking_foods_narrow_name_3007"
+            ],
+            [
+              47,
+              "md_cooking_foods_narrow_name_3011"
+            ],
+            [
+              64,
+              "md_cooking_foods_name_12"
+            ],
+            [
+              84,
+              "md_cooking_foods_name_1016"
+            ],
+            [
+              105,
+              "md_cooking_foods_name_3003"
+            ]
+          ],
+          1733
+        ],
+        [
+          [
+            [
+              44,
+              "md_cooking_foods_narrow_name_3008"
+            ],
+            [
+              48,
+              "md_cooking_foods_narrow_name_3012"
+            ],
+            [
+              65,
+              "md_cooking_foods_name_13"
+            ],
+            [
+              106,
+              "md_cooking_foods_name_3004"
+            ]
+          ],
+          1869
+        ],
+        [
+          [
+            [
+              45,
+              "md_cooking_foods_narrow_name_3009"
+            ],
+            [
+              49,
+              "md_cooking_foods_narrow_name_3013"
+            ],
+            [
+              66,
+              "md_cooking_foods_name_14"
+            ],
+            [
+              107,
+              "md_cooking_foods_name_3005"
+            ]
+          ],
+          2005
+        ],
+        [
+          [
+            [
+              50,
+              "md_cooking_foods_narrow_name_3014"
+            ],
+            [
+              67,
+              "md_cooking_foods_name_15"
+            ],
+            [
+              108,
+              "md_cooking_foods_name_3006"
+            ],
+            [
+              112,
+              "md_cooking_foods_name_3010"
+            ]
+          ],
+          2134
+        ],
+        [
+          [
+            [
+              51,
+              "md_cooking_foods_narrow_name_3015"
+            ],
+            [
+              109,
+              "md_cooking_foods_name_3007"
+            ],
+            [
+              113,
+              "md_cooking_foods_name_3011"
+            ]
+          ],
+          2234
+        ],
+        [
+          [
+            [
+              52,
+              "md_cooking_foods_narrow_name_3016"
+            ],
+            [
+              110,
+              "md_cooking_foods_name_3008"
+            ],
+            [
+              114,
+              "md_cooking_foods_name_3012"
+            ]
+          ],
+          2334
+        ],
+        [
+          [
+            [
+              19,
+              "md_cooking_foods_narrow_name_2000"
+            ],
+            [
+              111,
+              "md_cooking_foods_name_3009"
+            ],
+            [
+              115,
+              "md_cooking_foods_name_3013"
+            ]
+          ],
+          2434
+        ],
+        [
+          [
+            [
+              20,
+              "md_cooking_foods_narrow_name_2001"
+            ],
+            [
+              116,
+              "md_cooking_foods_name_3014"
+            ]
+          ],
+          2503
+        ],
+        [
+          [
+            [
+              21,
+              "md_cooking_foods_narrow_name_2002"
+            ],
+            [
+              117,
+              "md_cooking_foods_name_3015"
+            ]
+          ],
+          2572
+        ],
+        [
+          [
+            [
+              22,
+              "md_cooking_foods_narrow_name_2003"
+            ],
+            [
+              118,
+              "md_cooking_foods_name_3016"
+            ]
+          ],
+          2641
+        ],
+        [
+          [
+            [
+              23,
+              "md_cooking_foods_narrow_name_2004"
+            ]
+          ],
+          2679
+        ],
+        [
+          [
+            [
+              24,
+              "md_cooking_foods_narrow_name_2005"
+            ]
+          ],
+          2717
+        ],
+        [
+          [
+            [
+              25,
+              "md_cooking_foods_narrow_name_2006"
+            ],
+            [
+              29,
+              "md_cooking_foods_narrow_name_2010"
+            ]
+          ],
+          2793
+        ],
+        [
+          [
+            [
+              26,
+              "md_cooking_foods_narrow_name_2007"
+            ],
+            [
+              30,
+              "md_cooking_foods_narrow_name_2011"
+            ]
+          ],
+          2869
+        ],
+        [
+          [
+            [
+              27,
+              "md_cooking_foods_narrow_name_2008"
+            ],
+            [
+              31,
+              "md_cooking_foods_narrow_name_2012"
+            ]
+          ],
+          2945
+        ],
+        [
+          [
+            [
+              28,
+              "md_cooking_foods_narrow_name_2009"
+            ],
+            [
+              32,
+              "md_cooking_foods_narrow_name_2013"
+            ]
+          ],
+          3021
+        ],
+        [
+          [
+            [
+              33,
+              "md_cooking_foods_narrow_name_2014"
+            ]
+          ],
+          3059
+        ],
+        [
+          [
+            [
+              34,
+              "md_cooking_foods_narrow_name_2015"
+            ]
+          ],
+          3097
+        ],
+        [
+          [
+            [
+              35,
+              "md_cooking_foods_narrow_name_2016"
+            ]
+          ],
+          3135
+        ],
+        [
+          [],
+          3135
+        ],
+        [
+          [
+            [
+              119,
+              "md_cooking_foods_desc_1"
+            ]
+          ],
+          3163
+        ],
+        [
+          [
+            [
+              120,
+              "md_cooking_foods_desc_2"
+            ]
+          ],
+          3191
+        ],
+        [
+          [
+            [
+              121,
+              "md_cooking_foods_desc_3"
+            ]
+          ],
+          3219
+        ],
+        [
+          [
+            [
+              122,
+              "md_cooking_foods_desc_4"
+            ]
+          ],
+          3247
+        ],
+        [
+          [
+            [
+              123,
+              "md_cooking_foods_desc_5"
+            ]
+          ],
+          3275
+        ],
+        [
+          [
+            [
+              124,
+              "md_cooking_foods_desc_6"
+            ]
+          ],
+          3303
+        ],
+        [
+          [
+            [
+              125,
+              "md_cooking_foods_desc_7"
+            ]
+          ],
+          3331
+        ],
+        [
+          [
+            [
+              126,
+              "md_cooking_foods_desc_8"
+            ]
+          ],
+          3359
+        ],
+        [
+          [
+            [
+              127,
+              "md_cooking_foods_desc_9"
+            ]
+          ],
+          3387
+        ],
+        [
+          [],
+          3387
+        ],
+        [
+          [
+            [
+              150,
+              "md_cooking_foods_desc_2001"
+            ]
+          ],
+          3418
+        ],
+        [
+          [
+            [
+              151,
+              "md_cooking_foods_desc_2002"
+            ]
+          ],
+          3449
+        ],
+        [
+          [
+            [
+              152,
+              "md_cooking_foods_desc_2003"
+            ]
+          ],
+          3480
+        ],
+        [
+          [
+            [
+              153,
+              "md_cooking_foods_desc_2004"
+            ]
+          ],
+          3511
+        ],
+        [
+          [
+            [
+              154,
+              "md_cooking_foods_desc_2005"
+            ]
+          ],
+          3542
+        ],
+        [
+          [
+            [
+              155,
+              "md_cooking_foods_desc_2006"
+            ],
+            [
+              159,
+              "md_cooking_foods_desc_2010"
+            ]
+          ],
+          3604
+        ],
+        [
+          [
+            [
+              156,
+              "md_cooking_foods_desc_2007"
+            ],
+            [
+              160,
+              "md_cooking_foods_desc_2011"
+            ]
+          ],
+          3666
+        ],
+        [
+          [
+            [
+              157,
+              "md_cooking_foods_desc_2008"
+            ],
+            [
+              161,
+              "md_cooking_foods_desc_2012"
+            ]
+          ],
+          3728
+        ],
+        [
+          [
+            [
+              158,
+              "md_cooking_foods_desc_2009"
+            ],
+            [
+              162,
+              "md_cooking_foods_desc_2013"
+            ]
+          ],
+          3790
+        ],
+        [
+          [
+            [
+              163,
+              "md_cooking_foods_desc_2014"
+            ]
+          ],
+          3821
+        ],
+        [
+          [
+            [
+              164,
+              "md_cooking_foods_desc_2015"
+            ]
+          ],
+          3852
+        ],
+        [
+          [
+            [
+              165,
+              "md_cooking_foods_desc_2016"
+            ]
+          ],
+          3883
+        ],
+        [
+          [],
+          3883
+        ],
+        [
+          [
+            [
+              134,
+              "md_cooking_foods_desc_1001"
+            ]
+          ],
+          3914
+        ],
+        [
+          [
+            [
+              135,
+              "md_cooking_foods_desc_1002"
+            ]
+          ],
+          3945
+        ],
+        [
+          [
+            [
+              136,
+              "md_cooking_foods_desc_1003"
+            ]
+          ],
+          3976
+        ],
+        [
+          [
+            [
+              137,
+              "md_cooking_foods_desc_1004"
+            ]
+          ],
+          4007
+        ],
+        [
+          [
+            [
+              138,
+              "md_cooking_foods_desc_1005"
+            ]
+          ],
+          4038
+        ],
+        [
+          [
+            [
+              139,
+              "md_cooking_foods_desc_1006"
+            ],
+            [
+              143,
+              "md_cooking_foods_desc_1010"
+            ]
+          ],
+          4100
+        ],
+        [
+          [
+            [
+              140,
+              "md_cooking_foods_desc_1007"
+            ],
+            [
+              144,
+              "md_cooking_foods_desc_1011"
+            ]
+          ],
+          4162
+        ],
+        [
+          [
+            [
+              141,
+              "md_cooking_foods_desc_1008"
+            ],
+            [
+              145,
+              "md_cooking_foods_desc_1012"
+            ]
+          ],
+          4224
+        ],
+        [
+          [
+            [
+              142,
+              "md_cooking_foods_desc_1009"
+            ],
+            [
+              146,
+              "md_cooking_foods_desc_1013"
+            ]
+          ],
+          4286
+        ],
+        [
+          [
+            [
+              147,
+              "md_cooking_foods_desc_1014"
+            ],
+            [
+              166,
+              "md_cooking_foods_desc_3001"
+            ]
+          ],
+          4348
+        ],
+        [
+          [
+            [
+              148,
+              "md_cooking_foods_desc_1015"
+            ],
+            [
+              167,
+              "md_cooking_foods_desc_3002"
+            ]
+          ],
+          4410
+        ],
+        [
+          [
+            [
+              149,
+              "md_cooking_foods_desc_1016"
+            ],
+            [
+              168,
+              "md_cooking_foods_desc_3003"
+            ]
+          ],
+          4472
+        ],
+        [
+          [
+            [
+              169,
+              "md_cooking_foods_desc_3004"
+            ]
+          ],
+          4503
+        ],
+        [
+          [
+            [
+              170,
+              "md_cooking_foods_desc_3005"
+            ]
+          ],
+          4534
+        ],
+        [
+          [
+            [
+              1,
+              "md_cooking_foods_narrow_name_5_update_test"
+            ],
+            [
+              171,
+              "md_cooking_foods_desc_3006"
+            ],
+            [
+              175,
+              "md_cooking_foods_desc_3010"
+            ]
+          ],
+          4643
+        ],
+        [
+          [
+            [
+              172,
+              "md_cooking_foods_desc_3007"
+            ],
+            [
+              176,
+              "md_cooking_foods_desc_3011"
+            ]
+          ],
+          4705
+        ],
+        [
+          [
+            [
+              173,
+              "md_cooking_foods_desc_3008"
+            ],
+            [
+              177,
+              "md_cooking_foods_desc_3012"
+            ]
+          ],
+          4767
+        ],
+        [
+          [
+            [
+              174,
+              "md_cooking_foods_desc_3009"
+            ],
+            [
+              178,
+              "md_cooking_foods_desc_3013"
+            ]
+          ],
+          4829
+        ],
+        [
+          [
+            [
+              179,
+              "md_cooking_foods_desc_3014"
+            ]
+          ],
+          4860
+        ],
+        [
+          [
+            [
+              180,
+              "md_cooking_foods_desc_3015"
+            ]
+          ],
+          4891
+        ],
+        [
+          [
+            [
+              181,
+              "md_cooking_foods_desc_3016"
+            ]
+          ],
+          4922
+        ],
+        [
+          [],
+          4922
+        ],
+        [
+          [],
+          4922
+        ],
+        [
+          [],
+          4922
+        ],
+        [
+          [],
+          4922
+        ],
+        [
+          [
+            [
+              53,
+              "md_cooking_foods_name_1"
+            ]
+          ],
+          4950
+        ],
+        [
+          [
+            [
+              54,
+              "md_cooking_foods_name_2"
+            ]
+          ],
+          4978
+        ],
+        [
+          [
+            [
+              55,
+              "md_cooking_foods_name_3"
+            ]
+          ],
+          5006
+        ],
+        [
+          [
+            [
+              56,
+              "md_cooking_foods_name_4"
+            ]
+          ],
+          5034
+        ],
+        [
+          [
+            [
+              57,
+              "md_cooking_foods_name_5"
+            ],
+            [
+              85,
+              "md_cooking_foods_name_2000"
+            ]
+          ],
+          5093
+        ],
+        [
+          [
+            [
+              58,
+              "md_cooking_foods_name_6"
+            ],
+            [
+              86,
+              "md_cooking_foods_name_2001"
+            ]
+          ],
+          5152
+        ],
+        [
+          [
+            [
+              59,
+              "md_cooking_foods_name_7"
+            ],
+            [
+              87,
+              "md_cooking_foods_name_2002"
+            ]
+          ],
+          5211
+        ],
+        [
+          [
+            [
+              60,
+              "md_cooking_foods_name_8"
+            ],
+            [
+              88,
+              "md_cooking_foods_name_2003"
+            ]
+          ],
+          5270
+        ],
+        [
+          [
+            [
+              61,
+              "md_cooking_foods_name_9"
+            ],
+            [
+              89,
+              "md_cooking_foods_name_2004"
+            ]
+          ],
+          5329
+        ],
+        [
+          [
+            [
+              90,
+              "md_cooking_foods_name_2005"
+            ]
+          ],
+          5360
+        ],
+        [
+          [
+            [
+              91,
+              "md_cooking_foods_name_2006"
+            ],
+            [
+              95,
+              "md_cooking_foods_name_2010"
+            ]
+          ],
+          5422
+        ],
+        [
+          [
+            [
+              92,
+              "md_cooking_foods_name_2007"
+            ],
+            [
+              96,
+              "md_cooking_foods_name_2011"
+            ]
+          ],
+          5484
+        ],
+        [
+          [
+            [
+              93,
+              "md_cooking_foods_name_2008"
+            ],
+            [
+              97,
+              "md_cooking_foods_name_2012"
+            ]
+          ],
+          5546
+        ],
+        [
+          [
+            [
+              2,
+              "md_cooking_foods_narrow_name_1000"
+            ],
+            [
+              94,
+              "md_cooking_foods_name_2009"
+            ],
+            [
+              98,
+              "md_cooking_foods_name_2013"
+            ]
+          ],
+          5646
+        ],
+        [
+          [
+            [
+              3,
+              "md_cooking_foods_narrow_name_1001"
+            ],
+            [
+              99,
+              "md_cooking_foods_name_2014"
+            ]
+          ],
+          5715
+        ],
+        [
+          [
+            [
+              0,
+              "md_cooking_foods_name_5_update_test"
+            ],
+            [
+              4,
+              "md_cooking_foods_narrow_name_1002"
+            ],
+            [
+              100,
+              "md_cooking_foods_name_2015"
+            ]
+          ],
+          5824
+        ],
+        [
+          [
+            [
+              5,
+              "md_cooking_foods_narrow_name_1003"
+            ],
+            [
+              101,
+              "md_cooking_foods_name_2016"
+            ]
+          ],
+          5893
+        ],
+        [
+          [
+            [
+              6,
+              "md_cooking_foods_narrow_name_1004"
+            ],
+            [
+              68,
+              "md_cooking_foods_name_1000"
+            ]
+          ],
+          5962
+        ],
+        [
+          [
+            [
+              7,
+              "md_cooking_foods_narrow_name_1005"
+            ],
+            [
+              69,
+              "md_cooking_foods_name_1001"
+            ]
+          ],
+          6031
+        ],
+        [
+          [
+            [
+              8,
+              "md_cooking_foods_narrow_name_1006"
+            ],
+            [
+              12,
+              "md_cooking_foods_narrow_name_1010"
+            ],
+            [
+              70,
+              "md_cooking_foods_name_1002"
+            ]
+          ],
+          6138
+        ],
+        [
+          [
+            [
+              9,
+              "md_cooking_foods_narrow_name_1007"
+            ],
+            [
+              13,
+              "md_cooking_foods_narrow_name_1011"
+            ],
+            [
+              71,
+              "md_cooking_foods_name_1003"
+            ]
+          ],
+          6245
+        ],
+        [
+          [
+            [
+              10,
+              "md_cooking_foods_narrow_name_1008"
+            ],
+            [
+              14,
+              "md_cooking_foods_narrow_name_1012"
+            ],
+            [
+              72,
+              "md_cooking_foods_name_1004"
+            ],
+            [
+              128,
+              "md_cooking_foods_desc_10"
+            ]
+          ],
+          6381
+        ],
+        [
+          [
+            [
+              11,
+              "md_cooking_foods_narrow_name_1009"
+            ],
+            [
+              15,
+              "md_cooking_foods_narrow_name_1013"
+            ],
+            [
+              36,
+              "md_cooking_foods_narrow_name_3000"
+            ],
+            [
+              73,
+              "md_cooking_foods_name_1005"
+            ],
+            [
+              129,
+              "md_cooking_foods_desc_11"
+            ]
+          ],
+          6555
+        ],
+        [
+          [
+            [
+              16,
+              "md_cooking_foods_narrow_name_1014"
+            ],
+            [
+              37,
+              "md_cooking_foods_narrow_name_3001"
+            ],
+            [
+              74,
+              "md_cooking_foods_name_1006"
+            ],
+            [
+              78,
+              "md_cooking_foods_name_1010"
+            ],
+            [
+              130,
+              "md_cooking_foods_desc_12"
+            ]
+          ],
+          6722
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 182,
+        "size": 14766,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

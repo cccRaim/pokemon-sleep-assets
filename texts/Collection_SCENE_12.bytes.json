@@ -1,0 +1,280 @@
+{
+  "strings": {
+    "CollectionItemCell_Name_Locked": [
+      "???"
+    ],
+    "CollectionItemDetailPopup_CookingCount_Title": [
+      "Préparé(s) :"
+    ],
+    "CollectionItemDetailPopup_GetCount_Title": [
+      "Quantité :"
+    ],
+    "CollectionItemDetailPopup_GetCount_Value": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "CollectionItemDetailPopup_SectionHeader_Title": [
+      "Description"
+    ],
+    "CollectionItemDetailPopup_Title": [
+      "Détails"
+    ],
+    "CollectionItemListScene_Content_SectionHeader_Title": [
+      "Trié par : \u000e\u0003\u0006\u0002",
+      ""
+    ],
+    "CollectionScene_Content_Button_Berry": [
+      "Baies"
+    ],
+    "CollectionScene_Content_Button_Dish": [
+      "Plats"
+    ],
+    "CollectionScene_Content_Button_Ingredient": [
+      "Ingrédients"
+    ],
+    "CollectionScene_Content_Button_Per": [
+      "\u000e\u0002\u0002\u0002",
+      "/\u000e\u0002\u0002\u0002\u0001"
+    ],
+    "CollectionScene_Content_Button_SleepTips": [
+      "Astuces de sommeil"
+    ],
+    "CollectionScene_Content_CompletePer_All": [
+      "Total : \u000e\u0002\u0002\u0002",
+      " %"
+    ],
+    "CollectionScene_Content_Desc": [
+      "Consultez les objets et informations récoltés."
+    ],
+    "CollectionScene_Content_Title": [
+      "Notes de recherche"
+    ],
+    "CollectionScene_Header_Title": [
+      "Notes de recherche"
+    ],
+    "CollectionSleepTipsCell_LabelBg_Number": [
+      "Nº \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "CollectionSleepTipsCell_LockedView_Title": [
+      "???"
+    ],
+    "CollectionSleepTipsDetailPopup_Popup_Title_Number": [
+      "Astuce de sommeil nº \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "Collection_RegisterPopup_Dish_Desc": [
+      "\u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "Collection_RegisterPopup_Pickup_Desc": [
+      "\u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "Collection_RegisterPopup_Reward_Desc": [
+      "Vous obtenez une récompense grâce à\nvos notes de recherche !\n\u000e\u0003\u0003\u0004Ā촀 × \u000e\u0002\u0003\u0004\u0002촁"
+    ],
+    "Collection_RegisterPopup_Title": [
+      "Nouvelle note"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 23,
+        "size": 165,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 1073,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "CollectionScene_Content_Title"
+            ],
+            [
+              2,
+              "CollectionScene_Content_Desc"
+            ],
+            [
+              7,
+              "CollectionScene_Content_Button_Dish"
+            ],
+            [
+              20,
+              "Collection_RegisterPopup_Pickup_Desc"
+            ]
+          ],
+          252
+        ],
+        [
+          [
+            [
+              6,
+              "CollectionScene_Content_Button_Ingredient"
+            ],
+            [
+              10,
+              "CollectionItemCell_Name_Locked"
+            ],
+            [
+              14,
+              "CollectionItemDetailPopup_SectionHeader_Title"
+            ],
+            [
+              19,
+              "Collection_RegisterPopup_Dish_Desc"
+            ],
+            [
+              21,
+              "Collection_RegisterPopup_Reward_Desc"
+            ]
+          ],
+          463
+        ],
+        [
+          [
+            [
+              13,
+              "CollectionItemDetailPopup_GetCount_Value"
+            ]
+          ],
+          508
+        ],
+        [
+          [
+            [
+              5,
+              "CollectionScene_Content_Button_Per"
+            ],
+            [
+              11,
+              "CollectionItemDetailPopup_Title"
+            ]
+          ],
+          583
+        ],
+        [
+          [
+            [
+              18,
+              "Collection_RegisterPopup_Title"
+            ]
+          ],
+          618
+        ],
+        [
+          [
+            [
+              3,
+              "CollectionScene_Content_CompletePer_All"
+            ]
+          ],
+          662
+        ],
+        [
+          [
+            [
+              9,
+              "CollectionItemListScene_Content_SectionHeader_Title"
+            ],
+            [
+              12,
+              "CollectionItemDetailPopup_GetCount_Title"
+            ],
+            [
+              15,
+              "CollectionSleepTipsCell_LabelBg_Number"
+            ]
+          ],
+          806
+        ],
+        [
+          [],
+          806
+        ],
+        [
+          [],
+          806
+        ],
+        [
+          [
+            [
+              8,
+              "CollectionScene_Content_Button_SleepTips"
+            ],
+            [
+              17,
+              "CollectionSleepTipsDetailPopup_Popup_Title_Number"
+            ],
+            [
+              22,
+              "CollectionItemDetailPopup_CookingCount_Title"
+            ]
+          ],
+          954
+        ],
+        [
+          [
+            [
+              4,
+              "CollectionScene_Content_Button_Berry"
+            ]
+          ],
+          995
+        ],
+        [
+          [],
+          995
+        ],
+        [
+          [
+            [
+              0,
+              "CollectionScene_Header_Title"
+            ],
+            [
+              16,
+              "CollectionSleepTipsCell_LockedView_Title"
+            ]
+          ],
+          1073
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 23,
+        "size": 838,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

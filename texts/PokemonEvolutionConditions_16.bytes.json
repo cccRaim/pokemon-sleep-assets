@@ -1,0 +1,140 @@
+{
+  "strings": {
+    "EvolutionCondictionDesc_Gender_Female": [
+      "\u000e\u0003\u0001\u0002촀 debe ser\nhembra (♀)."
+    ],
+    "EvolutionCondictionDesc_Gender_Male": [
+      "\u000e\u0003\u0001\u0002촀 debe ser\nmacho (♂)."
+    ],
+    "EvolutionCondictionDesc_ItemNum": [
+      "\u000e\u0002\u0002\u0002\u0002 ×\u000e\u0003\u0003\u0004Ā촀"
+    ],
+    "EvolutionCondictionDesc_Nature": [
+      "\u000e\u0003\u0001\u0002촀 debe ser de\nnaturaleza \u000e\u0003\u0001\u0002촀"
+    ],
+    "EvolutionCondictionDesc_PeriodOfTime_1_2_3": [
+      "Debe evolucionar de día\n(entre las 06:00 y las 17:59)."
+    ],
+    "EvolutionCondictionDesc_PeriodOfTime_4": [
+      "Debe evolucionar de noche\n(entre las 18:00 y las 05:59)."
+    ],
+    "EvolutionCondictionDesc_Rank": [
+      "\u000e\u0003\u0001\u0002촀 debe subir al\nNv. \u000e\u0002\u0002\u0002\u0001."
+    ],
+    "EvolutionCondictionDesc_SpeciesCandy": [
+      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0002\u0002\u0002 "
+    ],
+    "EvolutionCondictionDesc_TotalSleepTime": [
+      "Debes registrar \u000e\t",
+      "\f\bhhhh\u0001 de sueño\ncon \u000e\u0003\u0001\u0002촀."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 9,
+        "size": 67,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 400,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              2,
+              "EvolutionCondictionDesc_ItemNum"
+            ],
+            [
+              3,
+              "EvolutionCondictionDesc_TotalSleepTime"
+            ],
+            [
+              5,
+              "EvolutionCondictionDesc_PeriodOfTime_4"
+            ]
+          ],
+          162
+        ],
+        [
+          [
+            [
+              6,
+              "EvolutionCondictionDesc_Nature"
+            ],
+            [
+              7,
+              "EvolutionCondictionDesc_Gender_Male"
+            ]
+          ],
+          237
+        ],
+        [
+          [
+            [
+              0,
+              "EvolutionCondictionDesc_SpeciesCandy"
+            ],
+            [
+              4,
+              "EvolutionCondictionDesc_PeriodOfTime_1_2_3"
+            ]
+          ],
+          325
+        ],
+        [
+          [
+            [
+              1,
+              "EvolutionCondictionDesc_Rank"
+            ]
+          ],
+          358
+        ],
+        [
+          [
+            [
+              8,
+              "EvolutionCondictionDesc_Gender_Female"
+            ]
+          ],
+          400
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 9,
+        "size": 650,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

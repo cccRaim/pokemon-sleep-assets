@@ -1,0 +1,145 @@
+{
+  "strings": {
+    "SleepingFacePokedexDetailScene_Content_Height": [
+      "Taille :"
+    ],
+    "SleepingFacePokedexDetailScene_Content_PokedexSubId": [
+      "# \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SleepingFacePokedexDetailScene_Content_Title": [
+      "Dododex"
+    ],
+    "SleepingFacePokedexDetailScene_Content_Type": [
+      "Type : \u000e\u0003\u0002\u0002촀"
+    ],
+    "SleepingFacePokedexDetailScene_Content_Weight": [
+      "Poids :"
+    ],
+    "SleepingFacePokedexDetailScene_Header_GetCount": [
+      "Apprivoisé\u000e\u0004",
+      "\b",
+      "\u0002s촀 : \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SleepingFacePokedexDetailScene_Header_PokedexNumber": [
+      "\u000e\u0002\u0003\u0004Ā촀"
+    ],
+    "SleepingFacePokedexDetailScene_Header_ResearchCount": [
+      "Étudié\u000e\u0004",
+      "\b",
+      "\u0002s촀 : \u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SleepingFacePokedexDetailScene_Header_SleepType": [
+      "Type \u000e\u0003\u0004\u0002Ȁ"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 9,
+        "size": 67,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 508,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              2,
+              "SleepingFacePokedexDetailScene_Content_Height"
+            ]
+          ],
+          90
+        ],
+        [
+          [
+            [
+              7,
+              "SleepingFacePokedexDetailScene_Header_ResearchCount"
+            ],
+            [
+              8,
+              "SleepingFacePokedexDetailScene_Header_GetCount"
+            ]
+          ],
+          197
+        ],
+        [
+          [
+            [
+              0,
+              "SleepingFacePokedexDetailScene_Content_Title"
+            ],
+            [
+              4,
+              "SleepingFacePokedexDetailScene_Content_PokedexSubId"
+            ]
+          ],
+          302
+        ],
+        [
+          [],
+          302
+        ],
+        [
+          [
+            [
+              1,
+              "SleepingFacePokedexDetailScene_Content_Weight"
+            ],
+            [
+              3,
+              "SleepingFacePokedexDetailScene_Content_Type"
+            ],
+            [
+              5,
+              "SleepingFacePokedexDetailScene_Header_PokedexNumber"
+            ],
+            [
+              6,
+              "SleepingFacePokedexDetailScene_Header_SleepType"
+            ]
+          ],
+          508
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 9,
+        "size": 264,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

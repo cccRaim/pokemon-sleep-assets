@@ -1,0 +1,757 @@
+{
+  "strings": {
+    "TutorialGuideView_Desc": [
+      "チュートリアル"
+    ],
+    "TutorialManager_Text_1": [
+      "就寝時刻のお知らせ"
+    ],
+    "TutorialManager_Text_2": [
+      "ねむる準備ができたら、アプリを開いてカビゴンを寝かしつけましょう"
+    ],
+    "TutorialMicrophonePermissionPopup_Message": [
+      "\u000e",
+      "\u0003\u0004ꈝ￿睡眠時の騒音\u000e",
+      "\u0003\u0004",
+      "＀ の確認・分析機能"
+    ],
+    "TutorialMicrophonePermissionPopup_Message_2": [
+      "\u000e",
+      "\u0003\u0004ꈝ￿睡眠計測の失敗回避\u000e",
+      "\u0003\u0004",
+      "＀ 機能"
+    ],
+    "TutorialMicrophonePermissionPopup_Message_small": [
+      "（アプリのバックグラウンド動作による\n測定エラーの回避機能）"
+    ],
+    "TutorialMicrophonePermissionPopup_Misc": [
+      "※ 録音された音声データは\u000e",
+      "\u0003\u0004쨗ｎあなただけ\u000e",
+      "\u0003\u0004",
+      "＀が確認することができ、\nサーバーに送信されることはありません。また、音声以外の\nデータについても第三者に共有されることはありません。"
+    ],
+    "TutorialMicrophonePermissionPopup_Title": [
+      "睡眠計測中のマイクアクセスについて"
+    ],
+    "TutorialMicrophonePermissionPopup_Title_2": [
+      "睡眠計測を行うには、以下の機能を\n有効化するために\n\u000e",
+      "\u0003\u0004毿Ｗマイクへのアクセス許可 \u000e",
+      "\u0003\u0004",
+      "＀が必要です"
+    ],
+    "TutorialPopupUtils_Text_10": [
+      "睡眠スコア\nについて"
+    ],
+    "TutorialPopupUtils_Text_11": [
+      "睡眠ステージ\nについて"
+    ],
+    "TutorialPopupUtils_Text_12": [
+      "睡眠リサーチの\nまとめ"
+    ],
+    "TutorialPopupUtils_Text_13": [
+      "ポケサブレに\nついて"
+    ],
+    "TutorialPopupUtils_Text_14": [
+      "フィールドの\n移動"
+    ],
+    "TutorialPopupUtils_Text_15": [
+      "1週間かけて\nカビゴンを\n育てよう"
+    ],
+    "TutorialPopupUtils_Text_2": [
+      "睡眠計測のやり方"
+    ],
+    "TutorialPopupUtils_Text_22": [
+      "詳しい設定について"
+    ],
+    "TutorialPopupUtils_Text_24": [
+      "今日の夜、ねむる準備ができたら、\n右下の「ねむる」ボタンから\nカビゴンを寝かせて\n睡眠計測をスタートしてから\n寝るようにしましょう"
+    ],
+    "TutorialPopupUtils_Text_44": [
+      "Pokémon GO Plus +のアラーム設定や\n本体設定などは、ホーム画面右下にある\n「Pokémon GO Plus +」ボタンから\n行うことができます\nPokémon GO Plus +が近くにある状態で\nお試しください"
+    ],
+    "TutorialPopupUtils_Text_5": [
+      "フレンドポイントが\n貯まると\nポケモンが仲間に"
+    ],
+    "TutorialPopupUtils_Text_7": [
+      "おてつだい\nポケモンの\nげんき"
+    ],
+    "TutorialPopupUtils_Text_9": [
+      "睡眠タイプ\nについて"
+    ],
+    "TutorialPopup_Summary_Desc": [
+      "食べものをあげて寝るまでに\nカビゴンをなるべく\u000e",
+      "\u0003\u0004毿Ｗ大きく育てる\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "TutorialPopup_Summary_Desc_2": [
+      "寝るときにPokémon Sleepで\n\u000e",
+      "\u0003\u0004毿Ｗ睡眠計測\u000e",
+      "\u0003\u0004",
+      "＀を行う"
+    ],
+    "TutorialPopup_Summary_Desc_3": [
+      "朝起きたらポケモンの\u000e",
+      "\u0003\u0004毿Ｗ睡眠リサーチ\u000e",
+      "\u0003\u0004",
+      "＀を行い\n寝顔図鑑の完成を目指そう！"
+    ],
+    "TutorialPopup_Summary_Title_Desc": [
+      "まとめ"
+    ],
+    "TutorialPopup_Summary_Title_tutorial": [
+      "チュートリアル"
+    ],
+    "TutorialPopup_Title_tutorial": [
+      "チュートリアル"
+    ],
+    "TutorialStartDaytimeTutorialConfirmPopup_OKButton": [
+      "はじめる"
+    ],
+    "TutorialTimeSettingPopup_HeadlineDesc": [
+      "目標時刻の30分前にプッシュ通知でお知らせします\n※あとで設定を変更することもできます"
+    ],
+    "TutorialTimeSettingPopup_HeadlineTitle": [
+      "就寝アラーム時刻"
+    ],
+    "TutorialTimeSettingPopup_Title": [
+      "アラーム時刻"
+    ],
+    "Tutorial_Illust_Desc_BaitBallPhase": [
+      "おやつタイム"
+    ],
+    "Tutorial_Illust_Desc_Berry": [
+      "たべものをあげて\nカビゴンを育てよう"
+    ],
+    "Tutorial_Illust_Desc_Cooking": [
+      "料理\nについて"
+    ],
+    "Tutorial_Illust_Desc_FriendPoint": [
+      "フレンドポイントが\n貯まると\nポケモンが仲間に"
+    ],
+    "Tutorial_Illust_Desc_MasterBaitBall": [
+      "マスターサブレ"
+    ],
+    "Tutorial_Illust_Desc_PokemonPower": [
+      "おてつだい\nポケモンの\nげんき"
+    ],
+    "Tutorial_Illust_Desc_Recipe": [
+      "料理レシピの例"
+    ],
+    "Tutorial_Illust_Desc_SleepPass": [
+      "スリープパス\nについて"
+    ],
+    "Tutorial_Illust_Desc_SleepPass_Point": [
+      "スリープポイントで\nアイテムをGET"
+    ],
+    "Tutorial_Illust_Desc_SleepPointExchange": [
+      "スリープポイント\n交換所"
+    ],
+    "Tutorial_Illust_Desc_SleepPower_Title": [
+      "ねむけパワーについて"
+    ],
+    "Tutorial_Illust_Desc_SleepResearchSummary": [
+      "睡眠リサーチの\nまとめ"
+    ],
+    "Tutorial_Illust_Desc_SleepResearch_PokemonSleepType": [
+      "睡眠タイプ\nについて"
+    ],
+    "Tutorial_Illust_Desc_SleepResearch_PokemonSleepType_DeeSleep": [
+      "ぐっすりタイプ\nのポケモンたち"
+    ],
+    "Tutorial_Illust_Desc_SleepResearch_PokemonSleepType_LightSleep": [
+      "すやすやタイプ\nのポケモンたち"
+    ],
+    "Tutorial_Illust_Desc_SleepResearch_PokemonSleepType_Wake": [
+      "うとうとタイプ\nのポケモンたち"
+    ],
+    "Tutorial_Illust_Desc_SleepScore": [
+      "睡眠スコア\nについて"
+    ],
+    "Tutorial_Illust_Desc_SleepStage": [
+      "睡眠ステージ\nについて"
+    ],
+    "Tutorial_Illust_Desc_SleepStage_Graph_YLabel_DeepSleep": [
+      "ぐっすり"
+    ],
+    "Tutorial_Illust_Desc_SleepStage_Graph_YLabel_LightSleep": [
+      "すやすや"
+    ],
+    "Tutorial_Illust_Desc_SleepStage_Graph_YLabel_Wake": [
+      "うとうと"
+    ],
+    "Tutorial_Illust_Desc_SleepStage_Label_DeepSleep": [
+      "ぐっすり"
+    ],
+    "Tutorial_Illust_Desc_SleepStage_Label_LightSleep": [
+      "すやすや"
+    ],
+    "Tutorial_Illust_Desc_SleepStage_Label_Wake": [
+      "うとうと"
+    ],
+    "Tutorial_Illust_Desc_SleepStage_Title": [
+      "3つの睡眠ステージ"
+    ],
+    "Tutorial_Illust_Desc_SleepType_Title": [
+      "睡眠タイプ\nについて"
+    ],
+    "Tutorial_Illust_Desc_SnorlaxMeet": [
+      "1週間かけて\nカビゴンを育てよう"
+    ],
+    "Tutorial_Illust_Title": [
+      "チュートリアル"
+    ],
+    "Tutorial_MasterBaitBallPopup_Content_Desc": [
+      "マスターサブレを1個あげると、\nどんなポケモンでも\nフレンドポイントがMAXになります\n次の睡眠リサーチで試しに使ってみて\nその効果をみてみよう！"
+    ],
+    "Tutorial_MasterBaitBallPopup_Content_Title_1": [
+      "【 次の睡眠の特典 】"
+    ],
+    "Tutorial_MasterBaitBallPopup_Content_Title_2": [
+      "マスターサブレをあげてみよう！"
+    ],
+    "Tutorial_MasterBaitBallPopup_Header_Title": [
+      "次の睡眠の特典"
+    ],
+    "Tutorial_NewComerBonusPopup_Heading": [
+      "7回限定"
+    ],
+    "Tutorial_NewComerBonusPopup_Points": [
+      "x 600"
+    ],
+    "Tutorial_NewComerBonusPopup_Text_1": [
+      "睡眠リサーチをすると１日1回ボーナス\n\u000e",
+      "\u0003\u0004ꈝ￿スリープポイント x 600\u000e",
+      "\u0003\u0004",
+      "＀ をプレゼント！\n最大7回分の4200ポイントを貯めて、スリープ\nポイント交換所で \u000e",
+      "\u0003\u0004ꈝ￿マスターサブレ\u000e",
+      "\u0003\u0004",
+      "＀ を手に入れてみよう"
+    ],
+    "Tutorial_NewComerBonusPopup_Text_2": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆ※ ボーナススリープポイントが獲得できるのは1日1回\nのみです。2回目の睡眠リサーチでは獲得できません。\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "Tutorial_NewComerBonusPopup_Title": [
+      "かけだしリサーチャー特典"
+    ],
+    "Tutorial_SetUserName_Note": [
+      "※最大で全角6文字、\n半角12文字まで入力可能です\nあとで変更もできます"
+    ],
+    "Tutorial_SetUserName_Title": [
+      "ユーザーネーム"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 71,
+        "size": 501,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 37,
+        "size": 3133,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              16,
+              "Tutorial_Illust_Desc_FriendPoint"
+            ],
+            [
+              35,
+              "TutorialPopupUtils_Text_10"
+            ]
+          ],
+          364
+        ],
+        [
+          [
+            [
+              36,
+              "TutorialPopupUtils_Text_11"
+            ],
+            [
+              57,
+              "TutorialTimeSettingPopup_Title"
+            ],
+            [
+              63,
+              "Tutorial_MasterBaitBallPopup_Content_Title_1"
+            ]
+          ],
+          479
+        ],
+        [
+          [
+            [
+              37,
+              "TutorialPopupUtils_Text_12"
+            ],
+            [
+              53,
+              "TutorialPopup_Summary_Desc"
+            ],
+            [
+              59,
+              "TutorialTimeSettingPopup_HeadlineDesc"
+            ],
+            [
+              64,
+              "Tutorial_MasterBaitBallPopup_Content_Title_2"
+            ]
+          ],
+          632
+        ],
+        [
+          [
+            [
+              15,
+              "Tutorial_Illust_Desc_BaitBallPhase"
+            ],
+            [
+              20,
+              "Tutorial_Illust_Desc_SleepResearch_PokemonSleepType_Wake"
+            ],
+            [
+              28,
+              "Tutorial_SetUserName_Note"
+            ],
+            [
+              38,
+              "TutorialPopupUtils_Text_13"
+            ],
+            [
+              45,
+              "TutorialMicrophonePermissionPopup_Title_2"
+            ],
+            [
+              52,
+              "TutorialPopup_Summary_Title_Desc"
+            ]
+          ],
+          876
+        ],
+        [
+          [
+            [
+              21,
+              "Tutorial_Illust_Desc_SleepResearch_PokemonSleepType_DeeSleep"
+            ],
+            [
+              39,
+              "TutorialPopupUtils_Text_14"
+            ]
+          ],
+          972
+        ],
+        [
+          [
+            [
+              7,
+              "Tutorial_Illust_Desc_SleepStage_Label_Wake"
+            ],
+            [
+              40,
+              "TutorialPopupUtils_Text_15"
+            ],
+            [
+              54,
+              "TutorialPopup_Summary_Desc_2"
+            ]
+          ],
+          1083
+        ],
+        [
+          [
+            [
+              17,
+              "Tutorial_Illust_Desc_SnorlaxMeet"
+            ],
+            [
+              55,
+              "TutorialPopup_Summary_Desc_3"
+            ]
+          ],
+          1153
+        ],
+        [
+          [
+            [
+              23,
+              "Tutorial_Illust_Desc_Berry"
+            ]
+          ],
+          1184
+        ],
+        [
+          [],
+          1184
+        ],
+        [
+          [
+            [
+              24,
+              "Tutorial_Illust_Desc_PokemonPower"
+            ],
+            [
+              60,
+              "Tutorial_Illust_Desc_MasterBaitBall"
+            ],
+            [
+              66,
+              "Tutorial_NewComerBonusPopup_Title"
+            ]
+          ],
+          1300
+        ],
+        [
+          [
+            [
+              8,
+              "Tutorial_Illust_Desc_SleepStage_Label_LightSleep"
+            ],
+            [
+              68,
+              "Tutorial_NewComerBonusPopup_Points"
+            ]
+          ],
+          1392
+        ],
+        [
+          [
+            [
+              51,
+              "TutorialPopup_Summary_Title_tutorial"
+            ]
+          ],
+          1433
+        ],
+        [
+          [],
+          1433
+        ],
+        [
+          [
+            [
+              22,
+              "Tutorial_Illust_Desc_SleepResearch_PokemonSleepType_LightSleep"
+            ]
+          ],
+          1500
+        ],
+        [
+          [
+            [
+              69,
+              "Tutorial_NewComerBonusPopup_Text_1"
+            ]
+          ],
+          1539
+        ],
+        [
+          [
+            [
+              2,
+              "TutorialGuideView_Desc"
+            ],
+            [
+              14,
+              "Tutorial_Illust_Desc_SleepStage_Graph_YLabel_DeepSleep"
+            ],
+            [
+              46,
+              "TutorialMicrophonePermissionPopup_Message"
+            ],
+            [
+              56,
+              "TutorialStartDaytimeTutorialConfirmPopup_OKButton"
+            ],
+            [
+              70,
+              "Tutorial_NewComerBonusPopup_Text_2"
+            ]
+          ],
+          1764
+        ],
+        [
+          [
+            [
+              26,
+              "Tutorial_Illust_Desc_SleepPass_Point"
+            ]
+          ],
+          1805
+        ],
+        [
+          [],
+          1805
+        ],
+        [
+          [
+            [
+              0,
+              "Tutorial_Illust_Desc_Cooking"
+            ],
+            [
+              49,
+              "TutorialMicrophonePermissionPopup_Misc"
+            ],
+            [
+              65,
+              "Tutorial_MasterBaitBallPopup_Content_Desc"
+            ]
+          ],
+          1927
+        ],
+        [
+          [],
+          1927
+        ],
+        [
+          [],
+          1927
+        ],
+        [
+          [
+            [
+              48,
+              "TutorialMicrophonePermissionPopup_Message_small"
+            ]
+          ],
+          1979
+        ],
+        [
+          [],
+          1979
+        ],
+        [
+          [
+            [
+              47,
+              "TutorialMicrophonePermissionPopup_Message_2"
+            ]
+          ],
+          2027
+        ],
+        [
+          [
+            [
+              18,
+              "Tutorial_Illust_Desc_SleepResearchSummary"
+            ],
+            [
+              27,
+              "Tutorial_SetUserName_Title"
+            ],
+            [
+              62,
+              "Tutorial_MasterBaitBallPopup_Header_Title"
+            ]
+          ],
+          2150
+        ],
+        [
+          [
+            [
+              41,
+              "TutorialPopupUtils_Text_22"
+            ]
+          ],
+          2181
+        ],
+        [
+          [
+            [
+              31,
+              "TutorialPopupUtils_Text_2"
+            ],
+            [
+              58,
+              "TutorialTimeSettingPopup_HeadlineTitle"
+            ],
+            [
+              61,
+              "Tutorial_Illust_Desc_SleepPointExchange"
+            ]
+          ],
+          2298
+        ],
+        [
+          [
+            [
+              42,
+              "TutorialPopupUtils_Text_24"
+            ]
+          ],
+          2329
+        ],
+        [
+          [
+            [
+              3,
+              "Tutorial_Illust_Title"
+            ],
+            [
+              10,
+              "Tutorial_Illust_Desc_SleepType_Title"
+            ]
+          ],
+          2396
+        ],
+        [
+          [
+            [
+              4,
+              "Tutorial_Illust_Desc_SleepScore"
+            ],
+            [
+              25,
+              "Tutorial_Illust_Desc_SleepPass"
+            ],
+            [
+              32,
+              "TutorialPopupUtils_Text_5"
+            ]
+          ],
+          2497
+        ],
+        [
+          [
+            [
+              29,
+              "TutorialManager_Text_1"
+            ]
+          ],
+          2524
+        ],
+        [
+          [
+            [
+              9,
+              "Tutorial_Illust_Desc_SleepStage_Label_DeepSleep"
+            ],
+            [
+              30,
+              "TutorialManager_Text_2"
+            ],
+            [
+              33,
+              "TutorialPopupUtils_Text_7"
+            ],
+            [
+              67,
+              "Tutorial_NewComerBonusPopup_Heading"
+            ]
+          ],
+          2673
+        ],
+        [
+          [
+            [
+              19,
+              "Tutorial_Illust_Desc_SleepResearch_PokemonSleepType"
+            ],
+            [
+              44,
+              "TutorialMicrophonePermissionPopup_Title"
+            ]
+          ],
+          2773
+        ],
+        [
+          [
+            [
+              5,
+              "Tutorial_Illust_Desc_SleepStage"
+            ],
+            [
+              13,
+              "Tutorial_Illust_Desc_SleepStage_Graph_YLabel_LightSleep"
+            ],
+            [
+              34,
+              "TutorialPopupUtils_Text_9"
+            ]
+          ],
+          2899
+        ],
+        [
+          [
+            [
+              11,
+              "Tutorial_Illust_Desc_SleepPower_Title"
+            ],
+            [
+              12,
+              "Tutorial_Illust_Desc_SleepStage_Graph_YLabel_Wake"
+            ]
+          ],
+          2995
+        ],
+        [
+          [
+            [
+              6,
+              "Tutorial_Illust_Desc_SleepStage_Title"
+            ]
+          ],
+          3037
+        ],
+        [
+          [
+            [
+              1,
+              "Tutorial_Illust_Desc_Recipe"
+            ],
+            [
+              43,
+              "TutorialPopupUtils_Text_44"
+            ],
+            [
+              50,
+              "TutorialPopup_Title_tutorial"
+            ]
+          ],
+          3133
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 71,
+        "size": 3324,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

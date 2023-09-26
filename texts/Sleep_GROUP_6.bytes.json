@@ -1,0 +1,423 @@
+{
+  "strings": {
+    "AlarmModal_Desc": [
+      "It’s time to get up!"
+    ],
+    "AlarmModal_StopButton": [
+      "Snooze"
+    ],
+    "MidSleepTimeInfoPopup_Desc": [
+      "The time that falls \u000e",
+      "\u0003\u0004毿Ｗright in the middle \u000e",
+      "\u0003\u0004",
+      "＀of\nwhen you fell asleep and when you woke\nup is called your \u000e",
+      "\u0003\u0004毿Ｗsleep midpoint\u000e",
+      "\u0003\u0004",
+      "＀.\nThe less this time varies from day to\nday, the more consistent your sleep\nis considered to be."
+    ],
+    "MidSleepTimeInfoPopup_Time": [
+      "Your Sleep Midpoint"
+    ],
+    "SleepAnalyzerManager_Text_1": [
+      "Tracking Sleep"
+    ],
+    "SleepAnalyzerManager_Text_2": [
+      "To make sure sleep tracking works\nproperly, please keep the app open."
+    ],
+    "SleepAnalyzerManager_Text_3": [
+      "The app closed while tracking sleep.\nPlease open the app and start again."
+    ],
+    "SleepDataLimitPopup_DataDayNumValue": [
+      "\u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0014\u0006day\bdays촀"
+    ],
+    "SleepDataLimitPopup_DataNumLabel": [
+      "Total Data"
+    ],
+    "SleepDataLimitPopup_DataWeekNumValue": [
+      "\u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\bweek\nweeks촀"
+    ],
+    "SleepDataLimitPopup_RegularityDataLimitDesc": [
+      "With a Regular Pass, you can view\nyour sleep consistency data for\nthe past \u000e\u0002",
+      "\u0002촀 \u000e\u0001",
+      "\u0018\bweek\nweeks촀.\nIf you wish to \u000e",
+      "\u0003\u0004毿Ｗview all past data\u000e",
+      "\u0003\u0004",
+      "＀, you will\nneed a \u000e",
+      "\u0003\u0004毿ＷPremium Pass\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "SleepDataLimitPopup_SleepDataLimitDesc": [
+      "With a Regular Pass, you can view\nyour sleep data for the past \u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0014\u0006day\bdays촀.\nIf you wish to \u000e",
+      "\u0003\u0004毿Ｗview all past data\u000e",
+      "\u0003\u0004",
+      "＀,\nyou will need a \u000e",
+      "\u0003\u0004毿ＷPremium Pass\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "SleepDataLimitPopup_Title": [
+      "Viewing Sleep Data Records"
+    ],
+    "SleepDataLimitPopup_ToSleepPass": [
+      "To Sleep Passes"
+    ],
+    "SleepDataSalvageLoader_Error_DataVersionNotMatch_Message": [
+      "We couldn’t use the sleep you \ntracked because the data is from\nan outdated software version."
+    ],
+    "SleepDataSalvageLoader_Text_1": [
+      "Data Restoration Complete"
+    ],
+    "SleepDataSalvageLoader_Text_2": [
+      "Loading your sleep research..."
+    ],
+    "SleepDataSalvageLoader_Text_3": [
+      "Data entries with overlapping time\nperiods were found."
+    ],
+    "SleepDataSalvageLoader_Text_4": [
+      "You’ve exceeded the max number of\nsleep sessions you can track in a day."
+    ],
+    "SleepDataSalvageLoader_Text_5": [
+      "This sleep data has already\nbeen recorded."
+    ],
+    "SleepDataSalvageLoader_Text_6": [
+      "No valid sleep data was found."
+    ],
+    "SleepDataSalvageLoader_Text_7": [
+      "No valid sleep data was found."
+    ],
+    "SleepDataSalvageLoader_Text_8": [
+      "An error has occurred on the server."
+    ],
+    "SleepDataSalvageLoader_Text_9": [
+      "Sleep Data Error"
+    ],
+    "SleepResultManager_Text_2": [
+      "Looks like you had more \u000e\u0003\u0004\u0002",
+      "-type sleep than\nthe global average."
+    ],
+    "SleepResultManager_Text_4": [
+      "Looks like you had \u000e\u0002\u0001\u0002\u0001% more \u000e\u0003\u0004\u0002",
+      "-type\nsleep than was typical in your past data."
+    ],
+    "SleepTypeDetector_Text_1": [
+      "Balanced Type"
+    ],
+    "SleepTypeDetector_Text_2": [
+      "\u000e\u0003\u0004\u0002Ā Type"
+    ],
+    "SleepTypeDetector_Text_5": [
+      "Undetermined"
+    ],
+    "SleepTypeDetector_Text_6": [
+      "Comparison to Global Average"
+    ],
+    "SleepTypeDetector_Text_7": [
+      "Compared to Past (less than one week)"
+    ],
+    "SleepTypeDetector_Text_8": [
+      "Compared to Past (max 30 days)"
+    ],
+    "SleepingFaceAssetDownloadLoader_Text_1": [
+      "Download Error"
+    ],
+    "SleepingFaceAssetDownloadLoader_Text_2": [
+      "An error occurred while downloading.\nPlease wait awhile, then try\ndownloading again."
+    ],
+    "SleepingFaceAssetDownloadLoader_Text_3": [
+      "Error"
+    ],
+    "SleepingFaceAssetDownloadLoader_Text_4": [
+      "Your device doesn’t have enough\nstorage space left. Please free up\nspace as needed."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 36,
+        "size": 256,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 19,
+        "size": 1404,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [],
+          152
+        ],
+        [
+          [
+            [
+              32,
+              "SleepDataLimitPopup_RegularityDataLimitDesc"
+            ]
+          ],
+          200
+        ],
+        [
+          [
+            [
+              27,
+              "SleepDataLimitPopup_Title"
+            ]
+          ],
+          230
+        ],
+        [
+          [
+            [
+              24,
+              "AlarmModal_Desc"
+            ],
+            [
+              31,
+              "SleepDataLimitPopup_SleepDataLimitDesc"
+            ]
+          ],
+          293
+        ],
+        [
+          [
+            [
+              9,
+              "SleepingFaceAssetDownloadLoader_Text_1"
+            ]
+          ],
+          336
+        ],
+        [
+          [
+            [
+              10,
+              "SleepingFaceAssetDownloadLoader_Text_2"
+            ],
+            [
+              18,
+              "SleepTypeDetector_Text_1"
+            ]
+          ],
+          408
+        ],
+        [
+          [
+            [
+              11,
+              "SleepingFaceAssetDownloadLoader_Text_3"
+            ],
+            [
+              19,
+              "SleepTypeDetector_Text_2"
+            ],
+            [
+              28,
+              "SleepDataLimitPopup_DataNumLabel"
+            ]
+          ],
+          517
+        ],
+        [
+          [
+            [
+              12,
+              "SleepingFaceAssetDownloadLoader_Text_4"
+            ],
+            [
+              15,
+              "SleepAnalyzerManager_Text_1"
+            ],
+            [
+              35,
+              "MidSleepTimeInfoPopup_Desc"
+            ]
+          ],
+          623
+        ],
+        [
+          [
+            [
+              0,
+              "SleepDataSalvageLoader_Text_1"
+            ],
+            [
+              16,
+              "SleepAnalyzerManager_Text_2"
+            ],
+            [
+              34,
+              "MidSleepTimeInfoPopup_Time"
+            ]
+          ],
+          720
+        ],
+        [
+          [
+            [
+              1,
+              "SleepDataSalvageLoader_Text_2"
+            ],
+            [
+              13,
+              "SleepResultManager_Text_2"
+            ],
+            [
+              17,
+              "SleepAnalyzerManager_Text_3"
+            ],
+            [
+              20,
+              "SleepTypeDetector_Text_5"
+            ],
+            [
+              30,
+              "SleepDataLimitPopup_DataWeekNumValue"
+            ]
+          ],
+          886
+        ],
+        [
+          [
+            [
+              2,
+              "SleepDataSalvageLoader_Text_3"
+            ],
+            [
+              21,
+              "SleepTypeDetector_Text_6"
+            ],
+            [
+              26,
+              "SleepDataSalvageLoader_Error_DataVersionNotMatch_Message"
+            ],
+            [
+              33,
+              "SleepDataLimitPopup_ToSleepPass"
+            ]
+          ],
+          1046
+        ],
+        [
+          [
+            [
+              3,
+              "SleepDataSalvageLoader_Text_4"
+            ],
+            [
+              14,
+              "SleepResultManager_Text_4"
+            ],
+            [
+              22,
+              "SleepTypeDetector_Text_7"
+            ]
+          ],
+          1139
+        ],
+        [
+          [
+            [
+              4,
+              "SleepDataSalvageLoader_Text_5"
+            ],
+            [
+              23,
+              "SleepTypeDetector_Text_8"
+            ]
+          ],
+          1202
+        ],
+        [
+          [
+            [
+              5,
+              "SleepDataSalvageLoader_Text_6"
+            ]
+          ],
+          1236
+        ],
+        [
+          [
+            [
+              6,
+              "SleepDataSalvageLoader_Text_7"
+            ],
+            [
+              25,
+              "AlarmModal_StopButton"
+            ]
+          ],
+          1296
+        ],
+        [
+          [
+            [
+              7,
+              "SleepDataSalvageLoader_Text_8"
+            ]
+          ],
+          1330
+        ],
+        [
+          [
+            [
+              8,
+              "SleepDataSalvageLoader_Text_9"
+            ],
+            [
+              29,
+              "SleepDataLimitPopup_DataDayNumValue"
+            ]
+          ],
+          1404
+        ],
+        [
+          [],
+          1404
+        ],
+        [
+          [],
+          1404
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 36,
+        "size": 3778,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

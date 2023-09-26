@@ -1,0 +1,809 @@
+{
+  "strings": {
+    "CountryName_100": [
+      "아프리카"
+    ],
+    "CountryName_101": [
+      "이집트"
+    ],
+    "CountryName_102": [
+      "나이지리아"
+    ],
+    "CountryName_103": [
+      "모로코"
+    ],
+    "CountryName_104": [
+      "남아프리카"
+    ],
+    "CountryName_200": [
+      "아메리카 대륙"
+    ],
+    "CountryName_201": [
+      "미국"
+    ],
+    "CountryName_202": [
+      "캐나다"
+    ],
+    "CountryName_203": [
+      "멕시코"
+    ],
+    "CountryName_204": [
+      "아르헨티나"
+    ],
+    "CountryName_205": [
+      "에콰도르"
+    ],
+    "CountryName_206": [
+      "콜롬비아"
+    ],
+    "CountryName_207": [
+      "칠레"
+    ],
+    "CountryName_208": [
+      "파나마"
+    ],
+    "CountryName_209": [
+      "브라질"
+    ],
+    "CountryName_210": [
+      "베네수엘라"
+    ],
+    "CountryName_211": [
+      "페루"
+    ],
+    "CountryName_300": [
+      "아시아 태평양"
+    ],
+    "CountryName_301": [
+      "인도"
+    ],
+    "CountryName_302": [
+      "인도네시아"
+    ],
+    "CountryName_303": [
+      "오스트레일리아"
+    ],
+    "CountryName_304": [
+      "싱가포르"
+    ],
+    "CountryName_305": [
+      "태국"
+    ],
+    "CountryName_306": [
+      "뉴질랜드"
+    ],
+    "CountryName_307": [
+      "파키스탄"
+    ],
+    "CountryName_308": [
+      "필리핀"
+    ],
+    "CountryName_309": [
+      "브루나이"
+    ],
+    "CountryName_310": [
+      "말레이시아"
+    ],
+    "CountryName_311": [
+      "대한민국"
+    ],
+    "CountryName_312": [
+      "마카오"
+    ],
+    "CountryName_313": [
+      "홍콩"
+    ],
+    "CountryName_314": [
+      "대만"
+    ],
+    "CountryName_315": [
+      "일본"
+    ],
+    "CountryName_400": [
+      "유럽"
+    ],
+    "CountryName_401": [
+      "아이슬란드"
+    ],
+    "CountryName_402": [
+      "아일랜드"
+    ],
+    "CountryName_403": [
+      "영국"
+    ],
+    "CountryName_404": [
+      "이탈리아"
+    ],
+    "CountryName_405": [
+      "우크라이나"
+    ],
+    "CountryName_406": [
+      "에스토니아"
+    ],
+    "CountryName_407": [
+      "오스트리아"
+    ],
+    "CountryName_408": [
+      "네덜란드"
+    ],
+    "CountryName_409": [
+      "카자흐스탄"
+    ],
+    "CountryName_410": [
+      "그리스"
+    ],
+    "CountryName_411": [
+      "크로아티아"
+    ],
+    "CountryName_412": [
+      "스위스"
+    ],
+    "CountryName_413": [
+      "스웨덴"
+    ],
+    "CountryName_414": [
+      "스페인"
+    ],
+    "CountryName_415": [
+      "슬로바키아"
+    ],
+    "CountryName_416": [
+      "슬로베니아"
+    ],
+    "CountryName_417": [
+      "세르비아"
+    ],
+    "CountryName_418": [
+      "체코"
+    ],
+    "CountryName_419": [
+      "덴마크"
+    ],
+    "CountryName_420": [
+      "독일"
+    ],
+    "CountryName_421": [
+      "투르크메니스탄"
+    ],
+    "CountryName_422": [
+      "노르웨이"
+    ],
+    "CountryName_423": [
+      "헝가리"
+    ],
+    "CountryName_424": [
+      "핀란드"
+    ],
+    "CountryName_425": [
+      "프랑스"
+    ],
+    "CountryName_426": [
+      "불가리아"
+    ],
+    "CountryName_427": [
+      "벨라루스"
+    ],
+    "CountryName_428": [
+      "벨기에"
+    ],
+    "CountryName_429": [
+      "폴란드"
+    ],
+    "CountryName_430": [
+      "포르투갈"
+    ],
+    "CountryName_431": [
+      "몰타"
+    ],
+    "CountryName_432": [
+      "라트비아"
+    ],
+    "CountryName_433": [
+      "리투아니아"
+    ],
+    "CountryName_434": [
+      "루마니아"
+    ],
+    "CountryName_435": [
+      "룩셈부르크"
+    ],
+    "CountryName_436": [
+      "러시아"
+    ],
+    "CountryName_500": [
+      "중동"
+    ],
+    "CountryName_501": [
+      "아랍에미리트"
+    ],
+    "CountryName_502": [
+      "이스라엘"
+    ],
+    "CountryName_503": [
+      "오만"
+    ],
+    "CountryName_504": [
+      "카타르"
+    ],
+    "CountryName_505": [
+      "키프로스"
+    ],
+    "CountryName_506": [
+      "쿠웨이트"
+    ],
+    "CountryName_507": [
+      "사우디아라비아"
+    ],
+    "CountryName_508": [
+      "튀르키예"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 79,
+        "size": 557,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 41,
+        "size": 1908,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "CountryName_201"
+            ],
+            [
+              26,
+              "CountryName_309"
+            ]
+          ],
+          368
+        ],
+        [
+          [
+            [
+              7,
+              "CountryName_202"
+            ]
+          ],
+          388
+        ],
+        [
+          [
+            [
+              8,
+              "CountryName_203"
+            ]
+          ],
+          408
+        ],
+        [
+          [
+            [
+              9,
+              "CountryName_204"
+            ]
+          ],
+          428
+        ],
+        [
+          [
+            [
+              10,
+              "CountryName_205"
+            ]
+          ],
+          448
+        ],
+        [
+          [
+            [
+              11,
+              "CountryName_206"
+            ],
+            [
+              43,
+              "CountryName_410"
+            ]
+          ],
+          488
+        ],
+        [
+          [
+            [
+              12,
+              "CountryName_207"
+            ],
+            [
+              44,
+              "CountryName_411"
+            ]
+          ],
+          528
+        ],
+        [
+          [
+            [
+              0,
+              "CountryName_100"
+            ],
+            [
+              13,
+              "CountryName_208"
+            ],
+            [
+              45,
+              "CountryName_412"
+            ]
+          ],
+          588
+        ],
+        [
+          [
+            [
+              1,
+              "CountryName_101"
+            ],
+            [
+              14,
+              "CountryName_209"
+            ],
+            [
+              46,
+              "CountryName_413"
+            ],
+            [
+              63,
+              "CountryName_430"
+            ]
+          ],
+          668
+        ],
+        [
+          [
+            [
+              2,
+              "CountryName_102"
+            ],
+            [
+              47,
+              "CountryName_414"
+            ],
+            [
+              64,
+              "CountryName_431"
+            ]
+          ],
+          728
+        ],
+        [
+          [
+            [
+              3,
+              "CountryName_103"
+            ],
+            [
+              48,
+              "CountryName_415"
+            ],
+            [
+              65,
+              "CountryName_432"
+            ]
+          ],
+          788
+        ],
+        [
+          [
+            [
+              4,
+              "CountryName_104"
+            ],
+            [
+              49,
+              "CountryName_416"
+            ],
+            [
+              66,
+              "CountryName_433"
+            ]
+          ],
+          848
+        ],
+        [
+          [
+            [
+              50,
+              "CountryName_417"
+            ],
+            [
+              67,
+              "CountryName_434"
+            ]
+          ],
+          888
+        ],
+        [
+          [
+            [
+              27,
+              "CountryName_310"
+            ],
+            [
+              51,
+              "CountryName_418"
+            ],
+            [
+              68,
+              "CountryName_435"
+            ]
+          ],
+          948
+        ],
+        [
+          [
+            [
+              28,
+              "CountryName_311"
+            ],
+            [
+              52,
+              "CountryName_419"
+            ],
+            [
+              69,
+              "CountryName_436"
+            ]
+          ],
+          1008
+        ],
+        [
+          [
+            [
+              29,
+              "CountryName_312"
+            ]
+          ],
+          1028
+        ],
+        [
+          [
+            [
+              30,
+              "CountryName_313"
+            ],
+            [
+              70,
+              "CountryName_500"
+            ]
+          ],
+          1068
+        ],
+        [
+          [
+            [
+              31,
+              "CountryName_314"
+            ],
+            [
+              71,
+              "CountryName_501"
+            ]
+          ],
+          1108
+        ],
+        [
+          [
+            [
+              32,
+              "CountryName_315"
+            ],
+            [
+              72,
+              "CountryName_502"
+            ]
+          ],
+          1148
+        ],
+        [
+          [
+            [
+              73,
+              "CountryName_503"
+            ]
+          ],
+          1168
+        ],
+        [
+          [
+            [
+              74,
+              "CountryName_504"
+            ]
+          ],
+          1188
+        ],
+        [
+          [
+            [
+              15,
+              "CountryName_210"
+            ],
+            [
+              75,
+              "CountryName_505"
+            ]
+          ],
+          1228
+        ],
+        [
+          [
+            [
+              16,
+              "CountryName_211"
+            ],
+            [
+              76,
+              "CountryName_506"
+            ]
+          ],
+          1268
+        ],
+        [
+          [
+            [
+              77,
+              "CountryName_507"
+            ]
+          ],
+          1288
+        ],
+        [
+          [
+            [
+              33,
+              "CountryName_400"
+            ],
+            [
+              78,
+              "CountryName_508"
+            ]
+          ],
+          1328
+        ],
+        [
+          [
+            [
+              34,
+              "CountryName_401"
+            ]
+          ],
+          1348
+        ],
+        [
+          [
+            [
+              35,
+              "CountryName_402"
+            ]
+          ],
+          1368
+        ],
+        [
+          [
+            [
+              36,
+              "CountryName_403"
+            ],
+            [
+              53,
+              "CountryName_420"
+            ]
+          ],
+          1408
+        ],
+        [
+          [
+            [
+              37,
+              "CountryName_404"
+            ],
+            [
+              54,
+              "CountryName_421"
+            ]
+          ],
+          1448
+        ],
+        [
+          [
+            [
+              38,
+              "CountryName_405"
+            ],
+            [
+              55,
+              "CountryName_422"
+            ]
+          ],
+          1488
+        ],
+        [
+          [
+            [
+              39,
+              "CountryName_406"
+            ],
+            [
+              56,
+              "CountryName_423"
+            ]
+          ],
+          1528
+        ],
+        [
+          [
+            [
+              40,
+              "CountryName_407"
+            ],
+            [
+              57,
+              "CountryName_424"
+            ]
+          ],
+          1568
+        ],
+        [
+          [
+            [
+              17,
+              "CountryName_300"
+            ],
+            [
+              41,
+              "CountryName_408"
+            ],
+            [
+              58,
+              "CountryName_425"
+            ]
+          ],
+          1628
+        ],
+        [
+          [
+            [
+              18,
+              "CountryName_301"
+            ],
+            [
+              42,
+              "CountryName_409"
+            ],
+            [
+              59,
+              "CountryName_426"
+            ]
+          ],
+          1688
+        ],
+        [
+          [
+            [
+              19,
+              "CountryName_302"
+            ],
+            [
+              60,
+              "CountryName_427"
+            ]
+          ],
+          1728
+        ],
+        [
+          [
+            [
+              20,
+              "CountryName_303"
+            ],
+            [
+              61,
+              "CountryName_428"
+            ]
+          ],
+          1768
+        ],
+        [
+          [
+            [
+              21,
+              "CountryName_304"
+            ],
+            [
+              62,
+              "CountryName_429"
+            ]
+          ],
+          1808
+        ],
+        [
+          [
+            [
+              22,
+              "CountryName_305"
+            ]
+          ],
+          1828
+        ],
+        [
+          [
+            [
+              23,
+              "CountryName_306"
+            ]
+          ],
+          1848
+        ],
+        [
+          [
+            [
+              24,
+              "CountryName_307"
+            ]
+          ],
+          1868
+        ],
+        [
+          [
+            [
+              5,
+              "CountryName_200"
+            ],
+            [
+              25,
+              "CountryName_308"
+            ]
+          ],
+          1908
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 79,
+        "size": 1072,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "strings": {
+    "MaintenanceSleepData_FoundLaterPopup_Message": [
+      "Die Anzahl Aufzeichnungen, die im\nWartungszeitraum getätigt wurden,\nbeträgt \u000e\u0002\u0001\u0002",
+      ".\n\nTippe auf Ungeprüfte Schlafberichte\nauf dem Hauptbildschirm, um sie\nanzusehen und deine Daten aus dem\nWartungszeitraum zu übertragen."
+    ],
+    "MaintenanceSleepData_FoundPopup_Message": [
+      "Schlafdaten gefunden!"
+    ],
+    "MaintenanceSleepData_FoundPopup_Title": [
+      "Schlafdaten gefunden"
+    ],
+    "MaintenanceSleepData_FoundStartPopup_Message": [
+      "Zeit, deine \u000e\u0002\u0001\u0002",
+      " \u000e\u0006",
+      ":\u0018Aufzeichnung\u001cAufzeichnungen촀\neinzusehen, die du während der\nWartung getätigt hast."
+    ],
+    "MaintenanceSleep_FinishPopup_Button": [
+      "Zum Standby-Bildschirm"
+    ],
+    "MaintenanceSleep_FinishPopup_Message_1": [
+      "Schlafaufzeichnung abgeschlossen"
+    ],
+    "MaintenanceSleep_FinishPopup_Message_2": [
+      "Die App wird gerade gewartet. Deine\nSchlafdaten wurden \u000e",
+      "\u0003\u0004ꈝ￿erfolgreich\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004ꈝ￿gespeichert\u000e",
+      "\u0003\u0004",
+      "＀, aber du kannst sie erst\nnach Ende der Wartung einsehen.\nDanke für dein Verständnis."
+    ],
+    "MaintenanceSleep_FinishPopup_Title": [
+      "Wartung"
+    ],
+    "MaintenanceSleep_NeedTutorialDone_Message": [
+      "Du kannst diese Funktion nutzen, wenn\ndu das Tutorial abgeschlossen hast."
+    ],
+    "MaintenanceSleep_NeedTutorialDone_Title": [
+      "Schlafaufzeichnung"
+    ],
+    "Maintenance_FinishPopup_Button": [
+      "Zum Titelbildschirm"
+    ],
+    "Maintenance_FinishPopup_Message_1": [
+      "Die Wartungsarbeiten sind beendet."
+    ],
+    "Maintenance_FinishPopup_Message_2": [
+      "Danke für deine Geduld."
+    ],
+    "Maintenance_FinishPopup_Title": [
+      "Wartung abgeschlossen"
+    ],
+    "Maintenance_GPPSleepPopup_Button": [
+      "Details"
+    ],
+    "Maintenance_GPPSleepPopup_Text": [
+      "Wird die App gewartet, kann du keine Daten\nvon deinem Pokémon GO Plus + mit der App\nsynchronisieren, aber \u000e",
+      "\u0003\u0004ꈝ￿trotzdem deinen Schlaf\naufzeichnen\u000e",
+      "\u0003\u0004",
+      "＀.\nBeginne und beende Aufzeichnungen, wie\ngewöhnlich und deine Daten werden dann\nsynchronisiert, wenn die Wartung fertig ist."
+    ],
+    "Maintenance_GPPSleepPopup_Title": [
+      "Mit Pokémon GO Plus + aufzeichnen"
+    ],
+    "Maintenance_NotDownlaodDataLockPopup_Message": [
+      "Diese Funktion ist momentan nicht\nverfügbar, da die Übertragung deiner\nDaten noch nicht abgeschlossen ist.\nBitte warte, bis der Prozess\nabgeschlossen ist."
+    ],
+    "Maintenance_NoticePopup_Message": [
+      "Wartungsarbeiten werden ausgeführt."
+    ],
+    "Maintenance_NoticePopup_Title": [
+      "Wartung"
+    ],
+    "Maintenance_SleepDataMaxErrorPopup_Text_1": [
+      "Schlafdatenlimit erreicht"
+    ],
+    "Maintenance_SleepDataMaxErrorPopup_Text_2": [
+      "Während Wartungen kannst du bis zu\n\u000e\u0002\u0001\u0002",
+      " Aufzeichnungen speichern.\nDu hast nicht genügend Platz für\nweitere Forschungen. Bitte warte, bis\ndie Wartung abgeschlossen ist."
+    ],
+    "Maintenance_SleepDataMaxErrorPopup_Title": [
+      "Fehler"
+    ],
+    "Maintenance_SleepPopup_Button": [
+      "Schlafen"
+    ],
+    "Maintenance_SleepPopup_Heading_1": [
+      "Schlafaufzeichnung während Wartungen"
+    ],
+    "Maintenance_SleepPopup_Heading_2": [
+      "Gespeicherte Schlafdaten: \u000e\u0002",
+      "\u0002촀 (Max.: \u000e\u0002",
+      "\u0002촁)"
+    ],
+    "Maintenance_SleepPopup_Heading_3": [
+      "Aufzeichnungen mit einem Smartphone"
+    ],
+    "Maintenance_SleepPopup_Text_1": [
+      "Du kannst Schlaf aufzeichnen, während die App\ngewartet wird. (Bis zu \u000e\u0002",
+      "\u0002촀 Aufzeichnungen können\ngespeichert werden.)\nDu kannst diese Schlafdaten übertragen, sobald\ndie Wartung abgeschlossen ist."
+    ],
+    "Maintenance_SleepPopup_Text_2": [
+      "\u000e\t",
+      "\"\u001eyyyyyMMMddd_aaa",
+      ""
+    ],
+    "Maintenance_SleepPopup_Text_3": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "Maintenance_SleepPopup_Text_4": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      " - \u000e\t",
+      "\u000e\nhh:mm\u0001"
+    ],
+    "Maintenance_SleepPopup_Text_5": [
+      "Keine gespeicherten Schlafaufzeichnungen"
+    ],
+    "Maintenance_SleepPopup_Text_6": [
+      "Du kannst Schlaf mit deinem Smartphone oder\nmit Pokémon GO Plus + aufzeichnen.\n(Bis zu \u000e\u0002",
+      "\u0002촀 \u000e\u0006",
+      ":\u0018Aufzeichnung\u001cAufzeichnungen촀 \u000e\u0006",
+      "\u001a\bkann\fkönnen촀\ngespeichert werden.)\nDu kannst diese Schlafdaten übertragen, sobald\ndie Wartung abgeschlossen ist."
+    ],
+    "Maintenance_SleepPopup_Title": [
+      "Schlaf aufzeichnen"
+    ],
+    "Maintenance_TOP_Button_1": [
+      "Zurück zum Titel"
+    ],
+    "Maintenance_TOP_Button_2": [
+      "Neuigkeiten"
+    ],
+    "Maintenance_TOP_Button_3": [
+      "Schlafaufzeichnung starten"
+    ],
+    "Maintenance_TOP_Button_4": [
+      "Aufzeichnungen mit GO Plus +"
+    ],
+    "Maintenance_TOP_Button_5": [
+      "Aufzeichnungen mit Smartphone"
+    ],
+    "Maintenance_TOP_Text_1": [
+      "Der Server wird zurzeit gewartet.\nBitte geduldige dich eine Weile."
+    ],
+    "Maintenance_TOP_Text_2": [
+      "Geplanter Wartungszeitraum"
+    ],
+    "Maintenance_TOP_Text_3": [
+      "\u000e\t",
+      "$ yyyy/MM/dd_hh:mm",
+      " bis \u000e\t",
+      "$ yyyy/MM/dd_hh:mm\u0001"
+    ],
+    "Maintenance_TOP_Text_4": [
+      "Schlafaufzeichnung während Wartung möglich."
+    ],
+    "Maintenance_TOP_Text_5": [
+      "Es wurde keine Endzeit festgelegt."
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 44,
+        "size": 312,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 23,
+        "size": 1794,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "Maintenance_TOP_Text_2"
+            ],
+            [
+              41,
+              "Maintenance_FinishPopup_Message_2"
+            ]
+          ],
+          249
+        ],
+        [
+          [
+            [
+              2,
+              "Maintenance_TOP_Text_3"
+            ]
+          ],
+          276
+        ],
+        [
+          [
+            [
+              3,
+              "Maintenance_TOP_Text_4"
+            ],
+            [
+              5,
+              "Maintenance_TOP_Button_1"
+            ],
+            [
+              22,
+              "Maintenance_GPPSleepPopup_Text"
+            ]
+          ],
+          367
+        ],
+        [
+          [
+            [
+              4,
+              "Maintenance_TOP_Text_5"
+            ],
+            [
+              6,
+              "Maintenance_TOP_Button_2"
+            ],
+            [
+              14,
+              "Maintenance_SleepPopup_Text_1"
+            ],
+            [
+              36,
+              "MaintenanceSleepData_FoundPopup_Message"
+            ],
+            [
+              39,
+              "Maintenance_FinishPopup_Title"
+            ]
+          ],
+          535
+        ],
+        [
+          [
+            [
+              7,
+              "Maintenance_TOP_Button_3"
+            ],
+            [
+              15,
+              "Maintenance_SleepPopup_Text_2"
+            ],
+            [
+              23,
+              "Maintenance_GPPSleepPopup_Button"
+            ],
+            [
+              42,
+              "Maintenance_FinishPopup_Button"
+            ]
+          ],
+          670
+        ],
+        [
+          [
+            [
+              8,
+              "Maintenance_TOP_Button_4"
+            ],
+            [
+              16,
+              "Maintenance_SleepPopup_Text_3"
+            ],
+            [
+              29,
+              "MaintenanceSleep_FinishPopup_Title"
+            ]
+          ],
+          772
+        ],
+        [
+          [
+            [
+              9,
+              "Maintenance_TOP_Button_5"
+            ],
+            [
+              17,
+              "Maintenance_SleepPopup_Text_4"
+            ],
+            [
+              30,
+              "MaintenanceSleep_FinishPopup_Message_1"
+            ],
+            [
+              32,
+              "MaintenanceSleep_FinishPopup_Button"
+            ]
+          ],
+          918
+        ],
+        [
+          [
+            [
+              18,
+              "Maintenance_SleepPopup_Text_5"
+            ],
+            [
+              25,
+              "Maintenance_SleepDataMaxErrorPopup_Text_1"
+            ],
+            [
+              31,
+              "MaintenanceSleep_FinishPopup_Message_2"
+            ]
+          ],
+          1041
+        ],
+        [
+          [
+            [
+              19,
+              "Maintenance_SleepPopup_Text_6"
+            ],
+            [
+              26,
+              "Maintenance_SleepDataMaxErrorPopup_Text_2"
+            ],
+            [
+              43,
+              "Maintenance_NotDownlaodDataLockPopup_Message"
+            ]
+          ],
+          1170
+        ],
+        [
+          [
+            [
+              24,
+              "Maintenance_SleepDataMaxErrorPopup_Title"
+            ]
+          ],
+          1215
+        ],
+        [
+          [
+            [
+              34,
+              "MaintenanceSleep_NeedTutorialDone_Message"
+            ]
+          ],
+          1261
+        ],
+        [
+          [
+            [
+              11,
+              "Maintenance_SleepPopup_Heading_1"
+            ],
+            [
+              20,
+              "Maintenance_SleepPopup_Button"
+            ],
+            [
+              27,
+              "Maintenance_NoticePopup_Title"
+            ]
+          ],
+          1366
+        ],
+        [
+          [
+            [
+              13,
+              "Maintenance_SleepPopup_Heading_2"
+            ]
+          ],
+          1403
+        ],
+        [
+          [
+            [
+              10,
+              "Maintenance_SleepPopup_Title"
+            ],
+            [
+              12,
+              "Maintenance_SleepPopup_Heading_3"
+            ],
+            [
+              21,
+              "Maintenance_GPPSleepPopup_Title"
+            ]
+          ],
+          1509
+        ],
+        [
+          [],
+          1509
+        ],
+        [
+          [
+            [
+              33,
+              "MaintenanceSleep_NeedTutorialDone_Title"
+            ],
+            [
+              37,
+              "MaintenanceSleepData_FoundStartPopup_Message"
+            ]
+          ],
+          1602
+        ],
+        [
+          [
+            [
+              28,
+              "Maintenance_NoticePopup_Message"
+            ]
+          ],
+          1638
+        ],
+        [
+          [
+            [
+              35,
+              "MaintenanceSleepData_FoundPopup_Title"
+            ],
+            [
+              38,
+              "MaintenanceSleepData_FoundLaterPopup_Message"
+            ]
+          ],
+          1729
+        ],
+        [
+          [],
+          1729
+        ],
+        [
+          [],
+          1729
+        ],
+        [
+          [],
+          1729
+        ],
+        [
+          [],
+          1729
+        ],
+        [
+          [
+            [
+              0,
+              "Maintenance_TOP_Text_1"
+            ],
+            [
+              40,
+              "Maintenance_FinishPopup_Message_1"
+            ]
+          ],
+          1794
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 44,
+        "size": 5298,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

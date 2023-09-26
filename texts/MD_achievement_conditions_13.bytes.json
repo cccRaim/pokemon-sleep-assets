@@ -1,0 +1,3696 @@
+{
+  "strings": {
+    "md_achievement_conditions_desc_1": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_10": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_100": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_101": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_102": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_103": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_104": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_105": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_106": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_107": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_108": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_109": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_11": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_110": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_111": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_112": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_113": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_114": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_115": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_116": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_117": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_118": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_119": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_12": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_120": [
+      "Succeeded \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_121": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_122": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_123": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_124": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_125": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_126": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_127": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_128": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_129": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_13": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_130": [
+      "Raised \u000e\u0002\u0002\u0002",
+      " Pokémon to Lv. \u000e\u0002\u0002\u0002\u0001"
+    ],
+    "md_achievement_conditions_desc_131": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_132": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_133": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_134": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_135": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_136": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_137": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_138": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_139": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_14": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_140": [
+      "Team RP of \u000e\u0002\u0004\u0004",
+      "촁 or greater"
+    ],
+    "md_achievement_conditions_desc_141": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_142": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_143": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_144": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_145": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_146": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_147": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_148": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_149": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_15": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_150": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_151": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_152": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_153": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_154": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_155": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_156": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_157": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_158": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_159": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_16": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_160": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_161": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_162": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_163": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_164": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_165": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_166": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_167": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_168": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_169": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_17": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_170": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_171": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_172": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_173": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_174": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_175": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_176": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_177": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_178": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_179": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_18": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_180": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_181": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_182": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_183": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_184": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_185": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_186": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_187": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_188": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_189": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_19": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_190": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_191": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_192": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_193": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_194": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_195": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_196": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_197": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_198": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_199": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_2": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_20": [
+      "Gave \u000e\u0002\u0003\u0004",
+      "촁 Berries"
+    ],
+    "md_achievement_conditions_desc_200": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_201": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_202": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_203": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_204": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_205": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_206": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_207": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_208": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_209": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_21": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_210": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_211": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_212": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_213": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_214": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_215": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_216": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_217": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_218": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_219": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_22": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_220": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_221": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_222": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_223": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_224": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_225": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_226": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_227": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_228": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_229": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_23": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_230": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_231": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_232": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_233": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_234": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_235": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_236": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_237": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_238": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_239": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_24": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_240": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_241": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_242": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_243": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_244": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_245": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_246": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_247": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_248": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_249": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_25": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_250": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_251": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_252": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_253": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_254": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_255": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_256": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_257": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_258": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_259": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_26": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_260": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_261": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_262": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_263": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_264": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_265": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_266": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_267": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_268": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_269": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_27": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_270": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_271": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_272": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_273": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_274": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_275": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_276": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_277": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_278": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_279": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_28": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_280": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_281": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_282": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_283": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_284": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_285": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_286": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_287": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_288": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_289": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_29": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_290": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_291": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_292": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_293": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_294": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_295": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_296": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_297": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_298": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_299": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_3": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_30": [
+      "Cooked \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_300": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_301": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_302": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_303": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_304": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_305": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_306": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_307": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_308": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_309": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_31": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_310": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_311": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_312": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_313": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_314": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_315": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_316": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_317": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_318": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_319": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_32": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_320": [
+      "Studied \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_321": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_322": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_323": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_324": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_325": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_326": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_327": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_328": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_329": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_33": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_330": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_331": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_332": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_333": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_334": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_335": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_336": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_337": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_338": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_339": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_34": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_340": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_341": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_342": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_343": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_344": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_345": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_346": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_347": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_348": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_349": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_35": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_350": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_351": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_352": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_353": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_354": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_355": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_356": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_357": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_358": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_359": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_36": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_360": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_361": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_362": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_363": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_364": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_365": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_366": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_367": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_368": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_369": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_37": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_370": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_371": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_372": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_373": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_374": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_375": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_376": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_377": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_378": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_379": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_38": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_380": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_381": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_382": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_383": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_384": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_385": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_386": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_387": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_388": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_389": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_39": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_390": [
+      "Raised Snorlax to \u000e\u0003\u0007\u0004Ā촀"
+    ],
+    "md_achievement_conditions_desc_4": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_40": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_41": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_42": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_43": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_44": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_45": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_46": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_47": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_48": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_49": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_5": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_50": [
+      "Used \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u001e\ncandy\u000ecandies촀"
+    ],
+    "md_achievement_conditions_desc_51": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_52": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_53": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_54": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_55": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_56": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_57": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_58": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_59": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_6": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_60": [
+      "Evolved Pokémon \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_61": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_62": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_63": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_64": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_65": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_66": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_67": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_68": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_69": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_7": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_70": [
+      "Used \u000e\u0002\u0002\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
+    "md_achievement_conditions_desc_71": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_72": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_73": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_74": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_75": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_76": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_77": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_78": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_79": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_8": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_80": [
+      "Earned a stamp \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_81": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_82": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_83": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_84": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_85": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_86": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_87": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_88": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_89": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_9": [
+      "Befriended \u000e\u0002\u0003\u0004",
+      "촁 Pokémon"
+    ],
+    "md_achievement_conditions_desc_90": [
+      "Slept a total of \u000e\u0002\u0003\u0004",
+      "촁 hours"
+    ],
+    "md_achievement_conditions_desc_91": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_92": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_93": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_94": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_95": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_96": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_97": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_98": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ],
+    "md_achievement_conditions_desc_99": [
+      "Achieved \u000e\u0002\u0003\u0004",
+      "촁 \u000e\u0001",
+      "\u0018\btime\ntimes촀"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 390,
+        "size": 2734,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 101,
+        "size": 15910,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              56,
+              "md_achievement_conditions_desc_57"
+            ],
+            [
+              145,
+              "md_achievement_conditions_desc_146"
+            ],
+            [
+              250,
+              "md_achievement_conditions_desc_251"
+            ]
+          ],
+          924
+        ],
+        [
+          [
+            [
+              57,
+              "md_achievement_conditions_desc_58"
+            ],
+            [
+              146,
+              "md_achievement_conditions_desc_147"
+            ],
+            [
+              251,
+              "md_achievement_conditions_desc_252"
+            ]
+          ],
+          1040
+        ],
+        [
+          [
+            [
+              58,
+              "md_achievement_conditions_desc_59"
+            ],
+            [
+              147,
+              "md_achievement_conditions_desc_148"
+            ],
+            [
+              252,
+              "md_achievement_conditions_desc_253"
+            ]
+          ],
+          1156
+        ],
+        [
+          [
+            [
+              148,
+              "md_achievement_conditions_desc_149"
+            ],
+            [
+              253,
+              "md_achievement_conditions_desc_254"
+            ]
+          ],
+          1234
+        ],
+        [
+          [
+            [
+              254,
+              "md_achievement_conditions_desc_255"
+            ],
+            [
+              359,
+              "md_achievement_conditions_desc_360"
+            ]
+          ],
+          1312
+        ],
+        [
+          [
+            [
+              255,
+              "md_achievement_conditions_desc_256"
+            ],
+            [
+              360,
+              "md_achievement_conditions_desc_361"
+            ]
+          ],
+          1390
+        ],
+        [
+          [
+            [
+              256,
+              "md_achievement_conditions_desc_257"
+            ],
+            [
+              361,
+              "md_achievement_conditions_desc_362"
+            ]
+          ],
+          1468
+        ],
+        [
+          [
+            [
+              199,
+              "md_achievement_conditions_desc_200"
+            ],
+            [
+              257,
+              "md_achievement_conditions_desc_258"
+            ],
+            [
+              362,
+              "md_achievement_conditions_desc_363"
+            ]
+          ],
+          1585
+        ],
+        [
+          [
+            [
+              200,
+              "md_achievement_conditions_desc_201"
+            ],
+            [
+              258,
+              "md_achievement_conditions_desc_259"
+            ],
+            [
+              363,
+              "md_achievement_conditions_desc_364"
+            ]
+          ],
+          1702
+        ],
+        [
+          [
+            [
+              201,
+              "md_achievement_conditions_desc_202"
+            ],
+            [
+              364,
+              "md_achievement_conditions_desc_365"
+            ]
+          ],
+          1780
+        ],
+        [
+          [
+            [
+              69,
+              "md_achievement_conditions_desc_70"
+            ],
+            [
+              202,
+              "md_achievement_conditions_desc_203"
+            ],
+            [
+              365,
+              "md_achievement_conditions_desc_366"
+            ]
+          ],
+          1896
+        ],
+        [
+          [
+            [
+              70,
+              "md_achievement_conditions_desc_71"
+            ],
+            [
+              159,
+              "md_achievement_conditions_desc_160"
+            ],
+            [
+              203,
+              "md_achievement_conditions_desc_204"
+            ],
+            [
+              366,
+              "md_achievement_conditions_desc_367"
+            ]
+          ],
+          2051
+        ],
+        [
+          [
+            [
+              71,
+              "md_achievement_conditions_desc_72"
+            ],
+            [
+              160,
+              "md_achievement_conditions_desc_161"
+            ],
+            [
+              204,
+              "md_achievement_conditions_desc_205"
+            ],
+            [
+              309,
+              "md_achievement_conditions_desc_310"
+            ],
+            [
+              367,
+              "md_achievement_conditions_desc_368"
+            ]
+          ],
+          2245
+        ],
+        [
+          [
+            [
+              72,
+              "md_achievement_conditions_desc_73"
+            ],
+            [
+              161,
+              "md_achievement_conditions_desc_162"
+            ],
+            [
+              205,
+              "md_achievement_conditions_desc_206"
+            ],
+            [
+              310,
+              "md_achievement_conditions_desc_311"
+            ],
+            [
+              368,
+              "md_achievement_conditions_desc_369"
+            ]
+          ],
+          2439
+        ],
+        [
+          [
+            [
+              73,
+              "md_achievement_conditions_desc_74"
+            ],
+            [
+              162,
+              "md_achievement_conditions_desc_163"
+            ],
+            [
+              206,
+              "md_achievement_conditions_desc_207"
+            ],
+            [
+              311,
+              "md_achievement_conditions_desc_312"
+            ]
+          ],
+          2594
+        ],
+        [
+          [
+            [
+              74,
+              "md_achievement_conditions_desc_75"
+            ],
+            [
+              163,
+              "md_achievement_conditions_desc_164"
+            ],
+            [
+              207,
+              "md_achievement_conditions_desc_208"
+            ],
+            [
+              312,
+              "md_achievement_conditions_desc_313"
+            ]
+          ],
+          2749
+        ],
+        [
+          [
+            [
+              75,
+              "md_achievement_conditions_desc_76"
+            ],
+            [
+              164,
+              "md_achievement_conditions_desc_165"
+            ],
+            [
+              208,
+              "md_achievement_conditions_desc_209"
+            ],
+            [
+              269,
+              "md_achievement_conditions_desc_270"
+            ],
+            [
+              313,
+              "md_achievement_conditions_desc_314"
+            ]
+          ],
+          2943
+        ],
+        [
+          [
+            [
+              76,
+              "md_achievement_conditions_desc_77"
+            ],
+            [
+              165,
+              "md_achievement_conditions_desc_166"
+            ],
+            [
+              270,
+              "md_achievement_conditions_desc_271"
+            ],
+            [
+              314,
+              "md_achievement_conditions_desc_315"
+            ]
+          ],
+          3098
+        ],
+        [
+          [
+            [
+              19,
+              "md_achievement_conditions_desc_20"
+            ],
+            [
+              77,
+              "md_achievement_conditions_desc_78"
+            ],
+            [
+              166,
+              "md_achievement_conditions_desc_167"
+            ],
+            [
+              271,
+              "md_achievement_conditions_desc_272"
+            ],
+            [
+              315,
+              "md_achievement_conditions_desc_316"
+            ]
+          ],
+          3291
+        ],
+        [
+          [
+            [
+              20,
+              "md_achievement_conditions_desc_21"
+            ],
+            [
+              78,
+              "md_achievement_conditions_desc_79"
+            ],
+            [
+              109,
+              "md_achievement_conditions_desc_110"
+            ],
+            [
+              167,
+              "md_achievement_conditions_desc_168"
+            ],
+            [
+              272,
+              "md_achievement_conditions_desc_273"
+            ],
+            [
+              316,
+              "md_achievement_conditions_desc_317"
+            ]
+          ],
+          3523
+        ],
+        [
+          [
+            [
+              21,
+              "md_achievement_conditions_desc_22"
+            ],
+            [
+              110,
+              "md_achievement_conditions_desc_111"
+            ],
+            [
+              168,
+              "md_achievement_conditions_desc_169"
+            ],
+            [
+              273,
+              "md_achievement_conditions_desc_274"
+            ],
+            [
+              317,
+              "md_achievement_conditions_desc_318"
+            ]
+          ],
+          3717
+        ],
+        [
+          [
+            [
+              22,
+              "md_achievement_conditions_desc_23"
+            ],
+            [
+              111,
+              "md_achievement_conditions_desc_112"
+            ],
+            [
+              274,
+              "md_achievement_conditions_desc_275"
+            ],
+            [
+              318,
+              "md_achievement_conditions_desc_319"
+            ],
+            [
+              379,
+              "md_achievement_conditions_desc_380"
+            ]
+          ],
+          3911
+        ],
+        [
+          [
+            [
+              23,
+              "md_achievement_conditions_desc_24"
+            ],
+            [
+              112,
+              "md_achievement_conditions_desc_113"
+            ],
+            [
+              275,
+              "md_achievement_conditions_desc_276"
+            ],
+            [
+              380,
+              "md_achievement_conditions_desc_381"
+            ]
+          ],
+          4066
+        ],
+        [
+          [
+            [
+              24,
+              "md_achievement_conditions_desc_25"
+            ],
+            [
+              113,
+              "md_achievement_conditions_desc_114"
+            ],
+            [
+              276,
+              "md_achievement_conditions_desc_277"
+            ],
+            [
+              381,
+              "md_achievement_conditions_desc_382"
+            ]
+          ],
+          4221
+        ],
+        [
+          [
+            [
+              25,
+              "md_achievement_conditions_desc_26"
+            ],
+            [
+              114,
+              "md_achievement_conditions_desc_115"
+            ],
+            [
+              219,
+              "md_achievement_conditions_desc_220"
+            ],
+            [
+              277,
+              "md_achievement_conditions_desc_278"
+            ],
+            [
+              382,
+              "md_achievement_conditions_desc_383"
+            ]
+          ],
+          4415
+        ],
+        [
+          [
+            [
+              26,
+              "md_achievement_conditions_desc_27"
+            ],
+            [
+              115,
+              "md_achievement_conditions_desc_116"
+            ],
+            [
+              220,
+              "md_achievement_conditions_desc_221"
+            ],
+            [
+              278,
+              "md_achievement_conditions_desc_279"
+            ],
+            [
+              383,
+              "md_achievement_conditions_desc_384"
+            ]
+          ],
+          4609
+        ],
+        [
+          [
+            [
+              27,
+              "md_achievement_conditions_desc_28"
+            ],
+            [
+              116,
+              "md_achievement_conditions_desc_117"
+            ],
+            [
+              221,
+              "md_achievement_conditions_desc_222"
+            ],
+            [
+              384,
+              "md_achievement_conditions_desc_385"
+            ]
+          ],
+          4764
+        ],
+        [
+          [
+            [
+              28,
+              "md_achievement_conditions_desc_29"
+            ],
+            [
+              89,
+              "md_achievement_conditions_desc_90"
+            ],
+            [
+              117,
+              "md_achievement_conditions_desc_118"
+            ],
+            [
+              222,
+              "md_achievement_conditions_desc_223"
+            ],
+            [
+              385,
+              "md_achievement_conditions_desc_386"
+            ]
+          ],
+          4957
+        ],
+        [
+          [
+            [
+              90,
+              "md_achievement_conditions_desc_91"
+            ],
+            [
+              118,
+              "md_achievement_conditions_desc_119"
+            ],
+            [
+              179,
+              "md_achievement_conditions_desc_180"
+            ],
+            [
+              223,
+              "md_achievement_conditions_desc_224"
+            ],
+            [
+              386,
+              "md_achievement_conditions_desc_387"
+            ]
+          ],
+          5151
+        ],
+        [
+          [
+            [
+              91,
+              "md_achievement_conditions_desc_92"
+            ],
+            [
+              180,
+              "md_achievement_conditions_desc_181"
+            ],
+            [
+              224,
+              "md_achievement_conditions_desc_225"
+            ],
+            [
+              329,
+              "md_achievement_conditions_desc_330"
+            ],
+            [
+              387,
+              "md_achievement_conditions_desc_388"
+            ]
+          ],
+          5345
+        ],
+        [
+          [
+            [
+              92,
+              "md_achievement_conditions_desc_93"
+            ],
+            [
+              181,
+              "md_achievement_conditions_desc_182"
+            ],
+            [
+              225,
+              "md_achievement_conditions_desc_226"
+            ],
+            [
+              330,
+              "md_achievement_conditions_desc_331"
+            ],
+            [
+              388,
+              "md_achievement_conditions_desc_389"
+            ]
+          ],
+          5539
+        ],
+        [
+          [
+            [
+              93,
+              "md_achievement_conditions_desc_94"
+            ],
+            [
+              182,
+              "md_achievement_conditions_desc_183"
+            ],
+            [
+              226,
+              "md_achievement_conditions_desc_227"
+            ],
+            [
+              331,
+              "md_achievement_conditions_desc_332"
+            ]
+          ],
+          5694
+        ],
+        [
+          [
+            [
+              94,
+              "md_achievement_conditions_desc_95"
+            ],
+            [
+              183,
+              "md_achievement_conditions_desc_184"
+            ],
+            [
+              227,
+              "md_achievement_conditions_desc_228"
+            ],
+            [
+              332,
+              "md_achievement_conditions_desc_333"
+            ]
+          ],
+          5849
+        ],
+        [
+          [
+            [
+              95,
+              "md_achievement_conditions_desc_96"
+            ],
+            [
+              184,
+              "md_achievement_conditions_desc_185"
+            ],
+            [
+              228,
+              "md_achievement_conditions_desc_229"
+            ],
+            [
+              289,
+              "md_achievement_conditions_desc_290"
+            ],
+            [
+              333,
+              "md_achievement_conditions_desc_334"
+            ]
+          ],
+          6043
+        ],
+        [
+          [
+            [
+              96,
+              "md_achievement_conditions_desc_97"
+            ],
+            [
+              185,
+              "md_achievement_conditions_desc_186"
+            ],
+            [
+              290,
+              "md_achievement_conditions_desc_291"
+            ],
+            [
+              334,
+              "md_achievement_conditions_desc_335"
+            ]
+          ],
+          6198
+        ],
+        [
+          [
+            [
+              39,
+              "md_achievement_conditions_desc_40"
+            ],
+            [
+              97,
+              "md_achievement_conditions_desc_98"
+            ],
+            [
+              186,
+              "md_achievement_conditions_desc_187"
+            ],
+            [
+              291,
+              "md_achievement_conditions_desc_292"
+            ],
+            [
+              335,
+              "md_achievement_conditions_desc_336"
+            ]
+          ],
+          6391
+        ],
+        [
+          [
+            [
+              40,
+              "md_achievement_conditions_desc_41"
+            ],
+            [
+              98,
+              "md_achievement_conditions_desc_99"
+            ],
+            [
+              129,
+              "md_achievement_conditions_desc_130"
+            ],
+            [
+              187,
+              "md_achievement_conditions_desc_188"
+            ],
+            [
+              292,
+              "md_achievement_conditions_desc_293"
+            ],
+            [
+              336,
+              "md_achievement_conditions_desc_337"
+            ]
+          ],
+          6623
+        ],
+        [
+          [
+            [
+              41,
+              "md_achievement_conditions_desc_42"
+            ],
+            [
+              130,
+              "md_achievement_conditions_desc_131"
+            ],
+            [
+              188,
+              "md_achievement_conditions_desc_189"
+            ],
+            [
+              293,
+              "md_achievement_conditions_desc_294"
+            ],
+            [
+              337,
+              "md_achievement_conditions_desc_338"
+            ]
+          ],
+          6817
+        ],
+        [
+          [
+            [
+              42,
+              "md_achievement_conditions_desc_43"
+            ],
+            [
+              131,
+              "md_achievement_conditions_desc_132"
+            ],
+            [
+              294,
+              "md_achievement_conditions_desc_295"
+            ],
+            [
+              338,
+              "md_achievement_conditions_desc_339"
+            ]
+          ],
+          6972
+        ],
+        [
+          [
+            [
+              43,
+              "md_achievement_conditions_desc_44"
+            ],
+            [
+              132,
+              "md_achievement_conditions_desc_133"
+            ],
+            [
+              295,
+              "md_achievement_conditions_desc_296"
+            ]
+          ],
+          7088
+        ],
+        [
+          [
+            [
+              44,
+              "md_achievement_conditions_desc_45"
+            ],
+            [
+              133,
+              "md_achievement_conditions_desc_134"
+            ],
+            [
+              296,
+              "md_achievement_conditions_desc_297"
+            ]
+          ],
+          7204
+        ],
+        [
+          [
+            [
+              45,
+              "md_achievement_conditions_desc_46"
+            ],
+            [
+              134,
+              "md_achievement_conditions_desc_135"
+            ],
+            [
+              239,
+              "md_achievement_conditions_desc_240"
+            ],
+            [
+              297,
+              "md_achievement_conditions_desc_298"
+            ]
+          ],
+          7359
+        ],
+        [
+          [
+            [
+              46,
+              "md_achievement_conditions_desc_47"
+            ],
+            [
+              135,
+              "md_achievement_conditions_desc_136"
+            ],
+            [
+              240,
+              "md_achievement_conditions_desc_241"
+            ],
+            [
+              298,
+              "md_achievement_conditions_desc_299"
+            ]
+          ],
+          7514
+        ],
+        [
+          [
+            [
+              47,
+              "md_achievement_conditions_desc_48"
+            ],
+            [
+              136,
+              "md_achievement_conditions_desc_137"
+            ],
+            [
+              241,
+              "md_achievement_conditions_desc_242"
+            ]
+          ],
+          7630
+        ],
+        [
+          [
+            [
+              48,
+              "md_achievement_conditions_desc_49"
+            ],
+            [
+              137,
+              "md_achievement_conditions_desc_138"
+            ],
+            [
+              242,
+              "md_achievement_conditions_desc_243"
+            ]
+          ],
+          7746
+        ],
+        [
+          [
+            [
+              138,
+              "md_achievement_conditions_desc_139"
+            ],
+            [
+              243,
+              "md_achievement_conditions_desc_244"
+            ]
+          ],
+          7824
+        ],
+        [
+          [
+            [
+              244,
+              "md_achievement_conditions_desc_245"
+            ],
+            [
+              349,
+              "md_achievement_conditions_desc_350"
+            ]
+          ],
+          7902
+        ],
+        [
+          [
+            [
+              245,
+              "md_achievement_conditions_desc_246"
+            ],
+            [
+              350,
+              "md_achievement_conditions_desc_351"
+            ]
+          ],
+          7980
+        ],
+        [
+          [
+            [
+              246,
+              "md_achievement_conditions_desc_247"
+            ],
+            [
+              351,
+              "md_achievement_conditions_desc_352"
+            ]
+          ],
+          8058
+        ],
+        [
+          [
+            [
+              247,
+              "md_achievement_conditions_desc_248"
+            ],
+            [
+              352,
+              "md_achievement_conditions_desc_353"
+            ]
+          ],
+          8136
+        ],
+        [
+          [
+            [
+              248,
+              "md_achievement_conditions_desc_249"
+            ],
+            [
+              353,
+              "md_achievement_conditions_desc_354"
+            ]
+          ],
+          8214
+        ],
+        [
+          [
+            [
+              354,
+              "md_achievement_conditions_desc_355"
+            ]
+          ],
+          8253
+        ],
+        [
+          [
+            [
+              59,
+              "md_achievement_conditions_desc_60"
+            ],
+            [
+              355,
+              "md_achievement_conditions_desc_356"
+            ]
+          ],
+          8330
+        ],
+        [
+          [
+            [
+              60,
+              "md_achievement_conditions_desc_61"
+            ],
+            [
+              149,
+              "md_achievement_conditions_desc_150"
+            ],
+            [
+              356,
+              "md_achievement_conditions_desc_357"
+            ]
+          ],
+          8446
+        ],
+        [
+          [
+            [
+              61,
+              "md_achievement_conditions_desc_62"
+            ],
+            [
+              150,
+              "md_achievement_conditions_desc_151"
+            ],
+            [
+              299,
+              "md_achievement_conditions_desc_300"
+            ],
+            [
+              357,
+              "md_achievement_conditions_desc_358"
+            ]
+          ],
+          8601
+        ],
+        [
+          [
+            [
+              62,
+              "md_achievement_conditions_desc_63"
+            ],
+            [
+              151,
+              "md_achievement_conditions_desc_152"
+            ],
+            [
+              300,
+              "md_achievement_conditions_desc_301"
+            ],
+            [
+              358,
+              "md_achievement_conditions_desc_359"
+            ]
+          ],
+          8756
+        ],
+        [
+          [
+            [
+              63,
+              "md_achievement_conditions_desc_64"
+            ],
+            [
+              152,
+              "md_achievement_conditions_desc_153"
+            ],
+            [
+              301,
+              "md_achievement_conditions_desc_302"
+            ]
+          ],
+          8872
+        ],
+        [
+          [
+            [
+              64,
+              "md_achievement_conditions_desc_65"
+            ],
+            [
+              153,
+              "md_achievement_conditions_desc_154"
+            ],
+            [
+              302,
+              "md_achievement_conditions_desc_303"
+            ]
+          ],
+          8988
+        ],
+        [
+          [
+            [
+              65,
+              "md_achievement_conditions_desc_66"
+            ],
+            [
+              154,
+              "md_achievement_conditions_desc_155"
+            ],
+            [
+              259,
+              "md_achievement_conditions_desc_260"
+            ],
+            [
+              303,
+              "md_achievement_conditions_desc_304"
+            ]
+          ],
+          9143
+        ],
+        [
+          [
+            [
+              66,
+              "md_achievement_conditions_desc_67"
+            ],
+            [
+              155,
+              "md_achievement_conditions_desc_156"
+            ],
+            [
+              260,
+              "md_achievement_conditions_desc_261"
+            ],
+            [
+              304,
+              "md_achievement_conditions_desc_305"
+            ]
+          ],
+          9298
+        ],
+        [
+          [
+            [
+              9,
+              "md_achievement_conditions_desc_10"
+            ],
+            [
+              67,
+              "md_achievement_conditions_desc_68"
+            ],
+            [
+              156,
+              "md_achievement_conditions_desc_157"
+            ],
+            [
+              261,
+              "md_achievement_conditions_desc_262"
+            ],
+            [
+              305,
+              "md_achievement_conditions_desc_306"
+            ]
+          ],
+          9491
+        ],
+        [
+          [
+            [
+              10,
+              "md_achievement_conditions_desc_11"
+            ],
+            [
+              68,
+              "md_achievement_conditions_desc_69"
+            ],
+            [
+              99,
+              "md_achievement_conditions_desc_100"
+            ],
+            [
+              157,
+              "md_achievement_conditions_desc_158"
+            ],
+            [
+              262,
+              "md_achievement_conditions_desc_263"
+            ],
+            [
+              306,
+              "md_achievement_conditions_desc_307"
+            ]
+          ],
+          9723
+        ],
+        [
+          [
+            [
+              11,
+              "md_achievement_conditions_desc_12"
+            ],
+            [
+              100,
+              "md_achievement_conditions_desc_101"
+            ],
+            [
+              158,
+              "md_achievement_conditions_desc_159"
+            ],
+            [
+              263,
+              "md_achievement_conditions_desc_264"
+            ],
+            [
+              307,
+              "md_achievement_conditions_desc_308"
+            ]
+          ],
+          9917
+        ],
+        [
+          [
+            [
+              12,
+              "md_achievement_conditions_desc_13"
+            ],
+            [
+              101,
+              "md_achievement_conditions_desc_102"
+            ],
+            [
+              264,
+              "md_achievement_conditions_desc_265"
+            ],
+            [
+              308,
+              "md_achievement_conditions_desc_309"
+            ],
+            [
+              369,
+              "md_achievement_conditions_desc_370"
+            ]
+          ],
+          10111
+        ],
+        [
+          [
+            [
+              0,
+              "md_achievement_conditions_desc_1"
+            ],
+            [
+              13,
+              "md_achievement_conditions_desc_14"
+            ],
+            [
+              102,
+              "md_achievement_conditions_desc_103"
+            ],
+            [
+              265,
+              "md_achievement_conditions_desc_266"
+            ],
+            [
+              370,
+              "md_achievement_conditions_desc_371"
+            ]
+          ],
+          10303
+        ],
+        [
+          [
+            [
+              1,
+              "md_achievement_conditions_desc_2"
+            ],
+            [
+              14,
+              "md_achievement_conditions_desc_15"
+            ],
+            [
+              103,
+              "md_achievement_conditions_desc_104"
+            ],
+            [
+              266,
+              "md_achievement_conditions_desc_267"
+            ],
+            [
+              371,
+              "md_achievement_conditions_desc_372"
+            ]
+          ],
+          10495
+        ],
+        [
+          [
+            [
+              2,
+              "md_achievement_conditions_desc_3"
+            ],
+            [
+              15,
+              "md_achievement_conditions_desc_16"
+            ],
+            [
+              104,
+              "md_achievement_conditions_desc_105"
+            ],
+            [
+              209,
+              "md_achievement_conditions_desc_210"
+            ],
+            [
+              267,
+              "md_achievement_conditions_desc_268"
+            ],
+            [
+              372,
+              "md_achievement_conditions_desc_373"
+            ]
+          ],
+          10726
+        ],
+        [
+          [
+            [
+              3,
+              "md_achievement_conditions_desc_4"
+            ],
+            [
+              16,
+              "md_achievement_conditions_desc_17"
+            ],
+            [
+              105,
+              "md_achievement_conditions_desc_106"
+            ],
+            [
+              210,
+              "md_achievement_conditions_desc_211"
+            ],
+            [
+              268,
+              "md_achievement_conditions_desc_269"
+            ],
+            [
+              373,
+              "md_achievement_conditions_desc_374"
+            ]
+          ],
+          10957
+        ],
+        [
+          [
+            [
+              4,
+              "md_achievement_conditions_desc_5"
+            ],
+            [
+              17,
+              "md_achievement_conditions_desc_18"
+            ],
+            [
+              106,
+              "md_achievement_conditions_desc_107"
+            ],
+            [
+              211,
+              "md_achievement_conditions_desc_212"
+            ],
+            [
+              374,
+              "md_achievement_conditions_desc_375"
+            ]
+          ],
+          11149
+        ],
+        [
+          [
+            [
+              5,
+              "md_achievement_conditions_desc_6"
+            ],
+            [
+              18,
+              "md_achievement_conditions_desc_19"
+            ],
+            [
+              79,
+              "md_achievement_conditions_desc_80"
+            ],
+            [
+              107,
+              "md_achievement_conditions_desc_108"
+            ],
+            [
+              212,
+              "md_achievement_conditions_desc_213"
+            ],
+            [
+              375,
+              "md_achievement_conditions_desc_376"
+            ]
+          ],
+          11379
+        ],
+        [
+          [
+            [
+              6,
+              "md_achievement_conditions_desc_7"
+            ],
+            [
+              80,
+              "md_achievement_conditions_desc_81"
+            ],
+            [
+              108,
+              "md_achievement_conditions_desc_109"
+            ],
+            [
+              169,
+              "md_achievement_conditions_desc_170"
+            ],
+            [
+              213,
+              "md_achievement_conditions_desc_214"
+            ],
+            [
+              376,
+              "md_achievement_conditions_desc_377"
+            ]
+          ],
+          11610
+        ],
+        [
+          [
+            [
+              7,
+              "md_achievement_conditions_desc_8"
+            ],
+            [
+              81,
+              "md_achievement_conditions_desc_82"
+            ],
+            [
+              170,
+              "md_achievement_conditions_desc_171"
+            ],
+            [
+              214,
+              "md_achievement_conditions_desc_215"
+            ],
+            [
+              319,
+              "md_achievement_conditions_desc_320"
+            ],
+            [
+              377,
+              "md_achievement_conditions_desc_378"
+            ]
+          ],
+          11841
+        ],
+        [
+          [
+            [
+              8,
+              "md_achievement_conditions_desc_9"
+            ],
+            [
+              82,
+              "md_achievement_conditions_desc_83"
+            ],
+            [
+              171,
+              "md_achievement_conditions_desc_172"
+            ],
+            [
+              215,
+              "md_achievement_conditions_desc_216"
+            ],
+            [
+              320,
+              "md_achievement_conditions_desc_321"
+            ],
+            [
+              378,
+              "md_achievement_conditions_desc_379"
+            ]
+          ],
+          12072
+        ],
+        [
+          [
+            [
+              83,
+              "md_achievement_conditions_desc_84"
+            ],
+            [
+              172,
+              "md_achievement_conditions_desc_173"
+            ],
+            [
+              216,
+              "md_achievement_conditions_desc_217"
+            ],
+            [
+              321,
+              "md_achievement_conditions_desc_322"
+            ]
+          ],
+          12227
+        ],
+        [
+          [
+            [
+              84,
+              "md_achievement_conditions_desc_85"
+            ],
+            [
+              173,
+              "md_achievement_conditions_desc_174"
+            ],
+            [
+              217,
+              "md_achievement_conditions_desc_218"
+            ],
+            [
+              322,
+              "md_achievement_conditions_desc_323"
+            ]
+          ],
+          12382
+        ],
+        [
+          [
+            [
+              85,
+              "md_achievement_conditions_desc_86"
+            ],
+            [
+              174,
+              "md_achievement_conditions_desc_175"
+            ],
+            [
+              218,
+              "md_achievement_conditions_desc_219"
+            ],
+            [
+              279,
+              "md_achievement_conditions_desc_280"
+            ],
+            [
+              323,
+              "md_achievement_conditions_desc_324"
+            ]
+          ],
+          12576
+        ],
+        [
+          [
+            [
+              86,
+              "md_achievement_conditions_desc_87"
+            ],
+            [
+              175,
+              "md_achievement_conditions_desc_176"
+            ],
+            [
+              280,
+              "md_achievement_conditions_desc_281"
+            ],
+            [
+              324,
+              "md_achievement_conditions_desc_325"
+            ]
+          ],
+          12731
+        ],
+        [
+          [
+            [
+              29,
+              "md_achievement_conditions_desc_30"
+            ],
+            [
+              87,
+              "md_achievement_conditions_desc_88"
+            ],
+            [
+              176,
+              "md_achievement_conditions_desc_177"
+            ],
+            [
+              281,
+              "md_achievement_conditions_desc_282"
+            ],
+            [
+              325,
+              "md_achievement_conditions_desc_326"
+            ]
+          ],
+          12924
+        ],
+        [
+          [
+            [
+              30,
+              "md_achievement_conditions_desc_31"
+            ],
+            [
+              88,
+              "md_achievement_conditions_desc_89"
+            ],
+            [
+              119,
+              "md_achievement_conditions_desc_120"
+            ],
+            [
+              177,
+              "md_achievement_conditions_desc_178"
+            ],
+            [
+              282,
+              "md_achievement_conditions_desc_283"
+            ],
+            [
+              326,
+              "md_achievement_conditions_desc_327"
+            ]
+          ],
+          13156
+        ],
+        [
+          [
+            [
+              31,
+              "md_achievement_conditions_desc_32"
+            ],
+            [
+              120,
+              "md_achievement_conditions_desc_121"
+            ],
+            [
+              178,
+              "md_achievement_conditions_desc_179"
+            ],
+            [
+              283,
+              "md_achievement_conditions_desc_284"
+            ],
+            [
+              327,
+              "md_achievement_conditions_desc_328"
+            ]
+          ],
+          13350
+        ],
+        [
+          [
+            [
+              32,
+              "md_achievement_conditions_desc_33"
+            ],
+            [
+              121,
+              "md_achievement_conditions_desc_122"
+            ],
+            [
+              284,
+              "md_achievement_conditions_desc_285"
+            ],
+            [
+              328,
+              "md_achievement_conditions_desc_329"
+            ],
+            [
+              389,
+              "md_achievement_conditions_desc_390"
+            ]
+          ],
+          13544
+        ],
+        [
+          [
+            [
+              33,
+              "md_achievement_conditions_desc_34"
+            ],
+            [
+              122,
+              "md_achievement_conditions_desc_123"
+            ],
+            [
+              285,
+              "md_achievement_conditions_desc_286"
+            ]
+          ],
+          13660
+        ],
+        [
+          [
+            [
+              34,
+              "md_achievement_conditions_desc_35"
+            ],
+            [
+              123,
+              "md_achievement_conditions_desc_124"
+            ],
+            [
+              286,
+              "md_achievement_conditions_desc_287"
+            ]
+          ],
+          13776
+        ],
+        [
+          [
+            [
+              35,
+              "md_achievement_conditions_desc_36"
+            ],
+            [
+              124,
+              "md_achievement_conditions_desc_125"
+            ],
+            [
+              229,
+              "md_achievement_conditions_desc_230"
+            ],
+            [
+              287,
+              "md_achievement_conditions_desc_288"
+            ]
+          ],
+          13931
+        ],
+        [
+          [
+            [
+              36,
+              "md_achievement_conditions_desc_37"
+            ],
+            [
+              125,
+              "md_achievement_conditions_desc_126"
+            ],
+            [
+              230,
+              "md_achievement_conditions_desc_231"
+            ],
+            [
+              288,
+              "md_achievement_conditions_desc_289"
+            ]
+          ],
+          14086
+        ],
+        [
+          [
+            [
+              37,
+              "md_achievement_conditions_desc_38"
+            ],
+            [
+              126,
+              "md_achievement_conditions_desc_127"
+            ],
+            [
+              231,
+              "md_achievement_conditions_desc_232"
+            ]
+          ],
+          14202
+        ],
+        [
+          [
+            [
+              38,
+              "md_achievement_conditions_desc_39"
+            ],
+            [
+              127,
+              "md_achievement_conditions_desc_128"
+            ],
+            [
+              232,
+              "md_achievement_conditions_desc_233"
+            ]
+          ],
+          14318
+        ],
+        [
+          [
+            [
+              128,
+              "md_achievement_conditions_desc_129"
+            ],
+            [
+              189,
+              "md_achievement_conditions_desc_190"
+            ],
+            [
+              233,
+              "md_achievement_conditions_desc_234"
+            ]
+          ],
+          14435
+        ],
+        [
+          [
+            [
+              190,
+              "md_achievement_conditions_desc_191"
+            ],
+            [
+              234,
+              "md_achievement_conditions_desc_235"
+            ],
+            [
+              339,
+              "md_achievement_conditions_desc_340"
+            ]
+          ],
+          14552
+        ],
+        [
+          [
+            [
+              191,
+              "md_achievement_conditions_desc_192"
+            ],
+            [
+              235,
+              "md_achievement_conditions_desc_236"
+            ],
+            [
+              340,
+              "md_achievement_conditions_desc_341"
+            ]
+          ],
+          14669
+        ],
+        [
+          [
+            [
+              192,
+              "md_achievement_conditions_desc_193"
+            ],
+            [
+              236,
+              "md_achievement_conditions_desc_237"
+            ],
+            [
+              341,
+              "md_achievement_conditions_desc_342"
+            ]
+          ],
+          14786
+        ],
+        [
+          [
+            [
+              193,
+              "md_achievement_conditions_desc_194"
+            ],
+            [
+              237,
+              "md_achievement_conditions_desc_238"
+            ],
+            [
+              342,
+              "md_achievement_conditions_desc_343"
+            ]
+          ],
+          14903
+        ],
+        [
+          [
+            [
+              194,
+              "md_achievement_conditions_desc_195"
+            ],
+            [
+              238,
+              "md_achievement_conditions_desc_239"
+            ],
+            [
+              343,
+              "md_achievement_conditions_desc_344"
+            ]
+          ],
+          15020
+        ],
+        [
+          [
+            [
+              195,
+              "md_achievement_conditions_desc_196"
+            ],
+            [
+              344,
+              "md_achievement_conditions_desc_345"
+            ]
+          ],
+          15098
+        ],
+        [
+          [
+            [
+              49,
+              "md_achievement_conditions_desc_50"
+            ],
+            [
+              196,
+              "md_achievement_conditions_desc_197"
+            ],
+            [
+              345,
+              "md_achievement_conditions_desc_346"
+            ]
+          ],
+          15214
+        ],
+        [
+          [
+            [
+              50,
+              "md_achievement_conditions_desc_51"
+            ],
+            [
+              139,
+              "md_achievement_conditions_desc_140"
+            ],
+            [
+              197,
+              "md_achievement_conditions_desc_198"
+            ],
+            [
+              346,
+              "md_achievement_conditions_desc_347"
+            ]
+          ],
+          15369
+        ],
+        [
+          [
+            [
+              51,
+              "md_achievement_conditions_desc_52"
+            ],
+            [
+              140,
+              "md_achievement_conditions_desc_141"
+            ],
+            [
+              198,
+              "md_achievement_conditions_desc_199"
+            ],
+            [
+              347,
+              "md_achievement_conditions_desc_348"
+            ]
+          ],
+          15524
+        ],
+        [
+          [
+            [
+              52,
+              "md_achievement_conditions_desc_53"
+            ],
+            [
+              141,
+              "md_achievement_conditions_desc_142"
+            ],
+            [
+              348,
+              "md_achievement_conditions_desc_349"
+            ]
+          ],
+          15640
+        ],
+        [
+          [
+            [
+              53,
+              "md_achievement_conditions_desc_54"
+            ],
+            [
+              142,
+              "md_achievement_conditions_desc_143"
+            ]
+          ],
+          15717
+        ],
+        [
+          [
+            [
+              54,
+              "md_achievement_conditions_desc_55"
+            ],
+            [
+              143,
+              "md_achievement_conditions_desc_144"
+            ]
+          ],
+          15794
+        ],
+        [
+          [
+            [
+              55,
+              "md_achievement_conditions_desc_56"
+            ],
+            [
+              144,
+              "md_achievement_conditions_desc_145"
+            ],
+            [
+              249,
+              "md_achievement_conditions_desc_250"
+            ]
+          ],
+          15910
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 390,
+        "size": 22220,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

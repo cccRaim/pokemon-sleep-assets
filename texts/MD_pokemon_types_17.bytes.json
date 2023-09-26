@@ -1,0 +1,231 @@
+{
+  "strings": {
+    "md_pokemon_types_name_1": [
+      "ノーマル"
+    ],
+    "md_pokemon_types_name_10": [
+      "ひこう"
+    ],
+    "md_pokemon_types_name_11": [
+      "エスパー"
+    ],
+    "md_pokemon_types_name_12": [
+      "むし"
+    ],
+    "md_pokemon_types_name_13": [
+      "いわ"
+    ],
+    "md_pokemon_types_name_14": [
+      "ゴースト"
+    ],
+    "md_pokemon_types_name_15": [
+      "ドラゴン"
+    ],
+    "md_pokemon_types_name_16": [
+      "あく"
+    ],
+    "md_pokemon_types_name_17": [
+      "はがね"
+    ],
+    "md_pokemon_types_name_18": [
+      "フェアリー"
+    ],
+    "md_pokemon_types_name_2": [
+      "ほのお"
+    ],
+    "md_pokemon_types_name_3": [
+      "みず"
+    ],
+    "md_pokemon_types_name_4": [
+      "でんき"
+    ],
+    "md_pokemon_types_name_5": [
+      "くさ"
+    ],
+    "md_pokemon_types_name_6": [
+      "こおり"
+    ],
+    "md_pokemon_types_name_7": [
+      "かくとう"
+    ],
+    "md_pokemon_types_name_8": [
+      "どく"
+    ],
+    "md_pokemon_types_name_9": [
+      "じめん"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 18,
+        "size": 130,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 601,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              2,
+              "md_pokemon_types_name_3"
+            ],
+            [
+              12,
+              "md_pokemon_types_name_13"
+            ]
+          ],
+          145
+        ],
+        [
+          [
+            [
+              3,
+              "md_pokemon_types_name_4"
+            ],
+            [
+              13,
+              "md_pokemon_types_name_14"
+            ]
+          ],
+          202
+        ],
+        [
+          [
+            [
+              4,
+              "md_pokemon_types_name_5"
+            ],
+            [
+              14,
+              "md_pokemon_types_name_15"
+            ]
+          ],
+          259
+        ],
+        [
+          [
+            [
+              5,
+              "md_pokemon_types_name_6"
+            ],
+            [
+              15,
+              "md_pokemon_types_name_16"
+            ]
+          ],
+          316
+        ],
+        [
+          [
+            [
+              6,
+              "md_pokemon_types_name_7"
+            ],
+            [
+              16,
+              "md_pokemon_types_name_17"
+            ]
+          ],
+          373
+        ],
+        [
+          [
+            [
+              7,
+              "md_pokemon_types_name_8"
+            ],
+            [
+              17,
+              "md_pokemon_types_name_18"
+            ]
+          ],
+          430
+        ],
+        [
+          [
+            [
+              8,
+              "md_pokemon_types_name_9"
+            ]
+          ],
+          458
+        ],
+        [
+          [],
+          458
+        ],
+        [
+          [
+            [
+              9,
+              "md_pokemon_types_name_10"
+            ]
+          ],
+          487
+        ],
+        [
+          [
+            [
+              0,
+              "md_pokemon_types_name_1"
+            ],
+            [
+              10,
+              "md_pokemon_types_name_11"
+            ]
+          ],
+          544
+        ],
+        [
+          [
+            [
+              1,
+              "md_pokemon_types_name_2"
+            ],
+            [
+              11,
+              "md_pokemon_types_name_12"
+            ]
+          ],
+          601
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 18,
+        "size": 218,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

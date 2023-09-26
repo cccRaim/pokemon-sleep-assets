@@ -1,0 +1,332 @@
+{
+  "strings": {
+    "md_incense_desc_1": [
+      "睡眠リサーチでおてつだいポケモンが\nもらえる経験値が2倍になる。"
+    ],
+    "md_incense_desc_10": [
+      "おてつだいポケモンのげんきの回復量が1.5倍になる"
+    ],
+    "md_incense_desc_11": [
+      "睡眠リサーチでのかくとくリサーチEXPが1.2倍になる"
+    ],
+    "md_incense_desc_12": [
+      "睡眠リサーチでのかくとくリサーチEXPが1.5倍になる"
+    ],
+    "md_incense_desc_13": [
+      "睡眠リサーチでのかくとくコインが1.2倍になる"
+    ],
+    "md_incense_desc_14": [
+      "睡眠リサーチでのかくとくコインが1.5倍になる"
+    ],
+    "md_incense_desc_2": [
+      "睡眠リサーチでもらえるゆめのかけらが\nいつもの2倍に増える。"
+    ],
+    "md_incense_desc_3": [
+      "睡眠リサーチでおてつだいポケモンの\nげんき回復量がいつもの2倍に増える。"
+    ],
+    "md_incense_desc_4": [
+      "睡眠リサーチでもらえるリサーチEXPが\nいつもの2倍に増える。"
+    ],
+    "md_incense_desc_5": [
+      "未発見の寝顔が見つかる確率が1.5倍になる"
+    ],
+    "md_incense_desc_6": [
+      "未発見の寝顔が見つかる確率が2倍になる"
+    ],
+    "md_incense_desc_7": [
+      "次の日のカビゴンのねむけパワーの上昇率1.2倍になる"
+    ],
+    "md_incense_desc_8": [
+      "次の日のカビゴンのねむけパワーの上昇率1.5倍になる"
+    ],
+    "md_incense_desc_9": [
+      "おてつだいポケモンのげんきの回復量が1.2倍になる"
+    ],
+    "md_incense_name_1": [
+      "せいちょうのおこう"
+    ],
+    "md_incense_name_10": [
+      "げんきのおこうM"
+    ],
+    "md_incense_name_11": [
+      "けんきゅうルーペS"
+    ],
+    "md_incense_name_12": [
+      "けんきゅうルーペM"
+    ],
+    "md_incense_name_13": [
+      "こううんのカメラS"
+    ],
+    "md_incense_name_14": [
+      "こううんのカメラM"
+    ],
+    "md_incense_name_2": [
+      "こううんのおこう"
+    ],
+    "md_incense_name_3": [
+      "かいふくのおこう"
+    ],
+    "md_incense_name_4": [
+      "しゅうちゅうのおこう"
+    ],
+    "md_incense_name_5": [
+      "トゲピーにんぎょうM"
+    ],
+    "md_incense_name_6": [
+      "トゲピーにんぎょうL"
+    ],
+    "md_incense_name_7": [
+      "はらぺこハーブS"
+    ],
+    "md_incense_name_8": [
+      "はらぺこハーブM"
+    ],
+    "md_incense_name_9": [
+      "げんきのおこうS"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 28,
+        "size": 200,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 17,
+        "size": 762,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              7,
+              "md_incense_desc_4"
+            ]
+          ],
+          158
+        ],
+        [
+          [
+            [
+              9,
+              "md_incense_desc_5"
+            ],
+            [
+              19,
+              "md_incense_desc_10"
+            ]
+          ],
+          203
+        ],
+        [
+          [
+            [
+              11,
+              "md_incense_desc_6"
+            ],
+            [
+              21,
+              "md_incense_desc_11"
+            ]
+          ],
+          248
+        ],
+        [
+          [
+            [
+              13,
+              "md_incense_desc_7"
+            ],
+            [
+              18,
+              "md_incense_name_10"
+            ],
+            [
+              23,
+              "md_incense_desc_12"
+            ]
+          ],
+          316
+        ],
+        [
+          [
+            [
+              15,
+              "md_incense_desc_8"
+            ],
+            [
+              20,
+              "md_incense_name_11"
+            ],
+            [
+              25,
+              "md_incense_desc_13"
+            ]
+          ],
+          384
+        ],
+        [
+          [
+            [
+              0,
+              "md_incense_name_1"
+            ],
+            [
+              17,
+              "md_incense_desc_9"
+            ],
+            [
+              22,
+              "md_incense_name_12"
+            ],
+            [
+              27,
+              "md_incense_desc_14"
+            ]
+          ],
+          474
+        ],
+        [
+          [
+            [
+              2,
+              "md_incense_name_2"
+            ],
+            [
+              24,
+              "md_incense_name_13"
+            ]
+          ],
+          519
+        ],
+        [
+          [
+            [
+              4,
+              "md_incense_name_3"
+            ],
+            [
+              26,
+              "md_incense_name_14"
+            ]
+          ],
+          564
+        ],
+        [
+          [
+            [
+              6,
+              "md_incense_name_4"
+            ]
+          ],
+          586
+        ],
+        [
+          [
+            [
+              8,
+              "md_incense_name_5"
+            ]
+          ],
+          608
+        ],
+        [
+          [
+            [
+              10,
+              "md_incense_name_6"
+            ]
+          ],
+          630
+        ],
+        [
+          [
+            [
+              12,
+              "md_incense_name_7"
+            ]
+          ],
+          652
+        ],
+        [
+          [
+            [
+              14,
+              "md_incense_name_8"
+            ]
+          ],
+          674
+        ],
+        [
+          [
+            [
+              16,
+              "md_incense_name_9"
+            ]
+          ],
+          696
+        ],
+        [
+          [
+            [
+              1,
+              "md_incense_desc_1"
+            ]
+          ],
+          718
+        ],
+        [
+          [
+            [
+              3,
+              "md_incense_desc_2"
+            ]
+          ],
+          740
+        ],
+        [
+          [
+            [
+              5,
+              "md_incense_desc_3"
+            ]
+          ],
+          762
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 28,
+        "size": 1156,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "strings": {
+    "CookingGenre_Name_1": [
+      "Currys / Ragoûts"
+    ],
+    "CookingGenre_Name_2": [
+      "Salades"
+    ],
+    "CookingGenre_Name_3": [
+      "Desserts / Boissons"
+    ],
+    "CookingGenre_UnknownDishName_1": [
+      "Curry/Ragoût"
+    ],
+    "CookingGenre_UnknownDishName_2": [
+      "Salade"
+    ],
+    "CookingGenre_UnknownDishName_3": [
+      "Dessert/Boisson"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 6,
+        "size": 46,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 217,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              5,
+              "CookingGenre_UnknownDishName_3"
+            ]
+          ],
+          75
+        ],
+        [
+          [],
+          75
+        ],
+        [
+          [
+            [
+              0,
+              "CookingGenre_Name_1"
+            ]
+          ],
+          99
+        ],
+        [
+          [
+            [
+              1,
+              "CookingGenre_Name_2"
+            ],
+            [
+              3,
+              "CookingGenre_UnknownDishName_1"
+            ]
+          ],
+          158
+        ],
+        [
+          [
+            [
+              2,
+              "CookingGenre_Name_3"
+            ],
+            [
+              4,
+              "CookingGenre_UnknownDishName_2"
+            ]
+          ],
+          217
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 6,
+        "size": 186,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

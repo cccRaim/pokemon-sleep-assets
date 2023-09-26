@@ -1,0 +1,478 @@
+{
+  "strings": {
+    "SleepPassExchangeItemInfoPopup_Popup_SectionHeader_Title": [
+      "Description"
+    ],
+    "SleepPassExchangeShopFinishPopup_Popup_Content_Desc": [
+      "You exchanged some sleep points!"
+    ],
+    "SleepPassExchangeShopFinishPopup_Popup_Content_Icon_ItemNum": [
+      "×\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "SleepPassExchangeShopFinishPopup_Popup_Header_Title": [
+      "Exchange Completed"
+    ],
+    "SleepPassExchangeShopSceneController_Text_2": [
+      "Regular Exchange"
+    ],
+    "SleepPassExchangeShopSceneController_Text_3": [
+      "Premium Exchange"
+    ],
+    "SleepPassExchangeShopSceneController_Text_5": [
+      "This item is only available\nto Premium Pass holders."
+    ],
+    "SleepPassExchangeShopSceneController_Text_6": [
+      "Exchange"
+    ],
+    "SleepPassExchangeShopSceneController_Text_7": [
+      "You can't get any more of\nthis item this month!"
+    ],
+    "SleepPassExchangeShopSceneController_Text_9": [
+      "A new month has begun, so item\nstocks have been refreshed!"
+    ],
+    "SleepPassExchangeShopScene_Content_ExchangeLImitNum": [
+      "\u000e\u0002\u0001\u0002",
+      ""
+    ],
+    "SleepPassExchangeShopScene_Content_ExchangeLimit": [
+      "In Stock"
+    ],
+    "SleepPassExchangeShopScene_Content_ItemNum": [
+      "×\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SleepPassExchangeShopScene_Content_Price": [
+      "\u000e\u0002\u0003\u0004",
+      "촁"
+    ],
+    "SleepPassExchangeShopScene_Content_TopView_SectionHeader_Title": [
+      "Current Inventory (\u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0014\u0006day\bdays촀 till update)"
+    ],
+    "SleepPassExchangeShopScene_Content_TopView_SectionHeader_Title_0day": [
+      "Current Inventory (\u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0010\u0004hr\u0006hrs촀 till update)"
+    ],
+    "SleepPassExchangeShopScene_Content_TopView_SectionHeader_Title_0hour": [
+      "Current Inventory (\u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0014\u0006min\bmins촀 till update)"
+    ],
+    "SleepPassExchangeShopTopScene_Content_NormalShopButton_Name": [
+      "Regular Exchange"
+    ],
+    "SleepPassExchangeShopTopScene_Content_PremiumShopButton_Name": [
+      "Premium Exchange"
+    ],
+    "SleepPassExchangeShopTopScene_Footer_Base_BackButton_Title": [
+      "Back"
+    ],
+    "SleepPassExchangeShopTopScene_Header_PoinInfoButton_Number": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "SleepPassExchangeShop_ShopPopup_BagAlreadyMaxPopup_Text": [
+      "Your bag’s items pocket is full, so you\ncan’t exchange for any more items.\nMake space in your bag, then try again!"
+    ],
+    "SleepPassExchangeShop_ShopPopup_BagAlreadyMaxPopup_Title": [
+      "Bag Capacity Reached"
+    ],
+    "SleepPassExchangeShop_ShopPopup_ItemCell_ItemName": [
+      "\u000e\u0003\u0003\u0004Ā촀 \u000e",
+      "\u0003\u0004香ﾙ×\u000e",
+      "\u0003\u0004",
+      "＀\u000e\u0002\u0001\u0002\u0002"
+    ],
+    "SleepPassExchangeShop_ShopPopup_NormalPassItems_Title": [
+      "Regular Exchange (\u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0014\u0006day\bdays촀 till update)"
+    ],
+    "SleepPassExchangeShop_ShopPopup_NormalPassItems_Title_0day": [
+      "Regular Exchange (\u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0010\u0004hr\u0006hrs촀 till update)"
+    ],
+    "SleepPassExchangeShop_ShopPopup_NormalPassItems_Title_0hour": [
+      "Regular Exchange (\u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0014\u0006min\bmins촀 till update)"
+    ],
+    "SleepPassExchangeShop_ShopPopup_PremiumPassItems_Title": [
+      "Premium Exchange (\u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0014\u0006day\bdays촀 till update)"
+    ],
+    "SleepPassExchangeShop_ShopPopup_PremiumPassItems_Title_0day": [
+      "Premium Exchange (\u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0010\u0004hr\u0006hrs촀 till update)"
+    ],
+    "SleepPassExchangeShop_ShopPopup_PremiumPassItems_Title_0hour": [
+      "Premium Exchange (\u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "\u0014\u0006min\bmins촀 till update)"
+    ],
+    "SleepPassItemExchangePopup_Pass_Expire_Message": [
+      "Your Premium Pass has expired!"
+    ],
+    "SleepPassItemExchangePopup_Pass_Expire_Title": [
+      "Pass Expired"
+    ],
+    "SleepPassItemExchangePopup_Popup_BuyUnit_ExchangeCount_Title": [
+      "In Stock"
+    ],
+    "SleepPassItemExchangePopup_Popup_BuyUnit_ExchangeCount_Value": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "SleepPassItemExchangePopup_Popup_BuyUnit_HeadlineTitle": [
+      "Exchange"
+    ],
+    "SleepPassItemExchangePopup_Popup_BuyUnit_OwnCount_Title": [
+      "Number Held"
+    ],
+    "SleepPassItemExchangePopup_Popup_BuyUnit_OwnCount_Value": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "SleepPassItemExchangePopup_Popup_BuyUnit_SleepPoint_Title": [
+      "Sleep Points"
+    ],
+    "SleepPassItemExchangePopup_Popup_BuyUnit_SleepPoint_Value": [
+      "\u000e\u0002\u0005\u0004",
+      "촁"
+    ],
+    "SleepPassItemExchangePopup_Popup_Footer_OKButton_Text": [
+      "Make Exchange"
+    ],
+    "SleepPassItemExchangePopup_Popup_InfoButton": [
+      "Details"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 41,
+        "size": 291,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 23,
+        "size": 2564,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              20,
+              "SleepPassExchangeShopFinishPopup_Popup_Header_Title"
+            ]
+          ],
+          240
+        ],
+        [
+          [
+            [
+              19,
+              "SleepPassExchangeItemInfoPopup_Popup_SectionHeader_Title"
+            ],
+            [
+              27,
+              "SleepPassExchangeShopSceneController_Text_9"
+            ]
+          ],
+          349
+        ],
+        [
+          [
+            [
+              6,
+              "SleepPassExchangeShopScene_Content_TopView_SectionHeader_Title_0hour"
+            ],
+            [
+              7,
+              "SleepPassItemExchangePopup_Popup_BuyUnit_HeadlineTitle"
+            ],
+            [
+              36,
+              "SleepPassExchangeShop_ShopPopup_PremiumPassItems_Title_0day"
+            ]
+          ],
+          545
+        ],
+        [
+          [
+            [
+              12,
+              "SleepPassItemExchangePopup_Popup_BuyUnit_SleepPoint_Title"
+            ]
+          ],
+          607
+        ],
+        [
+          [
+            [
+              10,
+              "SleepPassItemExchangePopup_Popup_BuyUnit_OwnCount_Title"
+            ],
+            [
+              40,
+              "SleepPassExchangeShop_ShopPopup_BagAlreadyMaxPopup_Text"
+            ]
+          ],
+          727
+        ],
+        [
+          [
+            [
+              8,
+              "SleepPassItemExchangePopup_Popup_BuyUnit_ExchangeCount_Title"
+            ]
+          ],
+          792
+        ],
+        [
+          [
+            [
+              2,
+              "SleepPassExchangeShopTopScene_Content_PremiumShopButton_Name"
+            ]
+          ],
+          857
+        ],
+        [
+          [
+            [
+              0,
+              "SleepPassExchangeShopTopScene_Header_PoinInfoButton_Number"
+            ],
+            [
+              18,
+              "SleepPassExchangeShopFinishPopup_Popup_Content_Icon_ItemNum"
+            ],
+            [
+              31,
+              "SleepPassExchangeShopScene_Content_Price"
+            ],
+            [
+              32,
+              "SleepPassExchangeShop_ShopPopup_NormalPassItems_Title"
+            ]
+          ],
+          1087
+        ],
+        [
+          [],
+          1087
+        ],
+        [
+          [
+            [
+              11,
+              "SleepPassItemExchangePopup_Popup_BuyUnit_OwnCount_Value"
+            ],
+            [
+              17,
+              "SleepPassExchangeShopFinishPopup_Popup_Content_Desc"
+            ]
+          ],
+          1203
+        ],
+        [
+          [
+            [
+              9,
+              "SleepPassItemExchangePopup_Popup_BuyUnit_ExchangeCount_Value"
+            ]
+          ],
+          1268
+        ],
+        [
+          [
+            [
+              4,
+              "SleepPassExchangeShopScene_Content_TopView_SectionHeader_Title"
+            ],
+            [
+              5,
+              "SleepPassExchangeShopScene_Content_TopView_SectionHeader_Title_0day"
+            ],
+            [
+              15,
+              "SleepPassItemExchangePopup_Pass_Expire_Message"
+            ]
+          ],
+          1458
+        ],
+        [
+          [],
+          1458
+        ],
+        [
+          [
+            [
+              34,
+              "SleepPassExchangeShop_ShopPopup_NormalPassItems_Title_0hour"
+            ]
+          ],
+          1522
+        ],
+        [
+          [
+            [
+              33,
+              "SleepPassExchangeShop_ShopPopup_NormalPassItems_Title_0day"
+            ],
+            [
+              39,
+              "SleepPassExchangeShop_ShopPopup_BagAlreadyMaxPopup_Title"
+            ]
+          ],
+          1646
+        ],
+        [
+          [],
+          1646
+        ],
+        [
+          [],
+          1646
+        ],
+        [
+          [
+            [
+              22,
+              "SleepPassExchangeShopSceneController_Text_2"
+            ],
+            [
+              30,
+              "SleepPassExchangeShopScene_Content_ExchangeLImitNum"
+            ],
+            [
+              38,
+              "SleepPassExchangeShop_ShopPopup_ItemCell_ItemName"
+            ]
+          ],
+          1804
+        ],
+        [
+          [
+            [
+              23,
+              "SleepPassExchangeShopSceneController_Text_3"
+            ],
+            [
+              37,
+              "SleepPassExchangeShop_ShopPopup_PremiumPassItems_Title_0hour"
+            ]
+          ],
+          1917
+        ],
+        [
+          [
+            [
+              1,
+              "SleepPassExchangeShopTopScene_Content_NormalShopButton_Name"
+            ],
+            [
+              21,
+              "SleepPassItemExchangePopup_Popup_Footer_OKButton_Text"
+            ]
+          ],
+          2039
+        ],
+        [
+          [
+            [
+              3,
+              "SleepPassExchangeShopTopScene_Footer_Base_BackButton_Title"
+            ],
+            [
+              13,
+              "SleepPassItemExchangePopup_Popup_BuyUnit_SleepPoint_Value"
+            ],
+            [
+              14,
+              "SleepPassItemExchangePopup_Pass_Expire_Title"
+            ],
+            [
+              16,
+              "SleepPassItemExchangePopup_Popup_InfoButton"
+            ],
+            [
+              24,
+              "SleepPassExchangeShopSceneController_Text_5"
+            ],
+            [
+              28,
+              "SleepPassExchangeShopScene_Content_ItemNum"
+            ],
+            [
+              35,
+              "SleepPassExchangeShop_ShopPopup_PremiumPassItems_Title"
+            ]
+          ],
+          2415
+        ],
+        [
+          [
+            [
+              25,
+              "SleepPassExchangeShopSceneController_Text_6"
+            ]
+          ],
+          2463
+        ],
+        [
+          [
+            [
+              26,
+              "SleepPassExchangeShopSceneController_Text_7"
+            ],
+            [
+              29,
+              "SleepPassExchangeShopScene_Content_ExchangeLimit"
+            ]
+          ],
+          2564
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 41,
+        "size": 2376,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

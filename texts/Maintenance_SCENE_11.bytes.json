@@ -1,0 +1,495 @@
+{
+  "strings": {
+    "MaintenanceSleepData_FoundLaterPopup_Message": [
+      "メンテナンス中に計測された\n睡眠データが \u000e\u0002\u0001\u0002",
+      "件 見つかりました\n\nホーム画面に残っている\n「未報告の睡眠リサーチ」を完了すると、\n「メンテナンス中の睡眠データ」\nを送信できるようになります"
+    ],
+    "MaintenanceSleepData_FoundPopup_Message": [
+      "保存された睡眠データが\n見つかりました！"
+    ],
+    "MaintenanceSleepData_FoundPopup_Title": [
+      "データチェック"
+    ],
+    "MaintenanceSleepData_FoundStartPopup_Message": [
+      "メンテナンス中に計測された\n睡眠データが \u000e\u0002\u0001\u0002",
+      "件 見つかりました\n睡眠リサーチを開始します"
+    ],
+    "MaintenanceSleep_FinishPopup_Button": [
+      "待機画面へ"
+    ],
+    "MaintenanceSleep_FinishPopup_Message_1": [
+      "睡眠計測を完了しました"
+    ],
+    "MaintenanceSleep_FinishPopup_Message_2": [
+      "ただ今、メンテナンス中です\n睡眠データの計測は\u000e",
+      "\u0003\u0004ꈝ￿成功\u000e",
+      "\u0003\u0004",
+      "＀しましたが、\nメンテナンス終了まで睡眠データを\n報告することができません\nメンテナンス終了までお待ちください"
+    ],
+    "MaintenanceSleep_FinishPopup_Title": [
+      "メンテナンス中"
+    ],
+    "MaintenanceSleep_NeedTutorialDone_Message": [
+      "チュートリアル完了後に、\nこの機能は利用できるようになります"
+    ],
+    "MaintenanceSleep_NeedTutorialDone_Title": [
+      "睡眠計測"
+    ],
+    "Maintenance_FinishPopup_Button": [
+      "タイトルへ"
+    ],
+    "Maintenance_FinishPopup_Message_1": [
+      "メンテナンスが終了しました"
+    ],
+    "Maintenance_FinishPopup_Message_2": [
+      "ご協力いただき\nありがとうございました"
+    ],
+    "Maintenance_FinishPopup_Title": [
+      "完了"
+    ],
+    "Maintenance_GPPSleepPopup_Button": [
+      "詳しくはマニュアルへ"
+    ],
+    "Maintenance_GPPSleepPopup_Text": [
+      "メンテナンス期間中は、Pokémon GO Plus +と\nデータを同期することはできませんが、\n\u000e",
+      "\u0003\u0004ꈝ￿睡眠計測を行うことは可能\u000e",
+      "\u0003\u0004",
+      "＀ です\nいつもどおりに計測した睡眠データを貯めておき、\nメンテナンス終了後にデータを同期して、\n睡眠データを報告してください"
+    ],
+    "Maintenance_GPPSleepPopup_Title": [
+      "Pokémon GO Plus +での計測"
+    ],
+    "Maintenance_NotDownlaodDataLockPopup_Message": [
+      "データ引き継ぎ処理が完了していないため\nこの機能はご利用になれません\nメンテナンス終了までお待ち下さい"
+    ],
+    "Maintenance_NoticePopup_Message": [
+      "ただ今、メンテナンス中です"
+    ],
+    "Maintenance_NoticePopup_Title": [
+      "メンテナンス中です"
+    ],
+    "Maintenance_SleepDataMaxErrorPopup_Text_1": [
+      "睡眠データがいっぱいです"
+    ],
+    "Maintenance_SleepDataMaxErrorPopup_Text_2": [
+      "メンテナンス中に保存できる\n睡眠データは\u000e\u0002\u0001\u0002",
+      "件までです\nこれ以上、睡眠データを保存することが\nできません\nメンテナンス終了までお待ちください"
+    ],
+    "Maintenance_SleepDataMaxErrorPopup_Title": [
+      "エラー"
+    ],
+    "Maintenance_SleepPopup_Button": [
+      "ねむる"
+    ],
+    "Maintenance_SleepPopup_Heading_1": [
+      "メンテナンス中の睡眠計測について"
+    ],
+    "Maintenance_SleepPopup_Heading_2": [
+      "保存された睡眠データ ( \u000e\u0002",
+      "\u0002촀/\u000e\u0002",
+      "\u0002촁件 )"
+    ],
+    "Maintenance_SleepPopup_Heading_3": [
+      "スマートフォンでの睡眠計測について"
+    ],
+    "Maintenance_SleepPopup_Text_1": [
+      "メンテナンス中も睡眠計測をすることができ、\n最大\u000e\u0002",
+      "\u0002촀件まで端末にデータを保存することができます\nメンテナンス終了後に、計測したデータをまとめて\n送信できます"
+    ],
+    "Maintenance_SleepPopup_Text_2": [
+      "\u000e\t",
+      "\"\u001eyyyyyMMMddd_aaa",
+      ""
+    ],
+    "Maintenance_SleepPopup_Text_3": [
+      "\u000e\t",
+      "\u0012\u000ehhhhmmm",
+      ""
+    ],
+    "Maintenance_SleepPopup_Text_4": [
+      "\u000e\t",
+      "\u000e\nhh:mm",
+      " - \u000e\t",
+      "\u000e\nhh:mm\u0001"
+    ],
+    "Maintenance_SleepPopup_Text_5": [
+      "保存された睡眠データはありません"
+    ],
+    "Maintenance_SleepPopup_Text_6": [
+      "スマートフォンでも睡眠計測をすることができ、\n最大\u000e\u0002",
+      "\u0002촀件まで端末にデータを保存することができます\nメンテナンス終了後に、計測したデータをまとめて\n送信できます"
+    ],
+    "Maintenance_SleepPopup_Title": [
+      "ねむる / 睡眠計測"
+    ],
+    "Maintenance_TOP_Button_1": [
+      "タイトルにもどる"
+    ],
+    "Maintenance_TOP_Button_2": [
+      "お知らせ"
+    ],
+    "Maintenance_TOP_Button_3": [
+      "ねむる \u000e",
+      "\u0003\u0004췍ￍ/\u000e",
+      "\u0003\u0004",
+      "＀ 睡眠計測"
+    ],
+    "Maintenance_TOP_Button_4": [
+      "GO Plus + での計測について"
+    ],
+    "Maintenance_TOP_Button_5": [
+      "スマートフォンで睡眠計測"
+    ],
+    "Maintenance_TOP_Text_1": [
+      "ただ今、サーバーメンテナンス中です\nしばらくお待ちください"
+    ],
+    "Maintenance_TOP_Text_2": [
+      "【 メンテナンス予定期間 】"
+    ],
+    "Maintenance_TOP_Text_3": [
+      "\u000e\t",
+      "$ yyyy/MM/dd_hh:mm",
+      " ~ \u000e\t",
+      "$ yyyy/MM/dd_hh:mm\u0001"
+    ],
+    "Maintenance_TOP_Text_4": [
+      "メンテナンス中も睡眠計測はできます"
+    ],
+    "Maintenance_TOP_Text_5": [
+      "現在、終了時刻は未定となっています"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 44,
+        "size": 312,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 23,
+        "size": 1794,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "Maintenance_TOP_Text_2"
+            ],
+            [
+              41,
+              "Maintenance_FinishPopup_Message_2"
+            ]
+          ],
+          249
+        ],
+        [
+          [
+            [
+              2,
+              "Maintenance_TOP_Text_3"
+            ]
+          ],
+          276
+        ],
+        [
+          [
+            [
+              3,
+              "Maintenance_TOP_Text_4"
+            ],
+            [
+              5,
+              "Maintenance_TOP_Button_1"
+            ],
+            [
+              22,
+              "Maintenance_GPPSleepPopup_Text"
+            ]
+          ],
+          367
+        ],
+        [
+          [
+            [
+              4,
+              "Maintenance_TOP_Text_5"
+            ],
+            [
+              6,
+              "Maintenance_TOP_Button_2"
+            ],
+            [
+              14,
+              "Maintenance_SleepPopup_Text_1"
+            ],
+            [
+              36,
+              "MaintenanceSleepData_FoundPopup_Message"
+            ],
+            [
+              39,
+              "Maintenance_FinishPopup_Title"
+            ]
+          ],
+          535
+        ],
+        [
+          [
+            [
+              7,
+              "Maintenance_TOP_Button_3"
+            ],
+            [
+              15,
+              "Maintenance_SleepPopup_Text_2"
+            ],
+            [
+              23,
+              "Maintenance_GPPSleepPopup_Button"
+            ],
+            [
+              42,
+              "Maintenance_FinishPopup_Button"
+            ]
+          ],
+          670
+        ],
+        [
+          [
+            [
+              8,
+              "Maintenance_TOP_Button_4"
+            ],
+            [
+              16,
+              "Maintenance_SleepPopup_Text_3"
+            ],
+            [
+              29,
+              "MaintenanceSleep_FinishPopup_Title"
+            ]
+          ],
+          772
+        ],
+        [
+          [
+            [
+              9,
+              "Maintenance_TOP_Button_5"
+            ],
+            [
+              17,
+              "Maintenance_SleepPopup_Text_4"
+            ],
+            [
+              30,
+              "MaintenanceSleep_FinishPopup_Message_1"
+            ],
+            [
+              32,
+              "MaintenanceSleep_FinishPopup_Button"
+            ]
+          ],
+          918
+        ],
+        [
+          [
+            [
+              18,
+              "Maintenance_SleepPopup_Text_5"
+            ],
+            [
+              25,
+              "Maintenance_SleepDataMaxErrorPopup_Text_1"
+            ],
+            [
+              31,
+              "MaintenanceSleep_FinishPopup_Message_2"
+            ]
+          ],
+          1041
+        ],
+        [
+          [
+            [
+              19,
+              "Maintenance_SleepPopup_Text_6"
+            ],
+            [
+              26,
+              "Maintenance_SleepDataMaxErrorPopup_Text_2"
+            ],
+            [
+              43,
+              "Maintenance_NotDownlaodDataLockPopup_Message"
+            ]
+          ],
+          1170
+        ],
+        [
+          [
+            [
+              24,
+              "Maintenance_SleepDataMaxErrorPopup_Title"
+            ]
+          ],
+          1215
+        ],
+        [
+          [
+            [
+              34,
+              "MaintenanceSleep_NeedTutorialDone_Message"
+            ]
+          ],
+          1261
+        ],
+        [
+          [
+            [
+              11,
+              "Maintenance_SleepPopup_Heading_1"
+            ],
+            [
+              20,
+              "Maintenance_SleepPopup_Button"
+            ],
+            [
+              27,
+              "Maintenance_NoticePopup_Title"
+            ]
+          ],
+          1366
+        ],
+        [
+          [
+            [
+              13,
+              "Maintenance_SleepPopup_Heading_2"
+            ]
+          ],
+          1403
+        ],
+        [
+          [
+            [
+              10,
+              "Maintenance_SleepPopup_Title"
+            ],
+            [
+              12,
+              "Maintenance_SleepPopup_Heading_3"
+            ],
+            [
+              21,
+              "Maintenance_GPPSleepPopup_Title"
+            ]
+          ],
+          1509
+        ],
+        [
+          [],
+          1509
+        ],
+        [
+          [
+            [
+              33,
+              "MaintenanceSleep_NeedTutorialDone_Title"
+            ],
+            [
+              37,
+              "MaintenanceSleepData_FoundStartPopup_Message"
+            ]
+          ],
+          1602
+        ],
+        [
+          [
+            [
+              28,
+              "Maintenance_NoticePopup_Message"
+            ]
+          ],
+          1638
+        ],
+        [
+          [
+            [
+              35,
+              "MaintenanceSleepData_FoundPopup_Title"
+            ],
+            [
+              38,
+              "MaintenanceSleepData_FoundLaterPopup_Message"
+            ]
+          ],
+          1729
+        ],
+        [
+          [],
+          1729
+        ],
+        [
+          [],
+          1729
+        ],
+        [
+          [],
+          1729
+        ],
+        [
+          [],
+          1729
+        ],
+        [
+          [
+            [
+              0,
+              "Maintenance_TOP_Text_1"
+            ],
+            [
+              40,
+              "Maintenance_FinishPopup_Message_1"
+            ]
+          ],
+          1794
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 44,
+        "size": 2636,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

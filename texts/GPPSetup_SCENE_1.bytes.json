@@ -1,0 +1,309 @@
+{
+  "strings": {
+    "GPPSetupSceneController_NoAcceptionPopup_Text": [
+      "Um Pokémon Go Plus + über Bluetooth\nzu verbinden, muss die App auf den\nStandort zugreifen dürfen und\nBluetooth aktiviert sein."
+    ],
+    "GPPSetupSceneController_NoAcceptionPopup_Title": [
+      "Derzeit nicht verfügbar"
+    ],
+    "GPPSetupSceneController_NoUsePopup_Text": [
+      "Die App kann sich nicht über Bluetooth\nmit Pokémon GO Plus + verbinden, da\nsie nicht auf den Standort zugreifen\ndarf oder weil Bluetooth deaktiviert\nist. Bitte erlaube Zugriff auf deinen\nStandort und aktiviere Bluetooth in\nden Einstellungen deines Geräts."
+    ],
+    "GPPSetupSceneController_NoUsePopup_Title": [
+      "Derzeit nicht verfügbar"
+    ],
+    "GPPSetupSceneController_Text_1": [
+      "Bist du sicher, dass du die Einrichtung von\nPokémon GO Plus + abbrechen möchtest?"
+    ],
+    "GPPSetupSceneController_Text_10": [
+      "Bluetooth konnte nicht verwendet\nwerden. Bitte aktiviere Bluetooth in\nden Einstellungen deines Mobilgeräts\nund versuche es erneut."
+    ],
+    "GPPSetupSceneController_Text_11": [
+      "Die Verbindung zu Pokémon GO Plus +\nwurde getrennt. Bitte versuche es\nerneut."
+    ],
+    "GPPSetupSceneController_Text_12": [
+      "Pokémon GO Plus + funktioniert nicht\noder etwas verhindert die\nDatenübertragung."
+    ],
+    "GPPSetupSceneController_Text_13": [
+      "Standortzugriff"
+    ],
+    "GPPSetupSceneController_Text_14": [
+      "Es konnte keine Bluetooth-Verbindung\nhergestellt werden. Bitte aktiviere\nBluetooth in den Einstellungen deines\nMobilgeräts und versuche es erneut."
+    ],
+    "GPPSetupSceneController_Text_2": [
+      "Gerät finden"
+    ],
+    "GPPSetupSceneController_Text_3": [
+      "Die App wird nach einem\nPokémon GO Plus + suchen, um sich zu\nverbinden. Halte den \u000e",
+      "\u0003\u0004毿ＷHauptknopf\u000e",
+      "\u0003\u0004",
+      "＀ auf dem\n\u000e",
+      "\u0003\u0004毿ＷPokémon GO Plus + kurz gedrückt\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "GPPSetupSceneController_Text_4": [
+      "Verbinden"
+    ],
+    "GPPSetupSceneController_Text_5": [
+      "Die App wird sich mit Pokémon GO Plus +\nverbinden. Drücke den \u000e",
+      "\u0003\u0004毿ＷHauptknopf\u000e",
+      "\u0003\u0004",
+      "＀ und den\n\u000e",
+      "\u0003\u0004毿Ｗoberen Knopf an der Seite\u000e",
+      "\u0003\u0004",
+      "＀ deines\nPokémon GO Plus + \u000e",
+      "\u0003\u0004毿Ｗgleichzeitig\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "GPPSetupSceneController_Text_6": [
+      "Verbunden"
+    ],
+    "GPPSetupSceneController_Text_7": [
+      "Pokémon GO Plus + wurde \u000e",
+      "\u0003\u0004毿Ｗerfolgreich\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗverbunden\u000e",
+      "\u0003\u0004",
+      "＀. \u000e",
+      "\u0003\u0004毿ＷVersuche\u000e",
+      "\u0003\u0004",
+      "＀ als Nächstes, mit\ndeinem Pokémon GO Plus + \u000e",
+      "\u0003\u0004毿ＷSchlafdaten\naufzuzeichnen\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "GPPSetupSceneController_Text_8": [
+      "Ein Zubehör Pokémon GO Plus + wurde\ngefunden, es ist allerdings mit einem\nanderen Gerät verbunden.\n\nVerbindest du dieses\nPokémon GO Plus + wird die \nbestehende Verbindung überschreiben.\nDu kannst keine dort gespeicherten\nDaten übertragen und die Einstellungen\nwerden auf Werkseinstellung\nzurückgesetzt."
+    ],
+    "GPPSetupSceneController_Text_CheckAlarmRewrite": [
+      "Weckereinstellungen zurücksetzen?"
+    ],
+    "GPPSetupScene_Content_Name": [
+      "Hauptknopf"
+    ],
+    "GPPSetupScene_Content_Name_3": [
+      "Oberer Knopf"
+    ],
+    "GPPSetupScene_Content_NextButton": [
+      "Test beginnen"
+    ],
+    "GPPSetupScene_Content_Outline": [
+      "Warten auf Handlung..."
+    ],
+    "GPPSetupScene_Footer_BackButton": [
+      "Abbrechen und zurück"
+    ],
+    "GPPSetupScene_Header_Title": [
+      "Pokémon GO Plus + Setup"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 24,
+        "size": 172,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 1007,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              6,
+              "GPPSetupSceneController_Text_7"
+            ],
+            [
+              8,
+              "GPPSetupSceneController_Text_10"
+            ],
+            [
+              20,
+              "GPPSetupSceneController_NoAcceptionPopup_Title"
+            ]
+          ],
+          226
+        ],
+        [
+          [
+            [
+              7,
+              "GPPSetupSceneController_Text_8"
+            ],
+            [
+              9,
+              "GPPSetupSceneController_Text_11"
+            ],
+            [
+              15,
+              "GPPSetupScene_Content_Outline"
+            ],
+            [
+              17,
+              "GPPSetupScene_Header_Title"
+            ],
+            [
+              18,
+              "GPPSetupScene_Footer_BackButton"
+            ]
+          ],
+          398
+        ],
+        [
+          [
+            [
+              10,
+              "GPPSetupSceneController_Text_12"
+            ],
+            [
+              14,
+              "GPPSetupScene_Content_Name_3"
+            ],
+            [
+              21,
+              "GPPSetupSceneController_NoAcceptionPopup_Text"
+            ],
+            [
+              22,
+              "GPPSetupSceneController_NoUsePopup_Title"
+            ]
+          ],
+          562
+        ],
+        [
+          [
+            [
+              11,
+              "GPPSetupSceneController_Text_13"
+            ]
+          ],
+          598
+        ],
+        [
+          [
+            [
+              12,
+              "GPPSetupSceneController_Text_14"
+            ]
+          ],
+          634
+        ],
+        [
+          [],
+          634
+        ],
+        [
+          [],
+          634
+        ],
+        [
+          [
+            [
+              0,
+              "GPPSetupSceneController_Text_1"
+            ],
+            [
+              13,
+              "GPPSetupScene_Content_Name"
+            ]
+          ],
+          700
+        ],
+        [
+          [
+            [
+              1,
+              "GPPSetupSceneController_Text_2"
+            ]
+          ],
+          735
+        ],
+        [
+          [
+            [
+              2,
+              "GPPSetupSceneController_Text_3"
+            ],
+            [
+              16,
+              "GPPSetupScene_Content_NextButton"
+            ]
+          ],
+          807
+        ],
+        [
+          [
+            [
+              3,
+              "GPPSetupSceneController_Text_4"
+            ],
+            [
+              23,
+              "GPPSetupSceneController_NoUsePopup_Text"
+            ]
+          ],
+          886
+        ],
+        [
+          [
+            [
+              4,
+              "GPPSetupSceneController_Text_5"
+            ]
+          ],
+          921
+        ],
+        [
+          [
+            [
+              5,
+              "GPPSetupSceneController_Text_6"
+            ],
+            [
+              19,
+              "GPPSetupSceneController_Text_CheckAlarmRewrite"
+            ]
+          ],
+          1007
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 24,
+        "size": 4008,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

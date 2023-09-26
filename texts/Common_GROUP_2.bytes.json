@@ -1,0 +1,202 @@
+{
+  "strings": {
+    "CommomMultipleRewardsGetPopup_CellTitle": [
+      "\u000e\u0003\u0003\u0004Ā촀 x\u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "CommomMultipleRewardsGetPopup_HeadTitle": [
+      "보상을 받았습니다"
+    ],
+    "CommomMultipleRewardsGetPopup_SectionTitle": [
+      "수령한 보상"
+    ],
+    "CommonIncenseDetailPopup_Title": [
+      "도구의 효과"
+    ],
+    "CommonRenamePopup_OKButton": [
+      "변경한다"
+    ],
+    "CommonRenamePopup_Placeholder": [
+      "유저 이름"
+    ],
+    "CommonRenamePopup_PlaceholderPoke": [
+      "닉네임"
+    ],
+    "CommonRenamePopup_PlaceholderPokeTeam": [
+      "팀 이름"
+    ],
+    "CommonRenamePopup_Title": [
+      "유저 이름 변경"
+    ],
+    "CommonRewardGetPopup_Desc": [
+      "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0003\u0004\u0002촁개를 획득했습니다"
+    ],
+    "CommonRewardGetPopup_Title": [
+      "아이템 획득"
+    ],
+    "ResearchRankupCutin_Desc": [
+      "랭크 업 보상을\n획득했습니다"
+    ],
+    "ResearchRankupCutin_SectionTitle": [
+      "획득한 보상"
+    ],
+    "ResearchRankupCutin_Title": [
+      "리서치 랭크 UP!"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 14,
+        "size": 102,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 11,
+        "size": 588,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              4,
+              "CommonRenamePopup_Placeholder"
+            ],
+            [
+              6,
+              "CommonRenamePopup_PlaceholderPokeTeam"
+            ],
+            [
+              11,
+              "CommomMultipleRewardsGetPopup_SectionTitle"
+            ],
+            [
+              12,
+              "CommomMultipleRewardsGetPopup_CellTitle"
+            ]
+          ],
+          255
+        ],
+        [
+          [
+            [
+              8,
+              "CommonRewardGetPopup_Title"
+            ]
+          ],
+          286
+        ],
+        [
+          [
+            [
+              0,
+              "ResearchRankupCutin_Title"
+            ],
+            [
+              3,
+              "CommonRenamePopup_Title"
+            ],
+            [
+              9,
+              "CommonRewardGetPopup_Desc"
+            ],
+            [
+              10,
+              "CommomMultipleRewardsGetPopup_HeadTitle"
+            ]
+          ],
+          418
+        ],
+        [
+          [
+            [
+              1,
+              "ResearchRankupCutin_Desc"
+            ],
+            [
+              2,
+              "ResearchRankupCutin_SectionTitle"
+            ],
+            [
+              5,
+              "CommonRenamePopup_PlaceholderPoke"
+            ]
+          ],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [],
+          522
+        ],
+        [
+          [
+            [
+              13,
+              "CommonIncenseDetailPopup_Title"
+            ]
+          ],
+          557
+        ],
+        [
+          [],
+          557
+        ],
+        [
+          [
+            [
+              7,
+              "CommonRenamePopup_OKButton"
+            ]
+          ],
+          588
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 14,
+        "size": 346,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

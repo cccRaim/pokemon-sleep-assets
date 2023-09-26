@@ -1,0 +1,137 @@
+{
+  "strings": {
+    "WeeklyReportSceneController_RewardPopup_Message": [
+      "Du erhältst\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\t\u0004\u0002촁!"
+    ],
+    "WeeklyReportSceneController_RewardPopup_Title": [
+      "Schlafgleichmäßigkeits-Belohnung"
+    ],
+    "WeeklyReportSceneController_Text_6": [
+      "Unzureichende Schlafdaten"
+    ],
+    "WeeklyReportSceneController_Text_7": [
+      "Um die Gleichmäßigkeit deines Schlafs\nzu ermitteln, müssen die Schlafdaten\nvon mindestens \u000e\u0002",
+      "\u0002촀 \u000e\u0006",
+      "\u0016\u0006Tag\nTagen촀 innerhalb\neiner Woche aufgezeichnet werden."
+    ],
+    "WeeklyReportScene_Description_MSTTitle": [
+      "Schlafmitte"
+    ],
+    "WeeklyReportScene_Description_SleepTimeTitle": [
+      "Schlafdauer"
+    ],
+    "WeeklyReportScene_Description_Title": [
+      "Schlafgleichmäßigkeits-Bewertung"
+    ],
+    "WeeklyReportScene_Title_TitleText": [
+      "Daten der letzten Woche\n(\u000e\t",
+      "\u000e\nMM/dd",
+      "–\u000e\t",
+      "\u000e\nMM/dd\u0001)"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 8,
+        "size": 60,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 5,
+        "size": 390,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "WeeklyReportSceneController_RewardPopup_Message"
+            ]
+          ],
+          92
+        ],
+        [
+          [
+            [
+              4,
+              "WeeklyReportScene_Title_TitleText"
+            ],
+            [
+              7,
+              "WeeklyReportScene_Description_MSTTitle"
+            ]
+          ],
+          173
+        ],
+        [
+          [
+            [
+              2,
+              "WeeklyReportSceneController_Text_6"
+            ]
+          ],
+          212
+        ],
+        [
+          [
+            [
+              3,
+              "WeeklyReportSceneController_Text_7"
+            ],
+            [
+              6,
+              "WeeklyReportScene_Description_SleepTimeTitle"
+            ]
+          ],
+          300
+        ],
+        [
+          [
+            [
+              0,
+              "WeeklyReportSceneController_RewardPopup_Title"
+            ],
+            [
+              5,
+              "WeeklyReportScene_Description_Title"
+            ]
+          ],
+          390
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 8,
+        "size": 732,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

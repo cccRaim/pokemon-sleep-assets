@@ -1,0 +1,101 @@
+{
+  "strings": {
+    "TutorialSleepAnalyzeFinishSceneController_Text_1": [
+      "Prima misurazione del sonno\neseguita con successo!\nOra inizierà una lezione\nsulla ricerca del sonno."
+    ],
+    "TutorialSleepAnalyzeFinishScene_WaitingView_Message": [
+      "Appena è tutto pronto possiamo riprendere\nla ricerca sul sonno. Inizieremo verificando\ni dati che hai ottenuto."
+    ],
+    "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": [
+      "Riprendi la ricerca del sonno"
+    ],
+    "TutorialSleepAnalyzeFinishScene_WaitingView_Title": [
+      "In attesa del tutorial"
+    ],
+    "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": [
+      "Tutorial ricerca del sonno"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 5,
+        "size": 39,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 3,
+        "size": 304,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "TutorialSleepAnalyzeFinishScene_WaitingView_Title"
+            ],
+            [
+              2,
+              "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2"
+            ]
+          ],
+          134
+        ],
+        [
+          [
+            [
+              0,
+              "TutorialSleepAnalyzeFinishSceneController_Text_1"
+            ],
+            [
+              3,
+              "TutorialSleepAnalyzeFinishScene_WaitingView_Message"
+            ]
+          ],
+          243
+        ],
+        [
+          [
+            [
+              4,
+              "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton"
+            ]
+          ],
+          304
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 5,
+        "size": 606,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

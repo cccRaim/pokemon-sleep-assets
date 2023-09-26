@@ -1,0 +1,290 @@
+{
+  "strings": {
+    "md_pokemon_nature_name_1": [
+      "huraña"
+    ],
+    "md_pokemon_nature_name_10": [
+      "afable"
+    ],
+    "md_pokemon_nature_name_11": [
+      "alocada"
+    ],
+    "md_pokemon_nature_name_12": [
+      "mansa"
+    ],
+    "md_pokemon_nature_name_13": [
+      "serena"
+    ],
+    "md_pokemon_nature_name_14": [
+      "amable"
+    ],
+    "md_pokemon_nature_name_15": [
+      "cauta"
+    ],
+    "md_pokemon_nature_name_16": [
+      "grosera"
+    ],
+    "md_pokemon_nature_name_17": [
+      "miedosa"
+    ],
+    "md_pokemon_nature_name_18": [
+      "activa"
+    ],
+    "md_pokemon_nature_name_19": [
+      "alegre"
+    ],
+    "md_pokemon_nature_name_2": [
+      "firme"
+    ],
+    "md_pokemon_nature_name_20": [
+      "ingenua"
+    ],
+    "md_pokemon_nature_name_21": [
+      "tímida"
+    ],
+    "md_pokemon_nature_name_22": [
+      "fuerte"
+    ],
+    "md_pokemon_nature_name_23": [
+      "dócil"
+    ],
+    "md_pokemon_nature_name_24": [
+      "rara"
+    ],
+    "md_pokemon_nature_name_25": [
+      "seria"
+    ],
+    "md_pokemon_nature_name_3": [
+      "pícara"
+    ],
+    "md_pokemon_nature_name_4": [
+      "audaz"
+    ],
+    "md_pokemon_nature_name_5": [
+      "osada"
+    ],
+    "md_pokemon_nature_name_6": [
+      "agitada"
+    ],
+    "md_pokemon_nature_name_7": [
+      "floja"
+    ],
+    "md_pokemon_nature_name_8": [
+      "plácida"
+    ],
+    "md_pokemon_nature_name_9": [
+      "modesta"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 25,
+        "size": 179,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 13,
+        "size": 845,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              5,
+              "md_pokemon_nature_name_6"
+            ],
+            [
+              12,
+              "md_pokemon_nature_name_13"
+            ],
+            [
+              22,
+              "md_pokemon_nature_name_23"
+            ]
+          ],
+          193
+        ],
+        [
+          [
+            [
+              6,
+              "md_pokemon_nature_name_7"
+            ],
+            [
+              13,
+              "md_pokemon_nature_name_14"
+            ],
+            [
+              23,
+              "md_pokemon_nature_name_24"
+            ]
+          ],
+          282
+        ],
+        [
+          [
+            [
+              7,
+              "md_pokemon_nature_name_8"
+            ],
+            [
+              14,
+              "md_pokemon_nature_name_15"
+            ],
+            [
+              24,
+              "md_pokemon_nature_name_25"
+            ]
+          ],
+          371
+        ],
+        [
+          [
+            [
+              8,
+              "md_pokemon_nature_name_9"
+            ],
+            [
+              15,
+              "md_pokemon_nature_name_16"
+            ]
+          ],
+          430
+        ],
+        [
+          [
+            [
+              16,
+              "md_pokemon_nature_name_17"
+            ]
+          ],
+          460
+        ],
+        [
+          [
+            [
+              17,
+              "md_pokemon_nature_name_18"
+            ]
+          ],
+          490
+        ],
+        [
+          [
+            [
+              18,
+              "md_pokemon_nature_name_19"
+            ]
+          ],
+          520
+        ],
+        [
+          [],
+          520
+        ],
+        [
+          [
+            [
+              0,
+              "md_pokemon_nature_name_1"
+            ]
+          ],
+          549
+        ],
+        [
+          [
+            [
+              1,
+              "md_pokemon_nature_name_2"
+            ]
+          ],
+          578
+        ],
+        [
+          [
+            [
+              2,
+              "md_pokemon_nature_name_3"
+            ],
+            [
+              9,
+              "md_pokemon_nature_name_10"
+            ],
+            [
+              19,
+              "md_pokemon_nature_name_20"
+            ]
+          ],
+          667
+        ],
+        [
+          [
+            [
+              3,
+              "md_pokemon_nature_name_4"
+            ],
+            [
+              10,
+              "md_pokemon_nature_name_11"
+            ],
+            [
+              20,
+              "md_pokemon_nature_name_21"
+            ]
+          ],
+          756
+        ],
+        [
+          [
+            [
+              4,
+              "md_pokemon_nature_name_5"
+            ],
+            [
+              11,
+              "md_pokemon_nature_name_12"
+            ],
+            [
+              21,
+              "md_pokemon_nature_name_22"
+            ]
+          ],
+          845
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 25,
+        "size": 444,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

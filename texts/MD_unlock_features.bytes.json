@@ -1,0 +1,82 @@
+{
+  "strings": {
+    "md_unlock_features_name_1": [
+      "새로운 방법으로 포켓몬을\n키울 수 있게 된다"
+    ],
+    "md_unlock_features_name_2": [
+      "자유롭게 식재료를 선택해서\n요리할 수 있게 된다"
+    ],
+    "md_unlock_features_name_3": [
+      "요리 냄비를 확장할 수 있게 된다"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 3,
+        "size": 25,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 2,
+        "size": 106,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "md_unlock_features_name_2"
+            ]
+          ],
+          46
+        ],
+        [
+          [
+            [
+              0,
+              "md_unlock_features_name_1"
+            ],
+            [
+              2,
+              "md_unlock_features_name_3"
+            ]
+          ],
+          106
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 3,
+        "size": 154,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}
