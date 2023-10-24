@@ -430,7 +430,8 @@
       "Leader"
     ],
     "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_PokemonName": [
-      "\u000e\u0003\u0001\u0002촀"
+      "\u000e\u0003\u0001\u0002",
+      ""
     ],
     "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_Rank": [
       "Rango"
@@ -481,11 +482,11 @@
     ],
     "SocialResearch_SCENE_FriendResearchDetail_TodayPic": [
       "N° \u000e\u0002\u0003\u0004",
-      "촀 \u000e\u0003\u0001\u0002촁 (\u000e\u0003\u0004\u0002Ă)"
+      "촀 \u000e\u0003\u0001\u0002ā (\u000e\u0003\u0004\u0002\u0002)"
     ],
     "SocialResearch_SCENE_FriendResearchDetail_TodayPic_Hidden": [
       "N° \u000e\u0002\u0003\u0004",
-      "촀 \u000e\u0003\u0001\u0002촁"
+      "촀 \u000e\u0003\u0001\u0002ā"
     ],
     "SocialResearch_SCENE_FriendResearchDetail_TodayPic_SleepName": [
       "\u000e\u0003\r\u0002",
@@ -586,7 +587,8 @@
       "\u000e\u0003\t\u0002촀"
     ],
     "SocialResearch_SCENE_RewardDialog_Info_2": [
-      "Hai studiato lo stile \u000e\u0003\r\u0002\u0001\ndi \u000e\u0003\u0001\u0002촀!"
+      "Hai studiato lo stile \u000e\u0003\r\u0002\u0001\ndi \u000e\u0003\u0001\u0002",
+      "!"
     ],
     "SocialResearch_SCENE_RewardDialog_ItemGet_1": [
       "Ottieni:"
@@ -625,7 +627,8 @@
       "Ricerche precedenti"
     ],
     "SocialResearch_SCENE_TOP_Feed_ResearchSleepFace": [
-      "Hai studiato lo stile \u000e\u0003\r\u0002\u0001\ndi \u000e\u0003\u0001\u0002촀 !"
+      "Hai studiato lo stile \u000e\u0003\r\u0002\u0001\ndi \u000e\u0003\u0001\u0002",
+      " !"
     ],
     "SocialResearch_SCENE_TOP_NextUpdateTime": [
       "Mancano ancora \u000e\u0002\u0001\u0002",

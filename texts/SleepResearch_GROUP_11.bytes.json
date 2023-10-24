@@ -1,14 +1,16 @@
 {
   "strings": {
     "FriendPointLevelUpPopup_BonusTitle": [
-      "Es algo más probable hallar\nun \u000e\u0003\u0001\u0002촀 variocolor."
+      "Es algo más probable hallar\nun \u000e\u0003\u0001\u0002",
+      " variocolor."
     ],
     "FriendPointLevelUpPopup_FriendLevelNum": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "FriendPointLevelUpPopup_LevelupDesc": [
-      "Parece que \u000e\u0003\u0001\u0002촀 se encuentra\nahora más a gusto en el campamento."
+      "Parece que \u000e\u0003\u0001\u0002",
+      " se encuentra\nahora más a gusto en el campamento."
     ],
     "FriendPointLevelUpPopup_Title": [
       "Mayor amistad"
@@ -64,7 +66,7 @@
       ""
     ],
     "ResearchPhotoPopup_SleepTypeText": [
-      "N.º \u000e\u0002\u0003\u0004Ā촀 \u000e\u0003\u0001\u0002촁 (sueño \u000e\u0003\u0004\u0002\u0002)"
+      "N.º \u000e\u0002\u0003\u0004Ā촀 \u000e\u0003\u0001\u0002ā (sueño \u000e\u0003\u0004\u0002\u0002)"
     ],
     "ResearchPhotoPopup_SleepingFaceName_Prefix": [
       "\u000e",

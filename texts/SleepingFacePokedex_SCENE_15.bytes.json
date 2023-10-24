@@ -10,6 +10,18 @@
     "SleepingFacePokedexScene_Content_Title": [
       "DormiDex"
     ],
+    "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1": [
+      "Seleccionar"
+    ],
+    "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2": [
+      "Seleccionado"
+    ],
+    "SleepingFacePokedexScene_FaceChange_Popup_Head_1": [
+      "Lista"
+    ],
+    "SleepingFacePokedexScene_FaceChange_Popup_Title": [
+      "Cambiar aspecto"
+    ],
     "SleepingFacePokedexScene_Footer_Title_2": [
       "Sin filtros"
     ],
@@ -33,16 +45,16 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 9,
-        "size": 67,
+        "entries": 13,
+        "size": 95,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 5,
-        "size": 425,
+        "entries": 7,
+        "size": 666,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -57,24 +69,55 @@
               "SleepingFacePokedexScene_Footer_Title_3"
             ]
           ],
-          126
+          142
         ],
         [
           [
             [
-              7,
-              "SleepingFacePokedexScene_Order_Heading"
+              1,
+              "SleepingFacePokedexScene_Content_Countum"
             ],
             [
-              8,
-              "SleepingFacePokedexScene_Secret"
+              7,
+              "SleepingFacePokedexScene_Order_Heading"
             ]
           ],
-          205
+          230
         ],
         [
-          [],
-          205
+          [
+            [
+              3,
+              "SleepingFacePokedexScene_Header_TitleText"
+            ]
+          ],
+          276
+        ],
+        [
+          [
+            [
+              10,
+              "SleepingFacePokedexScene_FaceChange_Popup_Head_1"
+            ],
+            [
+              11,
+              "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1"
+            ]
+          ],
+          389
+        ],
+        [
+          [
+            [
+              9,
+              "SleepingFacePokedexScene_FaceChange_Popup_Title"
+            ],
+            [
+              12,
+              "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2"
+            ]
+          ],
+          501
         ],
         [
           [
@@ -83,28 +126,24 @@
               "SleepingFacePokedexScene_Content_Title"
             ],
             [
-              1,
-              "SleepingFacePokedexScene_Content_Countum"
-            ],
-            [
-              3,
-              "SleepingFacePokedexScene_Header_TitleText"
-            ]
-          ],
-          339
-        ],
-        [
-          [
-            [
               2,
               "SleepingFacePokedexScene_Content_Desc"
             ],
+            [
+              8,
+              "SleepingFacePokedexScene_Secret"
+            ]
+          ],
+          622
+        ],
+        [
+          [
             [
               5,
               "SleepingFacePokedexScene_Footer_Title_2"
             ]
           ],
-          425
+          666
         ]
       ]
     },
@@ -130,8 +169,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 9,
-        "size": 302,
+        "entries": 13,
+        "size": 412,
         "unknown1": 0,
         "unknown2": 0
       }

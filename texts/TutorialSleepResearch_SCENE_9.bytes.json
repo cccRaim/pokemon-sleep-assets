@@ -1,7 +1,7 @@
 {
   "strings": {
     "SleepResearchSceneTutorialController_BaitBallGuide": [
-      "ボーナスサブレを\n\u000e\u0003\u0001\u0002촁にあげよう"
+      "ボーナスサブレを\n\u000e\u0003\u0001\u0002\u0001にあげよう"
     ],
     "SleepResearchSceneTutorialController_MasterBaitBall_Guide": [
       "\u000e",
@@ -13,19 +13,22 @@
       "残りのポケモンたちをタップして\n睡眠リサーチを完了しよう！"
     ],
     "SleepResearchSceneTutorialController_Text_1": [
-      "画面をスワイプして\n\u000e\u0003\u0001\u0002촀を探そう。見つけたら、\nタップして睡眠リサーチをしよう！"
+      "画面をスワイプして\n\u000e\u0003\u0001\u0002",
+      "を探そう。見つけたら、\nタップして睡眠リサーチをしよう！"
     ],
     "SleepResearchSceneTutorialController_Text_13": [
       "最初のリサーチ"
     ],
     "SleepResearchSceneTutorialController_Text_14": [
-      "最初は\u000e\u0003\u0001\u0002촀をタップしてみよう！"
+      "最初は\u000e\u0003\u0001\u0002",
+      "をタップしてみよう！"
     ],
     "SleepResearchSceneTutorialController_Text_20": [
       "ポケサブレ"
     ],
     "SleepResearchSceneTutorialController_Text_21": [
-      "\u000e\u0003\u0001\u0002촀をタップして\nポケサブレをあげてみよう！"
+      "\u000e\u0003\u0001\u0002",
+      "をタップして\nポケサブレをあげてみよう！"
     ]
   },
   "structure": {

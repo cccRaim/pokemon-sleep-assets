@@ -13,7 +13,8 @@
       "Wie wär’s, wenn wir den Pokémon\nwelche geben? Als Dank für ihre\nHilfe bei unserer Forschung!"
     ],
     "md_tutorial_stories_message_11_1": [
-      "Sieht aus, als hätte \u000e\u0003\u0001\u0002촀\ndie maximale Anzahl an\n\u000e",
+      "Sieht aus, als hätte \u000e\u0003\u0001\u0002",
+      "\ndie maximale Anzahl an\n\u000e",
       "\u0003\u0004毿ＷFreundespunkten \u000e",
       "\u0003\u0004",
       "＀erreicht!"
@@ -328,7 +329,8 @@
       "Ich habe einige Zutaten\nvorbereitet, die du zum Kochen\nbrauchst, hier bitteschön!"
     ],
     "md_tutorial_stories_message_27_1": [
-      "Sieht aus, als hätte \u000e\u0003\u0001\u0002촀\neinige \u000e",
+      "Sieht aus, als hätte \u000e\u0003\u0001\u0002",
+      "\neinige \u000e",
       "\u0003\u0004毿ＷFreundespunkte\u000e",
       "\u0003\u0004",
       "＀ erhalten!"
@@ -337,7 +339,8 @@
       "Für jeden Tag, an dem du mir bei\nder Forschung hilfst, gebe ich dir\neinen dieser Bonuskekse."
     ],
     "md_tutorial_stories_message_27_3": [
-      "Warum gibst du \u000e\u0003\u0001\u0002촀 nicht\nals Nächstes einen Superkeks?"
+      "Warum gibst du \u000e\u0003\u0001\u0002",
+      " nicht\nals Nächstes einen Superkeks?"
     ],
     "md_tutorial_stories_message_28_1": [
       "Heute möchte ich dir etwas über\nein besonders wertvolles Item\nbeibringen: den \u000e",

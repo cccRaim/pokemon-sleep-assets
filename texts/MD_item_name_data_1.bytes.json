@@ -10,13 +10,13 @@
       "Dolcetto speciale che rende i Pokémon\npiù amici che mai. Porta al massimo\ni punti amicizia."
     ],
     "item_desc_12": [
-      "Una caramellina speciale che si può \ntrasformare in qualsiasi caramella Pokémon."
+      "Caramella piccola ma molto speciale\nche si può trasformare in 3 caramelle\ndi qualunque specie di Pokémon."
     ],
     "item_desc_13": [
-      "Una caramella speciale che può trasformarsi\nin qualunque caramella Pokémon."
+      "Caramella molto speciale che si può\ntrasformare in 20 caramelle di\nqualunque specie di Pokémon."
     ],
     "item_desc_14": [
-      "Una caramellona speciale che può trasformarsi\nin qualunque caramella Pokémon."
+      "Caramella grande e molto speciale che\nsi può trasformare in 100 caramelle\ndi qualunque specie di Pokémon."
     ],
     "item_desc_15": [
       "Ottimo biglietto che si può scambiare\ncon \u000e\u0002\u0002\u0002",
@@ -34,20 +34,20 @@
       "\n\u0002e\u0002i촀\nper cucinare."
     ],
     "item_desc_18": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0004\u0004",
+      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
       "촁 framment\u000e\u0005",
-      "\n\u0002o\u0002i촀 di sogno."
+      "\n\u0002o\u0002i촀 di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
     ],
     "item_desc_19": [
-      "Un misterioso blocco scintillante.\nPuoi scambiarlo \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sogno."
+      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
+      "촁 frammenti di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
     ],
     "item_desc_2": [
       "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce."
     ],
     "item_desc_20": [
-      "Un misterioso blocco scintillante.\nPuoi scambiarlo con \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sono."
+      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
+      "촁 frammenti di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
     ],
     "item_desc_21": [
       "Filo dotato di una misteriosa energia\nche lascia percepire un inspiegabile senso di connessione."
@@ -122,13 +122,13 @@
       "Dolcetto speciale che rende\ni Pokémon più amici che mai.\nPorta al massimo i punti amicizia."
     ],
     "item_desc_short_12": [
-      "Una caramellina speciale che si può \ntrasformare in qualsiasi caramella Pokémon."
+      "Caramella piccola ma molto speciale\nche si può trasformare in 3 caramelle\ndi qualunque specie di Pokémon."
     ],
     "item_desc_short_13": [
-      "Una caramella speciale che può trasformarsi\nin qualunque caramella Pokémon."
+      "Caramella molto speciale che si può\ntrasformare in 20 caramelle di\nqualunque specie di Pokémon."
     ],
     "item_desc_short_14": [
-      "Una caramellona speciale che può trasformarsi\nin qualunque caramella Pokémon."
+      "Caramella grande e molto speciale\nche si può trasformare in 100\ncaramelle di qualunque specie di Pokémon."
     ],
     "item_desc_short_15": [
       "Ottimo biglietto che si può\nscambiare con \u000e\u0002\u0002\u0002",
@@ -146,20 +146,20 @@
       "\n\u0002e\u0002i촀."
     ],
     "item_desc_short_18": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0004\u0004",
+      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
       "촁 framment\u000e\u0005",
       "\n\u0002o\u0002i촀 di sogno."
     ],
     "item_desc_short_19": [
-      "Un misterioso blocco scintillante.\nPuoi scambiarlo \u000e\u0002\u0005\u0004",
+      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
       "촁 frammenti di sogno."
     ],
     "item_desc_short_2": [
       "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno."
     ],
     "item_desc_short_20": [
-      "Un misterioso blocco scintillante.\nPuoi scambiarlo con \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sono."
+      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
+      "촁 frammenti di sogno."
     ],
     "item_desc_short_21": [
       "Filo dotato di una misteriosa energia\nche lascia percepire un inspiegabile senso di connessione."
@@ -1030,7 +1030,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 13552,
+        "size": 14372,
         "unknown1": 0,
         "unknown2": 0
       }

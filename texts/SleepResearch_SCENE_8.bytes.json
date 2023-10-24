@@ -224,6 +224,27 @@
       "\u000e\u0002\u0002\u0002",
       "/\u000e\u0002\u0002\u0002\u0001"
     ],
+    "SleepResearchScene_EventPopup_Text_1": [
+      "\u000e",
+      "\u0003\u0004毿ＷCertain Pokémon have a greater chance of\nappearing.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "SleepResearchScene_EventPopup_Text_2": [
+      "\u000e",
+      "\u0003\u0004毿ＷPokémon of different sleep types will\nappear\u000e",
+      "\u0003\u0004",
+      "＀ regardless of the researcher’s sleep\ntype for the day."
+    ],
+    "SleepResearchScene_EventPopup_Text_3": [
+      "Researchers will \u000e",
+      "\u0003\u0004毿Ｗgain more candies\u000e",
+      "\u0003\u0004",
+      "＀ for the\nfirst sleep research of the day"
+    ],
+    "SleepResearchScene_EventPopup_Title": [
+      "Event Bonuses"
+    ],
     "SleepResearchScene_Header_Month_1": [
       "Jan"
     ],
@@ -319,56 +340,67 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 83,
-        "size": 585,
+        "entries": 87,
+        "size": 613,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 43,
-        "size": 4511,
+        "entries": 47,
+        "size": 4706,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              64,
-              "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title"
-            ],
-            [
-              80,
-              "SleepResearchScene_ManualRewardPopup_Text_1"
+              32,
+              "SleepResearchScene_BaitBallUse_Footer_Button"
             ]
           ],
-          454
+          425
         ],
         [
           [
             [
-              14,
-              "SleepResearchScene_BaitBall_BaitBallBuyBalloon_Message"
-            ],
-            [
-              35,
-              "PokemonSleepObjectSingleUI_FriendPointWindow_PlusPoint"
-            ],
-            [
-              81,
-              "SleepResearchScene_ManualRewardPopup_Text_2"
+              2,
+              "SleepResearchScene_SleepResearchUI_Header_Coin_Value"
             ]
           ],
-          620
+          482
         ],
         [
-          [],
-          620
+          [
+            [
+              49,
+              "SleepResearchBonusBaitBallResultPopup_Title"
+            ]
+          ],
+          530
         ],
         [
-          [],
-          620
+          [
+            [
+              30,
+              "SleepResearchScene_BaitBallUse_Footer_Title"
+            ],
+            [
+              84,
+              "SleepResearchScene_EventPopup_Text_1"
+            ]
+          ],
+          619
+        ],
+        [
+          [
+            [
+              85,
+              "SleepResearchScene_EventPopup_Text_2"
+            ]
+          ],
+          660
         ],
         [
           [
@@ -377,247 +409,20 @@
               "SleepResearchScene_BaitBall_HeaderInfo_InfoMessage"
             ],
             [
-              42,
-              "SleepResearchBaitBallPhaseEndConfirmPopup_Title"
+              86,
+              "SleepResearchScene_EventPopup_Text_3"
             ]
           ],
-          727
+          756
         ],
         [
           [
-            [
-              43,
-              "SleepResearchBaitBallPhaseEndConfirmPopup_Desc"
-            ]
-          ],
-          778
-        ],
-        [
-          [
-            [
-              30,
-              "SleepResearchScene_BaitBallUse_Footer_Title"
-            ]
-          ],
-          826
-        ],
-        [
-          [
-            [
-              24,
-              "SleepResearchScene_Header_Month_10"
-            ]
-          ],
-          865
-        ],
-        [
-          [
-            [
-              7,
-              "SleepResearchScene_AllScoreWrapper_All"
-            ],
-            [
-              25,
-              "SleepResearchScene_Header_Month_11"
-            ],
             [
               70,
               "SleepResearchScene_BaitBallInforPopup_Success_Title"
             ]
           ],
-          1003
-        ],
-        [
-          [
-            [
-              26,
-              "SleepResearchScene_Header_Month_12"
-            ],
-            [
-              41,
-              "SleepResearchBaitBallPhaseEndConfirmPopup_Header_Title"
-            ]
-          ],
-          1101
-        ],
-        [
-          [
-            [
-              47,
-              "SleepResearchBonusBaitBallResultPopup_Header_Title"
-            ],
-            [
-              50,
-              "SleepResearchBonusBaitBallResultPopup_Section_Title"
-            ],
-            [
-              56,
-              "SleepResearchSceneController_Text_1"
-            ],
-            [
-              72,
-              "SleepResearchScene_BaitBallInforPopup_Success_Desc_Small_1"
-            ]
-          ],
-          1315
-        ],
-        [
-          [
-            [
-              2,
-              "SleepResearchScene_SleepResearchUI_Header_Coin_Value"
-            ],
-            [
-              57,
-              "SleepResearchSceneController_Text_2"
-            ],
-            [
-              73,
-              "SleepResearchScene_BaitBallInforPopup_Success_Desc_Small_2"
-            ]
-          ],
-          1475
-        ],
-        [
-          [
-            [
-              58,
-              "SleepResearchSceneController_Text_3"
-            ]
-          ],
-          1515
-        ],
-        [
-          [
-            [
-              40,
-              "SleepResearchScene_PokemonChance_Display"
-            ],
-            [
-              45,
-              "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count"
-            ],
-            [
-              59,
-              "SleepResearchSceneController_Text_4"
-            ],
-            [
-              66,
-              "SleepResearchScene_BaitBallInforPopup_BaitBallInfo_Title"
-            ]
-          ],
-          1726
-        ],
-        [
-          [
-            [
-              10,
-              "SleepResearchScene_BaitBall_SelectedButton_Count"
-            ],
-            [
-              13,
-              "SleepResearchScene_BaitBall_BaitBallSelectBalloon_OwnCount"
-            ],
-            [
-              37,
-              "SleepResearchScene_NoBaitBallPopup_Message"
-            ],
-            [
-              60,
-              "SleepResearchSceneController_Text_5"
-            ]
-          ],
-          1929
-        ],
-        [
-          [],
-          1929
-        ],
-        [
-          [
-            [
-              74,
-              "SleepResearchScene_BaitBallInforPopup_Chance_Title"
-            ]
-          ],
-          1984
-        ],
-        [
-          [
-            [
-              49,
-              "SleepResearchBonusBaitBallResultPopup_Title"
-            ],
-            [
-              77,
-              "SleepResearchScene_BaitBallInforPopup_Full_Desc"
-            ]
-          ],
-          2084
-        ],
-        [
-          [
-            [
-              54,
-              "SleepResearchMultiResearchErrorPopup_Title"
-            ],
-            [
-              61,
-              "SleepResearchSceneController_Text_9"
-            ]
-          ],
-          2171
-        ],
-        [
-          [],
-          2171
-        ],
-        [
-          [
-            [
-              4,
-              "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value"
-            ],
-            [
-              65,
-              "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Desc"
-            ]
-          ],
-          2291
-        ],
-        [
-          [
-            [
-              28,
-              "PokemonSleepObjectSingleUI_FriendLevel"
-            ],
-            [
-              29,
-              "PokemonSleepObjectSingleUI_FriendLevel_Label"
-            ],
-            [
-              46,
-              "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc"
-            ],
-            [
-              62,
-              "SleepResearchScene_ResearchFinishCutin_Message"
-            ]
-          ],
-          2498
-        ],
-        [
-          [],
-          2498
-        ],
-        [
-          [
-            [
-              5,
-              "SleepResearchSkipConfirmPopup_Header_Title"
-            ]
-          ],
-          2545
+          812
         ],
         [
           [
@@ -626,158 +431,97 @@
               "SleepResearchSkipConfirmPopup_Content_Desc"
             ],
             [
-              32,
-              "SleepResearchScene_BaitBallUse_Footer_Button"
+              35,
+              "PokemonSleepObjectSingleUI_FriendPointWindow_PlusPoint"
+            ],
+            [
+              62,
+              "SleepResearchScene_ResearchFinishCutin_Message"
             ]
           ],
-          2641
+          969
         ],
         [
           [
             [
-              63,
-              "SleepResearchScene_BaitBallInforPopup_Title"
-            ],
-            [
-              76,
-              "SleepResearchScene_BaitBallInforPopup_Full_Title"
-            ],
-            [
-              82,
-              "SleepResearchScene_ManualRewardPopup_Num"
+              50,
+              "SleepResearchBonusBaitBallResultPopup_Section_Title"
             ]
           ],
-          2787
+          1025
         ],
         [
           [
             [
-              11,
-              "SleepResearchScene_BaitBall_SelectedBalloon_Title"
+              41,
+              "SleepResearchBaitBallPhaseEndConfirmPopup_Header_Title"
+            ],
+            [
+              47,
+              "SleepResearchBonusBaitBallResultPopup_Header_Title"
             ],
             [
               53,
               "SleepResearchBonusBaitBallWaitPopup_Desc"
             ]
           ],
-          2886
+          1184
         ],
         [
           [
             [
-              15,
-              "SleepResearchScene_Header_Month_1"
-            ]
-          ],
-          2924
-        ],
-        [
-          [
-            [
-              16,
-              "SleepResearchScene_Header_Month_2"
-            ]
-          ],
-          2962
-        ],
-        [
-          [
-            [
-              17,
-              "SleepResearchScene_Header_Month_3"
+              1,
+              "SleepResearchScene_SleepResearchUI_Header_ResearchExp_Value"
             ],
             [
-              39,
-              "SleepResearchScene_BaitBall_Alert_Message"
+              40,
+              "SleepResearchScene_PokemonChance_Display"
             ]
           ],
-          3046
+          1293
         ],
         [
           [
             [
-              18,
-              "SleepResearchScene_Header_Month_4"
+              28,
+              "PokemonSleepObjectSingleUI_FriendLevel"
             ],
             [
-              27,
-              "PokemonSleepObjectSingleUI_Heart_Count"
-            ],
-            [
-              51,
-              "SleepResearchBonusBaitBallResultPopup_Cell_Result_Nice"
+              37,
+              "SleepResearchScene_NoBaitBallPopup_Message"
             ]
           ],
-          3186
+          1383
         ],
         [
           [
             [
-              19,
-              "SleepResearchScene_Header_Month_5"
+              24,
+              "SleepResearchScene_Header_Month_10"
+            ],
+            [
+              54,
+              "SleepResearchMultiResearchErrorPopup_Title"
             ]
           ],
-          3224
+          1469
         ],
         [
           [
             [
-              20,
-              "SleepResearchScene_Header_Month_6"
-            ],
-            [
-              79,
-              "SleepResearchScene_ManualRewardPopup_Title"
-            ]
-          ],
-          3309
-        ],
-        [
-          [
-            [
-              21,
-              "SleepResearchScene_Header_Month_7"
-            ],
-            [
-              38,
-              "PokemonSleepObjectSingleUI_FullBalloon"
-            ]
-          ],
-          3390
-        ],
-        [
-          [
-            [
-              22,
-              "SleepResearchScene_Header_Month_8"
-            ],
-            [
-              36,
-              "SleepResearchScene_NoBaitBallPopup_Title"
-            ],
-            [
-              52,
-              "SleepResearchBonusBaitBallResultPopup_Cell_Result_Great"
+              25,
+              "SleepResearchScene_Header_Month_11"
             ],
             [
               55,
               "SleepResearchMultiResearchErrorPopup_Desc"
-            ]
-          ],
-          3579
-        ],
-        [
-          [
-            [
-              23,
-              "SleepResearchScene_Header_Month_9"
             ],
             [
-              75,
-              "SleepResearchScene_BaitBallInforPopup_Chance_Desc"
+              74,
+              "SleepResearchScene_BaitBallInforPopup_Chance_Title"
             ]
           ],
-          3671
+          1609
         ],
         [
           [
@@ -786,80 +530,137 @@
               "SleepResearchScene_SleepResearchUI_LeftNumWindow_Title"
             ],
             [
-              8,
-              "SleepResearchScene_BaitBall_Header_Title"
-            ],
-            [
-              78,
-              "SleepResearchScene_BaitBallInforPopup_Full_Picture_Label"
+              26,
+              "SleepResearchScene_Header_Month_12"
             ]
           ],
-          3836
+          1707
         ],
         [
           [
             [
-              0,
-              "SleepResearchScene_SleepResearchUI_Header_Date_Day"
+              71,
+              "SleepResearchScene_BaitBallInforPopup_Success_Desc"
+            ]
+          ],
+          1762
+        ],
+        [
+          [
+            [
+              8,
+              "SleepResearchScene_BaitBall_Header_Title"
             ],
             [
-              1,
-              "SleepResearchScene_SleepResearchUI_Header_ResearchExp_Value"
+              15,
+              "SleepResearchScene_Header_Month_1"
+            ]
+          ],
+          1845
+        ],
+        [
+          [
+            [
+              16,
+              "SleepResearchScene_Header_Month_2"
             ],
             [
               69,
               "SleepResearchScene_BaitBallInforPopup_BaitBallInfo_Name_Point_Master"
             ]
           ],
-          4028
+          1956
         ],
         [
           [
+            [
+              17,
+              "SleepResearchScene_Header_Month_3"
+            ],
+            [
+              75,
+              "SleepResearchScene_BaitBallInforPopup_Chance_Desc"
+            ]
+          ],
+          2048
+        ],
+        [
+          [
+            [
+              5,
+              "SleepResearchSkipConfirmPopup_Header_Title"
+            ],
+            [
+              18,
+              "SleepResearchScene_Header_Month_4"
+            ],
             [
               34,
               "SleepResearchScene_BaitBallUse_LoadingMessage"
-            ],
-            [
-              67,
-              "SleepResearchScene_BaitBallInforPopup_BaitBallInfo_Desc"
             ]
           ],
-          4138
+          2183
         ],
         [
           [
             [
-              31,
-              "SleepResearchScene_BaitBallUse_Footer_Text"
+              11,
+              "SleepResearchScene_BaitBall_SelectedBalloon_Title"
             ],
             [
-              44,
-              "SleepResearchBaitBallPhaseEndConfirmPopup_OK"
-            ],
-            [
-              71,
-              "SleepResearchScene_BaitBallInforPopup_Success_Desc"
+              19,
+              "SleepResearchScene_Header_Month_5"
             ]
           ],
-          4289
+          2275
         ],
         [
           [
+            [
+              20,
+              "SleepResearchScene_Header_Month_6"
+            ]
+          ],
+          2313
+        ],
+        [
+          [
+            [
+              21,
+              "SleepResearchScene_Header_Month_7"
+            ],
+            [
+              77,
+              "SleepResearchScene_BaitBallInforPopup_Full_Desc"
+            ]
+          ],
+          2403
+        ],
+        [
+          [
+            [
+              22,
+              "SleepResearchScene_Header_Month_8"
+            ],
             [
               33,
               "SleepResearchScene_BaitBallUse_Footer_ItemName"
             ]
           ],
-          4340
+          2492
         ],
         [
           [
             [
-              48,
-              "SleepResearchBonusBaitBallResultPopup_Count"
+              4,
+              "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value"
+            ],
+            [
+              23,
+              "SleepResearchScene_Header_Month_9"
             ]
           ],
-          4388
+          2589
         ],
         [
           [
@@ -868,11 +669,270 @@
               "SleepResearchScene_BaitBall_SelectedBalloon_ItemName"
             ],
             [
+              27,
+              "PokemonSleepObjectSingleUI_Heart_Count"
+            ]
+          ],
+          2689
+        ],
+        [
+          [
+            [
+              64,
+              "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title"
+            ],
+            [
+              66,
+              "SleepResearchScene_BaitBallInforPopup_BaitBallInfo_Title"
+            ]
+          ],
+          2812
+        ],
+        [
+          [],
+          2812
+        ],
+        [
+          [],
+          2812
+        ],
+        [
+          [
+            [
+              44,
+              "SleepResearchBaitBallPhaseEndConfirmPopup_OK"
+            ],
+            [
+              56,
+              "SleepResearchSceneController_Text_1"
+            ],
+            [
+              65,
+              "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Desc"
+            ]
+          ],
+          2962
+        ],
+        [
+          [
+            [
+              57,
+              "SleepResearchSceneController_Text_2"
+            ],
+            [
+              83,
+              "SleepResearchScene_EventPopup_Title"
+            ]
+          ],
+          3042
+        ],
+        [
+          [
+            [
+              10,
+              "SleepResearchScene_BaitBall_SelectedButton_Count"
+            ],
+            [
+              58,
+              "SleepResearchSceneController_Text_3"
+            ]
+          ],
+          3135
+        ],
+        [
+          [
+            [
+              52,
+              "SleepResearchBonusBaitBallResultPopup_Cell_Result_Great"
+            ],
+            [
+              59,
+              "SleepResearchSceneController_Text_4"
+            ]
+          ],
+          3235
+        ],
+        [
+          [
+            [
+              31,
+              "SleepResearchScene_BaitBallUse_Footer_Text"
+            ],
+            [
+              38,
+              "PokemonSleepObjectSingleUI_FullBalloon"
+            ],
+            [
+              45,
+              "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count"
+            ],
+            [
+              60,
+              "SleepResearchSceneController_Text_5"
+            ]
+          ],
+          3430
+        ],
+        [
+          [
+            [
+              14,
+              "SleepResearchScene_BaitBall_BaitBallBuyBalloon_Message"
+            ],
+            [
+              36,
+              "SleepResearchScene_NoBaitBallPopup_Title"
+            ]
+          ],
+          3534
+        ],
+        [
+          [
+            [
+              29,
+              "PokemonSleepObjectSingleUI_FriendLevel_Label"
+            ],
+            [
+              39,
+              "SleepResearchScene_BaitBall_Alert_Message"
+            ],
+            [
+              63,
+              "SleepResearchScene_BaitBallInforPopup_Title"
+            ]
+          ],
+          3677
+        ],
+        [
+          [
+            [
+              51,
+              "SleepResearchBonusBaitBallResultPopup_Cell_Result_Nice"
+            ]
+          ],
+          3736
+        ],
+        [
+          [
+            [
+              61,
+              "SleepResearchSceneController_Text_9"
+            ]
+          ],
+          3776
+        ],
+        [
+          [
+            [
+              13,
+              "SleepResearchScene_BaitBall_BaitBallSelectBalloon_OwnCount"
+            ],
+            [
+              79,
+              "SleepResearchScene_ManualRewardPopup_Title"
+            ]
+          ],
+          3886
+        ],
+        [
+          [
+            [
+              42,
+              "SleepResearchBaitBallPhaseEndConfirmPopup_Title"
+            ],
+            [
+              48,
+              "SleepResearchBonusBaitBallResultPopup_Count"
+            ],
+            [
+              76,
+              "SleepResearchScene_BaitBallInforPopup_Full_Title"
+            ]
+          ],
+          4039
+        ],
+        [
+          [
+            [
+              72,
+              "SleepResearchScene_BaitBallInforPopup_Success_Desc_Small_1"
+            ]
+          ],
+          4102
+        ],
+        [
+          [
+            [
+              73,
+              "SleepResearchScene_BaitBallInforPopup_Success_Desc_Small_2"
+            ],
+            [
+              80,
+              "SleepResearchScene_ManualRewardPopup_Text_1"
+            ]
+          ],
+          4213
+        ],
+        [
+          [
+            [
+              78,
+              "SleepResearchScene_BaitBallInforPopup_Full_Picture_Label"
+            ],
+            [
+              81,
+              "SleepResearchScene_ManualRewardPopup_Text_2"
+            ]
+          ],
+          4322
+        ],
+        [
+          [
+            [
+              43,
+              "SleepResearchBaitBallPhaseEndConfirmPopup_Desc"
+            ]
+          ],
+          4373
+        ],
+        [
+          [
+            [
+              82,
+              "SleepResearchScene_ManualRewardPopup_Num"
+            ]
+          ],
+          4418
+        ],
+        [
+          [
+            [
+              67,
+              "SleepResearchScene_BaitBallInforPopup_BaitBallInfo_Desc"
+            ],
+            [
               68,
               "SleepResearchScene_BaitBallInforPopup_BaitBallInfo_Name_Point"
             ]
           ],
-          4511
+          4544
+        ],
+        [
+          [
+            [
+              0,
+              "SleepResearchScene_SleepResearchUI_Header_Date_Day"
+            ],
+            [
+              7,
+              "SleepResearchScene_AllScoreWrapper_All"
+            ],
+            [
+              46,
+              "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc"
+            ]
+          ],
+          4706
         ]
       ]
     },
@@ -898,8 +958,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 83,
-        "size": 6154,
+        "entries": 87,
+        "size": 6724,
         "unknown1": 0,
         "unknown2": 0
       }

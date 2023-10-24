@@ -84,10 +84,10 @@
       "沒有錄音資料"
     ],
     "SleepDataResearchResultCell_Title": [
-      "\u000e\u0003\u0001\u0002촀 \u000e",
+      "\u000e\u0003\u0001\u0002Ā \u000e",
       "\u0003\u0004췍ￍ#\u000e",
       "\u0003\u0004",
-      "＀ \u000e\u0003\r\u0002\u0001"
+      "＀\u000e\u0003\r\u0002\u0001"
     ],
     "SleepMemoDeleteConfirmPopup_DeleteButton": [
       "刪除"
@@ -415,7 +415,7 @@
     "TXT2": {
       "header": {
         "entries": 35,
-        "size": 1238,
+        "size": 1236,
         "unknown1": 0,
         "unknown2": 0
       }

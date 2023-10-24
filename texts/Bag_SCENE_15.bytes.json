@@ -77,19 +77,23 @@
       "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0003\u0004\u0002촁개를\n획득했습니다"
     ],
     "BagSceneConsumableItemView_Text_12": [
-      "\u000e\u0003\u0001\u0002촀의 기력을 회복했습니다"
+      "\u000e\u0003\u0001\u0002",
+      "의 기력을 회복했습니다"
     ],
     "BagSceneConsumableItemView_Text_16": [
-      "\u000e\u0003\u0001\u0002촀의 메인 스킬 레벨이 올랐습니다"
+      "\u000e\u0003\u0001\u0002",
+      "의 메인 스킬 레벨이 올랐습니다"
     ],
     "BagSceneConsumableItemView_Text_2": [
       "획득"
     ],
     "BagSceneConsumableItemView_Text_22": [
-      "\u000e\u0003\u0001\u0002촀의 서브 스킬 레어도가 올랐습니다"
+      "\u000e\u0003\u0001\u0002",
+      "의 서브 스킬 레어도가 올랐습니다"
     ],
     "BagSceneConsumableItemView_Text_24": [
-      "\u000e\u0003\u0001\u0002촀의 서브 스킬 레어도는\n이미 상한에 도달했습니다"
+      "\u000e\u0003\u0001\u0002",
+      "의 서브 스킬 레어도는\n이미 상한에 도달했습니다"
     ],
     "BagSceneConsumableItemView_Text_25": [
       "포켓몬들이\n\u000e\u0002\u0001\u0002",

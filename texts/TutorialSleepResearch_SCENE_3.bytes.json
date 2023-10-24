@@ -1,7 +1,7 @@
 {
   "strings": {
     "SleepResearchSceneTutorialController_BaitBallGuide": [
-      "¡Dale una Galleta Extra\na \u000e\u0003\u0001\u0002촁!"
+      "¡Dale una Galleta Extra\na \u000e\u0003\u0001\u0002\u0001!"
     ],
     "SleepResearchSceneTutorialController_MasterBaitBall_Guide": [
       "¡Prueba a darle una \u000e",
@@ -13,19 +13,22 @@
       "Toca los Pokémon restantes para\nfinalizar la sesión de estudio."
     ],
     "SleepResearchSceneTutorialController_Text_1": [
-      "Busca a \u000e\u0003\u0001\u0002촀 arrastrando\nla pantalla. Cuando lo encuentres,\niniciaremos la sesión de estudio."
+      "Busca a \u000e\u0003\u0001\u0002",
+      " arrastrando\nla pantalla. Cuando lo encuentres,\niniciaremos la sesión de estudio."
     ],
     "SleepResearchSceneTutorialController_Text_13": [
       "Empecemos con buen pie"
     ],
     "SleepResearchSceneTutorialController_Text_14": [
-      "¡Dale un toque primero a \u000e\u0003\u0001\u0002촀!"
+      "¡Dale un toque primero a \u000e\u0003\u0001\u0002",
+      "!"
     ],
     "SleepResearchSceneTutorialController_Text_20": [
       "Pokégalletas"
     ],
     "SleepResearchSceneTutorialController_Text_21": [
-      "Prueba a tocar a \u000e\u0003\u0001\u0002촀 para\ndarle una Pokégalleta."
+      "Prueba a tocar a \u000e\u0003\u0001\u0002",
+      " para\ndarle una Pokégalleta."
     ]
   },
   "structure": {

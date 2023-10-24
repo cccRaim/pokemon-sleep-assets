@@ -45,6 +45,41 @@
     "TutorialTopScene_Canvas-UI_GPPSyncButton": [
       "同步、設定"
     ],
+    "TutorialTopScene_Canvas-UI_SleepSkip_Text_1": [
+      "可以跳過實際的睡眠測量，\n使用隨機的睡眠資料開始\n新手教學的睡眠研究。"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepSkip_Text_2": [
+      "說明"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepSkip_Text_3": [
+      "這個睡眠資料\n\u000e",
+      "\u0003\u0004毿Ｗ將不會在睡眠資料的履歷留下記錄\u000e",
+      "\u0003\u0004",
+      "＀。"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepSkip_Text_4": [
+      "即使跳過睡眠測量新手教學，\n也能在之後確認睡眠測量的方法。"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepSkip_Text_5": [
+      "要用哪個睡眠資料\n開始睡眠研究的新手教學呢？"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepSkip_Text_6": [
+      "\u000e",
+      "\u0003\u0004蚆ﾆ出現在新手教學中的寶可夢\n將會因為選擇的睡眠資料而有所不同。\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepSkip_Text_7": [
+      "\u000e\u0003\u0004\u0002",
+      "型"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepSkip_Text_8": [
+      "確定要用\u000e\u0003\u0004\u0002",
+      "型\n開始睡眠研究嗎？"
+    ],
+    "TutorialTopScene_Canvas-UI_SleepSkip_Title_1": [
+      "跳過睡眠測量新手教學"
+    ],
     "TutorialTopScene_Canvas-UI_SleepStartButton": [
       "開始測量睡眠"
     ],
@@ -96,49 +131,70 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 27,
-        "size": 193,
+        "entries": 36,
+        "size": 256,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 17,
-        "size": 1242,
+        "entries": 19,
+        "size": 1691,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
-          [],
-          136
+          [
+            [
+              26,
+              "TutorialTopScene_Canvas-UI_Title_7"
+            ]
+          ],
+          191
         ],
         [
           [
             [
               2,
               "TutorialTopSceneController_Text_4"
+            ],
+            [
+              14,
+              "TutorialTopScene_Canvas-UI_SleepStartButton"
+            ],
+            [
+              27,
+              "TutorialTopScene_Canvas-UI_GPPSyncButton"
             ]
           ],
-          174
+          322
         ],
         [
           [
             [
               3,
               "TutorialTopSceneController_Text_5"
+            ],
+            [
+              31,
+              "TutorialTopScene_GPPInfoPopup_Text_1"
             ]
           ],
-          212
+          401
         ],
         [
           [
             [
               4,
               "TutorialTopSceneController_Text_6"
+            ],
+            [
+              32,
+              "TutorialTopScene_GPPInfoPopup_Text_2"
             ]
           ],
-          250
+          480
         ],
         [
           [
@@ -147,11 +203,11 @@
               "TutorialTopSceneController_Text_7"
             ],
             [
-              7,
-              "TutorialTopScene_Canvas-UI_Title_LeftTime"
+              16,
+              "TutorialTopScene_Canvas-UI_SleepSkip_Text_1"
             ]
           ],
-          334
+          566
         ],
         [
           [
@@ -160,24 +216,71 @@
               "TutorialTopSceneController_Text_8"
             ],
             [
-              20,
-              "TutorialTopScene_Canvas-UI_GPPInfoButton"
+              17,
+              "TutorialTopScene_Canvas-UI_SleepSkip_Text_2"
             ],
             [
               24,
-              "TutorialTopScene_GPPInfoPopup_Button"
+              "TutorialTopScene_Canvas-UI_Desc_GPP"
             ]
           ],
-          458
+          692
         ],
         [
           [
             [
               1,
               "TutorialTopSceneController_Text_9"
+            ],
+            [
+              18,
+              "TutorialTopScene_Canvas-UI_SleepSkip_Text_3"
+            ],
+            [
+              28,
+              "TutorialTopMenuPopup_Title_4"
             ]
           ],
-          496
+          811
+        ],
+        [
+          [
+            [
+              19,
+              "TutorialTopScene_Canvas-UI_SleepSkip_Text_4"
+            ]
+          ],
+          859
+        ],
+        [
+          [
+            [
+              7,
+              "TutorialTopScene_Canvas-UI_Title_LeftTime"
+            ],
+            [
+              15,
+              "TutorialTopScene_Canvas-UI_SleepSkip_Title_1"
+            ],
+            [
+              20,
+              "TutorialTopScene_Canvas-UI_SleepSkip_Text_5"
+            ],
+            [
+              30,
+              "TutorialTopScene_GPPInfoPopup_Title"
+            ]
+          ],
+          1042
+        ],
+        [
+          [
+            [
+              21,
+              "TutorialTopScene_Canvas-UI_SleepSkip_Text_6"
+            ]
+          ],
+          1090
         ],
         [
           [
@@ -186,15 +289,46 @@
               "TutorialTopScene_Canvas-UI_Title"
             ],
             [
-              8,
-              "TutorialTopScene_Canvas-UI_Title_2"
+              22,
+              "TutorialTopScene_Canvas-UI_SleepSkip_Text_7"
             ],
             [
-              15,
-              "TutorialTopScene_Canvas-UI_Desc_GPP"
+              34,
+              "TutorialTopScene_Option_Others_Quality_Screen_Choice_Title"
             ]
           ],
-          612
+          1238
+        ],
+        [
+          [
+            [
+              23,
+              "TutorialTopScene_Canvas-UI_SleepSkip_Text_8"
+            ]
+          ],
+          1286
+        ],
+        [
+          [],
+          1286
+        ],
+        [
+          [
+            [
+              33,
+              "TutorialTopScene_GPPInfoPopup_Button"
+            ]
+          ],
+          1327
+        ],
+        [
+          [
+            [
+              8,
+              "TutorialTopScene_Canvas-UI_Title_2"
+            ]
+          ],
+          1366
         ],
         [
           [
@@ -203,58 +337,7 @@
               "TutorialTopScene_Canvas-UI_Title_3"
             ]
           ],
-          651
-        ],
-        [
-          [
-            [
-              12,
-              "TutorialTopScene_Canvas-UI_Title_4"
-            ],
-            [
-              18,
-              "TutorialTopScene_Canvas-UI_GPPSyncButton"
-            ],
-            [
-              22,
-              "TutorialTopScene_GPPInfoPopup_Text_1"
-            ]
-          ],
-          776
-        ],
-        [
-          [
-            [
-              13,
-              "TutorialTopScene_Canvas-UI_Title_5"
-            ],
-            [
-              19,
-              "TutorialTopMenuPopup_Title_4"
-            ],
-            [
-              23,
-              "TutorialTopScene_GPPInfoPopup_Text_2"
-            ],
-            [
-              25,
-              "TutorialTopScene_Option_Others_Quality_Screen_Choice_Title"
-            ],
-            [
-              26,
-              "TutorialTopScene_Option_Others_Quality_Text"
-            ]
-          ],
-          1000
-        ],
-        [
-          [
-            [
-              16,
-              "TutorialTopScene_Canvas-UI_Title_6"
-            ]
-          ],
-          1039
+          1405
         ],
         [
           [
@@ -263,11 +346,19 @@
               "TutorialTopScene_Canvas-UI_Desc_1"
             ],
             [
-              17,
-              "TutorialTopScene_Canvas-UI_Title_7"
+              12,
+              "TutorialTopScene_Canvas-UI_Title_4"
+            ],
+            [
+              29,
+              "TutorialTopScene_Canvas-UI_GPPInfoButton"
+            ],
+            [
+              35,
+              "TutorialTopScene_Option_Others_Quality_Text"
             ]
           ],
-          1116
+          1575
         ],
         [
           [
@@ -276,28 +367,20 @@
               "TutorialTopScene_Canvas-UI_Desc_2"
             ],
             [
-              21,
-              "TutorialTopScene_GPPInfoPopup_Title"
+              13,
+              "TutorialTopScene_Canvas-UI_Title_5"
             ]
           ],
-          1194
-        ],
-        [
-          [],
-          1194
+          1652
         ],
         [
           [
             [
-              14,
-              "TutorialTopScene_Canvas-UI_SleepStartButton"
+              25,
+              "TutorialTopScene_Canvas-UI_Title_6"
             ]
           ],
-          1242
-        ],
-        [
-          [],
-          1242
+          1691
         ]
       ]
     },
@@ -323,8 +406,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 27,
-        "size": 1002,
+        "entries": 36,
+        "size": 1456,
         "unknown1": 0,
         "unknown2": 0
       }

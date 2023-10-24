@@ -6,6 +6,9 @@
     "md_weekly_mission_types_tips_10": [
       "透過睡眠研究等管道獲得\n寶可夢的糖果，來強化寶可夢吧。"
     ],
+    "md_weekly_mission_types_tips_12": [
+      "在點擊「睡覺」按鈕後\n顯示的視窗中設置薰香，\n並進行睡眠睡眠研究吧。"
+    ],
     "md_weekly_mission_types_tips_2": [
       "1天最多能做3次料理。\n可做下個料理的時間帶為早上（6:00～）、\n午後（12:00～）、晚上（18:00～）。"
     ],
@@ -28,8 +31,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 8,
-        "size": 60,
+        "entries": 9,
+        "size": 67,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -37,7 +40,7 @@
     "LBL1": {
       "header": {
         "entries": 5,
-        "size": 321,
+        "size": 357,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -59,9 +62,13 @@
             [
               5,
               "md_weekly_mission_types_tips_8"
+            ],
+            [
+              8,
+              "md_weekly_mission_types_tips_12"
             ]
           ],
-          145
+          181
         ],
         [
           [
@@ -70,7 +77,7 @@
               "md_weekly_mission_types_tips_9"
             ]
           ],
-          180
+          216
         ],
         [
           [
@@ -79,7 +86,7 @@
               "md_weekly_mission_types_tips_5"
             ]
           ],
-          215
+          251
         ],
         [
           [
@@ -96,7 +103,7 @@
               "md_weekly_mission_types_tips_10"
             ]
           ],
-          321
+          357
         ]
       ]
     },
@@ -122,8 +129,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 8,
-        "size": 622,
+        "entries": 9,
+        "size": 696,
         "unknown1": 0,
         "unknown2": 0
       }

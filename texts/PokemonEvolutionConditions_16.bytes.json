@@ -1,16 +1,20 @@
 {
   "strings": {
     "EvolutionCondictionDesc_Gender_Female": [
-      "\u000e\u0003\u0001\u0002촀 debe ser\nhembra (♀)."
+      "\u000e\u0003\u0001\u0002",
+      " debe ser\nhembra (♀)."
     ],
     "EvolutionCondictionDesc_Gender_Male": [
-      "\u000e\u0003\u0001\u0002촀 debe ser\nmacho (♂)."
+      "\u000e\u0003\u0001\u0002",
+      " debe ser\nmacho (♂)."
     ],
     "EvolutionCondictionDesc_ItemNum": [
       "\u000e\u0002\u0002\u0002\u0002 ×\u000e\u0003\u0003\u0004Ā촀"
     ],
     "EvolutionCondictionDesc_Nature": [
-      "\u000e\u0003\u0001\u0002촀 debe ser de\nnaturaleza \u000e\u0003\u0001\u0002촀"
+      "\u000e\u0003\u0001\u0002",
+      " debe ser de\nnaturaleza \u000e\u0003\u0001\u0002",
+      ""
     ],
     "EvolutionCondictionDesc_PeriodOfTime_1_2_3": [
       "Debe evolucionar de día\n(entre las 06:00 y las 17:59)."
@@ -19,14 +23,16 @@
       "Debe evolucionar de noche\n(entre las 18:00 y las 05:59)."
     ],
     "EvolutionCondictionDesc_Rank": [
-      "\u000e\u0003\u0001\u0002촀 debe subir al\nNv. \u000e\u0002\u0002\u0002\u0001."
+      "\u000e\u0003\u0001\u0002",
+      " debe subir al\nNv. \u000e\u0002\u0002\u0002\u0001."
     ],
     "EvolutionCondictionDesc_SpeciesCandy": [
       "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0002\u0002\u0002 "
     ],
     "EvolutionCondictionDesc_TotalSleepTime": [
       "Debes registrar \u000e\t",
-      "\f\bhhhh\u0001 de sueño\ncon \u000e\u0003\u0001\u0002촀."
+      "\f\bhhhh\u0001 de sueño\ncon \u000e\u0003\u0001\u0002",
+      "."
     ]
   },
   "structure": {

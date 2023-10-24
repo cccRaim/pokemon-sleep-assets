@@ -1,28 +1,32 @@
 {
   "strings": {
     "SleepResearchSceneTutorialController_BaitBallGuide": [
-      "Dai un Biscotto bonus a \u000e\u0003\u0001\u0002촁!"
+      "Dai un Biscotto bonus a \u000e\u0003\u0001\u0002\u0001!"
     ],
     "SleepResearchSceneTutorialController_MasterBaitBall_Guide": [
-      "Scorri lo schermo e cerca \u000e\u0003\u0001\u0002촀.\nQuando lo trovi, toccalo \nper condurre la ricerca del sonno!"
+      "Scorri lo schermo e cerca \u000e\u0003\u0001\u0002",
+      ".\nQuando lo trovi, toccalo \nper condurre la ricerca del sonno!"
     ],
     "SleepResearchSceneTutorialController_TapOtherPokemons": [
       "Tocca i Pokémon restanti\nper completare la ricerca del sonno!"
     ],
     "SleepResearchSceneTutorialController_Text_1": [
-      "Scorri lo schermo e cerca \u000e\u0003\u0001\u0002촀.\nQuando lo trovi, toccalo \nper condurre la ricerca del sonno!"
+      "Scorri lo schermo e cerca \u000e\u0003\u0001\u0002",
+      ".\nQuando lo trovi, toccalo \nper condurre la ricerca del sonno!"
     ],
     "SleepResearchSceneTutorialController_Text_13": [
       "La prima ricerca"
     ],
     "SleepResearchSceneTutorialController_Text_14": [
-      "Per iniziare, tocca \u000e\u0003\u0001\u0002촀!"
+      "Per iniziare, tocca \u000e\u0003\u0001\u0002",
+      "!"
     ],
     "SleepResearchSceneTutorialController_Text_20": [
       "Dai Pokébiscotto"
     ],
     "SleepResearchSceneTutorialController_Text_21": [
-      "Tocca \u000e\u0003\u0001\u0002촀\ne dagli un'escasfera!"
+      "Tocca \u000e\u0003\u0001\u0002",
+      "\ne dagli un'escasfera!"
     ]
   },
   "structure": {

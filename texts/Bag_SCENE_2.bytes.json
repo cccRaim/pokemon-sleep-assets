@@ -77,10 +77,12 @@
       "You obtained\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0003\u0004\u0002촁!"
     ],
     "BagSceneConsumableItemView_Text_12": [
-      "\u000e\u0003\u0001\u0002촀 recovered Energy!"
+      "\u000e\u0003\u0001\u0002",
+      " recovered Energy!"
     ],
     "BagSceneConsumableItemView_Text_16": [
-      "\u000e\u0003\u0001\u0002촀’s main skill leveled up!"
+      "\u000e\u0003\u0001\u0002",
+      "’s main skill leveled up!"
     ],
     "BagSceneConsumableItemView_Text_2": [
       "obtained!"
@@ -89,7 +91,8 @@
       "The quality of the sub skill went up!"
     ],
     "BagSceneConsumableItemView_Text_24": [
-      "\u000e\u0003\u0001\u0002촀’s sub skills are already\nthe highest quality they can be!"
+      "\u000e\u0003\u0001\u0002",
+      "’s sub skills are already\nthe highest quality they can be!"
     ],
     "BagSceneConsumableItemView_Text_25": [
       "Your team gave you \u000e\u0002\u0001\u0002",

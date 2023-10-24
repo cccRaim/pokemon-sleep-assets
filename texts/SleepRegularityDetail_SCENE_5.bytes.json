@@ -25,6 +25,12 @@
       "\u0012\u000ehhhhmmm",
       ""
     ],
+    "SleepRegularityDetail_GraphOverlay_PopupText": [
+      "어떠한 이유로 인해 계측이 도중에\n종료된 수면 데이터입니다\n수면 리듬 평가에서는\n이 데이터를 제외하고 판정을 진행합니다"
+    ],
+    "SleepRegularityDetail_GraphOverlay_PopupTitle": [
+      "도중에 계측이 종료된 데이터"
+    ],
     "SleepRegularityDetail_GraphOverlay_Time": [
       "\u000e\t",
       "\u0010\fhhhmmm",
@@ -78,8 +84,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 18,
-        "size": 130,
+        "entries": 20,
+        "size": 144,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -87,22 +93,22 @@
     "LBL1": {
       "header": {
         "entries": 11,
-        "size": 834,
+        "size": 933,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              8,
+              10,
               "SleepRegularityDetail_ContentDesc_1"
             ],
             [
-              11,
+              13,
               "SleepRegularityDetail_MidTimeSleepLabel"
             ],
             [
-              14,
+              16,
               "SleepRegularityDetail_WeekItemDate"
             ]
           ],
@@ -111,7 +117,7 @@
         [
           [
             [
-              13,
+              15,
               "SleepRegularityDetail_WeekItemDateNum"
             ]
           ],
@@ -121,99 +127,107 @@
           [
             [
               1,
+              "SleepRegularityDetail_GraphOverlay_PopupText"
+            ],
+            [
+              3,
               "SleepRegularityDetail_ContentDesc_NoData"
             ],
             [
-              4,
+              6,
               "SleepRegularityDetail_GraphOverlay_Duration"
             ]
           ],
-          346
+          395
         ],
         [
           [],
-          346
+          395
         ],
         [
           [],
-          346
+          395
         ],
         [
           [
             [
-              3,
+              5,
               "SleepRegularityDetail_GraphOverlay_Date"
             ],
             [
-              5,
+              7,
               "SleepRegularityDetail_GraphOverlay_Time"
             ],
             [
-              9,
+              11,
               "SleepRegularityDetail_DataTitle"
             ]
           ],
-          470
+          519
+        ],
+        [
+          [
+            [
+              4,
+              "SleepRegularityDetail_Label_NoData"
+            ],
+            [
+              8,
+              "SleepRegularityDetail_HeadTile"
+            ],
+            [
+              12,
+              "SleepRegularityDetail_SleepTimeLabel"
+            ],
+            [
+              19,
+              "SleepRegularityDetail_GraphTimeScale"
+            ]
+          ],
+          675
         ],
         [
           [
             [
               2,
-              "SleepRegularityDetail_Label_NoData"
+              "SleepRegularityDetail_ContentDesc_InvalidData"
             ],
             [
-              6,
-              "SleepRegularityDetail_HeadTile"
-            ],
-            [
-              10,
-              "SleepRegularityDetail_SleepTimeLabel"
-            ],
-            [
-              17,
-              "SleepRegularityDetail_GraphTimeScale"
+              9,
+              "SleepRegularityDetail_HeadPeriod"
             ]
           ],
-          626
+          762
+        ],
+        [
+          [],
+          762
+        ],
+        [
+          [
+            [
+              14,
+              "SleepRegularityDetail_WeekTitle"
+            ],
+            [
+              18,
+              "SleepRegularityDetail_GraphDayOfWeek"
+            ]
+          ],
+          839
         ],
         [
           [
             [
               0,
-              "SleepRegularityDetail_ContentDesc_InvalidData"
+              "SleepRegularityDetail_GraphOverlay_PopupTitle"
             ],
             [
-              7,
-              "SleepRegularityDetail_HeadPeriod"
-            ]
-          ],
-          713
-        ],
-        [
-          [],
-          713
-        ],
-        [
-          [
-            [
-              12,
-              "SleepRegularityDetail_WeekTitle"
-            ],
-            [
-              16,
-              "SleepRegularityDetail_GraphDayOfWeek"
-            ]
-          ],
-          790
-        ],
-        [
-          [
-            [
-              15,
+              17,
               "SleepRegularityDetail_WeekItemSleepTime"
             ]
           ],
-          834
+          933
         ]
       ]
     },
@@ -239,8 +253,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 18,
-        "size": 896,
+        "entries": 20,
+        "size": 1070,
         "unknown1": 0,
         "unknown2": 0
       }

@@ -167,6 +167,9 @@
     "MutipleSleepResultExpireDataCell_Desc_NoResearch": [
       "스코어가 0점이므로\n수면 리서치가 실시되지 않았습니다"
     ],
+    "MutipleSleepResultScene_EventName_Halloween": [
+      "ハロウィン"
+    ],
     "MutipleSleepResultScene_SleepingFaceName": [
       "\u000e",
       "\u0003\u0004췍ￍ#\u000e",
@@ -178,8 +181,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 50,
-        "size": 354,
+        "entries": 51,
+        "size": 361,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -187,7 +190,7 @@
     "LBL1": {
       "header": {
         "entries": 29,
-        "size": 2617,
+        "size": 2665,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -467,12 +470,17 @@
           2252
         ],
         [
-          [],
-          2252
+          [
+            [
+              50,
+              "MutipleSleepResultScene_EventName_Halloween"
+            ]
+          ],
+          2300
         ],
         [
           [],
-          2252
+          2300
         ],
         [
           [
@@ -481,7 +489,7 @@
               "MultipleSleepResultSleepDataCell_TimeLabel"
             ]
           ],
-          2299
+          2347
         ],
         [
           [
@@ -498,7 +506,7 @@
               "MultipleSleepResultSleepDataCell_PowerLabel"
             ]
           ],
-          2432
+          2480
         ],
         [
           [
@@ -507,7 +515,7 @@
               "MultipleSleepResultScene_Content_Title_Date"
             ]
           ],
-          2480
+          2528
         ],
         [
           [
@@ -516,7 +524,7 @@
               "MultipleSleepResultScene_Content_Value_3"
             ]
           ],
-          2525
+          2573
         ],
         [
           [
@@ -529,7 +537,7 @@
               "MultipleSleepResultScene_Top_DayCountValue"
             ]
           ],
-          2617
+          2665
         ]
       ]
     },
@@ -555,8 +563,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 50,
-        "size": 1240,
+        "entries": 51,
+        "size": 1256,
         "unknown1": 0,
         "unknown2": 0
       }

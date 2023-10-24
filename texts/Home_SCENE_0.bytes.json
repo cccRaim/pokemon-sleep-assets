@@ -507,6 +507,93 @@
     "HomeScene_GSD_WhatPopup_Title": [
       "굿 슬립 데이"
     ],
+    "HomeScene_HalloweenEvent_Popup_Start": [
+      "핼러윈 이벤트"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_1": [
+      "10/30(월) 4:00부터\n[\u000e",
+      "\u0003\u0004맿Ｏ핼러윈 2023: 더블 사탕 리서치\u000e",
+      "\u0003\u0004",
+      "＀] 이벤트를\n개최합니다!"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_2": [
+      "트릭 오어 트릿!\n일주일간 진행되는 [핼러윈 2023: 더블 사탕 리서치]\n이벤트에서는 당신의 수면 타입과 상관없이\n다른 수면 타입의 포켓몬과도 만날 수 있게 됩니다.\n또한 평소의 미션에 더해 [\u000e",
+      "\u0003\u0004맿Ｏ특별한 미션\u000e",
+      "\u0003\u0004",
+      "＀]이\n추가되어 \u000e",
+      "\u0003\u0004맿Ｏ만능사탕S x25(합계)\u000e",
+      "\u0003\u0004",
+      "＀ 등의\n호화로운 보상을 획득할 수 있으며\n수면 리서치에서는 포켓몬의 \u000e",
+      "\u0003\u0004맿Ｏ사탕의 획득량이 평소의\n\u000e\u0002\u0001\u0002",
+      "배 이상\u000e",
+      "\u0003\u0004",
+      "＀이 됩니다.\n이벤트 기간 중에 사탕을 잔뜩 모아 봅시다!\n그리고 이번 \u000e",
+      "\u0003\u0004맿Ｏ핼러윈 모자를 쓴 [피카츄]\u000e",
+      "\u0003\u0004",
+      "＀를 시작으로\n\u000e",
+      "\u0003\u0004맿Ｏ[고오스] 등의 고스트타입 포켓몬\u000e",
+      "\u0003\u0004",
+      "＀과\n많이 만날 수 있는 찬스가 있습니다!\n기대해 주세요!"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_3": [
+      "●이벤트 플레이 방법\n이벤트에 참가하는 방법은 간단합니다!\n이벤트 기간 중, \u000e",
+      "\u0003\u0004맿Ｏ연둣빛 본섬\u000e",
+      "\u0003\u0004",
+      "＀에서 자기 전에\n[잠자기] 버튼을 누르고\n수면을 계측하기만 하면 됩니다.\n수면 리서치에서 다양한 이벤트 보너스가 발휘됩니다.\n※연둣빛 본섬 이외의 맵에서 수면 계측을 진행할 경우\n이벤트 보너스가 발생하지 않습니다.\n또한 이벤트 기간 중에는 아래 효과가 적용됩니다."
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_4": [
+      "[\u000e",
+      "\u0003\u0004맿Ｏ핼러윈의 날(10/31), 이벤트 마지막 날(11/5)\u000e",
+      "\u0003\u0004",
+      "＀]\n・첫 번째 수면 리서치에서 \u000e",
+      "\u0003\u0004맿Ｏ사탕 획득량 \u000e\u0002\u0001\u0002",
+      "배\n\u000e",
+      "\u0003\u0004",
+      "＀・수면 리서치에서 그날 리서처의 수면 타입에 상관없이\n\u000e",
+      "\u0003\u0004맿Ｏ다른 수면 타입의 포켓몬도 많이 출현\n\u000e",
+      "\u0003\u0004",
+      "＀・수면 리서치에서 \u000e",
+      "\u0003\u0004맿Ｏ특정 포켓몬의 출현 확률 UP\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_5": [
+      "[\u000e",
+      "\u0003\u0004맿Ｏ그 밖의 날(10/30, 11/1, 2, 3, 4)\u000e",
+      "\u0003\u0004",
+      "＀]\n・첫 번째 수면 리서치에서 \u000e",
+      "\u0003\u0004맿Ｏ사탕 획득량 \u000e\u0002\u0001\u0002",
+      "배\n\u000e",
+      "\u0003\u0004",
+      "＀・수면 리서치에서 그날 리서처의 수면 타입에 상관없이\n\u000e",
+      "\u0003\u0004맿Ｏ다른 수면 타입의 포켓몬도 조금 출현\n\u000e",
+      "\u0003\u0004",
+      "＀・수면 리서치에서 \u000e",
+      "\u0003\u0004맿Ｏ특정 포켓몬의 출현 확률 UP\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_6": [
+      "●이벤트 중 특히 많이 만날 수 있는 포켓몬\n이벤트 기간 중에는 아래 포켓몬들과 평소보다\n많이 만날 수 있습니다!"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_7": [
+      "[\u000e",
+      "\u0003\u0004맿Ｏ픽업(대)\u000e",
+      "\u0003\u0004",
+      "＀]\n피카츄(핼러윈), 고오스, 고우스트, 팬텀\n[\u000e",
+      "\u0003\u0004맿Ｏ픽업(중)\u000e",
+      "\u0003\u0004",
+      "＀]\n나옹, 탕구리\n[\u000e",
+      "\u0003\u0004맿Ｏ픽업(소)\u000e",
+      "\u0003\u0004",
+      "＀]\n???, ???"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_8": [
+      "이벤트에 관한 더 자세한 내용은\n게임 내 [알림]을 확인해 주십시오."
+    ],
+    "HomeScene_Halloween_BannerPopup_Title": [
+      "핼러윈 이벤트"
+    ],
     "HomeScene_MainSkillFoodBagOver_Text": [
       "식재료를 정리해 주십시오\n포켓몬이 스킬을 사용하여\n식재료를 획득할 수 없습니다"
     ],
@@ -540,6 +627,13 @@
     "HomeScene_MapChangePopup_Text_5": [
       "이동하면 향로는 제거됩니다. 세팅 중인 경우에는\n이동 전에 데이터 동기화를 완료해 주십시오"
     ],
+    "HomeScene_NotMainSkillPopup_Text": [
+      "이미 메인 스킬에 의해 냄비의 용량이\n최대인 \u000e\u0002\u0003\u0004",
+      "촁까지 상승하여\n메인 스킬 [\u000e\u0003\u000b\u0002촁]의\n사용이 불가능합니다\n요리를 만들면 다시 이 메인 스킬을\n사용할 수 있게 됩니다"
+    ],
+    "HomeScene_NotMainSkillPopup_Title": [
+      "메인 스킬을 사용할 수 없습니다"
+    ],
     "HomeScene_PremiumPassFinished_Popup_SubText": [
       "노멀 패스로 변경되었습니다\n다음에 또 이용해 주십시오"
     ],
@@ -552,11 +646,61 @@
     "HomeScene_PremiumPassFinished_Popup_Title": [
       "프리미엄 패스 종료"
     ],
+    "HomeStartSleepPopup_Bonus_ContentExplain_1_1": [
+      "리서치에서 사탕 획득량이\n\u000e\u0002\u0001\u0002",
+      "배(1일 1회 한정)"
+    ],
+    "HomeStartSleepPopup_Bonus_ContentExplain_1_2": [
+      "리서처의 수면 타입에 상관없이\n다른 수면 타입의 포켓몬도 출현"
+    ],
+    "HomeStartSleepPopup_Bonus_ContentExplain_2_1": [
+      "졸음 파워가 \u000e\u0002\u0001\u0002",
+      "배"
+    ],
+    "HomeStartSleepPopup_Bonus_ContentExplain_2_2": [
+      "수면으로 얻는 EXP가 \u000e\u0002",
+      "\u0002촀배"
+    ],
+    "HomeStartSleepPopup_Bonus_ContentExplain_2_3": [
+      "수면 계측을 하면 보너스 슬립 포인트\n\u000e\u0002\u0003\u0004",
+      "촁 획득(1일 1회 한정)"
+    ],
+    "HomeStartSleepPopup_Bonus_ContentExplain_3": [
+      "마스터 사블레를 수면 리서치에서\n사용해 보자"
+    ],
+    "HomeStartSleepPopup_Bonus_Content_1": [
+      "핼러윈 이벤트"
+    ],
+    "HomeStartSleepPopup_Bonus_Content_2": [
+      "굿 슬립 데이"
+    ],
+    "HomeStartSleepPopup_Bonus_Content_3": [
+      "마스터 사블레 튜토리얼"
+    ],
+    "HomeStartSleepPopup_Bonus_Header_1": [
+      "보너스 일람"
+    ],
+    "HomeStartSleepPopup_Bonus_Secret": [
+      "???"
+    ],
+    "HomeStartSleepPopup_Bonus_Slash": [
+      " /"
+    ],
+    "HomeStartSleepPopup_Bonus_SmallTitle": [
+      "리서치 보너스"
+    ],
+    "HomeStartSleepPopup_Bonus_Text_1": [
+      "오늘의 리서치 보너스 일람입니다"
+    ],
+    "HomeStartSleepPopup_Bonus_Title": [
+      "리서치 보너스"
+    ],
     "HomeStartSleepPopup_CannotSet_MultiPokemonIncense": [
       "포켓몬의 향로는 동시에\n2개 이상 세팅할 수 없습니다"
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Text": [
-      "현재 필드에서는 \u000e\u0003\u0001\u0002촀\u000e\b",
+      "현재 필드에서는 \u000e\u0003\u0001\u0002",
+      "\u000e\b",
       "\u0002촃 \n등장하지 않으므로 이 향로를\n세팅할 수 없습니다"
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Title": [
@@ -706,8 +850,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 199,
-        "size": 1397,
+        "entries": 226,
+        "size": 1586,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -715,7 +859,7 @@
     "LBL1": {
       "header": {
         "entries": 101,
-        "size": 8643,
+        "size": 9783,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -730,7 +874,7 @@
               "HomeSceneUIController_Text_9"
             ],
             [
-              139,
+              166,
               "HomePromisePopup_CardButton"
             ]
           ],
@@ -739,7 +883,7 @@
         [
           [
             [
-              89,
+              116,
               "SnorlaxHomeObject_NextTime_Lunch"
             ]
           ],
@@ -752,11 +896,11 @@
         [
           [
             [
-              81,
+              108,
               "HomeScene_Canvas-UI_SleepMile_GetPoint"
             ],
             [
-              135,
+              162,
               "HomePromisePopup_Title"
             ]
           ],
@@ -765,15 +909,15 @@
         [
           [
             [
-              143,
+              170,
               "HomePromiseStampCardPopup_Day"
             ],
             [
-              144,
+              171,
               "HomePromiseStampCardPopup_RewardNum"
             ],
             [
-              152,
+              179,
               "Home_SCENE_MissionGoalPopup_ContentTitle"
             ]
           ],
@@ -786,11 +930,11 @@
         [
           [
             [
-              67,
+              94,
               "HomeScene_Canvas-UI_SyncBalloon"
             ],
             [
-              104,
+              131,
               "GPPHomePopup_ConnectButton"
             ]
           ],
@@ -803,19 +947,19 @@
         [
           [
             [
-              41,
+              43,
               "SnorlaxRankListCell_NeedEnergy"
             ],
             [
-              105,
+              132,
               "HomeFavoriteFoodPopup_Title"
             ],
             [
-              149,
+              176,
               "Home_SCENE_MissionGoalPopup_Button_Close"
             ],
             [
-              177,
+              204,
               "HomeScene_MainSkillFoodBagOver_Title"
             ]
           ],
@@ -824,11 +968,11 @@
         [
           [
             [
-              137,
+              164,
               "HomePromisePopup_TargetTime"
             ],
             [
-              155,
+              182,
               "Home_SCENE_MissionGoalPopup_Content_Message_2_NoNumber"
             ]
           ],
@@ -841,7 +985,7 @@
               "HomeGPPController_Text_1"
             ],
             [
-              110,
+              137,
               "HomePowerRecoveryPopup_Title"
             ]
           ],
@@ -854,15 +998,15 @@
               "HomeGPPController_Text_2"
             ],
             [
-              122,
+              149,
               "HomePowerRecoveryPopup_BonusEnergyPopup_Title"
             ],
             [
-              133,
+              160,
               "HomePowerRecoveryPopup_Unit_2"
             ],
             [
-              153,
+              180,
               "Home_SCENE_MissionGoalPopup_Content_Message_1"
             ]
           ],
@@ -875,15 +1019,15 @@
               "HomeGPPController_Text_3"
             ],
             [
-              93,
+              120,
               "GPPHomePopup_OthersLabel"
             ],
             [
-              127,
+              154,
               "HomePowerRecoveryPopup_BonusPopup_BonusList"
             ],
             [
-              154,
+              181,
               "Home_SCENE_MissionGoalPopup_Content_Message_2"
             ]
           ],
@@ -892,23 +1036,31 @@
         [
           [
             [
-              53,
+              36,
+              "HomeScene_NotMainSkillPopup_Text"
+            ],
+            [
+              55,
               "HomeScene_Canvas-UI_Level"
             ],
             [
-              173,
+              75,
+              "HomeStartSleepPopup_Bonus_ContentExplain_3"
+            ],
+            [
+              200,
               "HomePromiseTimeChangeConfirmPopup_Title"
             ],
             [
-              196,
+              223,
               "HomeSceneGraphicText_PremiumPass"
             ]
           ],
-          1902
+          1986
         ],
         [
           [],
-          1902
+          1986
         ],
         [
           [
@@ -917,41 +1069,41 @@
               "Home_NoMoreSleepStartPopup_Message"
             ],
             [
-              83,
+              110,
               "HomeScene_Canvas-UI_ShopButton"
             ],
             [
-              96,
+              123,
               "GPPHomePopup_Value"
             ]
           ],
-          1999
+          2083
         ],
         [
           [],
-          1999
+          2083
         ],
         [
           [
             [
-              120,
+              147,
               "HomePowerRecoveryPopup_Num"
             ]
           ],
-          2030
+          2114
         ],
         [
           [
             [
-              40,
+              42,
               "SnorlaxRankListCell_NeedEnergyNone"
             ],
             [
-              163,
+              190,
               "HomeStartSleepPopup_CannotSet_NotMatchMap_Title"
             ]
           ],
-          2121
+          2205
         ],
         [
           [
@@ -960,11 +1112,11 @@
               "HomeSceneUIController_Text_4_2times_1ManualVer"
             ],
             [
-              185,
+              212,
               "HomeStartSleepPopup_GPP_PromiseChangePopup_Message"
             ]
           ],
-          2227
+          2311
         ],
         [
           [
@@ -977,41 +1129,45 @@
               "HomeSceneUIController_Text_4_1timeOverMax_B"
             ],
             [
-              107,
+              134,
               "HomePokemonExpGage_LevelUnit"
             ],
             [
-              181,
+              208,
               "Home_SCENE_MissionGoalCutin_Complete_Title"
             ]
           ],
-          2392
+          2476
         ],
         [
           [
             [
-              85,
+              62,
+              "HomeStartSleepPopup_Bonus_Title"
+            ],
+            [
+              112,
               "HomeScene_Canvas-UI_SleepStartSkipButton"
             ]
           ],
-          2437
+          2557
         ],
         [
           [
             [
-              79,
+              106,
               "HomeScene_Canvas-UI_MissionButton"
             ],
             [
-              180,
+              207,
               "Home_SCENE_MissionGoalCutin_Badge_Title"
             ],
             [
-              186,
+              213,
               "HomeStartSleepPopup_GPP_PromiseChangePopup_OK"
             ]
           ],
-          2569
+          2689
         ],
         [
           [
@@ -1020,36 +1176,36 @@
               "Home_AutoPickup_Popup_Desc"
             ],
             [
-              124,
+              151,
               "HomePowerRecoveryPopup_Num_2"
             ]
           ],
-          2633
+          2753
         ],
         [
           [],
-          2633
+          2753
         ],
         [
           [],
-          2633
+          2753
         ],
         [
           [
             [
-              42,
+              44,
               "GoBonusPopup_Text_2"
             ],
             [
-              51,
+              53,
               "HomeScene_Canvas-UI_Energy"
             ],
             [
-              132,
+              159,
               "HomePowerRecoveryPopup_BonusPopup_BonusList_NoBonus"
             ]
           ],
-          2744
+          2864
         ],
         [
           [
@@ -1062,59 +1218,59 @@
               "Home_NoMoreSleepStartPopup_UnixtimeDuplication_Message"
             ],
             [
-              142,
+              169,
               "HomePromiseStampCardPopup_Title"
             ],
             [
-              174,
+              201,
               "HomePromiseTimeChangeConfirmPopup_Desc_1"
             ]
           ],
-          2921
+          3041
         ],
         [
           [
             [
-              116,
+              143,
               "HomePowerRecoveryPopup_BoxEnergy_Text_1"
             ],
             [
-              175,
+              202,
               "HomePromiseTimeChangeConfirmPopup_Desc_2"
             ]
           ],
-          3010
+          3130
         ],
         [
           [
             [
-              170,
+              197,
               "FieldObject_SleepConsumableItemObjectBalloon"
             ]
           ],
-          3059
+          3179
         ],
         [
           [
             [
-              108,
+              135,
               "HomePokemonExpGage_LevelNum"
             ]
           ],
-          3091
+          3211
         ],
         [
           [
             [
-              49,
+              51,
               "HomeScene_Canvas-UI_Name"
             ],
             [
-              190,
+              217,
               "HomeScene_FieldChange_FieldBonusPopup_Heading"
             ]
           ],
-          3170
+          3290
         ],
         [
           [
@@ -1123,32 +1279,32 @@
               "HomeScene_FieldChangeDialog_Player_1"
             ],
             [
-              92,
+              119,
               "GPPHomePopup_SyncDate"
             ],
             [
-              128,
+              155,
               "HomePowerRecoveryPopup_BonusPopup_BonusList_SubSkill"
             ]
           ],
-          3294
+          3414
         ],
         [
           [
             [
-              129,
+              156,
               "HomePowerRecoveryPopup_BonusPopup_BonusList_Incense"
             ],
             [
-              131,
+              158,
               "HomePowerRecoveryPopup_BonusPopup_BonusList_Note"
             ],
             [
-              150,
+              177,
               "Home_SCENE_MissionGoalPopup_Button_SleepingFacePokedex"
             ]
           ],
-          3462
+          3582
         ],
         [
           [
@@ -1157,377 +1313,398 @@
               "Home_BottomButtons_MainMissionProgressButton_GoalTitle"
             ],
             [
-              146,
+              173,
               "Home_SCENE_MissionGoalPopup_Desc_1"
             ],
             [
-              191,
+              218,
               "HomeScene_FieldChange_FieldBonusPopup_Text_1"
             ]
           ],
-          3609
+          3729
         ],
         [
           [
             [
-              71,
+              98,
               "HomeScene_Canvas-UI_SleepReportGPP_1"
             ],
             [
-              73,
+              100,
               "HomeScene_MapChangePopup_Text_1"
             ],
             [
-              192,
+              219,
               "HomeScene_FieldChange_FieldBonusPopup_Text_2"
             ]
           ],
-          3735
+          3855
         ],
         [
           [
             [
-              63,
+              90,
               "HomeScene_Canvas-UI_MainMenuButton"
             ],
             [
-              68,
+              95,
               "HomeScene_Canvas-UI_SleepReportNotification"
             ],
             [
-              72,
+              99,
               "HomeScene_Canvas-UI_SleepReportGPP_2"
             ],
             [
-              74,
+              101,
               "HomeScene_MapChangePopup_Text_2"
             ]
           ],
-          3899
-        ],
-        [
-          [
-            [
-              75,
-              "HomeScene_MapChangePopup_Text_3"
-            ],
-            [
-              130,
-              "HomePowerRecoveryPopup_BonusPopup_BonusList_Event"
-            ]
-          ],
-          3989
-        ],
-        [
-          [
-            [
-              76,
-              "HomeScene_MapChangePopup_Text_4"
-            ],
-            [
-              160,
-              "HomeStartSleepPopup_CannotUse_Incense"
-            ]
-          ],
-          4067
-        ],
-        [
-          [
-            [
-              59,
-              "HomeScene_GSD_WhatPopup_Text_1"
-            ],
-            [
-              77,
-              "HomeScene_MapChangePopup_Text_5"
-            ]
-          ],
-          4138
-        ],
-        [
-          [
-            [
-              62,
-              "HomeScene_GSD_WhatPopup_Text_2"
-            ]
-          ],
-          4173
-        ],
-        [
-          [
-            [
-              60,
-              "HomeScene_GSD_WhatPopup_Text_3"
-            ],
-            [
-              165,
-              "HomeStartSleepPopup_UnsetItem_Title"
-            ]
-          ],
-          4248
-        ],
-        [
-          [
-            [
-              61,
-              "HomeScene_GSD_WhatPopup_Text_4"
-            ],
-            [
-              172,
-              "HomePromisePopup_ChangeButton"
-            ]
-          ],
-          4317
-        ],
-        [
-          [
-            [
-              70,
-              "HomeScene_Canvas-UI_SleepReportWeekChange_LaterPopup"
-            ]
-          ],
-          4374
-        ],
-        [
-          [],
-          4374
-        ],
-        [
-          [
-            [
-              54,
-              "HomeScene_Canvas-UI_LeftTitle"
-            ]
-          ],
-          4408
-        ],
-        [
-          [
-            [
-              151,
-              "Home_SCENE_MissionGoalPopup_Button_Complete"
-            ]
-          ],
-          4456
-        ],
-        [
-          [
-            [
-              58,
-              "HomeScene_GSD_WhatPopup_Title"
-            ],
-            [
-              156,
-              "Home_SCENE_MissionGoalPopup_Content_IconNumber"
-            ]
-          ],
-          4541
-        ],
-        [
-          [
-            [
-              66,
-              "HomeScene_Canvas-UI_GPPButton"
-            ],
-            [
-              87,
-              "SnorlaxHomeObject_Title"
-            ],
-            [
-              88,
-              "SnorlaxHomeObject_NextTime_Breakfast"
-            ]
-          ],
-          4644
-        ],
-        [
-          [],
-          4644
-        ],
-        [
-          [
-            [
-              48,
-              "ItemSelectCell_Text_1"
-            ],
-            [
-              50,
-              "HomeScene_Canvas-UI_SleepPowerLabel"
-            ]
-          ],
-          4710
-        ],
-        [
-          [],
-          4710
-        ],
-        [
-          [],
-          4710
-        ],
-        [
-          [
-            [
-              65,
-              "HomeScene_Canvas-UI_PokemonButton"
-            ],
-            [
-              158,
-              "Home_SCENE_MissionGoalPopup_NextUpdate_Message"
-            ],
-            [
-              198,
-              "HomeScene_FieldChange_CheckSleepResult_Popup_Text"
-            ]
-          ],
-          4853
-        ],
-        [
-          [
-            [
-              95,
-              "GPPHomePopup_Title_2"
-            ],
-            [
-              125,
-              "HomePowerRecoveryPopup_BonusEXPPopup_Title"
-            ]
-          ],
-          4925
-        ],
-        [
-          [
-            [
-              43,
-              "HomePromisePopup_Text_1"
-            ],
-            [
-              97,
-              "GPPHomePopup_Title_3"
-            ]
-          ],
-          4978
-        ],
-        [
-          [
-            [
-              44,
-              "HomePromisePopup_Text_2"
-            ],
-            [
-              99,
-              "GPPHomePopup_Title_4"
-            ],
-            [
-              194,
-              "HomeScene_PremiumPassFinished_Popup_Text"
-            ]
-          ],
-          5076
-        ],
-        [
-          [
-            [
-              101,
-              "GPPHomePopup_Title_5"
-            ],
-            [
-              113,
-              "HomePowerRecoveryPopup_Score"
-            ]
-          ],
-          5134
+          4019
         ],
         [
           [
             [
               102,
-              "GPPHomePopup_Title_6"
+              "HomeScene_MapChangePopup_Text_3"
             ],
             [
-              121,
-              "HomePowerRecoveryPopup_Bonus"
+              157,
+              "HomePowerRecoveryPopup_BonusPopup_BonusList_Event"
             ]
           ],
-          5192
+          4109
+        ],
+        [
+          [
+            [
+              66,
+              "HomeStartSleepPopup_Bonus_ContentExplain_1_1"
+            ],
+            [
+              103,
+              "HomeScene_MapChangePopup_Text_4"
+            ],
+            [
+              187,
+              "HomeStartSleepPopup_CannotUse_Incense"
+            ]
+          ],
+          4236
+        ],
+        [
+          [
+            [
+              67,
+              "HomeStartSleepPopup_Bonus_ContentExplain_1_2"
+            ],
+            [
+              86,
+              "HomeScene_GSD_WhatPopup_Text_1"
+            ],
+            [
+              104,
+              "HomeScene_MapChangePopup_Text_5"
+            ]
+          ],
+          4356
+        ],
+        [
+          [
+            [
+              89,
+              "HomeScene_GSD_WhatPopup_Text_2"
+            ]
+          ],
+          4391
+        ],
+        [
+          [
+            [
+              87,
+              "HomeScene_GSD_WhatPopup_Text_3"
+            ],
+            [
+              192,
+              "HomeStartSleepPopup_UnsetItem_Title"
+            ]
+          ],
+          4466
+        ],
+        [
+          [
+            [
+              88,
+              "HomeScene_GSD_WhatPopup_Text_4"
+            ],
+            [
+              199,
+              "HomePromisePopup_ChangeButton"
+            ]
+          ],
+          4535
+        ],
+        [
+          [
+            [
+              97,
+              "HomeScene_Canvas-UI_SleepReportWeekChange_LaterPopup"
+            ]
+          ],
+          4592
+        ],
+        [
+          [],
+          4592
         ],
         [
           [
             [
               56,
-              "HomeScene_Event_Popup_Start"
-            ],
-            [
-              103,
-              "GPPHomePopup_Title_7"
+              "HomeScene_Canvas-UI_LeftTitle"
             ]
           ],
-          5249
+          4626
         ],
         [
           [
             [
-              138,
-              "HomePromisePopup_Desc"
-            ],
-            [
-              195,
-              "HomeScene_PremiumPassFinished_Popup_SubText"
+              178,
+              "Home_SCENE_MissionGoalPopup_Button_Complete"
             ]
           ],
-          5323
+          4674
         ],
         [
           [
             [
-              164,
-              "HomeStartSleepPopup_CannotSet_NotMatchMap_Text"
+              85,
+              "HomeScene_GSD_WhatPopup_Title"
+            ],
+            [
+              183,
+              "Home_SCENE_MissionGoalPopup_Content_IconNumber"
             ]
           ],
-          5374
+          4759
+        ],
+        [
+          [
+            [
+              93,
+              "HomeScene_Canvas-UI_GPPButton"
+            ],
+            [
+              114,
+              "SnorlaxHomeObject_Title"
+            ],
+            [
+              115,
+              "SnorlaxHomeObject_NextTime_Breakfast"
+            ]
+          ],
+          4862
         ],
         [
           [],
-          5374
+          4862
+        ],
+        [
+          [
+            [
+              50,
+              "ItemSelectCell_Text_1"
+            ],
+            [
+              52,
+              "HomeScene_Canvas-UI_SleepPowerLabel"
+            ]
+          ],
+          4928
         ],
         [
           [
             [
               35,
-              "HomeGoNextMapNotification_Text_1"
+              "HomeScene_NotMainSkillPopup_Title"
             ],
             [
-              57,
-              "HomeScene_Event_Popup_Start_Button"
+              76,
+              "HomeScene_Halloween_BannerPopup_Title"
             ]
           ],
-          5450
+          5008
+        ],
+        [
+          [],
+          5008
         ],
         [
           [
             [
-              36,
-              "HomeGoNextMapNotification_Text_2"
+              92,
+              "HomeScene_Canvas-UI_PokemonButton"
+            ],
+            [
+              185,
+              "Home_SCENE_MissionGoalPopup_NextUpdate_Message"
+            ],
+            [
+              225,
+              "HomeScene_FieldChange_CheckSleepResult_Popup_Text"
+            ]
+          ],
+          5151
+        ],
+        [
+          [
+            [
+              122,
+              "GPPHomePopup_Title_2"
+            ],
+            [
+              152,
+              "HomePowerRecoveryPopup_BonusEXPPopup_Title"
+            ]
+          ],
+          5223
+        ],
+        [
+          [
+            [
+              45,
+              "HomePromisePopup_Text_1"
+            ],
+            [
+              68,
+              "HomeStartSleepPopup_Bonus_Secret"
+            ],
+            [
+              124,
+              "GPPHomePopup_Title_3"
+            ]
+          ],
+          5313
+        ],
+        [
+          [
+            [
+              46,
+              "HomePromisePopup_Text_2"
+            ],
+            [
+              126,
+              "GPPHomePopup_Title_4"
+            ],
+            [
+              221,
+              "HomeScene_PremiumPassFinished_Popup_Text"
+            ]
+          ],
+          5411
+        ],
+        [
+          [
+            [
+              128,
+              "GPPHomePopup_Title_5"
             ],
             [
               140,
-              "HomePromisePopup_SetTargetTimeButton"
+              "HomePowerRecoveryPopup_Score"
             ]
           ],
-          5528
+          5469
+        ],
+        [
+          [
+            [
+              129,
+              "GPPHomePopup_Title_6"
+            ],
+            [
+              148,
+              "HomePowerRecoveryPopup_Bonus"
+            ]
+          ],
+          5527
+        ],
+        [
+          [
+            [
+              58,
+              "HomeScene_Event_Popup_Start"
+            ],
+            [
+              130,
+              "GPPHomePopup_Title_7"
+            ]
+          ],
+          5584
+        ],
+        [
+          [
+            [
+              165,
+              "HomePromisePopup_Desc"
+            ],
+            [
+              222,
+              "HomeScene_PremiumPassFinished_Popup_SubText"
+            ]
+          ],
+          5658
+        ],
+        [
+          [
+            [
+              191,
+              "HomeStartSleepPopup_CannotSet_NotMatchMap_Text"
+            ]
+          ],
+          5709
+        ],
+        [
+          [],
+          5709
         ],
         [
           [
             [
               37,
+              "HomeGoNextMapNotification_Text_1"
+            ],
+            [
+              60,
+              "HomeScene_Event_Popup_Start_Button"
+            ]
+          ],
+          5785
+        ],
+        [
+          [
+            [
+              38,
+              "HomeGoNextMapNotification_Text_2"
+            ],
+            [
+              167,
+              "HomePromisePopup_SetTargetTimeButton"
+            ]
+          ],
+          5863
+        ],
+        [
+          [
+            [
+              39,
               "HomeGoNextMapNotification_Text_3"
             ],
             [
-              117,
+              144,
               "HomePowerRecoveryPopup_BoxEnergy_Text_1_1"
             ]
           ],
-          5611
+          5946
         ],
         [
           [
@@ -1536,11 +1713,11 @@
               "HomeScene_FieldChangeDialog_Doctor_1"
             ],
             [
-              118,
+              145,
               "HomePowerRecoveryPopup_BoxEnergy_Text_1_2"
             ]
           ],
-          5698
+          6033
         ],
         [
           [
@@ -1553,15 +1730,15 @@
               "HomeScene_FieldChangeDialog_Doctor_2"
             ],
             [
-              45,
+              47,
               "HomePromiseStampCardPopup_Text_3"
             ],
             [
-              119,
+              146,
               "HomePowerRecoveryPopup_BoxEnergy_Text_1_3"
             ]
           ],
-          5870
+          6205
         ],
         [
           [
@@ -1570,15 +1747,15 @@
               "HomeScene_FieldChangeDialog_Doctor_3"
             ],
             [
-              111,
+              138,
               "HomePowerRecoveryPopup_Title_2"
             ],
             [
-              166,
+              193,
               "HomeStartSleepPopup_UnsetItem_Message"
             ]
           ],
-          5988
+          6323
         ],
         [
           [
@@ -1587,15 +1764,15 @@
               "HomeScene_FieldChangeDialog_Doctor_4"
             ],
             [
-              82,
+              109,
               "HomeScene_Canvas-UI_SleepMile_GetPoint_Overflow"
             ],
             [
-              114,
+              141,
               "HomePowerRecoveryPopup_Title_3"
             ]
           ],
-          6116
+          6451
         ],
         [
           [
@@ -1604,86 +1781,86 @@
               "HomeScene_FieldChangeDialog_Heading"
             ],
             [
-              39,
+              41,
               "HomePokemonExpGage_Text_1"
             ],
             [
-              64,
+              91,
               "HomeScene_Canvas-UI_SleepButton"
             ],
             [
-              106,
+              133,
               "HomeFavoriteFoodPopup_Message"
             ],
             [
-              123,
+              150,
               "HomePowerRecoveryPopup_Title_4"
             ],
             [
-              134,
+              161,
               "HomePowerRecoveryPopup_OKButton"
             ],
             [
-              162,
+              189,
               "HomeStartSleepPopup_CannotSet_SameTypeItem"
             ]
           ],
-          6374
+          6709
         ],
         [
           [
             [
-              115,
+              142,
               "HomePowerRecoveryPopup_Title_5"
             ]
           ],
-          6409
+          6744
         ],
         [
           [
             [
-              86,
+              113,
               "SnorlaxHomeObject_FeedBalloon"
             ],
             [
-              94,
+              121,
               "GPPHomePopup_SettingsLabel"
             ],
             [
-              109,
+              136,
               "HomePokemonExpGage_LevelupText"
             ],
             [
-              167,
+              194,
               "Home_AutoPickup_Popup_Energy_Title"
             ]
           ],
-          6548
+          6883
         ],
         [
           [
             [
-              46,
+              48,
               "HomeStartSleepPopup_Text_1"
             ],
             [
-              159,
+              186,
               "HomeStartSleepPopup_CannotUse_Title"
             ],
             [
-              168,
+              195,
               "Home_AutoPickup_Popup_Section_Title"
             ],
             [
-              189,
+              216,
               "HomeScene_FieldChange_FieldBonusPopup_FieldBonus_Value"
             ],
             [
-              193,
+              220,
               "HomeScene_PremiumPassFinished_Popup_Title"
             ]
           ],
-          6764
+          7099
         ],
         [
           [
@@ -1692,11 +1869,11 @@
               "HomeSceneOverflowController_Text_1"
             ],
             [
-              47,
+              49,
               "HomeStartSleepPopup_Text_2"
             ]
           ],
-          6834
+          7169
         ],
         [
           [
@@ -1705,15 +1882,15 @@
               "HomeSceneOverflowController_Text_2"
             ],
             [
-              91,
+              118,
               "GPPHomePopup_SyncDateTitle"
             ],
             [
-              179,
+              206,
               "WeeklyMission_Notification_Title"
             ]
           ],
-          6941
+          7276
         ],
         [
           [
@@ -1722,33 +1899,33 @@
               "HomeSceneOverflowController_Text_3"
             ],
             [
-              157,
+              184,
               "Home_SCENE_MissionGoalPopup_NextUpdate_Title"
             ]
           ],
-          7029
+          7364
         ],
         [
           [
             [
-              55,
+              57,
               "HomeScene_Canvas-UI_Complete_Title"
             ],
             [
-              98,
+              125,
               "GPPHomePopup_Value_2"
             ]
           ],
-          7093
+          7428
         ],
         [
           [
             [
-              100,
+              127,
               "GPPHomePopup_Value_3"
             ]
           ],
-          7118
+          7453
         ],
         [
           [
@@ -1757,16 +1934,20 @@
               "HomeSceneOverflowController_Text_6"
             ]
           ],
-          7157
+          7492
         ],
         [
           [
             [
               23,
               "HomeSceneOverflowController_Text_7"
+            ],
+            [
+              63,
+              "HomeStartSleepPopup_Bonus_Text_1"
             ]
           ],
-          7196
+          7568
         ],
         [
           [
@@ -1775,24 +1956,28 @@
               "Home_AutoPickup_Popup_Title"
             ],
             [
-              184,
+              64,
+              "HomeStartSleepPopup_Bonus_Header_1"
+            ],
+            [
+              211,
               "HomeStartSleepPopup_GPP_PromiseChangePopup_Title"
             ]
           ],
-          7281
+          7692
         ],
         [
           [
             [
-              84,
+              111,
               "HomeScene_Canvas-UI_FoodNum"
             ],
             [
-              145,
+              172,
               "Home_SCENE_MissionGoalPopup_Title"
             ]
           ],
-          7351
+          7762
         ],
         [
           [
@@ -1801,54 +1986,76 @@
               "HomeScene_Canvas-UI_MoveButton"
             ],
             [
-              126,
+              153,
               "HomePowerRecoveryPopup_BonusPopup_BonusValue"
             ],
             [
-              169,
+              196,
               "FieldObject_CookingExpandObjectBalloon"
             ]
           ],
-          7478
+          7889
         ],
         [
           [
             [
-              78,
+              105,
               "HomeScene_MapChangePopup_Button"
             ]
           ],
-          7514
+          7925
         ],
         [
           [
             [
-              80,
+              71,
+              "HomeStartSleepPopup_Bonus_ContentExplain_2_1"
+            ],
+            [
+              107,
               "HomeScene_Canvas-UI_SleepMileButton"
             ]
           ],
-          7554
-        ],
-        [
-          [],
-          7554
-        ],
-        [
-          [],
-          7554
+          8014
         ],
         [
           [
             [
-              147,
+              69,
+              "HomeStartSleepPopup_Bonus_Slash"
+            ],
+            [
+              72,
+              "HomeStartSleepPopup_Bonus_ContentExplain_2_2"
+            ]
+          ],
+          8099
+        ],
+        [
+          [
+            [
+              73,
+              "HomeStartSleepPopup_Bonus_ContentExplain_2_3"
+            ]
+          ],
+          8148
+        ],
+        [
+          [
+            [
+              77,
+              "HomeScene_Halloween_BannerPopup_Text_1"
+            ],
+            [
+              174,
               "Home_SCENE_MissionGoalPopup_SleepTypeNumber_1"
             ],
             [
-              182,
+              209,
               "Home_SCENE_MissionGoalCutin_RewardTitle"
             ]
           ],
-          7648
+          8285
         ],
         [
           [
@@ -1857,40 +2064,53 @@
               "HomeScene_Canvas-FieldChange_Header_Energy_Title"
             ],
             [
-              38,
+              40,
               "HomeMainHeader_Text_1"
             ],
             [
-              112,
+              78,
+              "HomeScene_Halloween_BannerPopup_Text_2"
+            ],
+            [
+              139,
               "HomePowerRecoveryPopup_Title_inner"
             ],
             [
-              148,
+              175,
               "Home_SCENE_MissionGoalPopup_SleepTypeNumber_2"
             ]
           ],
-          7816
+          8496
         ],
         [
           [
             [
-              171,
+              79,
+              "HomeScene_Halloween_BannerPopup_Text_3"
+            ],
+            [
+              198,
               "FieldObject_TentCampSetBalloon"
             ],
             [
-              178,
+              205,
               "HomeScene_MainSkillFoodBagOver_Text"
             ],
             [
-              197,
+              224,
               "HomeScene_FieldChange_CheckSleepResult_Popup_Title"
             ]
           ],
-          7946
+          8669
         ],
         [
-          [],
-          7946
+          [
+            [
+              80,
+              "HomeScene_Halloween_BannerPopup_Text_4"
+            ]
+          ],
+          8712
         ],
         [
           [
@@ -1899,11 +2119,15 @@
               "HomeSceneUIController_Text_4_2times"
             ],
             [
-              183,
+              81,
+              "HomeScene_Halloween_BannerPopup_Text_5"
+            ],
+            [
+              210,
               "WeeklyMission_Notification_Badge"
             ]
           ],
-          8023
+          8832
         ],
         [
           [
@@ -1916,20 +2140,28 @@
               "HomeSceneUIController_Text_4_1timeOverMax"
             ],
             [
-              69,
+              82,
+              "HomeScene_Halloween_BannerPopup_Text_6"
+            ],
+            [
+              96,
               "HomeScene_Canvas-UI_SleepReportNotification_WeekChange"
             ]
           ],
-          8161
+          9013
         ],
         [
           [
             [
               25,
               "HomeSceneUIController_Text_2"
+            ],
+            [
+              83,
+              "HomeScene_Halloween_BannerPopup_Text_7"
             ]
           ],
-          8194
+          9089
         ],
         [
           [
@@ -1938,24 +2170,32 @@
               "HomeSceneUIController_Text_3"
             ],
             [
-              90,
+              59,
+              "HomeScene_HalloweenEvent_Popup_Start"
+            ],
+            [
+              84,
+              "HomeScene_Halloween_BannerPopup_Text_8"
+            ],
+            [
+              117,
               "SnorlaxHomeObject_NextTime_Dinner"
             ]
           ],
-          8265
+          9244
         ],
         [
           [
             [
-              161,
+              188,
               "HomeStartSleepPopup_CannotSet_MultiPokemonIncense"
             ],
             [
-              176,
+              203,
               "HomeScene_MainSkillWindow_Title"
             ]
           ],
-          8355
+          9334
         ],
         [
           [
@@ -1964,19 +2204,27 @@
               "HomeSceneUIController_Text_5"
             ],
             [
-              52,
+              54,
               "HomeScene_Canvas-UI_Title"
             ],
             [
-              136,
+              61,
+              "HomeStartSleepPopup_Bonus_SmallTitle"
+            ],
+            [
+              65,
+              "HomeStartSleepPopup_Bonus_Content_1"
+            ],
+            [
+              163,
               "HomePromisePopup_Title_2"
             ],
             [
-              188,
+              215,
               "HomeScene_FieldChange_FieldBonusPopup_FieldBonus"
             ]
           ],
-          8500
+          9560
         ],
         [
           [
@@ -1985,24 +2233,32 @@
               "HomeSceneUIController_Text_6"
             ],
             [
-              141,
+              70,
+              "HomeStartSleepPopup_Bonus_Content_2"
+            ],
+            [
+              168,
               "HomePromisePopup_Title_3"
             ],
             [
-              187,
+              214,
               "HomeScene_FieldChange_FieldBonusPopup_Title"
             ]
           ],
-          8610
+          9710
         ],
         [
           [
             [
               33,
               "HomeSceneUIController_Text_7"
+            ],
+            [
+              74,
+              "HomeStartSleepPopup_Bonus_Content_3"
             ]
           ],
-          8643
+          9783
         ]
       ]
     },
@@ -2028,8 +2284,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 199,
-        "size": 9114,
+        "entries": 226,
+        "size": 12404,
         "unknown1": 0,
         "unknown2": 0
       }

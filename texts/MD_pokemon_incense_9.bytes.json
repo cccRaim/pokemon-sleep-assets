@@ -1,7 +1,8 @@
 {
   "strings": {
     "md_pokemon_incense_desc_1": [
-      "An incense adored by \u000e\u0003\u0001\u0002촀.\nIt should be used before sleeping."
+      "An incense adored by \u000e\u0003\u0001\u0002",
+      ".\nIt should be used before sleeping."
     ],
     "md_pokemon_incense_name_1": [
       "Bulbasaur Incense"
@@ -189,6 +190,12 @@
     "md_pokemon_incense_name_35": [
       "Clefairy Incense"
     ],
+    "md_pokemon_incense_name_353": [
+      "Shuppet Incense"
+    ],
+    "md_pokemon_incense_name_354": [
+      "Banette Incense"
+    ],
     "md_pokemon_incense_name_359": [
       "Absol Incense"
     ],
@@ -330,6 +337,9 @@
     "md_pokemon_incense_name_9": [
       "Blastoise Incense"
     ],
+    "md_pokemon_incense_name_9001": [
+      "Pikachu (Halloween) Incense"
+    ],
     "md_pokemon_incense_name_92": [
       "Gastly Incense"
     ],
@@ -343,8 +353,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 113,
-        "size": 795,
+        "entries": 116,
+        "size": 816,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -352,7 +362,7 @@
     "LBL1": {
       "header": {
         "entries": 59,
-        "size": 4030,
+        "size": 4127,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -919,9 +929,13 @@
             [
               101,
               "md_pokemon_incense_name_447"
+            ],
+            [
+              115,
+              "md_pokemon_incense_name_9001"
             ]
           ],
-          3177
+          3210
         ],
         [
           [
@@ -934,7 +948,7 @@
               "md_pokemon_incense_name_448"
             ]
           ],
-          3241
+          3274
         ],
         [
           [
@@ -943,11 +957,11 @@
               "md_pokemon_incense_name_134"
             ],
             [
-              112,
+              114,
               "md_pokemon_incense_desc_1"
             ]
           ],
-          3303
+          3336
         ],
         [
           [
@@ -960,7 +974,7 @@
               "md_pokemon_incense_name_196"
             ]
           ],
-          3367
+          3400
         ],
         [
           [
@@ -975,13 +989,22 @@
             [
               87,
               "md_pokemon_incense_name_214"
+            ],
+            [
+              112,
+              "md_pokemon_incense_name_353"
             ]
           ],
-          3463
+          3528
         ],
         [
-          [],
-          3463
+          [
+            [
+              113,
+              "md_pokemon_incense_name_354"
+            ]
+          ],
+          3560
         ],
         [
           [
@@ -994,7 +1017,7 @@
               "md_pokemon_incense_name_199"
             ]
           ],
-          3526
+          3623
         ],
         [
           [
@@ -1007,7 +1030,7 @@
               "md_pokemon_incense_name_180"
             ]
           ],
-          3589
+          3686
         ],
         [
           [
@@ -1020,7 +1043,7 @@
               "md_pokemon_incense_name_181"
             ]
           ],
-          3652
+          3749
         ],
         [
           [
@@ -1029,7 +1052,7 @@
               "md_pokemon_incense_name_52"
             ]
           ],
-          3683
+          3780
         ],
         [
           [
@@ -1046,7 +1069,7 @@
               "md_pokemon_incense_name_359"
             ]
           ],
-          3778
+          3875
         ],
         [
           [
@@ -1059,7 +1082,7 @@
               "md_pokemon_incense_name_438"
             ]
           ],
-          3841
+          3938
         ],
         [
           [
@@ -1080,7 +1103,7 @@
               "md_pokemon_incense_name_55"
             ]
           ],
-          3968
+          4065
         ],
         [
           [
@@ -1089,7 +1112,7 @@
               "md_pokemon_incense_name_56"
             ]
           ],
-          3999
+          4096
         ],
         [
           [
@@ -1098,7 +1121,7 @@
               "md_pokemon_incense_name_57"
             ]
           ],
-          4030
+          4127
         ]
       ]
     },
@@ -1124,8 +1147,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 113,
-        "size": 4272,
+        "entries": 116,
+        "size": 4404,
         "unknown1": 0,
         "unknown2": 0
       }

@@ -1,7 +1,7 @@
 {
   "strings": {
     "SleepResearchSceneTutorialController_BaitBallGuide": [
-      "Give \u000e\u0003\u0001\u0002촁 a Bonus Biscuit!"
+      "Give \u000e\u0003\u0001\u0002\u0001 a Bonus Biscuit!"
     ],
     "SleepResearchSceneTutorialController_MasterBaitBall_Guide": [
       "Try giving one of the Pokémon a\n\u000e",
@@ -13,19 +13,22 @@
       "Tap the remaining Pokémon to\ncomplete your sleep research!"
     ],
     "SleepResearchSceneTutorialController_Text_1": [
-      "Swipe around on the screen until\nyou find \u000e\u0003\u0001\u0002촀. Then we’ll\nget right to some sleep research!"
+      "Swipe around on the screen until\nyou find \u000e\u0003\u0001\u0002",
+      ". Then we’ll\nget right to some sleep research!"
     ],
     "SleepResearchSceneTutorialController_Text_13": [
       "Getting Started Right"
     ],
     "SleepResearchSceneTutorialController_Text_14": [
-      "Try giving \u000e\u0003\u0001\u0002촀 a tap first!"
+      "Try giving \u000e\u0003\u0001\u0002",
+      " a tap first!"
     ],
     "SleepResearchSceneTutorialController_Text_20": [
       "Give Poké Biscuit"
     ],
     "SleepResearchSceneTutorialController_Text_21": [
-      "Try tapping on \u000e\u0003\u0001\u0002촀 to give it\na Poké Biscuit!"
+      "Try tapping on \u000e\u0003\u0001\u0002",
+      " to give it\na Poké Biscuit!"
     ]
   },
   "structure": {

@@ -1,7 +1,8 @@
 {
   "strings": {
     "md_pokemon_incense_desc_1": [
-      "\u000e\u0003\u0001\u0002촀\u000e\b",
+      "\u000e\u0003\u0001\u0002",
+      "\u000e\b",
       "\u0002촃 좋아하는 향기의 향로.\n잠자기 전에 세팅한다."
     ],
     "md_pokemon_incense_name_1": [
@@ -190,6 +191,12 @@
     "md_pokemon_incense_name_35": [
       "삐삐의향로"
     ],
+    "md_pokemon_incense_name_353": [
+      "カゲボウズのおこう"
+    ],
+    "md_pokemon_incense_name_354": [
+      "ジュペッタのおこう"
+    ],
     "md_pokemon_incense_name_359": [
       "앱솔의향로"
     ],
@@ -331,6 +338,9 @@
     "md_pokemon_incense_name_9": [
       "거북왕의향로"
     ],
+    "md_pokemon_incense_name_9001": [
+      "ピカチュウ(ハロウィン)のおこう"
+    ],
     "md_pokemon_incense_name_92": [
       "고오스의향로"
     ],
@@ -344,8 +354,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 113,
-        "size": 795,
+        "entries": 116,
+        "size": 816,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -353,7 +363,7 @@
     "LBL1": {
       "header": {
         "entries": 59,
-        "size": 4030,
+        "size": 4127,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -920,9 +930,13 @@
             [
               101,
               "md_pokemon_incense_name_447"
+            ],
+            [
+              115,
+              "md_pokemon_incense_name_9001"
             ]
           ],
-          3177
+          3210
         ],
         [
           [
@@ -935,7 +949,7 @@
               "md_pokemon_incense_name_448"
             ]
           ],
-          3241
+          3274
         ],
         [
           [
@@ -944,11 +958,11 @@
               "md_pokemon_incense_name_134"
             ],
             [
-              112,
+              114,
               "md_pokemon_incense_desc_1"
             ]
           ],
-          3303
+          3336
         ],
         [
           [
@@ -961,7 +975,7 @@
               "md_pokemon_incense_name_196"
             ]
           ],
-          3367
+          3400
         ],
         [
           [
@@ -976,13 +990,22 @@
             [
               87,
               "md_pokemon_incense_name_214"
+            ],
+            [
+              112,
+              "md_pokemon_incense_name_353"
             ]
           ],
-          3463
+          3528
         ],
         [
-          [],
-          3463
+          [
+            [
+              113,
+              "md_pokemon_incense_name_354"
+            ]
+          ],
+          3560
         ],
         [
           [
@@ -995,7 +1018,7 @@
               "md_pokemon_incense_name_199"
             ]
           ],
-          3526
+          3623
         ],
         [
           [
@@ -1008,7 +1031,7 @@
               "md_pokemon_incense_name_180"
             ]
           ],
-          3589
+          3686
         ],
         [
           [
@@ -1021,7 +1044,7 @@
               "md_pokemon_incense_name_181"
             ]
           ],
-          3652
+          3749
         ],
         [
           [
@@ -1030,7 +1053,7 @@
               "md_pokemon_incense_name_52"
             ]
           ],
-          3683
+          3780
         ],
         [
           [
@@ -1047,7 +1070,7 @@
               "md_pokemon_incense_name_359"
             ]
           ],
-          3778
+          3875
         ],
         [
           [
@@ -1060,7 +1083,7 @@
               "md_pokemon_incense_name_438"
             ]
           ],
-          3841
+          3938
         ],
         [
           [
@@ -1081,7 +1104,7 @@
               "md_pokemon_incense_name_55"
             ]
           ],
-          3968
+          4065
         ],
         [
           [
@@ -1090,7 +1113,7 @@
               "md_pokemon_incense_name_56"
             ]
           ],
-          3999
+          4096
         ],
         [
           [
@@ -1099,7 +1122,7 @@
               "md_pokemon_incense_name_57"
             ]
           ],
-          4030
+          4127
         ]
       ]
     },
@@ -1125,8 +1148,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 113,
-        "size": 2114,
+        "entries": 116,
+        "size": 2200,
         "unknown1": 0,
         "unknown2": 0
       }

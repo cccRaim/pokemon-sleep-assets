@@ -155,13 +155,22 @@
     ],
     "InAppPurchase_Subsc_Popup_Title_Success": [
       "Achat terminé"
+    ],
+    "StopSubscriptionPurchasePopup_Message": [
+      "La connexion à la boutique\nd'applications a échoué.\n\u000e",
+      "\u0003\u0004毿ＷVeuillez redémarrer l'application\u000e",
+      "\u0003\u0004",
+      "＀ pour\nutiliser cette fonctionnalité."
+    ],
+    "StopSubscriptionPurchasePopup_Title": [
+      "Échec de la connexion à la boutique"
     ]
   },
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 51,
-        "size": 361,
+        "entries": 53,
+        "size": 375,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -169,7 +178,7 @@
     "LBL1": {
       "header": {
         "entries": 29,
-        "size": 2346,
+        "size": 2428,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -225,17 +234,21 @@
             [
               12,
               "InAppPurchase_Error_ProductNull"
+            ],
+            [
+              52,
+              "StopSubscriptionPurchasePopup_Message"
             ]
           ],
-          497
+          539
         ],
         [
           [],
-          497
+          539
         ],
         [
           [],
-          497
+          539
         ],
         [
           [
@@ -244,15 +257,15 @@
               "InAppPurchase_Popup_Restore_Message"
             ]
           ],
-          537
+          579
         ],
         [
           [],
-          537
+          579
         ],
         [
           [],
-          537
+          579
         ],
         [
           [
@@ -265,7 +278,7 @@
               "InAppPurchase_ErrorDialog_Text_1"
             ]
           ],
-          612
+          654
         ],
         [
           [
@@ -278,7 +291,7 @@
               "InAppPurchase_ErrorDialog_Text_2"
             ]
           ],
-          712
+          754
         ],
         [
           [
@@ -299,7 +312,7 @@
               "InAppPurchase_ErrorDialog_ErrorCode"
             ]
           ],
-          883
+          925
         ],
         [
           [
@@ -316,7 +329,7 @@
               "InAppPurchase_ErrorDialog_Text_4"
             ]
           ],
-          1001
+          1043
         ],
         [
           [
@@ -331,9 +344,13 @@
             [
               41,
               "InAppPurchase_ErrorDialog_Text_5"
+            ],
+            [
+              51,
+              "StopSubscriptionPurchasePopup_Title"
             ]
           ],
-          1122
+          1204
         ],
         [
           [
@@ -354,7 +371,7 @@
               "InAppPurchase_ErrorDialog_Text_6"
             ]
           ],
-          1314
+          1396
         ],
         [
           [
@@ -367,7 +384,7 @@
               "InAppPurchase_ErrorDialog_Text_7"
             ]
           ],
-          1389
+          1471
         ],
         [
           [
@@ -384,7 +401,7 @@
               "InAppPurchase_ErrorDialog_Text_8"
             ]
           ],
-          1509
+          1591
         ],
         [
           [
@@ -401,7 +418,7 @@
               "InAppPurchase_ErrorDialog_OKButton"
             ]
           ],
-          1631
+          1713
         ],
         [
           [
@@ -410,7 +427,7 @@
               "InAppPurchase_ErrorDialog_Title_7"
             ]
           ],
-          1669
+          1751
         ],
         [
           [
@@ -423,7 +440,7 @@
               "InAppPurchase_ErrorDialog_Title_8"
             ]
           ],
-          1745
+          1827
         ],
         [
           [
@@ -440,7 +457,7 @@
               "InAppPurchase_GROUP_PremiumPassContract_Dialog01_Info"
             ]
           ],
-          1900
+          1982
         ],
         [
           [
@@ -453,7 +470,7 @@
               "InAppPurchase_GROUP_Item_Detail_2"
             ]
           ],
-          1969
+          2051
         ],
         [
           [
@@ -466,7 +483,7 @@
               "InAppPurchase_GROUP_Item_Detail_3"
             ]
           ],
-          2051
+          2133
         ],
         [
           [
@@ -491,7 +508,7 @@
               "InAppPurchase_GROUP_Item_Detail_4"
             ]
           ],
-          2261
+          2343
         ],
         [
           [
@@ -504,15 +521,15 @@
               "InAppPurchase_ErrorDialog_Text_LatePayment"
             ]
           ],
-          2346
+          2428
         ],
         [
           [],
-          2346
+          2428
         ],
         [
           [],
-          2346
+          2428
         ]
       ]
     },
@@ -538,8 +555,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 51,
-        "size": 5078,
+        "entries": 53,
+        "size": 5426,
         "unknown1": 0,
         "unknown2": 0
       }

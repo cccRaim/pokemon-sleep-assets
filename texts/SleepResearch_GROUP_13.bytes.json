@@ -1,14 +1,16 @@
 {
   "strings": {
     "FriendPointLevelUpPopup_BonusTitle": [
-      "色違い\u000e\u0003\u0001\u0002촀の\n出現確率がわずかに上がりました"
+      "色違い\u000e\u0003\u0001\u0002",
+      "の\n出現確率がわずかに上がりました"
     ],
     "FriendPointLevelUpPopup_FriendLevelNum": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "FriendPointLevelUpPopup_LevelupDesc": [
-      "\u000e\u0003\u0001\u0002촀はこのリサーチキャンプを\nより気に入ってくれたようです"
+      "\u000e\u0003\u0001\u0002",
+      "はこのリサーチキャンプを\nより気に入ってくれたようです"
     ],
     "FriendPointLevelUpPopup_Title": [
       "フレンドレベルアップ"
@@ -65,7 +67,7 @@
     ],
     "ResearchPhotoPopup_SleepTypeText": [
       "No.\u000e\u0002\u0003\u0004",
-      "촁 \u000e\u0003\u0001\u0002촁  /  \u000e\u0003\u0004\u0002\u0002"
+      "촁 \u000e\u0003\u0001\u0002ā  /  \u000e\u0003\u0004\u0002\u0002"
     ],
     "ResearchPhotoPopup_SleepingFaceName_Prefix": [
       "#"

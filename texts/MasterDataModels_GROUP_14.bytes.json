@@ -30,6 +30,10 @@
       "사탕을 \u000e\u0002\u0001\u0002",
       "개 사용하자"
     ],
+    "WeeklyMission_Text_12": [
+      "향로를 \u000e\u0002\u0001\u0002",
+      "개 사용하자"
+    ],
     "WeeklyMission_Text_2": [
       "잠만보를 \u000e\u0003\u0007\u0004Ā촀\u000e\b",
       "\u0002촅로 만들자"
@@ -58,8 +62,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 15,
-        "size": 109,
+        "entries": 16,
+        "size": 116,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -67,7 +71,7 @@
     "LBL1": {
       "header": {
         "entries": 11,
-        "size": 469,
+        "size": 495,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -181,10 +185,14 @@
           [
             [
               14,
+              "WeeklyMission_Text_12"
+            ],
+            [
+              15,
               "SleepingFace_LibrarySubId"
             ]
           ],
-          469
+          495
         ]
       ]
     },
@@ -210,8 +218,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 15,
-        "size": 504,
+        "entries": 16,
+        "size": 540,
         "unknown1": 0,
         "unknown2": 0
       }

@@ -4,8 +4,17 @@
       "Master Biscuit Limited Bundle"
     ],
     "md_event_item_packs_name_10": [
-      "食欲の秋パックM vol.\u000e\u0002\u0001\u0002",
-      ""
+      "Autumn Treats Bundle Vol. \u000e\u0002\u0001\u0002",
+      " M"
+    ],
+    "md_event_item_packs_name_11": [
+      "Halloween 2023 Bundle S"
+    ],
+    "md_event_item_packs_name_12": [
+      "Halloween 2023 Bundle M"
+    ],
+    "md_event_item_packs_name_13": [
+      "Halloween 2023 Bundle L"
     ],
     "md_event_item_packs_name_2": [
       "100 Million Downloads Bundle"
@@ -17,9 +26,6 @@
     "md_event_item_packs_name_4": [
       "Release Celebration Bundle S"
     ],
-    "md_event_item_packs_name_5": [
-      "Halloween Bundle"
-    ],
     "md_event_item_packs_name_6": [
       "Release Celebration Bundle M"
     ],
@@ -30,15 +36,15 @@
       "100 Mil. Pokémon Befriended\nBundle M"
     ],
     "md_event_item_packs_name_9": [
-      "食欲の秋パックS vol.\u000e\u0002\u0001\u0002",
-      ""
+      "Autumn Treats Bundle Vol. \u000e\u0002\u0001\u0002",
+      " S"
     ]
   },
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 10,
-        "size": 74,
+        "entries": 12,
+        "size": 88,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -46,7 +52,7 @@
     "LBL1": {
       "header": {
         "entries": 7,
-        "size": 367,
+        "size": 432,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -57,7 +63,7 @@
               "md_event_item_packs_name_3"
             ],
             [
-              9,
+              8,
               "md_event_item_packs_name_10"
             ]
           ],
@@ -68,36 +74,44 @@
             [
               3,
               "md_event_item_packs_name_4"
+            ],
+            [
+              9,
+              "md_event_item_packs_name_11"
             ]
           ],
-          150
+          182
+        ],
+        [
+          [
+            [
+              10,
+              "md_event_item_packs_name_12"
+            ]
+          ],
+          214
         ],
         [
           [
             [
               4,
-              "md_event_item_packs_name_5"
+              "md_event_item_packs_name_6"
+            ],
+            [
+              11,
+              "md_event_item_packs_name_13"
             ]
           ],
-          181
+          277
         ],
         [
           [
             [
               5,
-              "md_event_item_packs_name_6"
-            ]
-          ],
-          212
-        ],
-        [
-          [
-            [
-              6,
               "md_event_item_packs_name_7"
             ]
           ],
-          243
+          308
         ],
         [
           [
@@ -106,11 +120,11 @@
               "md_event_item_packs_name_1"
             ],
             [
-              7,
+              6,
               "md_event_item_packs_name_8"
             ]
           ],
-          305
+          370
         ],
         [
           [
@@ -119,11 +133,11 @@
               "md_event_item_packs_name_2"
             ],
             [
-              8,
+              7,
               "md_event_item_packs_name_9"
             ]
           ],
-          367
+          432
         ]
       ]
     },
@@ -149,8 +163,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 10,
-        "size": 598,
+        "entries": 12,
+        "size": 776,
         "unknown1": 0,
         "unknown2": 0
       }

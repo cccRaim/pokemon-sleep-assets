@@ -1,5 +1,28 @@
 {
   "strings": {
+    "Halloween_MissionScene_Content_TabTitle_1": [
+      "Halloween"
+    ],
+    "Halloween_MissionScene_Content_TabTitle_2": [
+      "Settimanali"
+    ],
+    "Halloween_MissionScene_Content_TopView_Desc": [
+      "Completa le missioni a tempo limitato dell'evento per ottenere le ricompense."
+    ],
+    "Halloween_MissionScene_Content_TopView_Desc_Day": [
+      "Ricevi entro \u000e\t",
+      "\f\bdddd",
+      ""
+    ],
+    "Halloween_MissionScene_Content_TopView_Desc_after": [
+      "Questa missione è terminata.\nRicorda di ricevere le ricompense!"
+    ],
+    "Halloween_MissionScene_Content_TopView_Desc_head_after": [
+      "Lista missioni"
+    ],
+    "Halloween_MissionScene_Content_TopView_Title": [
+      "Missioni a tempo limitato"
+    ],
     "MissionReward_EndText": [
       "!"
     ],
@@ -10,8 +33,8 @@
       "Completa la missione ogni settimana\nper ottenere le ricompense!"
     ],
     "MissionScene_Content_TopView_LeftDays": [
-      "Scade tra: \u000e\t",
-      "\n\u0006ddd",
+      "Ancora \u000e\t",
+      "\f\bdddd",
       ""
     ],
     "MissionScene_Content_TopView_SectionTitle": [
@@ -75,52 +98,116 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 22,
-        "size": 158,
+        "entries": 29,
+        "size": 207,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 13,
-        "size": 822,
+        "entries": 17,
+        "size": 1208,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              3,
-              "MissionReward_EndText"
+              5,
+              "Halloween_MissionScene_Content_TabTitle_1"
             ],
             [
-              16,
-              "Mission_BagFullPopup_Title"
+              24,
+              "Mission_BagFullPopup_Text"
             ]
           ],
-          161
+          212
         ],
         [
           [
             [
-              5,
+              6,
+              "Halloween_MissionScene_Content_TabTitle_2"
+            ],
+            [
+              27,
+              "Mission_CoinFullPopup_Title"
+            ]
+          ],
+          290
+        ],
+        [
+          [],
+          290
+        ],
+        [
+          [],
+          290
+        ],
+        [
+          [
+            [
+              3,
+              "MissionReward_EndText"
+            ]
+          ],
+          316
+        ],
+        [
+          [
+            [
+              9,
+              "Halloween_MissionScene_Content_TopView_Desc"
+            ],
+            [
+              12,
               "MissionScene_Content_TopView_Desc"
             ],
             [
-              8,
-              "MissionScene_Header_Title"
+              17,
+              "WeeklyMissionCell_Progress"
+            ]
+          ],
+          433
+        ],
+        [
+          [
+            [
+              22,
+              "WeeklyMissionCell_ButtonHint"
             ],
             [
-              10,
-              "WeeklyMissionCell_Progress"
+              25,
+              "Mission_DiaFullPopup_Title"
+            ],
+            [
+              28,
+              "Mission_CoinFullPopup_Text"
+            ]
+          ],
+          528
+        ],
+        [
+          [],
+          528
+        ],
+        [
+          [
+            [
+              7,
+              "Halloween_MissionScene_Content_TopView_Title"
             ],
             [
               18,
-              "Mission_DiaFullPopup_Title"
+              "WeeklyMissionCell_BalloonMessage"
+            ],
+            [
+              21,
+              "WeeklyMissionCell_Received"
             ]
           ],
-          291
+          645
         ],
         [
           [
@@ -129,19 +216,11 @@
               "WeeklyMissionView_Text_2"
             ],
             [
-              9,
-              "WeeklyMissionCell_ItemNum"
-            ],
-            [
-              19,
-              "Mission_DiaFullPopup_Text"
-            ],
-            [
-              20,
-              "Mission_CoinFullPopup_Title"
+              23,
+              "Mission_BagFullPopup_Title"
             ]
           ],
-          412
+          705
         ],
         [
           [
@@ -150,55 +229,28 @@
               "WeeklyMissionView_Text_3"
             ],
             [
-              6,
-              "MissionScene_Content_TopView_SectionTitle"
-            ],
-            [
-              12,
-              "WeeklyMissionCell_Clear"
-            ]
-          ],
-          515
-        ],
-        [
-          [
-            [
-              7,
+              14,
               "MissionScene_Footer_GetAllButton"
             ],
             [
-              14,
-              "WeeklyMissionCell_Received"
-            ]
-          ],
-          583
-        ],
-        [
-          [
+              15,
+              "MissionScene_Header_Title"
+            ],
             [
-              13,
+              20,
               "WeeklyMissionCell_RewardGetButton"
             ]
           ],
-          621
+          839
         ],
         [
           [
             [
-              11,
-              "WeeklyMissionCell_BalloonMessage"
+              10,
+              "Halloween_MissionScene_Content_TopView_Desc_after"
             ]
           ],
-          658
-        ],
-        [
-          [
-            [
-              17,
-              "Mission_BagFullPopup_Text"
-            ]
-          ],
-          688
+          893
         ],
         [
           [
@@ -207,37 +259,54 @@
               "MissionReward_StartText"
             ],
             [
-              15,
-              "WeeklyMissionCell_ButtonHint"
+              11,
+              "Halloween_MissionScene_Content_TopView_Desc_Day"
             ]
           ],
-          749
+          973
+        ],
+        [
+          [
+            [
+              19,
+              "WeeklyMissionCell_Clear"
+            ]
+          ],
+          1001
+        ],
+        [
+          [],
+          1001
         ],
         [
           [
             [
               4,
               "MissionScene_Content_TopView_LeftDays"
+            ],
+            [
+              26,
+              "Mission_DiaFullPopup_Text"
             ]
           ],
-          791
+          1073
         ],
         [
           [
             [
-              21,
-              "Mission_CoinFullPopup_Text"
+              8,
+              "Halloween_MissionScene_Content_TopView_Desc_head_after"
+            ],
+            [
+              13,
+              "MissionScene_Content_TopView_SectionTitle"
+            ],
+            [
+              16,
+              "WeeklyMissionCell_ItemNum"
             ]
           ],
-          822
-        ],
-        [
-          [],
-          822
-        ],
-        [
-          [],
-          822
+          1208
         ]
       ]
     },
@@ -263,8 +332,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 22,
-        "size": 1052,
+        "entries": 29,
+        "size": 1532,
         "unknown1": 0,
         "unknown2": 0
       }

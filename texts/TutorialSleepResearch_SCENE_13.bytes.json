@@ -1,7 +1,7 @@
 {
   "strings": {
     "SleepResearchSceneTutorialController_BaitBallGuide": [
-      "Gib \u000e\u0003\u0001\u0002촁 einen Bonuskeks!"
+      "Gib \u000e\u0003\u0001\u0002\u0001 einen Bonuskeks!"
     ],
     "SleepResearchSceneTutorialController_MasterBaitBall_Guide": [
       "Gib einem Pokémon einen\n\u000e",
@@ -13,19 +13,22 @@
       "Berühre die übrigen Pokémon, um\ndeine Schlafforschung\nabzuschließen!"
     ],
     "SleepResearchSceneTutorialController_Text_1": [
-      "Wische über den Bildschirm, bis\ndu  \u000e\u0003\u0001\u0002촀 findest. Dann geht\nes mit der Schlafforschung los!"
+      "Wische über den Bildschirm, bis\ndu  \u000e\u0003\u0001\u0002",
+      " findest. Dann geht\nes mit der Schlafforschung los!"
     ],
     "SleepResearchSceneTutorialController_Text_13": [
       "Erste Schritte"
     ],
     "SleepResearchSceneTutorialController_Text_14": [
-      "Berühre zunächst \u000e\u0003\u0001\u0002촀!"
+      "Berühre zunächst \u000e\u0003\u0001\u0002",
+      "!"
     ],
     "SleepResearchSceneTutorialController_Text_20": [
       "Pokékeks geben"
     ],
     "SleepResearchSceneTutorialController_Text_21": [
-      "Berühre \u000e\u0003\u0001\u0002촀, um ihm einen\nPokékeks zu geben!"
+      "Berühre \u000e\u0003\u0001\u0002",
+      ", um ihm einen\nPokékeks zu geben!"
     ]
   },
   "structure": {

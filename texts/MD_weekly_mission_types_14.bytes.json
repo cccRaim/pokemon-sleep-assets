@@ -6,6 +6,9 @@
     "md_weekly_mission_types_tips_10": [
       "Vous pouvez obtenir des bonbons grâce,\nentre autres, aux recherches sur\nle sommeil. Utilisez-les pour renforcer\nvos Pokémon !"
     ],
+    "md_weekly_mission_types_tips_12": [
+      "Utilisez un Encens via la fenêtre de\nnotification qui apparaît quand vous\ntouchez le bouton « Dormir », puis\nmesurez votre sommeil."
+    ],
     "md_weekly_mission_types_tips_2": [
       "Vous pouvez cuisiner trois fois par jour.\n- au petit déjeuner (à partir de 6 h)\n- au déjeuner (à partir de midi)\n- au dîner (à partir de 18 h)"
     ],
@@ -28,8 +31,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 8,
-        "size": 60,
+        "entries": 9,
+        "size": 67,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -37,7 +40,7 @@
     "LBL1": {
       "header": {
         "entries": 5,
-        "size": 321,
+        "size": 357,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -59,9 +62,13 @@
             [
               5,
               "md_weekly_mission_types_tips_8"
+            ],
+            [
+              8,
+              "md_weekly_mission_types_tips_12"
             ]
           ],
-          145
+          181
         ],
         [
           [
@@ -70,7 +77,7 @@
               "md_weekly_mission_types_tips_9"
             ]
           ],
-          180
+          216
         ],
         [
           [
@@ -79,7 +86,7 @@
               "md_weekly_mission_types_tips_5"
             ]
           ],
-          215
+          251
         ],
         [
           [
@@ -96,7 +103,7 @@
               "md_weekly_mission_types_tips_10"
             ]
           ],
-          321
+          357
         ]
       ]
     },
@@ -122,8 +129,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 8,
-        "size": 2042,
+        "entries": 9,
+        "size": 2310,
         "unknown1": 0,
         "unknown2": 0
       }

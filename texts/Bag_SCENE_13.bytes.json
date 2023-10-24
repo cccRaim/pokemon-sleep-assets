@@ -78,10 +78,12 @@
       "Objet obtenu : \u000e\u0003\u0003\u0004Ā촀\nQuantité : × \u000e\u0002\u0003\u0004\u0002촁"
     ],
     "BagSceneConsumableItemView_Text_12": [
-      "\u000e\u0003\u0001\u0002촀 a récupéré de l'énergie !"
+      "\u000e\u0003\u0001\u0002",
+      " a récupéré de l'énergie !"
     ],
     "BagSceneConsumableItemView_Text_16": [
-      "Le niveau de la Compétence Principale\nde \u000e\u0003\u0001\u0002촀 augmente !"
+      "Le niveau de la Compétence Principale\nde \u000e\u0003\u0001\u0002",
+      " augmente !"
     ],
     "BagSceneConsumableItemView_Text_2": [
       "obtenu !"
@@ -90,7 +92,8 @@
       "La qualité de la Compétence\nSecondaire augmente !"
     ],
     "BagSceneConsumableItemView_Text_24": [
-      "La qualité des Compétences\nSecondaires de \u000e\u0003\u0001\u0002촀 est déjà\nau maximum !"
+      "La qualité des Compétences\nSecondaires de \u000e\u0003\u0001\u0002",
+      " est déjà\nau maximum !"
     ],
     "BagSceneConsumableItemView_Text_25": [
       "Vous avez reçu l'aide de votre équipe\npendant \u000e\u0002\u0001\u0002",

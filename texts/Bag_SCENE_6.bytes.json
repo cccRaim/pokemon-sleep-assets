@@ -79,10 +79,12 @@
       "Hai ottenuto \u000e\u0002\u0004\u0004\u0002촁 \u000e\u0003\u0003\u0004Ā촀.\n"
     ],
     "BagSceneConsumableItemView_Text_12": [
-      "Hai ripristinato il vigore di \u000e\u0003\u0001\u0002촀."
+      "Hai ripristinato il vigore di \u000e\u0003\u0001\u0002",
+      "."
     ],
     "BagSceneConsumableItemView_Text_16": [
-      "Tecnica principale di \u000e\u0003\u0001\u0002촀\naumentata di livello."
+      "Tecnica principale di \u000e\u0003\u0001\u0002",
+      "\naumentata di livello."
     ],
     "BagSceneConsumableItemView_Text_2": [
       " unità guadagnate."
@@ -91,13 +93,16 @@
       "Ora l'abilità secondaria è di qualità\nmigliore!"
     ],
     "BagSceneConsumableItemView_Text_24": [
-      "Le abilità secondarie di \u000e\u0003\u0001\u0002촀\nsono già della qualità più alta!"
+      "Le abilità secondarie di \u000e\u0003\u0001\u0002",
+      "\nsono già della qualità più alta!"
     ],
     "BagSceneConsumableItemView_Text_25": [
-      "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo."
+      "La tecnica secondaria di \u000e\u0003\u0001\u0002",
+      "\nha già raggiunto il livello massimo."
     ],
     "BagSceneConsumableItemView_Text_26": [
-      "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo."
+      "La tecnica secondaria di \u000e\u0003\u0001\u0002",
+      "\nha già raggiunto il livello massimo."
     ],
     "BagSceneConsumableItemView_Text_4": [
       "\u000e\u0003\u0003\u0004Ā촀 è già in uso."
@@ -289,22 +294,26 @@
       "Scegli un criterio"
     ],
     "BagScene_CandyMaxOverPopup_Text": [
-      "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo."
+      "La tecnica secondaria di \u000e\u0003\u0001\u0002",
+      "\nha già raggiunto il livello massimo."
     ],
     "BagScene_CandyMaxOverPopup_Title": [
-      "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo."
+      "La tecnica secondaria di \u000e\u0003\u0001\u0002",
+      "\nha già raggiunto il livello massimo."
     ],
     "BagScene_CannotUseItem_PopupTitle": [
       "Uso dell'utensile"
     ],
     "BagScene_CannotUseMainSkillItem_PopupMessage": [
-      "La tecnica principale di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo."
+      "La tecnica principale di \u000e\u0003\u0001\u0002",
+      "\nha già raggiunto il livello massimo."
     ],
     "BagScene_CannotUseRecoverItem_PopupMessage": [
       "Barra vigore piena.\nRecuperavigore non utilizzabile."
     ],
     "BagScene_CannotUseSubSkillItem_PopupMessage": [
-      "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo."
+      "La tecnica secondaria di \u000e\u0003\u0001\u0002",
+      "\nha già raggiunto il livello massimo."
     ],
     "BagScene_Content_Count": [
       "\u000e\u0002\u0002\u0002",
@@ -333,7 +342,8 @@
       "Utensili"
     ],
     "BagScene_FoodMaxOverPopup_Text": [
-      "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo."
+      "La tecnica secondaria di \u000e\u0003\u0001\u0002",
+      "\nha già raggiunto il livello massimo."
     ],
     "BagScene_FoodMaxOverPopup_Title": [
       "Impossibile usare strumento"

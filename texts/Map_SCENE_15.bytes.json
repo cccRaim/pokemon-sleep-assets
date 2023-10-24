@@ -12,6 +12,12 @@
     "MapDetailConfirmPopup_Desc": [
       "Möchtest du deine nächste\nForschungswoche hier verbringen?"
     ],
+    "MapDetailConfirmPopup_Desc_NoEventEffect": [
+      "\u000e",
+      "\u0003\u0004毿ＷIn diesem Gebiet erhältst du keine Effekte des\nHalloween-Events.\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
     "MapDetailPopup_AppropriateSP": [
       "Team-RK-Ziel"
     ],
@@ -25,6 +31,18 @@
     "MapDetailPopup_BestEnergyValue": [
       "\u000e\u0002\u0006\u0004",
       "촁"
+    ],
+    "MapDetailPopup_EventWeekButton": [
+      "Events der Woche"
+    ],
+    "MapDetailPopup_EventWeekPopup_EventName_Halloween": [
+      "Halloween-Event"
+    ],
+    "MapDetailPopup_EventWeekPopup_Head": [
+      "Eventliste"
+    ],
+    "MapDetailPopup_EventWeekPopup_Title": [
+      "Events der Woche"
     ],
     "MapDetailPopup_GetPokemons": [
       "Befreundete Pokémon"
@@ -98,6 +116,15 @@
     "MapScene_DataDownload_Series_Title": [
       "Daten-Download"
     ],
+    "MapScene_EventEffectPopup_Text": [
+      "In diesem Gebiet erhältst du keine\nEffekte des Halloween-Events."
+    ],
+    "MapScene_EventEffectPopup_Title": [
+      "Effekte des Halloween-Events inaktiv"
+    ],
+    "MapScene_EventOpen_Text": [
+      "Event im Gange"
+    ],
     "MapScene_Header_Title": [
       "Karte"
     ],
@@ -108,193 +135,31 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 31,
-        "size": 221,
+        "entries": 39,
+        "size": 277,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 17,
-        "size": 1079,
+        "entries": 23,
+        "size": 1439,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
-          [],
-          136
-        ],
-        [
           [
             [
-              19,
-              "MapObject_Name"
-            ],
-            [
-              21,
+              29,
               "MapDetailPopup_LibraryToggleButton"
-            ]
-          ],
-          194
-        ],
-        [
-          [
-            [
-              8,
-              "MapDetailPopup_PokemonUnknown"
-            ]
-          ],
-          228
-        ],
-        [
-          [
-            [
-              5,
-              "MapDetailPopup_SleepType"
             ],
             [
-              11,
-              "MapBonusPopup_Desc"
-            ],
-            [
-              17,
-              "MapDetailConfirmPopup_Desc"
-            ]
-          ],
-          311
-        ],
-        [
-          [],
-          311
-        ],
-        [
-          [
-            [
-              0,
-              "MapDetailPopup_WeekBonus"
-            ]
-          ],
-          340
-        ],
-        [
-          [
-            [
-              3,
-              "MapDetailPopup_AppropriateSP"
-            ],
-            [
-              12,
-              "MapBonusPopup_ListTitle"
-            ],
-            [
-              18,
-              "MapDetailPopup_Title"
-            ]
-          ],
-          426
-        ],
-        [
-          [
-            [
-              14,
-              "MapScene_Content_CompletePer"
-            ],
-            [
-              15,
-              "MapScene_Header_Title"
-            ],
-            [
-              20,
-              "MapDetailPopup_InfoToggleButton"
-            ]
-          ],
-          521
-        ],
-        [
-          [
-            [
-              27,
-              "MapObject_FieldBonus"
-            ]
-          ],
-          546
-        ],
-        [
-          [
-            [
-              1,
-              "MapDetailPopup_BestEnergy"
-            ],
-            [
-              7,
-              "MapDetailPopup_PokemonNumber"
-            ],
-            [
-              10,
-              "MapBonusPopup_Title"
-            ],
-            [
-              13,
-              "MapSceneController_Text_1"
-            ],
-            [
-              16,
-              "MapScene_Info_InfoMessage"
-            ],
-            [
-              28,
-              "MapObject_FieldBonus_Per"
-            ]
-          ],
-          722
-        ],
-        [
-          [
-            [
-              26,
-              "MapObject_CompletePer"
-            ]
-          ],
-          748
-        ],
-        [
-          [
-            [
-              22,
-              "MapDetailPopup_ResearchFaces"
-            ],
-            [
-              25,
-              "MapDetailPopup_OKButton"
-            ],
-            [
-              30,
+              38,
               "MapScene_DataDownload_Series_Text"
             ]
           ],
-          847
-        ],
-        [
-          [],
-          847
-        ],
-        [
-          [
-            [
-              2,
-              "MapDetailPopup_BestEnergyValue"
-            ],
-            [
-              4,
-              "MapDetailPopup_AppropriateSPValue"
-            ],
-            [
-              6,
-              "MapDetailPopup_SleepTypeCount"
-            ]
-          ],
-          954
+          261
         ],
         [
           [
@@ -303,28 +168,254 @@
               "MapDetailPopup_PokemonCount"
             ],
             [
-              23,
-              "MapDetailPopup_Per"
+              12,
+              "MapBonusPopup_ListTitle"
             ],
             [
-              24,
-              "MapDetailPopup_GetPokemons"
+              31,
+              "MapDetailPopup_Per"
             ]
           ],
-          1040
+          344
         ],
         [
           [
             [
-              29,
+              18,
+              "MapScene_EventEffectPopup_Title"
+            ],
+            [
+              35,
+              "MapObject_FieldBonus"
+            ]
+          ],
+          405
+        ],
+        [
+          [
+            [
+              3,
+              "MapDetailPopup_AppropriateSP"
+            ],
+            [
+              20,
+              "MapDetailConfirmPopup_Desc"
+            ]
+          ],
+          469
+        ],
+        [
+          [
+            [
+              30,
+              "MapDetailPopup_ResearchFaces"
+            ]
+          ],
+          502
+        ],
+        [
+          [
+            [
+              21,
+              "MapDetailConfirmPopup_Desc_NoEventEffect"
+            ]
+          ],
+          547
+        ],
+        [
+          [
+            [
+              28,
+              "MapDetailPopup_EventWeekPopup_EventName_Halloween"
+            ]
+          ],
+          601
+        ],
+        [
+          [
+            [
+              0,
+              "MapDetailPopup_WeekBonus"
+            ],
+            [
+              5,
+              "MapDetailPopup_SleepType"
+            ]
+          ],
+          659
+        ],
+        [
+          [
+            [
+              2,
+              "MapDetailPopup_BestEnergyValue"
+            ]
+          ],
+          694
+        ],
+        [
+          [
+            [
+              17,
+              "MapScene_EventOpen_Text"
+            ]
+          ],
+          722
+        ],
+        [
+          [
+            [
+              19,
+              "MapScene_EventEffectPopup_Text"
+            ],
+            [
+              26,
+              "MapDetailPopup_EventWeekPopup_Title"
+            ],
+            [
+              33,
+              "MapDetailPopup_OKButton"
+            ]
+          ],
+          825
+        ],
+        [
+          [
+            [
+              15,
+              "MapScene_Header_Title"
+            ]
+          ],
+          851
+        ],
+        [
+          [
+            [
+              16,
+              "MapScene_Info_InfoMessage"
+            ]
+          ],
+          881
+        ],
+        [
+          [
+            [
+              4,
+              "MapDetailPopup_AppropriateSPValue"
+            ],
+            [
+              6,
+              "MapDetailPopup_SleepTypeCount"
+            ],
+            [
+              10,
+              "MapBonusPopup_Title"
+            ],
+            [
+              37,
               "MapScene_DataDownload_Series_Title"
             ]
           ],
-          1079
+          1016
+        ],
+        [
+          [
+            [
+              13,
+              "MapSceneController_Text_1"
+            ]
+          ],
+          1046
+        ],
+        [
+          [
+            [
+              22,
+              "MapDetailPopup_Title"
+            ],
+            [
+              23,
+              "MapObject_Name"
+            ],
+            [
+              27,
+              "MapDetailPopup_EventWeekPopup_Head"
+            ]
+          ],
+          1129
+        ],
+        [
+          [
+            [
+              7,
+              "MapDetailPopup_PokemonNumber"
+            ],
+            [
+              11,
+              "MapBonusPopup_Desc"
+            ]
+          ],
+          1185
         ],
         [
           [],
-          1079
+          1185
+        ],
+        [
+          [
+            [
+              25,
+              "MapDetailPopup_EventWeekButton"
+            ],
+            [
+              36,
+              "MapObject_FieldBonus_Per"
+            ]
+          ],
+          1249
+        ],
+        [
+          [
+            [
+              14,
+              "MapScene_Content_CompletePer"
+            ]
+          ],
+          1282
+        ],
+        [
+          [
+            [
+              24,
+              "MapDetailPopup_InfoToggleButton"
+            ],
+            [
+              32,
+              "MapDetailPopup_GetPokemons"
+            ],
+            [
+              34,
+              "MapObject_CompletePer"
+            ]
+          ],
+          1375
+        ],
+        [
+          [],
+          1375
+        ],
+        [
+          [
+            [
+              1,
+              "MapDetailPopup_BestEnergy"
+            ],
+            [
+              8,
+              "MapDetailPopup_PokemonUnknown"
+            ]
+          ],
+          1439
         ]
       ]
     },
@@ -350,8 +441,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 31,
-        "size": 1378,
+        "entries": 39,
+        "size": 1920,
         "unknown1": 0,
         "unknown2": 0
       }

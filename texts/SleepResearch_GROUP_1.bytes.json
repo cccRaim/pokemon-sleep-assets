@@ -1,14 +1,16 @@
 {
   "strings": {
     "FriendPointLevelUpPopup_BonusTitle": [
-      "The chance of a Shiny \u000e\u0003\u0001\u0002촀 appearing has increased slightly."
+      "The chance of a Shiny \u000e\u0003\u0001\u0002",
+      " appearing has increased slightly."
     ],
     "FriendPointLevelUpPopup_FriendLevelNum": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "FriendPointLevelUpPopup_LevelupDesc": [
-      "It looks like \u000e\u0003\u0001\u0002촀 has come to like this research site more!"
+      "It looks like \u000e\u0003\u0001\u0002",
+      " has come to like this research site more!"
     ],
     "FriendPointLevelUpPopup_Title": [
       "Friendship Increased"
@@ -63,7 +65,7 @@
       ""
     ],
     "ResearchPhotoPopup_SleepTypeText": [
-      "#\u000e\u0002\u0003\u0004Ā촀 \u000e\u0003\u0001\u0002촁 (\u000e\u0003\u0004\u0002\u0002)"
+      "#\u000e\u0002\u0003\u0004Ā촀 \u000e\u0003\u0001\u0002ā (\u000e\u0003\u0004\u0002\u0002)"
     ],
     "ResearchPhotoPopup_SleepingFaceName_Prefix": [
       "\u000e",

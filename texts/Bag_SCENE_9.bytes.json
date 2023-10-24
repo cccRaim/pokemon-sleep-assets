@@ -77,10 +77,12 @@
       "Hai ottenuto\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0003\u0004\u0002촁!"
     ],
     "BagSceneConsumableItemView_Text_12": [
-      "\u000e\u0003\u0001\u0002촀 ha recuperato le energie!"
+      "\u000e\u0003\u0001\u0002",
+      " ha recuperato le energie!"
     ],
     "BagSceneConsumableItemView_Text_16": [
-      "L'abilità principale di \u000e\u0003\u0001\u0002촀\nè salita di livello!"
+      "L'abilità principale di \u000e\u0003\u0001\u0002",
+      "\nè salita di livello!"
     ],
     "BagSceneConsumableItemView_Text_2": [
       "Hai ottenuto degli strumenti!"
@@ -89,7 +91,8 @@
       "Ora l'abilità secondaria è di qualità\nmigliore!"
     ],
     "BagSceneConsumableItemView_Text_24": [
-      "Le abilità secondarie di \u000e\u0003\u0001\u0002촀\nsono già della qualità più alta!"
+      "Le abilità secondarie di \u000e\u0003\u0001\u0002",
+      "\nsono già della qualità più alta!"
     ],
     "BagSceneConsumableItemView_Text_25": [
       "La tua squadra ti ha dato subito\nl'aiuto di \u000e\u0002\u0001\u0002",

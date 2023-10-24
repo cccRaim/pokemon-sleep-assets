@@ -1,14 +1,16 @@
 {
   "strings": {
     "FriendPointLevelUpPopup_BonusTitle": [
-      "\u000e\u0003\u0001\u0002촀 chromatique a un peu\nplus de chances d'apparaître."
+      "\u000e\u0003\u0001\u0002",
+      " chromatique a un peu\nplus de chances d'apparaître."
     ],
     "FriendPointLevelUpPopup_FriendLevelNum": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "FriendPointLevelUpPopup_LevelupDesc": [
-      "On dirait que \u000e\u0003\u0001\u0002촀 aime\nun peu plus cette zone de recherche !"
+      "On dirait que \u000e\u0003\u0001\u0002",
+      " aime\nun peu plus cette zone de recherche !"
     ],
     "FriendPointLevelUpPopup_Title": [
       "Amitié augmentée !"
@@ -64,7 +66,7 @@
       ""
     ],
     "ResearchPhotoPopup_SleepTypeText": [
-      "Nº \u000e\u0002\u0003\u0004Ā촀 \u000e\u0003\u0001\u0002촁 (\u000e\u0003\u0004\u0002\u0002)"
+      "Nº \u000e\u0002\u0003\u0004Ā촀 \u000e\u0003\u0001\u0002ā (\u000e\u0003\u0004\u0002\u0002)"
     ],
     "ResearchPhotoPopup_SleepingFaceName_Prefix": [
       "\u000e",

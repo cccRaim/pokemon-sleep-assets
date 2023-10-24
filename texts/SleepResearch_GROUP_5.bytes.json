@@ -1,14 +1,16 @@
 {
   "strings": {
     "FriendPointLevelUpPopup_BonusTitle": [
-      "Schillernde  \u000e\u0003\u0001\u0002촀\nerscheinen etwas häufiger."
+      "Schillernde  \u000e\u0003\u0001\u0002",
+      "\nerscheinen etwas häufiger."
     ],
     "FriendPointLevelUpPopup_FriendLevelNum": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "FriendPointLevelUpPopup_LevelupDesc": [
-      "Es scheint, als würde \u000e\u0003\u0001\u0002촀\nimmer mehr Gefallen am Forschungslager\nfinden!"
+      "Es scheint, als würde \u000e\u0003\u0001\u0002",
+      "\nimmer mehr Gefallen am Forschungslager\nfinden!"
     ],
     "FriendPointLevelUpPopup_Title": [
       "Freundeslv. gestiegen"
@@ -63,7 +65,7 @@
       ""
     ],
     "ResearchPhotoPopup_SleepTypeText": [
-      "Nr. \u000e\u0002\u0003\u0004Ā촀: \u000e\u0003\u0001\u0002촁 (\u000e\u0003\u0004\u0002\u0002)"
+      "Nr. \u000e\u0002\u0003\u0004Ā촀: \u000e\u0003\u0001\u0002ā (\u000e\u0003\u0004\u0002\u0002)"
     ],
     "ResearchPhotoPopup_SleepingFaceName_Prefix": [
       "\u000e",

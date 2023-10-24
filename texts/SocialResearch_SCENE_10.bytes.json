@@ -434,7 +434,8 @@
       "Líder"
     ],
     "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_PokemonName": [
-      "\u000e\u0003\u0001\u0002촀"
+      "\u000e\u0003\u0001\u0002",
+      ""
     ],
     "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_Rank": [
       "Nv."
@@ -484,10 +485,10 @@
       ""
     ],
     "SocialResearch_SCENE_FriendResearchDetail_TodayPic": [
-      "N.º \u000e\u0002\u0003\u0004Ā촁 \u000e\u0003\u0001\u0002촁 (\u000e\u0003\u0004\u0002\u0002)"
+      "N.º \u000e\u0002\u0003\u0004Ā촁 \u000e\u0003\u0001\u0002ā (\u000e\u0003\u0004\u0002\u0002)"
     ],
     "SocialResearch_SCENE_FriendResearchDetail_TodayPic_Hidden": [
-      "N.º \u000e\u0002\u0003\u0004Ā촁 \u000e\u0003\u0001\u0002촁"
+      "N.º \u000e\u0002\u0003\u0004Ā촁 \u000e\u0003\u0001\u0002ā"
     ],
     "SocialResearch_SCENE_FriendResearchDetail_TodayPic_SleepName": [
       "\u000e\u0003\r\u0002",
@@ -588,7 +589,8 @@
       "\u000e\u0003\t\u0002촀"
     ],
     "SocialResearch_SCENE_RewardDialog_Info_2": [
-      "¡He estudiado la postura\n\u000e\u0003\r\u0002ȁ de \u000e\u0003\u0001\u0002촀!"
+      "¡He estudiado la postura\n\u000e\u0003\r\u0002ȁ de \u000e\u0003\u0001\u0002",
+      "!"
     ],
     "SocialResearch_SCENE_RewardDialog_ItemGet_1": [
       "Premio"
@@ -634,7 +636,8 @@
       "Estudio anterior"
     ],
     "SocialResearch_SCENE_TOP_Feed_ResearchSleepFace": [
-      "¡He estudiado la postura\n\u000e\u0003\r\u0002ȁ de \u000e\u0003\u0001\u0002촀!"
+      "¡He estudiado la postura\n\u000e\u0003\r\u0002ȁ de \u000e\u0003\u0001\u0002",
+      "!"
     ],
     "SocialResearch_SCENE_TOP_NextUpdateTime": [
       "Próxima actualización: \u000e\t",

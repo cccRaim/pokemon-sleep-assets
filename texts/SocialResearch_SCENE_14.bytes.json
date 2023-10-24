@@ -434,7 +434,8 @@
       "隊長"
     ],
     "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_PokemonName": [
-      "\u000e\u0003\u0001\u0002촀"
+      "\u000e\u0003\u0001\u0002",
+      ""
     ],
     "SocialResearch_SCENE_FriendResearchDetail_PokemonParty_Rank": [
       "Lv."
@@ -485,11 +486,11 @@
     ],
     "SocialResearch_SCENE_FriendResearchDetail_TodayPic": [
       "No.\u000e\u0002\u0003\u0004",
-      "촁 \u000e\u0003\u0001\u0002촁 ( \u000e\u0003\u0004\u0002\u0002 )"
+      "촁 \u000e\u0003\u0001\u0002ā ( \u000e\u0003\u0004\u0002\u0002 )"
     ],
     "SocialResearch_SCENE_FriendResearchDetail_TodayPic_Hidden": [
       "No.\u000e\u0002\u0003\u0004",
-      "촁 \u000e\u0003\u0001\u0002촁"
+      "촁 \u000e\u0003\u0001\u0002ā"
     ],
     "SocialResearch_SCENE_FriendResearchDetail_TodayPic_SleepName": [
       "\u000e\u0003\r\u0002",
@@ -590,7 +591,8 @@
       "\u000e\u0003\t\u0002촀"
     ],
     "SocialResearch_SCENE_RewardDialog_Info_2": [
-      "研究了\n\u000e\u0003\u0001\u0002촀的 \u000e",
+      "研究了\n\u000e\u0003\u0001\u0002",
+      "的 \u000e",
       "\u0003\u0004췍ￍ#\u000e",
       "\u0003\u0004",
       "＀\u000e\u0003\r\u0002\u0001！"
@@ -639,7 +641,8 @@
       "以前的研究"
     ],
     "SocialResearch_SCENE_TOP_Feed_ResearchSleepFace": [
-      "研究了\u000e\u0003\u0001\u0002촀的\n\u000e\u0003\r\u0002\u0001！"
+      "研究了\u000e\u0003\u0001\u0002",
+      "的\n\u000e\u0003\r\u0002\u0001！"
     ],
     "SocialResearch_SCENE_TOP_NextUpdateTime": [
       "距離下次研究更新：還剩\u000e\t",

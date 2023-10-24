@@ -1,14 +1,16 @@
 {
   "strings": {
     "FriendPointLevelUpPopup_BonusTitle": [
-      "異色\u000e\u0003\u0001\u0002촀的出現機率\n提升一點點了。"
+      "異色\u000e\u0003\u0001\u0002",
+      "的出現機率\n提升一點點了。"
     ],
     "FriendPointLevelUpPopup_FriendLevelNum": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "FriendPointLevelUpPopup_LevelupDesc": [
-      "\u000e\u0003\u0001\u0002촀好像更喜歡這個研究營地了。"
+      "\u000e\u0003\u0001\u0002",
+      "好像更喜歡這個研究營地了。"
     ],
     "FriendPointLevelUpPopup_Title": [
       "友情等級提升"
@@ -65,7 +67,7 @@
     ],
     "ResearchPhotoPopup_SleepTypeText": [
       "No.\u000e\u0002\u0003\u0004",
-      "촁 \u000e\u0003\u0001\u0002촁  /  \u000e\u0003\u0004\u0002\u0002"
+      "촁 \u000e\u0003\u0001\u0002ā  /  \u000e\u0003\u0004\u0002\u0002"
     ],
     "ResearchPhotoPopup_SleepingFaceName_Prefix": [
       "#"

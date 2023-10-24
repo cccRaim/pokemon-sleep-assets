@@ -7,6 +7,15 @@
       "食欲の秋パックM vol.\u000e\u0002\u0001\u0002",
       ""
     ],
+    "md_event_item_packs_name_11": [
+      "ハロウィン2023パックS"
+    ],
+    "md_event_item_packs_name_12": [
+      "ハロウィン2023パックM"
+    ],
+    "md_event_item_packs_name_13": [
+      "ハロウィン2023パックL"
+    ],
     "md_event_item_packs_name_2": [
       "1억 다운로드 기념 팩"
     ],
@@ -15,9 +24,6 @@
     ],
     "md_event_item_packs_name_4": [
       "출시 기념 팩"
-    ],
-    "md_event_item_packs_name_5": [
-      "핼러윈 팩"
     ],
     "md_event_item_packs_name_6": [
       "リリース記念パックM"
@@ -36,8 +42,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 10,
-        "size": 74,
+        "entries": 12,
+        "size": 88,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -45,7 +51,7 @@
     "LBL1": {
       "header": {
         "entries": 7,
-        "size": 367,
+        "size": 432,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -56,7 +62,7 @@
               "md_event_item_packs_name_3"
             ],
             [
-              9,
+              8,
               "md_event_item_packs_name_10"
             ]
           ],
@@ -67,36 +73,44 @@
             [
               3,
               "md_event_item_packs_name_4"
+            ],
+            [
+              9,
+              "md_event_item_packs_name_11"
             ]
           ],
-          150
+          182
+        ],
+        [
+          [
+            [
+              10,
+              "md_event_item_packs_name_12"
+            ]
+          ],
+          214
         ],
         [
           [
             [
               4,
-              "md_event_item_packs_name_5"
+              "md_event_item_packs_name_6"
+            ],
+            [
+              11,
+              "md_event_item_packs_name_13"
             ]
           ],
-          181
+          277
         ],
         [
           [
             [
               5,
-              "md_event_item_packs_name_6"
-            ]
-          ],
-          212
-        ],
-        [
-          [
-            [
-              6,
               "md_event_item_packs_name_7"
             ]
           ],
-          243
+          308
         ],
         [
           [
@@ -105,11 +119,11 @@
               "md_event_item_packs_name_1"
             ],
             [
-              7,
+              6,
               "md_event_item_packs_name_8"
             ]
           ],
-          305
+          370
         ],
         [
           [
@@ -118,11 +132,11 @@
               "md_event_item_packs_name_2"
             ],
             [
-              8,
+              7,
               "md_event_item_packs_name_9"
             ]
           ],
-          367
+          432
         ]
       ]
     },
@@ -148,8 +162,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 10,
-        "size": 308,
+        "entries": 12,
+        "size": 388,
         "unknown1": 0,
         "unknown2": 0
       }

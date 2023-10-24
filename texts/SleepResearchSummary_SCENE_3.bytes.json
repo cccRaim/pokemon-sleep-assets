@@ -78,7 +78,7 @@
       "Pokémon estudiados"
     ],
     "SleepResearchSummaryScene_Header_Title_PokemonList_CellName": [
-      "\u000e\u0003\u0001\u0002촀\n(\u000e\u0003\r\u0002ȁ)"
+      "\u000e\u0003\u0001\u0002Ā\n(\u000e\u0003\r\u0002ȁ)"
     ],
     "SleepResearchSummaryScene_RankupView_Num": [
       "×\u000e\u0002\u0002\u0002",
@@ -126,8 +126,7 @@
       "Foto de la sesión"
     ],
     "TodayPhoto_PokemonNameAndType": [
-      "\u000e\u0002\u0003\u0004",
-      "촀 \u000e\u0003\u0001\u0002촁 (sueño \u000e\u0003\u0004\u0002\u0002)"
+      "N.º \u000e\u0002\u0003\u0004Ā촀 \u000e\u0003\u0001\u0002ā (sueño \u000e\u0003\u0004\u0002\u0002)"
     ],
     "TodayPhoto_ResearchDate": [
       "\u000e\t",
@@ -453,7 +452,7 @@
     "TXT2": {
       "header": {
         "entries": 41,
-        "size": 1878,
+        "size": 1886,
         "unknown1": 0,
         "unknown2": 0
       }

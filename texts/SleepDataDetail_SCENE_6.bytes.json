@@ -84,10 +84,7 @@
       "Données non disponibles"
     ],
     "SleepDataResearchResultCell_Title": [
-      "\u000e\u0003\u0001\u0002촀 \u000e",
-      "\u0003\u0004췍ￍ|\u000e",
-      "\u0003\u0004",
-      "＀ \u000e\u0003\r\u0002\u0001"
+      "\u000e\u0003\u0001\u0002Ā\n\u000e\u0003\r\u0002\u0001"
     ],
     "SleepMemoDeleteConfirmPopup_DeleteButton": [
       "Supprimer"
@@ -415,7 +412,7 @@
     "TXT2": {
       "header": {
         "entries": 35,
-        "size": 2612,
+        "size": 2584,
         "unknown1": 0,
         "unknown2": 0
       }

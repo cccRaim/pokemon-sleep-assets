@@ -76,19 +76,23 @@
       "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0003\u0004\u0002촁\nを獲得しました"
     ],
     "BagSceneConsumableItemView_Text_12": [
-      "\u000e\u0003\u0001\u0002촀のげんきを回復しました"
+      "\u000e\u0003\u0001\u0002",
+      "のげんきを回復しました"
     ],
     "BagSceneConsumableItemView_Text_16": [
-      "\u000e\u0003\u0001\u0002촀のメインスキルレベルが上がりました"
+      "\u000e\u0003\u0001\u0002",
+      "のメインスキルレベルが上がりました"
     ],
     "BagSceneConsumableItemView_Text_2": [
       "を獲得しました"
     ],
     "BagSceneConsumableItemView_Text_22": [
-      "\u000e\u0003\u0001\u0002촀のサブスキルのレア度が上がりました"
+      "\u000e\u0003\u0001\u0002",
+      "のサブスキルのレア度が上がりました"
     ],
     "BagSceneConsumableItemView_Text_24": [
-      "\u000e\u0003\u0001\u0002촀のサブスキルのレア度は\nすでに上限に達しています"
+      "\u000e\u0003\u0001\u0002",
+      "のサブスキルのレア度は\nすでに上限に達しています"
     ],
     "BagSceneConsumableItemView_Text_25": [
       "ポケモンたちが\n\u000e\u0002\u0001\u0002",

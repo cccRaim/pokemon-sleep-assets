@@ -1,7 +1,8 @@
 {
   "strings": {
     "FriendPointLevelUpPopup_BonusTitle": [
-      "색이 다른 \u000e\u0003\u0001\u0002촀\u000e\b",
+      "색이 다른 \u000e\u0003\u0001\u0002",
+      "\u000e\b",
       "\u0002촃\n출현할 확률이 아주 조금 올랐습니다"
     ],
     "FriendPointLevelUpPopup_FriendLevelNum": [
@@ -9,7 +10,8 @@
       ""
     ],
     "FriendPointLevelUpPopup_LevelupDesc": [
-      "\u000e\u0003\u0001\u0002촀\u000e\b",
+      "\u000e\u0003\u0001\u0002",
+      "\u000e\b",
       "\u0002촁 이 리서치 캠프가\n더욱 마음에 든 모양입니다"
     ],
     "FriendPointLevelUpPopup_Title": [
@@ -67,7 +69,7 @@
     ],
     "ResearchPhotoPopup_SleepTypeText": [
       "No.\u000e\u0002\u0002\u0002",
-      " \u000e\u0003\u0001\u0002촁 / \u000e\u0003\u0004\u0002\u0002"
+      " \u000e\u0003\u0001\u0002\u0001 / \u000e\u0003\u0004\u0002\u0002"
     ],
     "ResearchPhotoPopup_SleepingFaceName_Prefix": [
       "#"

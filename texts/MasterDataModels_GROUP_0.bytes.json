@@ -32,6 +32,11 @@
       " \u000e\u0001",
       "\u001e\ncandy\u000ecandies촀"
     ],
+    "WeeklyMission_Text_12": [
+      "Use \u000e\u0002\u0001\u0002",
+      " \u000e\u0001",
+      "$\u000eincense\u0010incenses촀"
+    ],
     "WeeklyMission_Text_2": [
       "Get Snorlax to \u000e\u0003\u0007\u0004Ā촀"
     ],
@@ -62,8 +67,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 15,
-        "size": 109,
+        "entries": 16,
+        "size": 116,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -71,7 +76,7 @@
     "LBL1": {
       "header": {
         "entries": 11,
-        "size": 469,
+        "size": 495,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -185,10 +190,14 @@
           [
             [
               14,
+              "WeeklyMission_Text_12"
+            ],
+            [
+              15,
               "SleepingFace_LibrarySubId"
             ]
           ],
-          469
+          495
         ]
       ]
     },
@@ -214,8 +223,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 15,
-        "size": 790,
+        "entries": 16,
+        "size": 860,
         "unknown1": 0,
         "unknown2": 0
       }

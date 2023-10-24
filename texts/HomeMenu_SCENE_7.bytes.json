@@ -123,7 +123,7 @@
       "Vincular cuentas"
     ],
     "HomeMenu_SCENE_AccountLinkageFavorDialog_Button": [
-      "Vincular cuenta"
+      "Vincular"
     ],
     "HomeMenu_SCENE_AccountLinkageFavorDialog_Heading": [
       "Ventajas de vincular tu cuenta"
@@ -138,7 +138,7 @@
       "＀.\nTen presente que este bonus solo será válido\nla primera vez que vincules tu cuenta."
     ],
     "HomeMenu_SCENE_AccountLinkageFavorDialog_Text_3": [
-      "Pulsa el botón Vincular cuenta para acceder\na la pantalla correspondiente."
+      "Pulsa el botón Vincular para acceder\na la pantalla correspondiente."
     ],
     "HomeMenu_SCENE_AccountLinkageFavorDialog_Title": [
       "Solicitud de vinculación de cuenta"
@@ -2573,7 +2573,7 @@
     "TXT2": {
       "header": {
         "entries": 273,
-        "size": 24828,
+        "size": 24800,
         "unknown1": 0,
         "unknown2": 0
       }
