@@ -36,6 +36,9 @@
       "\u0002n촀 \u000e\u0002\u0001\u0002",
       " m"
     ],
+    "PresentBox_Deadline_4": [
+      "Queda ≥1 año"
+    ],
     "PresentBox_GetButton": [
       "Recibir"
     ],
@@ -127,8 +130,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 36,
-        "size": 256,
+        "entries": 37,
+        "size": 263,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -136,7 +139,7 @@
     "LBL1": {
       "header": {
         "entries": 19,
-        "size": 1488,
+        "size": 1514,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -147,7 +150,7 @@
               "PresentBox_Title"
             ],
             [
-              8,
+              9,
               "PresentBox_PresentReceivePopup_Content"
             ]
           ],
@@ -156,7 +159,7 @@
         [
           [
             [
-              29,
+              30,
               "PresentBox_Present_Heading"
             ]
           ],
@@ -165,7 +168,7 @@
         [
           [
             [
-              34,
+              35,
               "PresentBox_PresentDeletePopup_Title"
             ]
           ],
@@ -174,15 +177,15 @@
         [
           [
             [
-              6,
+              7,
               "PresentBox_GetButton"
             ],
             [
-              16,
+              17,
               "PresentBox_AboutPopup_Title"
             ],
             [
-              35,
+              36,
               "PresentBox_PresentDeletePopup_Text"
             ]
           ],
@@ -191,11 +194,11 @@
         [
           [
             [
-              17,
+              18,
               "PresentBox_AboutPopup_Heading"
             ],
             [
-              27,
+              28,
               "PresentBox_NoReceivedDialog_All_Text"
             ]
           ],
@@ -204,15 +207,15 @@
         [
           [
             [
-              9,
+              10,
               "PresentBox_PresentReceivePopup_Content_SleepPoint"
             ],
             [
-              24,
+              25,
               "PresentBox_NoReceivedDialog_Part_Expired_Text"
             ],
             [
-              25,
+              26,
               "PresentBox_NoReceivedDialog_Part_OverAndExpired_Text"
             ]
           ],
@@ -221,11 +224,11 @@
         [
           [
             [
-              7,
+              8,
               "PresentBox_AllGetButton"
             ],
             [
-              12,
+              13,
               "PresentBox_ReceiptPopup_Heading"
             ]
           ],
@@ -238,7 +241,7 @@
               "PresentBox_Deadline_1"
             ],
             [
-              23,
+              24,
               "PresentBox_NoReceivedDialog_One_Expired_Text"
             ]
           ],
@@ -264,36 +267,41 @@
               "PresentBox_Deadline_3"
             ],
             [
-              10,
+              11,
               "PresentBox_NoPresent"
             ],
             [
-              14,
+              15,
               "PresentBox_ReceiptPopup_NumberOfItem"
             ]
           ],
           898
         ],
         [
-          [],
-          898
+          [
+            [
+              6,
+              "PresentBox_Deadline_4"
+            ]
+          ],
+          924
         ],
         [
           [
             [
-              22,
+              23,
               "PresentBox_NoReceivedDialog_Part_Text"
             ],
             [
-              31,
+              32,
               "PresentBox_PresentReceivePopup_Title"
             ],
             [
-              33,
+              34,
               "PresentBox_PresentDeadlinePopup_Text"
             ]
           ],
-          1022
+          1048
         ],
         [
           [
@@ -302,80 +310,80 @@
               "PresentBox_ReceiptButton"
             ],
             [
-              11,
+              12,
               "PresentBox_ReceiptPopup_Title"
             ]
           ],
-          1085
+          1111
         ],
         [
           [
             [
-              15,
+              16,
               "PresentBox_ReceiptPopup_ReceiveDay"
             ]
           ],
-          1124
+          1150
         ],
         [
           [
             [
-              26,
+              27,
               "PresentBox_NoReceivedDialog_All_Title"
             ]
           ],
-          1166
+          1192
         ],
         [
           [],
-          1166
+          1192
         ],
         [
           [
             [
-              18,
+              19,
               "PresentBox_AboutPopup_Text_1"
             ],
             [
-              21,
+              22,
               "PresentBox_NoReceivedDialog_Part_Title"
             ],
             [
-              30,
+              31,
               "PresentBox_PresentReceivePopup_Heading"
             ]
           ],
-          1285
+          1311
         ],
         [
           [
             [
-              13,
+              14,
               "PresentBox_ReceiptPopup_NoReceived"
             ],
             [
-              19,
+              20,
               "PresentBox_AboutPopup_Text_2"
             ],
             [
-              32,
+              33,
               "PresentBox_PresentDeadlinePopup_Title"
             ]
           ],
-          1399
+          1425
         ],
         [
           [
             [
-              20,
+              21,
               "PresentBox_AboutPopup_Text_3"
             ],
             [
-              28,
+              29,
               "PresentBox_NoReceivedDialog_All_OverAndExpired_Text"
             ]
           ],
-          1488
+          1514
         ]
       ]
     },
@@ -401,8 +409,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 36,
-        "size": 2968,
+        "entries": 37,
+        "size": 2998,
         "unknown1": 0,
         "unknown2": 0
       }
