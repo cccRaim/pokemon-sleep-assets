@@ -12,6 +12,12 @@
     "CommomMultipleRewardsGetPopup_SectionTitle": [
       "領取的報酬"
     ],
+    "CommonGroup_UnknownError_Message": [
+      "發生了原因不明的錯誤。\n請重新啟動應用程式。"
+    ],
+    "CommonGroup_UnknownError_Title": [
+      "原因不明的錯誤"
+    ],
     "CommonIncenseDetailPopup_Title": [
       "道具效果"
     ],
@@ -49,8 +55,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 14,
-        "size": 102,
+        "entries": 16,
+        "size": 116,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -58,7 +64,7 @@
     "LBL1": {
       "header": {
         "entries": 11,
-        "size": 588,
+        "size": 660,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -109,9 +115,13 @@
             [
               10,
               "CommomMultipleRewardsGetPopup_HeadTitle"
+            ],
+            [
+              15,
+              "CommonGroup_UnknownError_Message"
             ]
           ],
-          418
+          455
         ],
         [
           [
@@ -128,23 +138,23 @@
               "CommonRenamePopup_PlaceholderPoke"
             ]
           ],
-          522
+          559
         ],
         [
           [],
-          522
+          559
         ],
         [
           [],
-          522
+          559
         ],
         [
           [],
-          522
+          559
         ],
         [
           [],
-          522
+          559
         ],
         [
           [
@@ -153,11 +163,16 @@
               "CommonIncenseDetailPopup_Title"
             ]
           ],
-          557
+          594
         ],
         [
-          [],
-          557
+          [
+            [
+              14,
+              "CommonGroup_UnknownError_Title"
+            ]
+          ],
+          629
         ],
         [
           [
@@ -166,7 +181,7 @@
               "CommonRenamePopup_OKButton"
             ]
           ],
-          588
+          660
         ]
       ]
     },
@@ -192,8 +207,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 14,
-        "size": 286,
+        "entries": 16,
+        "size": 356,
         "unknown1": 0,
         "unknown2": 0
       }

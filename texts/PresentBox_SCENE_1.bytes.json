@@ -1,124 +1,125 @@
 {
   "strings": {
     "PresentBox_AboutPopup_Heading": [
-      "Détails"
+      "Details"
     ],
     "PresentBox_AboutPopup_Text_1": [
-      "Les cadeaux non récupérés à temps\nsont supprimés automatiquement."
+      "Abgelaufene Geschenke werden\nautomatisch gelöscht."
     ],
     "PresentBox_AboutPopup_Text_2": [
-      "Vous pouvez récupérer jusqu'à\n100 cadeaux simultanément."
+      "Du kannst bis zu 100 Geschenke auf\neinmal annehmen."
     ],
     "PresentBox_AboutPopup_Text_3": [
-      "Vous pouvez consulter les cadeaux\nreçus au cours des 30 derniers jours."
+      "Du kannst dir angenommene Geschenke\nder letzten 30 Tage ansehen."
     ],
     "PresentBox_AboutPopup_Title": [
-      "À propos de la Boîte à cadeaux"
+      "Über die Geschenkbox"
     ],
     "PresentBox_AllGetButton": [
-      "Tout récupérer"
+      "Alles annehmen"
     ],
     "PresentBox_Deadline_1": [
-      "Encore \u000e\u0002\u0002\u0002",
-      " j"
+      "Noch \u000e\u0002\u0002\u0002",
+      " \u000e\u0006",
+      "\u0014\u0006Tag\bTage촀"
     ],
     "PresentBox_Deadline_2": [
-      "Encore \u000e\u0002\u0001\u0002",
-      " h"
+      "Noch \u000e\u0002\u0001\u0002",
+      " Std."
     ],
     "PresentBox_Deadline_3": [
-      "Encore \u000e\u0002\u0001\u0002",
-      " min"
+      "Noch \u000e\u0002\u0001\u0002",
+      " Min."
     ],
     "PresentBox_Deadline_4": [
-      "≥1 year left"
+      "≥ 1 Jahr"
     ],
     "PresentBox_GetButton": [
-      "Récupérer"
+      "Annehmen"
     ],
     "PresentBox_GetDay": [
-      "Reçu le \u000e\t",
+      "Erhalten am: \u000e\t",
       "\u0018\u0014yyyy/MM/dd",
       ""
     ],
     "PresentBox_NoPresent": [
-      "Aucun cadeau disponible"
+      "Es sind keine Geschenke verfügbar."
     ],
     "PresentBox_NoReceivedDialog_All_OverAndExpired_Text": [
-      "Impossible de récupérer ces cadeaux\npar manque de place ou car leur\npériode de disponibilité est finie."
+      "Du konntest diese Geschenke nicht\nannehmen, weil sie abgelaufen sind\noder du keinen Platz für sie hast."
     ],
     "PresentBox_NoReceivedDialog_All_Text": [
-      "Impossible de récupérer ces cadeaux\ncar vous n'avez plus de place."
+      "Du konntest diese Geschenke nicht\nannehmen, weil du keinen Platz für\nsie hast."
     ],
     "PresentBox_NoReceivedDialog_All_Title": [
-      "Impossible à récupérer"
+      "Annehmen nicht möglich"
     ],
     "PresentBox_NoReceivedDialog_One_Expired_Text": [
-      "Impossible de récupérer ce cadeau car\nsa période de disponibilité est finie.\n"
+      "Dieses Geschenk konnte nicht\nangenommen werden, weil es\nabgelaufen ist."
     ],
     "PresentBox_NoReceivedDialog_Part_Expired_Text": [
-      "Impossible de récupérer certains\ncadeaux car leur période\nde disponibilité est finie."
+      "Einige Geschenke konnten nicht\nangenommen werden, weil sie\nabgelaufen sind."
     ],
     "PresentBox_NoReceivedDialog_Part_OverAndExpired_Text": [
-      "Impossible de récupérer une partie des\ncadeaux par manque de place ou car\nleur période de disponibilité est finie."
+      "Einige Geschenke konnten nicht\nangenommen werden, weil sie\nabgelaufen sind oder du keinen Platz\nfür sie hast."
     ],
     "PresentBox_NoReceivedDialog_Part_Text": [
-      "Impossible de récupérer certains\ncadeaux car vous n'avez plus de place."
+      "Einige Geschenke konnten nicht\nangenommen werden, weil du keinen\nPlatz für sie hast."
     ],
     "PresentBox_NoReceivedDialog_Part_Title": [
-      "Impossible de récupérer certains cadeaux"
+      "Annehmen einiger Geschenke nicht möglich"
     ],
     "PresentBox_PresentDeadlinePopup_Text": [
-      "Certains de vos cadeaux vont bientôt\nexpirer. Récupérez-les au plus vite !"
+      "Einige Geschenke laufen bald ab.\nNimm sie an, solange du noch kannst!"
     ],
     "PresentBox_PresentDeadlinePopup_Title": [
-      "Veuillez récupérer vos cadeaux."
+      "Bitte nimm deine Geschenke an!"
     ],
     "PresentBox_PresentDeletePopup_Text": [
-      "Les cadeaux expirés ont été supprimés."
+      "Abgelaufene Geschenke wurden\ngelöscht."
     ],
     "PresentBox_PresentDeletePopup_Title": [
-      "Cadeaux expirés"
+      "Abgelaufene Geschenke"
     ],
     "PresentBox_PresentReceivePopup_Content": [
-      "\u000e\u0003\u0003\u0004Ā촀 × \u000e\u0002\u0007\u0004\u0002촁"
+      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0007\u0004\u0002촁"
     ],
     "PresentBox_PresentReceivePopup_Content_SleepPoint": [
-      "Dodopoints × \u000e\u0002\u0007\u0004",
+      "Schlafpunkte ×\u000e\u0002\u0007\u0004",
       "촁"
     ],
     "PresentBox_PresentReceivePopup_Heading": [
-      "Cadeaux récupérés"
+      "Angenommene Geschenke"
     ],
     "PresentBox_PresentReceivePopup_Title": [
-      "Vous avez récupéré vos cadeaux."
+      "Geschenke angenommen"
     ],
     "PresentBox_Present_Heading": [
-      "Cadeaux à récupérer"
+      "Verfügbare Geschenke"
     ],
     "PresentBox_ReceiptButton": [
-      "Reçus"
+      "Verlauf"
     ],
     "PresentBox_ReceiptPopup_Heading": [
-      "Cadeaux reçus (30 derniers jours)"
+      "Angenommene Geschenke (letzte 30 Tage)"
     ],
     "PresentBox_ReceiptPopup_NoReceived": [
-      "Aucun cadeau n'a été reçu\nau cours des 30 derniers jours."
+      "Du hast in den letzten 30 Tagen keine\nGeschenke angenommen."
     ],
     "PresentBox_ReceiptPopup_NumberOfItem": [
-      "× \u000e\u0002\u0004\u0004",
+      "×\u000e\u0002\u0004\u0004",
       "촁"
     ],
     "PresentBox_ReceiptPopup_ReceiveDay": [
-      "Récupéré le \u000e\t",
+      "Angenommen am: \u000e\t",
       "\u0018\u0014yyyy/MM/dd",
       ""
     ],
     "PresentBox_ReceiptPopup_Title": [
-      "Historique des cadeaux reçus"
+      "Verlauf angenommener Geschenke"
     ],
     "PresentBox_Title": [
-      "Boîte à cadeaux"
+      "Geschenkbox"
     ]
   },
   "structure": {
@@ -404,7 +405,7 @@
     "TXT2": {
       "header": {
         "entries": 37,
-        "size": 2954,
+        "size": 2938,
         "unknown1": 0,
         "unknown2": 0
       }

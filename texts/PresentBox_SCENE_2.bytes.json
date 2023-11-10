@@ -1,130 +1,125 @@
 {
   "strings": {
     "PresentBox_AboutPopup_Heading": [
-      "Detalles"
+      "Details"
     ],
     "PresentBox_AboutPopup_Text_1": [
-      "Los regalos expirados se eliminarán\nautomáticamente."
+      "Abgelaufene Geschenke werden\nautomatisch gelöscht."
     ],
     "PresentBox_AboutPopup_Text_2": [
-      "Puedes recoger un máximo de\n100 regalos a la vez."
+      "Du kannst bis zu 100 Geschenke auf\neinmal erhalten."
     ],
     "PresentBox_AboutPopup_Text_3": [
-      "Puedes ver una lista de los regalos\nque has recogido en los últimos 30 días."
+      "Du kannst empfangene Geschenke der\nletzten 30 Tage überprüfen."
     ],
     "PresentBox_AboutPopup_Title": [
-      "La caja de regalos"
+      "Über die Geschenkbox"
     ],
     "PresentBox_AllGetButton": [
-      "Recoger todo"
+      "Alle empfangen"
     ],
     "PresentBox_Deadline_1": [
-      "Queda\u000e\u0007",
-      "\b",
-      "\u0002n촀 \u000e\u0002\u0002\u0002",
-      " d"
+      "Noch \u000e\u0002\u0002\u0002",
+      " \u000e\u0006",
+      "\u0014\u0006Tag\bTage촀"
     ],
     "PresentBox_Deadline_2": [
-      "Queda\u000e\u0007",
-      "\b",
-      "\u0002n촀 \u000e\u0002\u0001\u0002",
-      " h"
+      "Noch \u000e\u0002\u0001\u0002",
+      " Std."
     ],
     "PresentBox_Deadline_3": [
-      "Queda\u000e\u0007",
-      "\b",
-      "\u0002n촀 \u000e\u0002\u0001\u0002",
-      " min"
+      "Noch \u000e\u0002\u0001\u0002",
+      " Min."
     ],
     "PresentBox_Deadline_4": [
-      "Queda ≥1 año"
+      "≥ 1 Jahr"
     ],
     "PresentBox_GetButton": [
-      "Recoger"
+      "Empfangen"
     ],
     "PresentBox_GetDay": [
-      "Recibido el \u000e\t",
+      "Erhalten: \u000e\t",
       "\u0018\u0014yyyy/MM/dd",
       ""
     ],
     "PresentBox_NoPresent": [
-      "No hay regalos disponibles."
+      "Es sind keine Geschenke verfügbar."
     ],
     "PresentBox_NoReceivedDialog_All_OverAndExpired_Text": [
-      "No has podido recoger los regalos\nporque no tienes espacio suficiente\no la fecha de recepción ha expirado."
+      "Du konntest die Geschenke nicht\nempfangen, weil sie abgelaufen sind,\noder du keinen Platz für sie hast."
     ],
     "PresentBox_NoReceivedDialog_All_Text": [
-      "No has podido recoger los regalos\nporque no tienes espacio suficiente."
+      "Du konntest die Geschenke nicht\nempfangen, weil du keinen Platz mehr\nim Inventar hast."
     ],
     "PresentBox_NoReceivedDialog_All_Title": [
-      "Error al recoger"
+      "Fehler beim Annehmen von Geschenken"
     ],
     "PresentBox_NoReceivedDialog_One_Expired_Text": [
-      "No has podido recoger el regalo porque\nla fecha de recepción ha expirado."
+      "Dieses Geschenk konnte nicht\nempfangen werden, weil es abgelaufen\nist."
     ],
     "PresentBox_NoReceivedDialog_Part_Expired_Text": [
-      "No has podido recoger algunos regalos\nporque su fecha de recepción\nha expirado."
+      "Einige Geschenke konnten nicht\nempfangen werden, weil sie\nabgelaufen sind."
     ],
     "PresentBox_NoReceivedDialog_Part_OverAndExpired_Text": [
-      "No has podido recoger algunos regalos\nporque no tienes espacio suficiente o\nla fecha de recepción ha expirado."
+      "Einige Geschenke konnten nicht\nempfangen werden, weil sie abgelaufen\nsind, oder du keinen Platz für sie hast."
     ],
     "PresentBox_NoReceivedDialog_Part_Text": [
-      "No has podido recoger algunos regalos\nporque no tienes espacio suficiente."
+      "Einige Geschenke konnten nicht\nempfangen werden, weil du keinen\nPlatz für sie im Inventar hast."
     ],
     "PresentBox_NoReceivedDialog_Part_Title": [
-      "Error al recoger"
+      "Einige Geschenke nicht empfangbar"
     ],
     "PresentBox_PresentDeadlinePopup_Text": [
-      "Al menos uno de tus regalos está a\npunto de expirar. ¡No te quedes sin él!"
+      "Einige Geschenke laufen bald ab. Hole\nsie ab, solange sie verfügbar sind!"
     ],
     "PresentBox_PresentDeadlinePopup_Title": [
-      "¡Recoge tus regalos!"
+      "Bitte hole deine Geschenke ab"
     ],
     "PresentBox_PresentDeletePopup_Text": [
-      "Se han eliminado los regalos que habían expirado."
+      "Abgelaufene Geschenke wurden\ngelöscht."
     ],
     "PresentBox_PresentDeletePopup_Title": [
-      "Regalos expirados"
+      "Abgelaufene Geschenke"
     ],
     "PresentBox_PresentReceivePopup_Content": [
       "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0007\u0004\u0002촁"
     ],
     "PresentBox_PresentReceivePopup_Content_SleepPoint": [
-      "Puntos de sueño ×\u000e\u0002\u0007\u0004",
+      "Schlafpunkte  ×\u000e\u0002\u0007\u0004",
       "촁"
     ],
     "PresentBox_PresentReceivePopup_Heading": [
-      "Detalles"
+      "Empfangene Geschenke"
     ],
     "PresentBox_PresentReceivePopup_Title": [
-      "Regalos que estás recogiendo"
+      "Geschenke empfangen"
     ],
     "PresentBox_Present_Heading": [
-      "Regalos disponibles"
+      "Verfügbare Geschenke"
     ],
     "PresentBox_ReceiptButton": [
-      "Historial"
+      "Verlauf"
     ],
     "PresentBox_ReceiptPopup_Heading": [
-      "Regalos recogidos (últimos 30 días)"
+      "Empfangene Geschenke (letzte 30 Tage)"
     ],
     "PresentBox_ReceiptPopup_NoReceived": [
-      "No has recogido ningún regalo\nen los últimos 30 días."
+      "Du hast keine Geschenke in den letzten\n30 Tagen empfangen."
     ],
     "PresentBox_ReceiptPopup_NumberOfItem": [
       "×\u000e\u0002\u0004\u0004",
       "촁"
     ],
     "PresentBox_ReceiptPopup_ReceiveDay": [
-      "Recogido el \u000e\t",
+      "Erhalten am: \u000e\t",
       "\u0018\u0014yyyy/MM/dd",
       ""
     ],
     "PresentBox_ReceiptPopup_Title": [
-      "Historial de regalos recogidos"
+      "Verlauf empfangener Geschenke"
     ],
     "PresentBox_Title": [
-      "Caja de regalos"
+      "Geschenkbox"
     ]
   },
   "structure": {
@@ -410,7 +405,7 @@
     "TXT2": {
       "header": {
         "entries": 37,
-        "size": 2876,
+        "size": 2970,
         "unknown1": 0,
         "unknown2": 0
       }

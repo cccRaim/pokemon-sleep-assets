@@ -1,322 +1,322 @@
 {
   "strings": {
     "item_desc_1": [
-      "Verdoppelt die bei der\nSchlafforschung erhaltenen\nForschungspunkte. Wird nach einer\nVerwendung aufgebraucht."
+      "睡眠リサーチでもらえる\nリサーチEXPが2倍になるおこう。\n次回の睡眠リサーチのみ有効。"
     ],
     "item_desc_10": [
-      "Ein leckerer Snack, der ein Pokémon\num einiges freundlicher stimmt.\nDieser Keks verleiht\ndrei Freundespunkte."
+      "ポケモンにあげると\nかなり仲良くなれる素敵なおやつ。\nフレンドポイントが3上がる。"
     ],
     "item_desc_11": [
-      "Ein ganz besonderer Snack, der ein\nPokémon so freundlich wie nur\nmöglich stimmt. Dieser Keks verleiht\nmaximale Freundespunkte."
+      "ポケモンにあげると、\n最高に仲良くなれる特別なおやつ。\nフレンドポイントがMAXまで上がる。"
     ],
     "item_desc_12": [
-      "Ein kleines aber besonderes Bonbon,\ndas in 3 Bonbons einer Pokémon-Art\numgewandelt werden kann."
+      "どんなポケモンのアメ x3\nにも変えられる小さな特別なアメ。"
     ],
     "item_desc_13": [
-      "Ein sehr besonderes Bonbon,\ndas in 20 Bonbons einer Pokémon-Art\numgewandelt werden kann."
+      "どんなポケモンのアメ x20\nにも変えられる特別なアメ。"
     ],
     "item_desc_14": [
-      "Ein großes, sehr besonderes Bonbon,\ndas in 100 Bonbons einer Pokémon-Art\numgewandelt werden kann."
+      "どんなポケモンのアメ x100\nにも変えられる大きな特別なアメ。"
     ],
     "item_desc_15": [
-      "Ein tolles Ticket, das du gegen\n\u000e\u0002\u0002\u0002",
-      " Zutaten eintauschen kannst."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nうれしいチケット。"
     ],
     "item_desc_16": [
-      "Ein großartiges Ticket, das du gegen\n\u000e\u0002\u0002\u0002",
-      " Zutaten eintauschen kannst."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nすてきなチケット。"
     ],
     "item_desc_17": [
-      "Ein wahres Feinschmecker-Ticket, das\ndu gegen \u000e\u0002\u0002\u0002",
-      " Zutaten eintauschen\nkannst."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nくいしんぼう大喜びのチケット。"
     ],
     "item_desc_18": [
-      "Ein mysteriöses Material, das glitzert\nund funkelt. Es kann gegen\n\u000e\u0002\u0005\u0004",
-      "촁 Traumsplitter eingetauscht\nwerden. Du erhältst mehr\nTraumsplitter, wenn dein\nForschungsrang steigt."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。\nリサーチランクが上がると、\n得られるゆめのかけらの量が増える。"
     ],
     "item_desc_19": [
-      "Ein mysteriöses Material, das glitzert\nund funkelt. Es kann gegen\n\u000e\u0002\u0005\u0004",
-      "촁 Traumsplitter eingetauscht\nwerden. Du erhältst mehr\nTraumsplitter, wenn dein\nForschungsrang steigt."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。\nリサーチランクが上がると、\n得られるゆめのかけらの量が増える。"
     ],
     "item_desc_2": [
-      "Verdoppelt die bei der\nSchlafforschung erhaltenen\nTraumsplitter. Wird nach einer\nVerwendung aufgebraucht."
+      "睡眠リサーチでもらえる\nゆめのかけらが2倍になるおこう。\n次回の睡眠リサーチのみ有効。"
     ],
     "item_desc_20": [
-      "Ein mysteriöses Material, das glitzert\nund funkelt. Es kann gegen\n\u000e\u0002\u0005\u0004",
-      "촁 Traumsplitter eingetauscht\nwerden. Du erhältst mehr\nTraumsplitter, wenn dein\nForschungsrang steigt."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。\nリサーチランクが上がると、\n得られるゆめのかけらの量が増える。"
     ],
     "item_desc_21": [
-      "Diese Schnur verströmt eine\nmysteriöse Energie und verleiht ein\nseltsames Gefühl der Verbundenheit.\n"
+      "なにかしらのつながりを感じさせる\nふしぎなエネルギーを秘めているヒモ。"
     ],
     "item_desc_22": [
-      "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er schimmert in den Farben\nOrange und Gelb."
+      "ある特定のポケモンを進化させる\nふしぎな石。だいだい色をしている。"
     ],
     "item_desc_23": [
-      "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er schimmert hellblau."
+      "ある特定のポケモンを進化させる\nふしぎな石。澄んだ水色をしている。"
     ],
     "item_desc_24": [
-      "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er hat ein Blitzmuster."
+      "ある特定のポケモンを進化させる\nふしぎな石。稲妻の模様がある。"
     ],
     "item_desc_25": [
-      "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er hat ein Blattmuster."
+      "ある特定のポケモンを進化させる\nふしぎな石。はっぱの模様がある。"
     ],
     "item_desc_26": [
-      "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er hat ein Schneeflockenmuster."
+      "ある特定のポケモンを進化させる\nふしぎな石。雪の模様がある。"
     ],
     "item_desc_27": [
-      "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er ist dunkel wie die Nacht."
+      "ある特定のポケモンを進化させる\nふしぎな石。夜空のように黒い。"
     ],
     "item_desc_28": [
-      "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er leuchtet hell."
+      "ある特定のポケモンを進化させる\nふしぎな石。ひかりのようにまぶしい。"
     ],
     "item_desc_29": [
-      "Diese Beschichtung löst bei\nbestimmten Pokémon die Entwicklung\naus. Sie besteht aus einem speziellen\nMetall."
+      "ある特定のポケモンを進化させる膜。\n特殊な金属でできている。"
     ],
     "item_desc_3": [
-      "Verdoppelt die EP, die\nHelfer-Pokémon bei der\nSchlafforschung erhalten. Wird nach\neinem Mal Schlafen aufgebraucht."
+      "睡眠リサーチでおてつだいポケモンが\nもらえるEXPが2倍になるおこう。\n次回の睡眠リサーチのみ有効。"
     ],
     "item_desc_30": [
-      "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er ist eiförmig."
+      "ある特定のポケモンを進化させる\nふしぎな石。たまのようにまるい。"
     ],
     "item_desc_31": [
-      "Dieser sonderbare Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er hat die Form einer Krone."
+      "ある特定のポケモンを進化させる\nふしぎな石。王冠の形。"
     ],
     "item_desc_32": [
-      "Ein mysteriöser Samen, der das Level\ndes Haupttalents eines Pokémon um\n1 erhöhen kann."
+      "ポケモンのメインスキルのレベルが\n1つ上がる不思議なたね。"
     ],
     "item_desc_33": [
-      "Ein mysteriöser Samen, mit dem\ndie Qualität eines zufälligen\nNebentalents eines Pokémon\num 1 erhöht wird."
+      "ポケモンのサブスキルのレア度が\nランダムで1つ上がる不思議なたね。"
     ],
     "item_desc_34": [
-      "Garantiert, dass mindestens ein\nbesonders hungriges Pokémon\nwährend der Snackzeit erscheint.\nWird nach einer Verwendung\naufgebraucht."
+      "おやつタイムでポケモンが\n1匹確定でチャンス状態になる。\n次回の睡眠リサーチでのみ有効。"
     ],
     "item_desc_4": [
-      "Verdoppelt die Energie, die\nHelfer-Pokémon nach der\nSchlafforschung wiederherstellen.\nWird nach einem mal Schlafen\naufgebraucht."
+      "睡眠リサーチでおてつだいポケモンの\nげんき回復量が2倍になるおこう。\n次回の睡眠リサーチのみ有効。"
     ],
     "item_desc_5": [
-      "Ein speziell angefertigtes Kissen,\ndas die Energie eines Helfer-Pokémon\num 50 Punkte auffüllt."
+      "おてつだいポケモン1匹の\nげんきを50回復する特製まくら。"
     ],
     "item_desc_6": [
-      "Eine erstaunlich aufweckende Pfeife.\nMit einem Pfiff erhältst du sofort\neine 3-Stundenration an Beeren und\nZutaten. Haupttalente werden dabei\naber nicht ausgelöst."
+      "ポケモンが活発になる特別なホイッスル。\nチームのおてつだい3時間分の\nきのみと食材を受け取れる。\nメインスキルは発動しない。"
     ],
     "item_desc_7": [
-      "Ein besonderes Ticket, mit dem du\njederzeit in ein anderes Gebiet reisen\nkannst.\n(Du kannst nur in Gebiete reisen, die\ndu bereits freigeschaltet hast)"
+      "いつでもフィールドを\n移動することができる特別なチケット。\n※解放されたフィールドにのみ行けます\n※移動すると現時点でのカビゴン評価と、一部のミッションの報酬がリセットされます"
     ],
     "item_desc_8": [
-      "Ermöglicht es, für sieben Tage ein\nProfi-Camping-Set auszuleihen, das\ndeine Forschung erleichtert und\nRelaxo beim Wachsen unterstützt."
+      "カビゴンの育成とリサーチに役立つ\nいいキャンプセットが借りられる。\n効果は7日間有効。"
     ],
     "item_desc_9": [
-      "Ein Snack, der ein Pokémon ein wenig\nfreundlicher stimmt. Dieser Keks\nverleiht einen Freundespunkt."
+      "ポケモンにあげると\nちょっぴり仲良くなれるおやつ。\nフレンドポイントが1上がる。"
     ],
     "item_desc_short_1": [
-      "Verdoppelt die bei der\nSchlafforschung erhaltenen\nForschungspunkte."
+      "睡眠リサーチでもらえる\nリサーチEXPが2倍になる。"
     ],
     "item_desc_short_10": [
-      "Ein leckerer Snack, der ein Pokémon\num einiges freundlicher stimmt.\nVerleiht 3 Freundespunkte."
+      "ポケモンにあげると\nかなり仲良くなれる素敵なおやつ。\nフレンドポイントが3上がる。"
     ],
     "item_desc_short_11": [
-      "Ein ganz besonderer Snack, der die\nFreundespunkte eines Pokémon auf\nden Maximalwert erhöht."
+      "ポケモンにあげると、\n最高に仲良くなれる特別なおやつ。\nフレンドポイントがMAXまで上がる。"
     ],
     "item_desc_short_12": [
-      "Ein kleines aber besonderes Bonbon,\ndas in 3 Bonbons einer Pokémon-Art\numgewandelt werden kann."
+      "どんなポケモンのアメ x3\nにも変えられる小さな特別なアメ。"
     ],
     "item_desc_short_13": [
-      "Ein sehr besonderes Bonbon,\ndas in 20 Bonbons einer Pokémon-Art\numgewandelt werden kann."
+      "どんなポケモンのアメ x20\nにも変えられる特別なアメ。"
     ],
     "item_desc_short_14": [
-      "Ein großes, sehr besonderes Bonbon,\ndas in 100 Bonbons einer Pokémon-Art\numgewandelt werden kann."
+      "どんなポケモンのアメ x100\nにも変えられる大きな特別なアメ。"
     ],
     "item_desc_short_15": [
-      "Ein tolles Ticket, das du gegen\n\u000e\u0002\u0002\u0002",
-      " Zutaten eintauschen kannst."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nうれしいチケット。"
     ],
     "item_desc_short_16": [
-      "Ein großartiges Ticket, das du\ngegen \u000e\u0002\u0002\u0002",
-      " Zutaten eintauschen\nkannst."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nすてきなチケット。"
     ],
     "item_desc_short_17": [
-      "Ein wahres Feinschmecker-Ticket,\ndas du gegen \u000e\u0002\u0002\u0002",
-      " Zutaten\neintauschen kannst."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nくいしんぼう大喜びのチケット。"
     ],
     "item_desc_short_18": [
-      "Ein mysteriöser Brocken, der gegen\n\u000e\u0002\u0004\u0004",
-      "촁 Traumsplitter eingetauscht\nwerden kann."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。"
     ],
     "item_desc_short_19": [
-      "Ein mysteriöser Brocken, der gegen\n\u000e\u0002\u0004\u0004",
-      "촁 Traumsplitter eingetauscht\nwerden kann."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。"
     ],
     "item_desc_short_2": [
-      "Verdoppelt die bei der\nSchlafforschung erhaltenen\nTraumsplitter."
+      "睡眠リサーチでもらえる\nゆめのかけらが2倍になる。"
     ],
     "item_desc_short_20": [
-      "Ein mysteriöser Brocken, der gegen\n\u000e\u0002\u0004\u0004",
-      "촁 Traumsplitter eingetauscht\nwerden kann."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。"
     ],
     "item_desc_short_21": [
-      "Diese Schnur verströmt mysteriöse\nEnergie und verleiht ein seltsames\nGefühl der Verbundenheit."
+      "なにかしらのつながりを感じさせる\nふしぎなエネルギーを秘めているヒモ。"
     ],
     "item_desc_short_22": [
-      "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er schimmert in\nden Farben Orange und Gelb."
+      "ある特定のポケモンを進化させる\nふしぎな石。だいだい色をしている。"
     ],
     "item_desc_short_23": [
-      "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er schimmert\nhellblau."
+      "ある特定のポケモンを進化させる\nふしぎな石。澄んだ水色をしている。"
     ],
     "item_desc_short_24": [
-      "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er hat ein\nBlitzmuster."
+      "ある特定のポケモンを進化させる\nふしぎな石。稲妻の模様がある。"
     ],
     "item_desc_short_25": [
-      "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er hat ein\nBlattmuster."
+      "ある特定のポケモンを進化させる\nふしぎな石。はっぱの模様がある。"
     ],
     "item_desc_short_26": [
-      "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er hat ein\nSchneeflockenmuster."
+      "ある特定のポケモンを進化させる\nふしぎな石。雪の模様がある。"
     ],
     "item_desc_short_27": [
-      "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er ist dunkel wie\ndie Nacht."
+      "ある特定のポケモンを進化させる\nふしぎな石。夜空のように黒い。"
     ],
     "item_desc_short_28": [
-      "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er leuchtet hell."
+      "ある特定のポケモンを進化させる\nふしぎな石。ひかりのようにまぶしい。"
     ],
     "item_desc_short_29": [
-      "Beschichtung aus speziellem Metall,\ndie bei bestimmten Pokémon die\nEntwicklung auslöst."
+      "ある特定のポケモンを進化させる膜。\n特殊な金属でできている。"
     ],
     "item_desc_short_3": [
-      "Verdoppelt bei der Schlafforschung\nerhaltene EP von Helfer-Pokémon."
+      "睡眠リサーチでおてつだいポケモンが\nもらえるEXPが2倍になる。"
     ],
     "item_desc_short_30": [
-      "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er ist eiförmig."
+      "ある特定のポケモンを進化させる\nふしぎな石。たまのようにまるい。"
     ],
     "item_desc_short_31": [
-      "Löst bei bestimmten Pokémon die\nEntwicklung aus. Dieser sonderbare\nStein hat die Form einer Krone."
+      "ある特定のポケモンを進化させる\nふしぎな石。王冠の形。"
     ],
     "item_desc_short_32": [
-      "Dieser Samen kann das Level des\nHaupttalents eines Pokémon um 1\nerhöhen."
+      "ポケモンのメインスキルのレベルが\n1つ上がる不思議なたね。"
     ],
     "item_desc_short_33": [
-      "Ein Samen, mit dem die Qualität\neines zufälligen Nebentalents eines\nPokémon um 1 erhöht wird."
+      "ポケモンのサブスキルのレア度が\nランダムで1つ上がる不思議なたね。"
     ],
     "item_desc_short_34": [
-      "Dieser Rauch stellt sicher, dass\nmindestens ein Pokémon zur\nSnackzeit besonders hungrig ist."
+      "おやつタイムでポケモンが\n1匹確定でチャンス状態になる。"
     ],
     "item_desc_short_4": [
-      "Verdoppelt die Energie, die\nHelfer-Pokémon bei der\nSchlafforschung wiederherstellen."
+      "睡眠リサーチでおてつだいポケモンの\nげんき回復量が2倍になる。"
     ],
     "item_desc_short_5": [
-      "Ein speziell angefertigtes Kissen,\ndas die Energie eines Helfer-\nPokémon um 50 Punkte auffüllt."
+      "おてつだいポケモン1匹の\nげんきを50回復する特製まくら。"
     ],
     "item_desc_short_6": [
-      "Mit einem Pfiff dieser Pfeife,\nerhältst du eine 3-Stundenration an\nBeeren und Zutaten."
+      "ポケモンが活発になる特別なホイッスル。\nチームのおてつだい3時間分の\nきのみと食材を受け取れる。"
     ],
     "item_desc_short_7": [
-      "Besonderes Ticket zum jederzeit\nin ein anderes Gebiet Reisen."
+      "いつでもフィールドを\n移動することができる特別なチケット。"
     ],
     "item_desc_short_8": [
-      "Lässt dich ein Profi-Camping-Set\nfür 7 Tage nutzen, das Forschung\nerleichtert und Relaxo unterstützt."
+      "カビゴンの育成とリサーチに役立つ\nいいキャンプセットが借りられる。\n効果は7日間有効。"
     ],
     "item_desc_short_9": [
-      "Ein Snack, der ein Pokémon ein\nwenig freundlicher stimmt. Verleiht\n1 Freundespunkt."
+      "ポケモンにあげると\nちょっぴり仲良くなれるおやつ。\nフレンドポイントが1上がる。"
     ],
     "item_name_1": [
-      "Fokusrauch"
+      "しゅうちゅうのおこう"
     ],
     "item_name_10": [
-      "Superkeks"
+      "スーパーサブレ"
     ],
     "item_name_11": [
-      "Meisterkeks"
+      "マスターサブレ"
     ],
     "item_name_12": [
-      "Universalbonbon S"
+      "ばんのうアメS"
     ],
     "item_name_13": [
-      "Universalbonbon M"
+      "ばんのうアメM"
     ],
     "item_name_14": [
-      "Universalbonbon L"
+      "ばんのうアメL"
     ],
     "item_name_15": [
-      "Zutaten-Ticket S"
+      "食材チケットS"
     ],
     "item_name_16": [
-      "Zutaten-Ticket M"
+      "食材チケットM"
     ],
     "item_name_17": [
-      "Zutaten-Ticket L"
+      "食材チケットL"
     ],
     "item_name_18": [
-      "Traumbrocken S"
+      "ゆめのかたまりS"
     ],
     "item_name_19": [
-      "Traumbrocken M"
+      "ゆめのかたまりM"
     ],
     "item_name_2": [
-      "Glücksrauch"
+      "こううんのおこう"
     ],
     "item_name_20": [
-      "Traumbrocken L"
+      "ゆめのかたまりL"
     ],
     "item_name_21": [
-      "Verbindungsschnur"
+      "つながりのヒモ"
     ],
     "item_name_22": [
-      "Feuerstein"
+      "ほのおのいし"
     ],
     "item_name_23": [
-      "Wasserstein"
+      "みずのいし"
     ],
     "item_name_24": [
-      "Donnerstein"
+      "かみなりのいし"
     ],
     "item_name_25": [
-      "Blattstein"
+      "リーフのいし"
     ],
     "item_name_26": [
-      "Eisstein"
+      "こおりのいし"
     ],
     "item_name_27": [
-      "Mondstein"
+      "つきのいし"
     ],
     "item_name_28": [
-      "Leuchtstein"
+      "ひかりのいし"
     ],
     "item_name_29": [
-      "Metallmantel"
+      "メタルコート"
     ],
     "item_name_3": [
-      "EP-Rauch"
+      "せいちょうのおこう"
     ],
     "item_name_30": [
-      "Ovaler Stein"
+      "まんまるいし"
     ],
     "item_name_31": [
-      "King-Stein"
+      "おうじゃのしるし"
     ],
     "item_name_32": [
-      "Haupttalentsamen"
+      "メインスキルのたね"
     ],
     "item_name_33": [
-      "Nebentalentsamen"
+      "サブスキルのたね"
     ],
     "item_name_34": [
-      "Freundesrauch"
+      "なかよしのおこう"
     ],
     "item_name_4": [
-      "Erholungsrauch"
+      "かいふくのおこう"
     ],
     "item_name_5": [
-      "Energiekissen"
+      "げんきマクラ"
     ],
     "item_name_6": [
-      "Helferpfeife"
+      "おてつだいホイッスル"
     ],
     "item_name_7": [
-      "Schlaftaxi-Ticket"
+      "フィールドいどうチケット"
     ],
     "item_name_8": [
-      "Profi-Camping-Ticket"
+      "いいキャンプチケット"
     ],
     "item_name_9": [
-      "Pokékeks"
+      "ポケサブレ"
     ]
   },
   "structure": {
@@ -1022,7 +1022,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14518,
+        "size": 6104,
         "unknown1": 0,
         "unknown2": 0
       }

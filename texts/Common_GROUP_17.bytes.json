@@ -12,6 +12,12 @@
     "CommomMultipleRewardsGetPopup_SectionTitle": [
       "Erhaltene Belohnungen"
     ],
+    "CommonGroup_UnknownError_Message": [
+      "Ein unbekannter Fehler ist\naufgetreten. Bitte starte die App neu."
+    ],
+    "CommonGroup_UnknownError_Title": [
+      "Unbekannter Fehler"
+    ],
     "CommonIncenseDetailPopup_Title": [
       "Itemeffekte"
     ],
@@ -49,8 +55,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 14,
-        "size": 102,
+        "entries": 16,
+        "size": 116,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -58,7 +64,7 @@
     "LBL1": {
       "header": {
         "entries": 11,
-        "size": 588,
+        "size": 660,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -109,9 +115,13 @@
             [
               10,
               "CommomMultipleRewardsGetPopup_HeadTitle"
+            ],
+            [
+              15,
+              "CommonGroup_UnknownError_Message"
             ]
           ],
-          418
+          455
         ],
         [
           [
@@ -128,23 +138,23 @@
               "CommonRenamePopup_PlaceholderPoke"
             ]
           ],
-          522
+          559
         ],
         [
           [],
-          522
+          559
         ],
         [
           [],
-          522
+          559
         ],
         [
           [],
-          522
+          559
         ],
         [
           [],
-          522
+          559
         ],
         [
           [
@@ -153,11 +163,16 @@
               "CommonIncenseDetailPopup_Title"
             ]
           ],
-          557
+          594
         ],
         [
-          [],
-          557
+          [
+            [
+              14,
+              "CommonGroup_UnknownError_Title"
+            ]
+          ],
+          629
         ],
         [
           [
@@ -166,7 +181,7 @@
               "CommonRenamePopup_OKButton"
             ]
           ],
-          588
+          660
         ]
       ]
     },
@@ -192,8 +207,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 14,
-        "size": 664,
+        "entries": 16,
+        "size": 842,
         "unknown1": 0,
         "unknown2": 0
       }

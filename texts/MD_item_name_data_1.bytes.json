@@ -1,330 +1,322 @@
 {
   "strings": {
     "item_desc_1": [
-      "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce."
+      "讓透過睡眠研究得到的\n研究EXP變成2倍的薰香。\n只在下次的睡眠研究有效。"
     ],
     "item_desc_10": [
-      "Buon dolcetto che rende molto più\namici i Pokémon. Dà 3 punti amicizia."
+      "餵給寶可夢後，\n能和牠變得相當友好的精美點心。\n友情點數會提高3。"
     ],
     "item_desc_11": [
-      "Dolcetto speciale che rende i Pokémon\npiù amici che mai. Porta al massimo\ni punti amicizia."
+      "餵給寶可夢後，\n能和牠變得無比友好的特別點心。\n友情點數會提高到MAX。"
     ],
     "item_desc_12": [
-      "Caramella piccola ma molto speciale\nche si può trasformare in 3 caramelle\ndi qualunque specie di Pokémon."
+      "特別的小糖果。\n能轉換成3個任何一種寶可夢的糖果。"
     ],
     "item_desc_13": [
-      "Caramella molto speciale che si può\ntrasformare in 20 caramelle di\nqualunque specie di Pokémon."
+      "特別的糖果。\n能轉換成20個任何一種寶可夢的糖果。"
     ],
     "item_desc_14": [
-      "Caramella grande e molto speciale che\nsi può trasformare in 100 caramelle\ndi qualunque specie di Pokémon."
+      "特別的大糖果。\n能轉換成100個任何一種寶可夢的糖果。"
     ],
     "item_desc_15": [
-      "Ottimo biglietto che si può scambiare\ncon \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀 per cucinare."
+      "很棒的票券。\n能讓您得到若干食材共\u000e\u0002\u0002\u0002",
+      "個。"
     ],
     "item_desc_16": [
-      "Biglietto fantastico che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀\nper cucinare."
+      "人見人愛的票券。\n能讓您得到若干食材共\u000e\u0002\u0002\u0002",
+      "個。"
     ],
     "item_desc_17": [
-      "Biglietto per palati fini, che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀\nper cucinare."
+      "讓貪吃鬼高興得不得了的票券。\n能讓您得到若干食材共\u000e\u0002\u0002\u0002",
+      "個。"
     ],
     "item_desc_18": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 framment\u000e\u0005",
-      "\n\u0002o\u0002i촀 di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
+      "閃閃發亮的神奇固體。\n可兌換\u000e\u0002\u0005\u0004",
+      "촁個夢之碎片。\n隨著研究階級提升，\n能得到的夢之碎片也會增加。"
     ],
     "item_desc_19": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
+      "閃閃發亮的神奇固體。\n可兌換\u000e\u0002\u0005\u0004",
+      "촁個夢之碎片。\n隨著研究階級提升，\n能得到的夢之碎片也會增加。"
     ],
     "item_desc_2": [
-      "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce."
+      "讓透過睡眠研究得到的\n夢之碎片變成2倍的薰香。\n只在下次的睡眠研究有效。"
     ],
     "item_desc_20": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
+      "閃閃發亮的神奇固體。\n可兌換\u000e\u0002\u0005\u0004",
+      "촁個夢之碎片。\n隨著研究階級提升，\n能得到的夢之碎片也會增加。"
     ],
     "item_desc_21": [
-      "Filo dotato di una misteriosa energia\nche lascia percepire un inspiegabile senso di connessione."
+      "蘊藏著不可思議能量的繩子，\n能從中感受到某種聯繫。"
     ],
     "item_desc_22": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. È gialla e arancione."
+      "能讓特定寶可夢進化的神奇石頭。\n看起來是橙黃色的。"
     ],
     "item_desc_23": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. Ha delle macchioline azzurre."
+      "能讓特定寶可夢進化的神奇石頭。\n看起來是澄澈的藍色。"
     ],
     "item_desc_24": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. Riporta l'immagine di un fulmine."
+      "能讓特定寶可夢進化的神奇石頭。\n上面有著閃電花紋。"
     ],
     "item_desc_25": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. Riporta l'immagine di una foglia."
+      "能讓特定寶可夢進化的神奇石頭。\n上面有著葉子花紋。"
     ],
     "item_desc_26": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. Riporta l'immagine di un fiocco di neve."
+      "能讓特定寶可夢進化的神奇石頭。\n有著雪花般的花紋。"
     ],
     "item_desc_27": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. È nera come la notte."
+      "能讓特定寶可夢進化的神奇石頭。\n像夜空一樣深黑。"
     ],
     "item_desc_28": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. Brilla di una luce abbagliante."
+      "能讓特定寶可夢進化的神奇石頭。\n像光芒一樣耀眼。"
     ],
     "item_desc_29": [
-      "Pellicola che fa evolvere determinate\nspecie di Pokémon. È in un metallo particolare."
+      "特殊的金屬膜，\n可讓特定寶可夢進化。"
     ],
     "item_desc_3": [
-      "Raddoppia i PE ottenuti dagli aiutanti\ndopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce."
+      "讓幫手寶可夢透過睡眠研究\n得到的經驗值變成2倍的薰香。\n只在下次的睡眠研究有效。"
     ],
     "item_desc_30": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. È a forma di uovo."
+      "能讓特定寶可夢進化的神奇石頭。\n像珠子一般圓潤。"
     ],
     "item_desc_31": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. È a forma di corona."
+      "能讓特定寶可夢進化的神奇石頭。\n形狀如同王冠。"
     ],
     "item_desc_32": [
-      "Un seme misterioso che fa aumentare\ndi 1 livello le tecniche principali."
+      "讓寶可夢的主技能等級\n提高1的神奇種子。"
     ],
     "item_desc_33": [
-      "Seme misterioso che migliora di 1\nla qualità di un'abilità secondaria\na caso di un Pokémon. "
+      "讓寶可夢的副技能稀有度\n隨機提高1的神奇種子。"
     ],
     "item_desc_34": [
-      "Fa sì che per lo spuntino appaia\nalmeno un Pokémon particolarmente\naffamato. Dura una sola dormita e poi\nsparisce."
+      "在點心時間時，必定有1隻\n寶可夢為餵食機會的狀態。\n只在下次的睡眠研究有效。"
     ],
     "item_desc_4": [
-      "Raddoppia l'energia recuperata dagli\naiutanti dopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce."
+      "讓幫手寶可夢透過睡眠研究\n回復活力時，回復量變成2倍的薰香。\n只在下次的睡眠研究有效。"
     ],
     "item_desc_5": [
-      "Cuscino ad hoc che fa recuperare\n50 energie a un solo Pokémon\naiutante."
+      "能讓1隻幫手寶可夢的活力\n回復50的特製枕頭。"
     ],
     "item_desc_6": [
-      "Fischietto molto energizzante.\nBasta un fischio e la squadra di\naiutanti raccoglierà subito le bacche\ne gli ingredienti ottenibili in tre ore.\nLe abilità principali, però, non saranno\nattivate."
+      "讓寶可夢變活躍的特別的哨子。\n能領取相當於隊伍幫忙\n3小時份的樹果和食材。"
     ],
     "item_desc_7": [
-      "Biglietto speciale che permette di\ncambiare punto in ogni momento.\n(Solo di aree già sbloccate)"
+      "特別的票券。\n能隨時移動到不同的營地。\n※只能移動到已開放的營地。\n※移動營地後，當下的卡比獸級別，\n以及部分任務報酬就會重置。"
     ],
     "item_desc_8": [
-      "Permette di prendere in prestito\nper 7 giorni un Set da campeggio\nbuono, utile per le ricerche e per\nfar crescere Snorlax."
+      "能借用有助於進行研究，\n以及培育卡比獸的好露營組合。\n效果將在7天內有效。"
     ],
     "item_desc_9": [
-      "Dolcetto che rende un po' più amici\ni Pokémon. Dà 1 punto amicizia."
+      "餵給寶可夢後，\n能和牠變得有點友好的點心。\n友情點數會提高1。"
     ],
     "item_desc_short_1": [
-      "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno."
+      "透過睡眠研究得到的\n研究EXP變成2倍。"
     ],
     "item_desc_short_10": [
-      "Buon dolcetto che rende molto più\namici i Pokémon. Dà 3 punti amicizia."
+      "餵給寶可夢後，\n能和牠變得相當友好的精美點心。\n友情點數會提高3。"
     ],
     "item_desc_short_11": [
-      "Dolcetto speciale che rende\ni Pokémon più amici che mai.\nPorta al massimo i punti amicizia."
+      "餵給寶可夢後，\n能和牠變得無比友好的特別點心。\n友情點數會提高到MAX。"
     ],
     "item_desc_short_12": [
-      "Caramella piccola ma molto speciale\nche si può trasformare in 3 caramelle\ndi qualunque specie di Pokémon."
+      "特別的小糖果。\n能轉換成3個任何一種寶可夢的糖果。"
     ],
     "item_desc_short_13": [
-      "Caramella molto speciale che si può\ntrasformare in 20 caramelle di\nqualunque specie di Pokémon."
+      "特別的糖果。\n能轉換成20個任何一種寶可夢的糖果。"
     ],
     "item_desc_short_14": [
-      "Caramella grande e molto speciale\nche si può trasformare in 100\ncaramelle di qualunque specie di Pokémon."
+      "特別的大糖果。\n能轉換成100個任何一種寶可夢的糖果。"
     ],
     "item_desc_short_15": [
-      "Ottimo biglietto che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀."
+      "很棒的票券。\n能讓您得到若干食材共\u000e\u0002\u0002\u0002",
+      "個。"
     ],
     "item_desc_short_16": [
-      "Biglietto fantastico che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀."
+      "人見人愛的票券。\n能讓您得到若干食材共\u000e\u0002\u0002\u0002",
+      "個。"
     ],
     "item_desc_short_17": [
-      "Biglietto per palati fini, che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀."
+      "讓貪吃鬼高興得不得了的票券。\n能讓您得到若干食材共\u000e\u0002\u0002\u0002",
+      "個。"
     ],
     "item_desc_short_18": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 framment\u000e\u0005",
-      "\n\u0002o\u0002i촀 di sogno."
+      "閃閃發亮的神奇固體。\n可兌換\u000e\u0002\u0005\u0004",
+      "촁個夢之碎片。"
     ],
     "item_desc_short_19": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sogno."
+      "閃閃發亮的神奇固體。\n可兌換\u000e\u0002\u0005\u0004",
+      "촁個夢之碎片。"
     ],
     "item_desc_short_2": [
-      "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno."
+      "透過睡眠研究得到的\n夢之碎片變成2倍。"
     ],
     "item_desc_short_20": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sogno."
+      "閃閃發亮的神奇固體。\n可兌換\u000e\u0002\u0005\u0004",
+      "촁個夢之碎片。"
     ],
     "item_desc_short_21": [
-      "Filo dotato di una misteriosa energia\nche lascia percepire un inspiegabile senso di connessione."
+      "蘊藏著不可思議能量的繩子，\n能從中感受到某種聯繫。"
     ],
     "item_desc_short_22": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. È gialla e arancione."
+      "能讓特定寶可夢進化的神奇石頭。\n看起來是橙黃色的。"
     ],
     "item_desc_short_23": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. Ha delle macchioline azzurre."
+      "能讓特定寶可夢進化的神奇石頭。\n看起來是澄澈的藍色。"
     ],
     "item_desc_short_24": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nRiporta l'immagine di un fulmine."
+      "能讓特定寶可夢進化的神奇石頭。\n上面有著閃電花紋。"
     ],
     "item_desc_short_25": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nRiporta l'immagine di una foglia."
+      "能讓特定寶可夢進化的神奇石頭。\n上面有著葉子花紋。"
     ],
     "item_desc_short_26": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. Riporta l'immagine di un fiocco di neve."
+      "能讓特定寶可夢進化的神奇石頭。\n有著雪花般的花紋。"
     ],
     "item_desc_short_27": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. È nera come la notte."
+      "能讓特定寶可夢進化的神奇石頭。\n像夜空一樣深黑。"
     ],
     "item_desc_short_28": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. Brilla di una luce abbagliante."
+      "能讓特定寶可夢進化的神奇石頭。\n像光芒一樣耀眼。"
     ],
     "item_desc_short_29": [
-      "Pellicola che fa evolvere determinate\nspecie di Pokémon. È in un metallo particolare."
+      "特殊的金屬膜，\n可讓特定寶可夢進化。"
     ],
     "item_desc_short_3": [
-      "Raddoppia i PE ottenuti dagli\naiutanti dopo la ricerca sul sonno."
+      "幫手寶可夢透過睡眠研究\n得到的經驗值變成2倍。"
     ],
     "item_desc_short_30": [
-      "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. È a forma di uovo."
+      "能讓特定寶可夢進化的神奇石頭。\n像珠子一般圓潤。"
     ],
     "item_desc_short_31": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ a forma di corona."
+      "能讓特定寶可夢進化的神奇石頭。\n形狀如同王冠。"
     ],
     "item_desc_short_32": [
-      "Un seme misterioso che fa aumentare\ndi 1 livello le tecniche principali."
+      "讓寶可夢的主技能等級\n提高1的神奇種子。"
     ],
     "item_desc_short_33": [
-      "Seme misterioso che migliora di 1\nla qualità di un'abilità secondaria\na caso di un Pokémon. "
+      "讓寶可夢的副技能稀有度\n隨機提高1的神奇種子。"
     ],
     "item_desc_short_34": [
-      "Fa sì che per lo spuntino\nappaia almeno un Pokémon\nparticolarmente affamato."
+      "在點心時間時，必定有1隻\n寶可夢為餵食機會的狀態。"
     ],
     "item_desc_short_4": [
-      "Raddoppia l'energia recuperata\ndagli aiutanti dopo la ricerca\nsul sonno."
+      "幫手寶可夢透過睡眠研究\n回復活力時，回復量變成2倍。"
     ],
     "item_desc_short_5": [
-      "Cuscino ad hoc che fa recuperare\n50 energie a un solo Pokémon\naiutante."
+      "能讓1隻幫手寶可夢的活力\n回復50的特製枕頭。"
     ],
     "item_desc_short_6": [
-      "Fischietto molto energizzante che\npermette di ricevere subito bacche\ne ingredienti ottenibili in tre ore."
+      "讓寶可夢變活躍的特別的哨子。\n能領取相當於隊伍幫忙\n3小時份的樹果和食材。"
     ],
     "item_desc_short_7": [
-      "Biglietto speciale che permette di\ncambiare punto in ogni momento."
+      "能隨時移動到不同營地的特別票券。"
     ],
     "item_desc_short_8": [
-      "Permette di prendere in prestito\nper 7 giorni un Set da campeggio\nbuono, utile per ricerche e Snorlax."
+      "能借用有助於進行研究，\n以及培育卡比獸的好露營組合。\n效果將在7天內有效。"
     ],
     "item_desc_short_9": [
-      "Dolcetto che rende un po' più amici\ni Pokémon. Dà 1 punto amicizia."
+      "餵給寶可夢後，\n能和牠變得有點友好的點心。\n友情點數會提高1。"
     ],
     "item_name_1": [
-      "Concentraroma"
+      "專注薰香"
     ],
     "item_name_10": [
-      "Megabiscotto"
+      "超級沙布蕾"
     ],
     "item_name_11": [
-      "Masterbiscotto"
+      "大師沙布蕾"
     ],
     "item_name_12": [
-      "Jollymella S"
+      "萬能糖果S"
     ],
     "item_name_13": [
-      "Jollymella M"
+      "萬能糖果M"
     ],
     "item_name_14": [
-      "Jollymella L"
+      "萬能糖果L"
     ],
     "item_name_15": [
-      "Biglietto ingredienti S"
+      "食材券S"
     ],
     "item_name_16": [
-      "Biglietto ingredienti M"
+      "食材券M"
     ],
     "item_name_17": [
-      "Biglietto ingredienti L"
+      "食材券L"
     ],
     "item_name_18": [
-      "Blocco di sogni S"
+      "夢之塊S"
     ],
     "item_name_19": [
-      "Blocco di sogni M"
+      "夢之塊M"
     ],
     "item_name_2": [
-      "Fortunaroma "
+      "幸運薰香"
     ],
     "item_name_20": [
-      "Blocco di sogni L"
+      "夢之塊L"
     ],
     "item_name_21": [
-      "Filo dell'unione"
+      "聯繫繩"
     ],
     "item_name_22": [
-      "Pietrafocaia"
+      "火之石"
     ],
     "item_name_23": [
-      "Pietraidrica"
+      "水之石"
     ],
     "item_name_24": [
-      "Pietratuono"
+      "雷之石"
     ],
     "item_name_25": [
-      "Pietrafoglia"
+      "葉之石"
     ],
     "item_name_26": [
-      "Pietragelo"
+      "冰之石"
     ],
     "item_name_27": [
-      "Pietralunare"
+      "月之石"
     ],
     "item_name_28": [
-      "Pietrabrillo"
+      "光之石"
     ],
     "item_name_29": [
-      "Metalcopertura"
+      "金屬膜"
     ],
     "item_name_3": [
-      "Cresciaroma"
+      "成長薰香"
     ],
     "item_name_30": [
-      "Pietraovale"
+      "渾圓之石"
     ],
     "item_name_31": [
-      "Roccia di re"
+      "王者之證"
     ],
     "item_name_32": [
-      "Seme abilità principale"
+      "主技能種子"
     ],
     "item_name_33": [
-      "Seme abilità secondaria"
+      "副技能種子"
     ],
     "item_name_34": [
-      "Affiataroma"
+      "友好薰香"
     ],
     "item_name_4": [
-      "Risanaroma"
+      "回復薰香"
     ],
     "item_name_5": [
-      "Cuscino energia"
+      "活力枕頭"
     ],
     "item_name_6": [
-      "Fischietto aiutanti"
+      "幫手哨子"
     ],
     "item_name_7": [
-      "Biglietto sonnotrasporto"
+      "營地移動券"
     ],
     "item_name_8": [
-      "Biglietto buoncampeggio"
+      "好露營券"
     ],
     "item_name_9": [
-      "Pokébiscotto"
+      "寶可沙布蕾"
     ]
   },
   "structure": {
@@ -1030,7 +1022,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14372,
+        "size": 4766,
         "unknown1": 0,
         "unknown2": 0
       }
