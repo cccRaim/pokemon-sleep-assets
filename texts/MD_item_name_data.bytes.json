@@ -101,7 +101,7 @@
       "An especially energizing whistle.\nOne blow, and your team of helpers\nwill gather 3 hours' worth of Berries\nand ingredients for you. This will not\ncause main skills to trigger."
     ],
     "item_desc_7": [
-      "A special ticket that lets you move\nto another site at any time.\n(You can only move to areas you have\nalready unlocked.)\n(Changing fields will reset Snorlax’s\nrating and certain missions.)"
+      "A special ticket that lets you move\nto another site at any time.\n(You can only move to areas you have\nalready unlocked.)\n(Changing fields will reset Snorlax’s\nrating and certain mission rewards.)"
     ],
     "item_desc_8": [
       "Lets you borrow a Good Camp Set\nfor seven days to aid your research\nand help you raise Snorlax."
@@ -1024,7 +1024,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14494,
+        "size": 14508,
         "unknown1": 0,
         "unknown2": 0
       }

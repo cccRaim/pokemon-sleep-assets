@@ -1,0 +1,82 @@
+{
+  "strings": {
+    "md_event_sleeping_face_params_1": [
+      "Leicht erhöhte Chance:"
+    ],
+    "md_event_sleeping_face_params_2": [
+      "Erhöhte Chance:"
+    ],
+    "md_event_sleeping_face_params_3": [
+      "Stark erhöhte Chance:"
+    ]
+  },
+  "structure": {
+    "ATR1": {
+      "header": {
+        "entries": 3,
+        "size": 25,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    },
+    "LBL1": {
+      "header": {
+        "entries": 2,
+        "size": 124,
+        "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      },
+      "lists": [
+        [
+          [
+            [
+              1,
+              "md_event_sleeping_face_params_2"
+            ]
+          ],
+          52
+        ],
+        [
+          [
+            [
+              0,
+              "md_event_sleeping_face_params_1"
+            ],
+            [
+              2,
+              "md_event_sleeping_face_params_3"
+            ]
+          ],
+          124
+        ]
+      ]
+    },
+    "MSBT": {
+      "header": {
+        "byte_order": "<",
+        "encoding": "UTF-16",
+        "section_order": [
+          "LBL1",
+          "ATR1",
+          "TXT2"
+        ],
+        "sections": 3,
+        "unknowns": [
+          [
+            0,
+            3,
+            0,
+            "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+          ]
+        ]
+      }
+    },
+    "TXT2": {
+      "header": {
+        "entries": 3,
+        "size": 134,
+        "unknown1": 0,
+        "unknown2": 0
+      }
+    }
+  }
+}

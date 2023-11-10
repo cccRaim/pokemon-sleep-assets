@@ -1,10 +1,10 @@
 {
   "strings": {
     "item_desc_1": [
-      "Duplica los PE de estudio obtenidos\ntras una sesión de estudio del sueño,\ntras lo cual se consume."
+      "Duplica los PE de estudio obtenidos\ntras una sesión de estudio del sueño.\nSe consume al usarlo."
     ],
     "item_desc_10": [
-      "Dulce que aumenta bastante el nivel\nde amistad de un Pokémon.\nProporciona 3 puntos de amistad."
+      "Dulce que aumenta bastante el nivel\nde amistad de un Pokémon.\nProporciona tres puntos de amistad."
     ],
     "item_desc_11": [
       "Dulce especial que aumenta mucho el\nnivel de amistad de un Pokémon.\nSube al máximo los puntos de amistad."
@@ -19,11 +19,11 @@
       "Caramelo grande y muy especial\nque puede convertirse en 100 de\nlos específicos para cada especie\nde Pokémon."
     ],
     "item_desc_15": [
-      "Jugoso cupón que puedes canjear por\n\u000e\u0002\u0002\u0002",
+      "Estupendo cupón que puedes canjear\npor \u000e\u0002\u0002\u0002",
       " ingredientes."
     ],
     "item_desc_16": [
-      "Delicioso cupón que puedes canjear\npor \u000e\u0002\u0002\u0002",
+      "Espléndido cupón que puedes canjear\npor \u000e\u0002\u0002\u0002",
       " ingredientes."
     ],
     "item_desc_17": [
@@ -43,7 +43,7 @@
       "\u0002s촀 de sueños.\nEl número que recibas aumentará a\nmedida que suba tu rango de estudio."
     ],
     "item_desc_2": [
-      "Duplica la cantidad de fragmentos de\nsueño obtenidos tras una sesión de\nestudio, tras lo cual se consume."
+      "Duplica la cantidad de fragmentos de\nsueños obtenidos tras una sesión de\nestudio. Se consume al usarlo."
     ],
     "item_desc_20": [
       "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
@@ -52,7 +52,7 @@
       "\u0002s촀 de sueños.\nEl número que recibas aumentará a\nmedida que suba tu rango de estudio."
     ],
     "item_desc_21": [
-      "Cordón que emite una singular energía\ncapaz de transmitir una extraña\nsensación de conexión. Ciertos\nPokémon lo adoran."
+      "Cordón que emite una singular energía\ncapaz de transmitir una extraña\nsensación de conexión."
     ],
     "item_desc_22": [
       "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nEs amarilla con una marca naranja."
@@ -76,49 +76,49 @@
       "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nTiene un brillo espectacular."
     ],
     "item_desc_29": [
-      "Película metálica que potencia los\nmovimientos de tipo Acero. Debe\nllevarlo un Pokémon."
+      "Película metálica que potencia los\nmovimientos de tipo Acero.\nEstá hecha de un metal especial."
     ],
     "item_desc_3": [
-      "Duplica los PE de estudio de los\nPokémon ayudantes tras una sesión\nde estudio, tras lo cual se consume."
+      "Duplica los PE de estudio de los\nPokémon ayudantes tras una sesión\nde estudio. Se consume al usarlo."
     ],
     "item_desc_30": [
       "Curiosa piedra que hace evolucionar a\nuna determinada especie de Pokémon.\nTiene forma de huevo."
     ],
     "item_desc_31": [
-      "El Pokémon que la lleva puede\namedrentar al objetivo al que inflige\ndaño con un ataque."
+      "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Tiene forma de corona."
     ],
     "item_desc_32": [
-      "Semilla misteriosa sube un nivel la\nhabilidad principal de un Pokémon."
+      "Semilla misteriosa que sube un nivel la\nhabilidad principal de un Pokémon."
     ],
     "item_desc_33": [
-      "Semilla misteriosa que sube un nivel\nuna habilidad secundaria al azar de un\nPokémon."
+      "Semilla misteriosa que sube un nivel\nla calidad de una habilidad secundaria\nal azar de un Pokémon."
     ],
     "item_desc_34": [
-      "Incienso que asegura que al menos un\nPokémon particularmente hambriento\naparezca a la hora del picoteo, tras lo\ncual se consume."
+      "Incienso que asegura que al menos un\nPokémon particularmente hambriento\naparezca a la hora del picoteo.\nSe consume al usarlo."
     ],
     "item_desc_4": [
-      "Duplica la energía que recuperan los\nPokémon ayudantes tras una sesión de\nestudio, tras lo cual se consume."
+      "Duplica la energía que recuperan los\nPokémon ayudantes tras una sesión de\nestudio. Se consume al usarlo."
     ],
     "item_desc_5": [
-      "Almohada especial que restaura\n50 puntos de energía a un Pokémon\nayudante."
+      "Almohada especial que restablece\n50 puntos de energía a un Pokémon\nayudante."
     ],
     "item_desc_6": [
       "Hace que tus ayudantes te traigan al\ninstante las bayas e ingredientes que\nhabrían tardado 3 horas en recoger.\nNo activa las habilidades principales."
     ],
     "item_desc_7": [
-      "Billete que te permite desplazarte\ncuando quieras a una zona de estudio\nque hayas desbloqueado previamente."
+      "Billete que permite desplazarse en\ncualquier momento a una zona de\nestudio ya desbloqueada.\nCambiar de zona reiniciará la\nvaloración de Snorlax y determinadas\nmisiones."
     ],
     "item_desc_8": [
       "Permite alquilar durante siete días un\nLote de Acampada, útil para el estudio\nde sueño y para criar a Snorlax."
     ],
     "item_desc_9": [
-      "Dulce que aumenta ligeramente el\nnivel de amistad de un Pokémon.\nProporciona 1 punto de amistad."
+      "Dulce que aumenta ligeramente el\nnivel de amistad de un Pokémon.\nProporciona un punto de amistad."
     ],
     "item_desc_short_1": [
-      "Duplica los PE de estudio obtenidos\ntras una sesión de estudio del\nsueño, tras lo cual se consume."
+      "Duplica los PE de estudio obtenidos\ntras una sesión de estudio del\nsueño. Se consume al usarlo."
     ],
     "item_desc_short_10": [
-      "Dulce que aumenta bastante el\nnivel de amistad de un Pokémon.\nProporciona 3 puntos de amistad."
+      "Dulce que aumenta bastante el\nnivel de amistad de un Pokémon.\nProporciona tres puntos de amistad."
     ],
     "item_desc_short_11": [
       "Dulce especial que sube al máximo\nlos puntos de amistad de un\nPokémon."
@@ -133,11 +133,11 @@
       "Caramelo grande y muy especial\nque puede convertirse en 100 de\nlos específicos para cada Pokémon."
     ],
     "item_desc_short_15": [
-      "Jugoso cupón que puedes canjear\npor \u000e\u0002\u0002\u0002",
+      "Estupendo cupón que puedes\ncanjear por \u000e\u0002\u0002\u0002",
       " ingredientes."
     ],
     "item_desc_short_16": [
-      "Delicioso cupón que puedes canjear\npor \u000e\u0002\u0002\u0002",
+      "Espléndido cupón que puedes\ncanjear por \u000e\u0002\u0002\u0002",
       " ingredientes."
     ],
     "item_desc_short_17": [
@@ -157,7 +157,7 @@
       "\u0002s촀 de sueños."
     ],
     "item_desc_short_2": [
-      "Duplica la cantidad de fragmentos\nde sueño obtenidos tras una sesión\nde estudio, tras lo cual se consume."
+      "Duplica la cantidad de fragmentos\nde sueños obtenidos tras una sesión\nde estudio. Se consume al usarlo."
     ],
     "item_desc_short_20": [
       "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
@@ -190,34 +190,34 @@
       "Curiosa piedra que hace evolucionar\na ciertas especies de Pokémon.\nTiene un brillo espectacular."
     ],
     "item_desc_short_29": [
-      "Película metálica que potencia los\nmovimientos de tipo Acero. Debe\nllevarlo un Pokémon."
+      "Película metálica que potencia los\nmovimientos de tipo Acero. Está\nhecha de un metal especial."
     ],
     "item_desc_short_3": [
-      "Duplica los PE de estudio de los\nPokémon ayudantes tras una sesión\nde estudio, tras lo cual se consume."
+      "Duplica los PE de estudio de los\nPokémon ayudantes tras una sesión\nde estudio. Se consume al usarlo."
     ],
     "item_desc_short_30": [
       "Curiosa piedra que hace evolucionar\na una determinada especie de\nPokémon. Tiene forma de huevo."
     ],
     "item_desc_short_31": [
-      "El Pokémon que la lleva puede\namedrentar al objetivo al que\ninflige daño con un ataque."
+      "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Tiene forma de corona."
     ],
     "item_desc_short_32": [
-      "Semilla misteriosa sube un nivel la\nhabilidad principal de un Pokémon."
+      "Semilla misteriosa que sube un nivel\nla habilidad principal de un\nPokémon."
     ],
     "item_desc_short_33": [
-      "Semilla misteriosa que sube un nivel\nuna habilidad secundaria al azar de\nun Pokémon."
+      "Semilla misteriosa que sube un nivel\nla calidad de una habilidad\nsecundaria al azar de un Pokémon."
     ],
     "item_desc_short_34": [
       "Incienso que asegura la aparición de\nal menos un Pokémon especialmente\nhambriento a la hora del picoteo."
     ],
     "item_desc_short_4": [
-      "Duplica la energía que recuperan\nlos Pokémon ayudantes tras una\nsesión, tras lo cual se consume."
+      "Duplica la energía que recuperan los\nPokémon ayudantes tras una sesión\nde estudio . Se consume al usarlo."
     ],
     "item_desc_short_5": [
-      "Almohada especial que restaura\n50 puntos de energía a un Pokémon\nayudante."
+      "Almohada especial que restablece\n50 puntos de energía a un Pokémon\nayudante."
     ],
     "item_desc_short_6": [
-      "Suministra las bayas e ingredientes\nque se obtendrían en 3 horas. No\nactiva las habilidades principales."
+      "Suministra las bayas e ingredientes\nque se obtendrían en tres horas. No\nactiva las habilidades principales."
     ],
     "item_desc_short_7": [
       "Billete especial que te permite\ndesplazarte a otra zona en\ncualquier momento."
@@ -226,10 +226,10 @@
       "Permite alquilar durante siete días\nun Lote de Acampada, útil para tu\nestudio y para criar a Snorlax."
     ],
     "item_desc_short_9": [
-      "Dulce que aumenta ligeramente el\nnivel de amistad de un Pokémon.\nProporciona 1 punto de amistad."
+      "Dulce que aumenta ligeramente el\nnivel de amistad de un Pokémon.\nProporciona un punto de amistad."
     ],
     "item_name_1": [
-      "incienso concentración"
+      "Incienso concentración"
     ],
     "item_name_10": [
       "Supergalleta"
@@ -238,34 +238,34 @@
       "Megagalleta"
     ],
     "item_name_12": [
-      "multimelo S"
+      "Multimelo S"
     ],
     "item_name_13": [
-      "multimelo M"
+      "Multimelo M"
     ],
     "item_name_14": [
-      "multimelo L"
+      "Multimelo L"
     ],
     "item_name_15": [
-      "cupón ingredientes S"
+      "Cupón ingredientes S"
     ],
     "item_name_16": [
-      "cupón ingredientes M"
+      "Cupón ingredientes M"
     ],
     "item_name_17": [
-      "cupón ingredientes L"
+      "Cupón ingredientes L"
     ],
     "item_name_18": [
-      "cúmulo de sueños S"
+      "Cúmulo de sueños S"
     ],
     "item_name_19": [
-      "cúmulo de sueños M"
+      "Cúmulo de sueños M"
     ],
     "item_name_2": [
-      "incienso duplo"
+      "Incienso duplo"
     ],
     "item_name_20": [
-      "cúmulo de sueños L"
+      "Cúmulo de sueños L"
     ],
     "item_name_21": [
       "Cordón Unión"
@@ -295,7 +295,7 @@
       "Revestimiento Metálico"
     ],
     "item_name_3": [
-      "incienso desarrollo"
+      "Incienso desarrollo"
     ],
     "item_name_30": [
       "Piedra Oval"
@@ -304,28 +304,28 @@
       "Roca del Rey"
     ],
     "item_name_32": [
-      "semilla habilidad principal"
+      "Semilla habilidad principal"
     ],
     "item_name_33": [
-      "semilla habilidad secundaria"
+      "Semilla habilidad secundaria"
     ],
     "item_name_34": [
-      "incienso afecto"
+      "Incienso afecto"
     ],
     "item_name_4": [
-      "incienso reparador"
+      "Incienso reparador"
     ],
     "item_name_5": [
       "Energialmohada"
     ],
     "item_name_6": [
-      "silbato de apoyo"
+      "Silbato de apoyo"
     ],
     "item_name_7": [
-      "billete de sueñotaxi"
+      "Billete de sueñotaxi"
     ],
     "item_name_8": [
-      "cupón de acampada"
+      "Cupón de acampada"
     ],
     "item_name_9": [
       "Pokégalleta"
@@ -1034,7 +1034,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14838,
+        "size": 15054,
         "unknown1": 0,
         "unknown2": 0
       }

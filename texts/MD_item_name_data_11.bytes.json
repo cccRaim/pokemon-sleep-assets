@@ -1,346 +1,324 @@
 {
   "strings": {
     "item_desc_1": [
-      "Duplica la EXP de estudio obtenida\ntras una sesión de estudio del sueño.\nSe consume al usarlo."
+      "Doubles the research EXP gained\nafter sleep research. Good for one\nsleep session, then consumed."
     ],
     "item_desc_10": [
-      "Dulce que aumenta bastante el nivel\nde amistad de un Pokémon.\nProporciona tres puntos de amistad."
+      "A nice treat that will make a Pokémon\nquite a bit more friendly toward you.\nThis biscuit gives three friendship\npoints."
     ],
     "item_desc_11": [
-      "Dulce especial que aumenta mucho el\nnivel de amistad de un Pokémon.\nSube al máximo los puntos de amistad."
+      "A special treat that will make a\nPokémon as friendly as can be. This\nbiscuit maxes out friendship points."
     ],
     "item_desc_12": [
-      "Caramelo pequeño y muy especial\nque puede convertirse en 3 de los\nespecíficos para cada especie de\nPokémon."
+      "A small but very special candy that\ncan be turned into 3 candies for any\nspecies of Pokémon."
     ],
     "item_desc_13": [
-      "Caramelo muy especial que puede\nconvertirse en 20 de los específicos\npara cada especie de Pokémon."
+      "A very special candy that can be\nturned into 20 candies for any species\nof Pokémon."
     ],
     "item_desc_14": [
-      "Caramelo grande y muy especial\nque puede convertirse en 100 de\nlos específicos para cada especie\nde Pokémon."
+      "A large and very special candy that\ncan be turned into 100 candies for\nany species of Pokémon."
     ],
     "item_desc_15": [
-      "Estupendo cupón que puede canjearse\npor \u000e\u0002\u0002\u0002",
-      " ingrediente\u000e\u0007",
-      "\b",
-      "\u0002s촀."
+      "A great ticket you can exchange for\n\u000e\u0002\u0002\u0002",
+      " cooking ingredients."
     ],
     "item_desc_16": [
-      "Espléndido cupón que puede canjearse\npor \u000e\u0002\u0002\u0002",
-      " ingrediente\u000e\u0007",
-      "\b",
-      "\u0002s촀."
+      "A superb ticket you can exchange for\n\u000e\u0002\u0002\u0002",
+      " cooking ingredients."
     ],
     "item_desc_17": [
-      "Cupón para sibaritas que puede\ncanjearse por \u000e\u0002\u0002\u0002",
-      " ingrediente\u000e\u0007",
-      "\b",
-      "\u0002s촀."
+      "A gourmet ticket you can exchange\nfor \u000e\u0002\u0002\u0002",
+      " cooking ingredients."
     ],
     "item_desc_18": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
-      "촁 fragmento\u000e\u0007",
-      "\b",
-      "\u0002s촀 de sueños.\nRecibirás más a medida que suba\ntu rango de estudio."
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
+      "촁 Dream \u000e\u0001",
+      "\u001c\nShard\fShards촀.\nThe number of Dream Shards you\nreceive will increase as your research\nrank rises."
     ],
     "item_desc_19": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
-      "촁 fragmento\u000e\u0007",
-      "\b",
-      "\u0002s촀 de sueños.\nRecibirás más a medida que suba\ntu rango de estudio."
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
+      "촁 Dream Shards.\nThe number of Dream Shards you\nreceive will increase as your research\nrank rises."
     ],
     "item_desc_2": [
-      "Duplica la cantidad de fragmentos de\nsueños obtenidos tras una sesión de\nestudio. Se consume al usarlo."
+      "Doubles the Dream Shards received\nafter sleep research. Good for one\nsleep session, then consumed."
     ],
     "item_desc_20": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
-      "촁 fragmento\u000e\u0007",
-      "\b",
-      "\u0002s촀 de sueños.\nRecibirás más a medida que suba\ntu rango de estudio."
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
+      "촁 Dream Shards.\nThe number of Dream Shards you\nreceive will increase as your research\nrank rises."
     ],
     "item_desc_21": [
-      "Cordón que emite una singular energía\ncapaz de transmitir una extraña\nsensación de conexión."
+      "A string exuding a mysterious energy\nthat makes you feel a strange sense\nof connection."
     ],
     "item_desc_22": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nEs amarilla con una marca naranja."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a fiery orange heart."
     ],
     "item_desc_23": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nEs de color azul."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is the clear blue of a deep pool."
     ],
     "item_desc_24": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nTiene grabado un rayo."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a distinct thunderbolt pattern."
     ],
     "item_desc_25": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nTiene grabada una hoja."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has an unmistakable leaf pattern."
     ],
     "item_desc_26": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nPresenta motivos que recuerdan a los\ncristales de hielo."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a snowflake pattern in it."
     ],
     "item_desc_27": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nEs oscura como el cielo nocturno."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is dark like the night sky."
     ],
     "item_desc_28": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nTiene un brillo espectacular."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt shines with a dazzling light."
     ],
     "item_desc_29": [
-      "Película metálica que hace evolucionar\na determinadas especies de Pokémon.\nEstá hecha de un metal especial."
+      "A metallic coating that can make\ncertain species of Pokémon evolve.\nIt is made of a special metal."
     ],
     "item_desc_3": [
-      "Duplica la EXP de los Pokémon\nayudantes tras una sesión de estudio.\nSe consume al usarlo."
+      "Doubles the EXP that helpers gain\nafter sleep research. Good for one\nsleep session, then consumed."
     ],
     "item_desc_30": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nTiene forma redonda."
+      "A peculiar stone that can make a\ncertain species of Pokémon evolve.\nIt is round and smooth."
     ],
     "item_desc_31": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nTiene forma de corona."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is shaped like a crown."
     ],
     "item_desc_32": [
-      "Semilla misteriosa que sube un nivel\nla habilidad principal de un Pokémon."
+      "A mysterious seed that can raise the\nlevel of a Pokémon’s main skill by one."
     ],
     "item_desc_33": [
-      "Semilla misteriosa que mejora un\nnivel los efectos de una habilidad\nsecundaria al azar de un Pokémon."
+      "A mysterious seed that can improve\nthe quality of a Pokémon’s random\nsub skill by one."
     ],
     "item_desc_34": [
-      "Incienso que asegura que al menos un\nPokémon especialmente hambriento\naparezca a la hora del picoteo.\nSe consume al usarlo."
+      "Ensures that at least one Pokémon\nwill appear during snack time feeling\nparticularly hungry. Good for one\nsleep session, then consumed."
     ],
     "item_desc_4": [
-      "Duplica la energía que recuperan los\nPokémon ayudantes tras una sesión de\nestudio. Se consume al usarlo."
+      "Doubles the Energy that helpers\nrecover after sleep research. Good\nfor one sleep session, then consumed."
     ],
     "item_desc_5": [
-      "Almohada especial que restablece\n50 puntos de energía a un Pokémon\nayudante."
+      "A specially made pillow that restores\n50 Energy to a single helper Pokémon."
     ],
     "item_desc_6": [
-      "Hace que los ayudantes traigan al\ninstante las bayas e ingredientes que\nhabrían tardado 3 horas en recoger.\nNo activa las habilidades principales."
+      "An especially energizing whistle.\nOne blow, and your team of helpers\nwill gather three hours’ worth of\nBerries and ingredients for you.\nThis will not cause main skills\nto trigger."
     ],
     "item_desc_7": [
-      "Billete que permite desplazarse en\ncualquier momento a una zona de\nestudio ya desbloqueada."
+      "A special ticket that lets you move\nto another site at any time.\n(You can only move to areas you have\nalready unlocked.)\n(Changing fields will reset Snorlax’s\nrating and certain mission rewards.)"
     ],
     "item_desc_8": [
-      "Permite alquilar durante siete días\nun Lote de Acampada, útil para el\nestudio del sueño y criar a Snorlax."
+      "Lets you borrow a Good Camp Set\nfor seven days to aid your research\nand help you raise Snorlax."
     ],
     "item_desc_9": [
-      "Dulce que aumenta ligeramente el\nnivel de amistad de un Pokémon.\nProporciona un punto de amistad."
+      "A treat that will make a Pokémon a\nlittle more friendly toward you. This\nbiscuit gives one friendship point."
     ],
     "item_desc_short_1": [
-      "Duplica la EXP de estudio recibida\ntras un estudio del sueño."
+      "Doubles the research EXP gained\nafter sleep research."
     ],
     "item_desc_short_10": [
-      "Dulce que aumenta bastante el\nnivel de amistad de un Pokémon.\nProporciona tres puntos de amistad."
+      "A nice treat that will make a\nPokémon quite a bit more friendly.\nGives 3 friendship points."
     ],
     "item_desc_short_11": [
-      "Dulce especial que sube al máximo\nlos puntos de amistad de un\nPokémon."
+      "A special treat that will make a\nPokémon as friendly as can be.\nMaxes out friendship points."
     ],
     "item_desc_short_12": [
-      "Caramelo pequeño y muy especial\nque puede convertirse en 3 de los\nespecíficos para cada Pokémon."
+      "A small but very special candy that\ncan be turned into 3 candies for\nany species of Pokémon."
     ],
     "item_desc_short_13": [
-      "Caramelo muy especial que puede\nconvertirse en 20 de los específicos\npara cada especie de Pokémon."
+      "A very special candy that can be\nturned into 20 candies for any\nspecies of Pokémon."
     ],
     "item_desc_short_14": [
-      "Caramelo grande y muy especial\nque puede convertirse en 100 de\nlos específicos para cada Pokémon."
+      "A large and very special candy that\ncan be turned into 100 candies for\nany species of Pokémon."
     ],
     "item_desc_short_15": [
-      "Estupendo cupón que se puede\ncanjear por \u000e\u0002\u0002\u0002",
-      " ingrediente\u000e\u0007",
-      "\b",
-      "\u0002s촀."
+      "A great ticket you can exchange for\n\u000e\u0002\u0002\u0002",
+      " cooking ingredients."
     ],
     "item_desc_short_16": [
-      "Espléndido cupón que se puede\ncanjear por \u000e\u0002\u0002\u0002",
-      " ingrediente\u000e\u0007",
-      "\b",
-      "\u0002s촀."
+      "A superb ticket you can exchange\nfor \u000e\u0002\u0002\u0002",
+      " cooking ingredients."
     ],
     "item_desc_short_17": [
-      "Cupón para sibaritas que se puede\ncanjear por \u000e\u0002\u0002\u0002",
-      " ingrediente\u000e\u0007",
-      "\b",
-      "\u0002s촀."
+      "A gourmet ticket you can exchange\nfor \u000e\u0002\u0002\u0002",
+      " cooking ingredients."
     ],
     "item_desc_short_18": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
-      "촁 fragmento\u000e\u0007",
-      "\b",
-      "\u0002s촀 de sueños."
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
+      "촁 Dream \u000e\u0001",
+      "\u001c\nShard\fShards촀."
     ],
     "item_desc_short_19": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
-      "촁 fragmento\u000e\u0007",
-      "\b",
-      "\u0002s촀 de sueños."
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
+      "촁 Dream Shards."
     ],
     "item_desc_short_2": [
-      "Duplica los fragmentos de sueños\nrecibidos tras un estudio del sueño."
+      "Doubles the Dream Shards received\nafter sleep research."
     ],
     "item_desc_short_20": [
-      "Misterioso cúmulo centelleante\nque puede intercambiarse por\n\u000e\u0002\u0005\u0004",
-      "촁 fragmento\u000e\u0007",
-      "\b",
-      "\u0002s촀 de sueños."
+      "A mysterious mass that sparkles\nbrilliantly. It can be exchanged for\n\u000e\u0002\u0005\u0004",
+      "촁 Dream Shards."
     ],
     "item_desc_short_21": [
-      "Cordón que emite una singular\nenergía capaz de transmitir una\nextraña sensación de conexión."
+      "A string exuding a mysterious\nenergy that makes you feel a\nstrange sense of connection."
     ],
     "item_desc_short_22": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Es amarilla y naranja."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a fiery orange heart."
     ],
     "item_desc_short_23": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Es de color azul."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is the clear blue of a deep pool."
     ],
     "item_desc_short_24": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Tiene grabado un rayo."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a thunderbolt pattern in it."
     ],
     "item_desc_short_25": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Tiene grabada una hoja."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a leaf pattern in it."
     ],
     "item_desc_short_26": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Tiene un cristal de hielo."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a snowflake pattern in it."
     ],
     "item_desc_short_27": [
-      "Curiosa piedra que hace evolucionar\na ciertas especies de Pokémon.\nEs oscura como el cielo nocturno."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is dark like the night sky."
     ],
     "item_desc_short_28": [
-      "Curiosa piedra que hace evolucionar\na ciertas especies de Pokémon.\nTiene un brillo espectacular."
+      "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt shines with a dazzling light."
     ],
     "item_desc_short_29": [
-      "Película de un metal especial que\nhace evolucionar a determinadas\nespecies de Pokémon."
+      "A metallic coating that can make\ncertain species of Pokémon evolve.\nIt is made of a special metal."
     ],
     "item_desc_short_3": [
-      "Duplica la EXP que reciben los\nPokémon ayudantes tras un estudio\ndel sueño."
+      "Doubles the EXP that helpers gain\nafter sleep research."
     ],
     "item_desc_short_30": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Tiene forma redonda."
+      "A peculiar stone that can make a\ncertain species of Pokémon evolve.\nIt is round and smooth."
     ],
     "item_desc_short_31": [
-      "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Tiene forma de corona."
+      "A peculiar stone that can make \ncertain species of Pokémon evolve.\nIt is shaped like a crown."
     ],
     "item_desc_short_32": [
-      "Semilla misteriosa que sube un nivel\nla habilidad principal de un\nPokémon."
+      "A mysterious seed that can raise\nthe level of a Pokémon’s main skill\nby one."
     ],
     "item_desc_short_33": [
-      "Semilla misteriosa que mejora un\nnivel los efectos de una habilidad\nsecundaria al azar de un Pokémon."
+      "A mysterious seed that can improve\nthe quality of a Pokémon’s random\nsub skill by one."
     ],
     "item_desc_short_34": [
-      "Incienso que asegura la aparición de\nal menos un Pokémon especialmente\nhambriento a la hora del picoteo."
+      "Ensures that at least one Pokémon\nwill appear during snack time\nfeeling particularly hungry."
     ],
     "item_desc_short_4": [
-      "Duplica la energía que recuperan los\nPokémon ayudantes tras un estudio\ndel sueño."
+      "Doubles the Energy that helpers\nrecover after sleep research."
     ],
     "item_desc_short_5": [
-      "Almohada especial que restablece\n50 puntos de energía a un Pokémon\nayudante."
+      "A specially made pillow that\nrestores 50 Energy to a single\nhelper Pokémon."
     ],
     "item_desc_short_6": [
-      "Permite recibir al instante bayas\ne ingredientes que, de otro modo,\ntardarían tres horas en obtenerse."
+      "An especially energizing whistle.\nOne blow, and you’ll get 3 hours’\nworth of Berries and ingredients."
     ],
     "item_desc_short_7": [
-      "Billete especial que permite\ndesplazarse a otra zona en\ncualquier momento."
+      "A special ticket that lets you move\nto another site at any time."
     ],
     "item_desc_short_8": [
-      "Permite alquilar durante siete días\nun Lote de Acampada, útil para el\nestudio del sueño y criar a Snorlax."
+      "Lets you borrow a Good Camp Set\nfor seven days to aid your research\nand help you raise Snorlax."
     ],
     "item_desc_short_9": [
-      "Dulce que aumenta ligeramente el\nnivel de amistad de un Pokémon.\nProporciona un punto de amistad."
+      "A treat that will make a Pokémon\na little more friendly toward you.\nGives 1 friendship point."
     ],
     "item_name_1": [
-      "Incienso Concentración"
+      "Focus Incense"
     ],
     "item_name_10": [
-      "Supergalleta"
+      "Great Biscuit"
     ],
     "item_name_11": [
-      "Megagalleta"
+      "Master Biscuit"
     ],
     "item_name_12": [
-      "Multimelo S"
+      "Handy Candy S"
     ],
     "item_name_13": [
-      "Multimelo M"
+      "Handy Candy M"
     ],
     "item_name_14": [
-      "Multimelo L"
+      "Handy Candy L"
     ],
     "item_name_15": [
-      "Cupón Ingredientes S"
+      "Ingredient Ticket S"
     ],
     "item_name_16": [
-      "Cupón Ingredientes M"
+      "Ingredient Ticket M"
     ],
     "item_name_17": [
-      "Cupón Ingredientes L"
+      "Ingredient Ticket L"
     ],
     "item_name_18": [
-      "Cúmulo de Sueños S"
+      "Dream Cluster S"
     ],
     "item_name_19": [
-      "Cúmulo de Sueños M"
+      "Dream Cluster M"
     ],
     "item_name_2": [
-      "Incienso Duplo"
+      "Luck Incense"
     ],
     "item_name_20": [
-      "Cúmulo de Sueños L"
+      "Dream Cluster L"
     ],
     "item_name_21": [
-      "Cordón Unión"
+      "Linking Cord"
     ],
     "item_name_22": [
-      "Piedra Fuego"
+      "Fire Stone"
     ],
     "item_name_23": [
-      "Piedra Agua"
+      "Water Stone"
     ],
     "item_name_24": [
-      "Piedra Trueno"
+      "Thunder Stone"
     ],
     "item_name_25": [
-      "Piedra Hoja"
+      "Leaf Stone"
     ],
     "item_name_26": [
-      "Piedra Hielo"
+      "Ice Stone"
     ],
     "item_name_27": [
-      "Piedra Lunar"
+      "Moon Stone"
     ],
     "item_name_28": [
-      "Piedra Día"
+      "Shiny Stone"
     ],
     "item_name_29": [
-      "Revestimiento Metálico"
+      "Metal Coat"
     ],
     "item_name_3": [
-      "Incienso Desarrollo"
+      "Growth Incense"
     ],
     "item_name_30": [
-      "Piedra Oval"
+      "Oval Stone"
     ],
     "item_name_31": [
-      "Roca del Rey"
+      "King’s Rock"
     ],
     "item_name_32": [
-      "Semilla Habilidad Principal"
+      "Main Skill Seed"
     ],
     "item_name_33": [
-      "Semilla Habilidad Secundaria"
+      "Sub Skill Seed"
     ],
     "item_name_34": [
-      "Incienso Afecto"
+      "Friend Incense"
     ],
     "item_name_4": [
-      "Incienso Reparador"
+      "Recovery Incense"
     ],
     "item_name_5": [
-      "Energialmohada"
+      "Energy Pillow"
     ],
     "item_name_6": [
-      "Silbato de Apoyo"
+      "Helper Whistle"
     ],
     "item_name_7": [
-      "Billete de Sueñotaxi"
+      "E-Zzz Travel Ticket"
     ],
     "item_name_8": [
-      "Cupón de Acampada"
+      "Good Camp Ticket"
     ],
     "item_name_9": [
-      "Pokégalleta"
+      "Poké Biscuit"
     ]
   },
   "structure": {
@@ -1046,7 +1024,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14610,
+        "size": 14514,
         "unknown1": 0,
         "unknown2": 0
       }
