@@ -104,6 +104,12 @@
     "SleepResearchSummaryScene_ResearchPoint_Title": [
       "랭크"
     ],
+    "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text": [
+      "리서치 랭크가 상한에 도달했으므로\n리서치 EXP는 자동으로\n꿈의조각으로 변환되었습니다"
+    ],
+    "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title": [
+      "리서치 랭크 상한 보너스"
+    ],
     "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": [
       "리서치 랭크가 최대로 올랐습니다\n업데이트에서 리서치 랭크의 상한이\n개방될 때까지 기다려 주십시오"
     ],
@@ -148,8 +154,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 41,
-        "size": 291,
+        "entries": 43,
+        "size": 305,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -157,7 +163,7 @@
     "LBL1": {
       "header": {
         "entries": 23,
-        "size": 1899,
+        "size": 2024,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -261,12 +267,22 @@
           855
         ],
         [
-          [],
-          855
+          [
+            [
+              42,
+              "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text"
+            ]
+          ],
+          917
         ],
         [
-          [],
-          855
+          [
+            [
+              41,
+              "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title"
+            ]
+          ],
+          980
         ],
         [
           [
@@ -279,7 +295,7 @@
               "TodayPhoto_SleepingFaceName"
             ]
           ],
-          920
+          1045
         ],
         [
           [
@@ -288,7 +304,7 @@
               "SleepResearchSummaryScene_Coin_Num"
             ]
           ],
-          959
+          1084
         ],
         [
           [
@@ -301,7 +317,7 @@
               "SleepResearchSummaryScene_Background_base_Name_2"
             ]
           ],
-          1050
+          1175
         ],
         [
           [
@@ -318,7 +334,7 @@
               "SleepResearchSummaryScene_ResearchRankMaxPopup_Text"
             ]
           ],
-          1187
+          1312
         ],
         [
           [
@@ -335,7 +351,7 @@
               "SleepResearchSummaryScene_Background_base_Name_4"
             ]
           ],
-          1323
+          1448
         ],
         [
           [
@@ -352,7 +368,7 @@
               "TodayPhoto_ChangePhotoDesc"
             ]
           ],
-          1450
+          1575
         ],
         [
           [
@@ -365,7 +381,7 @@
               "TodayPhoto_PokemonNameAndType"
             ]
           ],
-          1536
+          1661
         ],
         [
           [
@@ -374,11 +390,11 @@
               "SleepResearchSummaryScene_RankupView_Title_item"
             ]
           ],
-          1588
+          1713
         ],
         [
           [],
-          1588
+          1713
         ],
         [
           [
@@ -391,11 +407,11 @@
               "TodayPhoto_ResearchDate"
             ]
           ],
-          1649
+          1774
         ],
         [
           [],
-          1649
+          1774
         ],
         [
           [
@@ -408,11 +424,11 @@
               "SleepResearchSummaryScene_Header_Title_PokemonList_CellName"
             ]
           ],
-          1739
+          1864
         ],
         [
           [],
-          1739
+          1864
         ],
         [
           [
@@ -433,7 +449,7 @@
               "SleepResearchSummaryScene_ResearchRankMaxPopup_Title"
             ]
           ],
-          1899
+          2024
         ]
       ]
     },
@@ -459,8 +475,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 41,
-        "size": 1166,
+        "entries": 43,
+        "size": 1298,
         "unknown1": 0,
         "unknown2": 0
       }

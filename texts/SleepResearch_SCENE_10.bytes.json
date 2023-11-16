@@ -248,6 +248,13 @@
       "\u0003\u0004",
       "＀ après votre\npremière recherche du jour."
     ],
+    "SleepResearchScene_EventPopup_Text_4": [
+      "\u000e",
+      "\u0003\u0004毿ＷVous pourrez peut-être rencontrer\nun \u000e\u0003\u0001\u0002",
+      " chromatique !\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
     "SleepResearchScene_EventPopup_Title": [
       "Bonus d'évènement"
     ],
@@ -347,8 +354,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 87,
-        "size": 613,
+        "entries": 88,
+        "size": 620,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -356,7 +363,7 @@
     "LBL1": {
       "header": {
         "entries": 47,
-        "size": 4706,
+        "size": 4747,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -427,9 +434,13 @@
             [
               70,
               "SleepResearchScene_BaitBallInforPopup_Success_Title"
+            ],
+            [
+              87,
+              "SleepResearchScene_EventPopup_Text_4"
             ]
           ],
-          812
+          853
         ],
         [
           [
@@ -446,7 +457,7 @@
               "SleepResearchScene_ResearchFinishCutin_Message"
             ]
           ],
-          969
+          1010
         ],
         [
           [
@@ -455,7 +466,7 @@
               "SleepResearchBonusBaitBallResultPopup_Section_Title"
             ]
           ],
-          1025
+          1066
         ],
         [
           [
@@ -472,7 +483,7 @@
               "SleepResearchBonusBaitBallWaitPopup_Desc"
             ]
           ],
-          1184
+          1225
         ],
         [
           [
@@ -485,7 +496,7 @@
               "SleepResearchScene_PokemonChance_Display"
             ]
           ],
-          1293
+          1334
         ],
         [
           [
@@ -498,7 +509,7 @@
               "SleepResearchScene_NoBaitBallPopup_Message"
             ]
           ],
-          1383
+          1424
         ],
         [
           [
@@ -511,7 +522,7 @@
               "SleepResearchMultiResearchErrorPopup_Title"
             ]
           ],
-          1469
+          1510
         ],
         [
           [
@@ -528,7 +539,7 @@
               "SleepResearchScene_BaitBallInforPopup_Chance_Title"
             ]
           ],
-          1609
+          1650
         ],
         [
           [
@@ -541,7 +552,7 @@
               "SleepResearchScene_Header_Month_12"
             ]
           ],
-          1707
+          1748
         ],
         [
           [
@@ -550,7 +561,7 @@
               "SleepResearchScene_BaitBallInforPopup_Success_Desc"
             ]
           ],
-          1762
+          1803
         ],
         [
           [
@@ -563,7 +574,7 @@
               "SleepResearchScene_Header_Month_1"
             ]
           ],
-          1845
+          1886
         ],
         [
           [
@@ -576,7 +587,7 @@
               "SleepResearchScene_BaitBallInforPopup_BaitBallInfo_Name_Point_Master"
             ]
           ],
-          1956
+          1997
         ],
         [
           [
@@ -589,7 +600,7 @@
               "SleepResearchScene_BaitBallInforPopup_Chance_Desc"
             ]
           ],
-          2048
+          2089
         ],
         [
           [
@@ -606,7 +617,7 @@
               "SleepResearchScene_BaitBallUse_LoadingMessage"
             ]
           ],
-          2183
+          2224
         ],
         [
           [
@@ -619,7 +630,7 @@
               "SleepResearchScene_Header_Month_5"
             ]
           ],
-          2275
+          2316
         ],
         [
           [
@@ -628,7 +639,7 @@
               "SleepResearchScene_Header_Month_6"
             ]
           ],
-          2313
+          2354
         ],
         [
           [
@@ -641,7 +652,7 @@
               "SleepResearchScene_BaitBallInforPopup_Full_Desc"
             ]
           ],
-          2403
+          2444
         ],
         [
           [
@@ -654,7 +665,7 @@
               "SleepResearchScene_BaitBallUse_Footer_ItemName"
             ]
           ],
-          2492
+          2533
         ],
         [
           [
@@ -667,7 +678,7 @@
               "SleepResearchScene_Header_Month_9"
             ]
           ],
-          2589
+          2630
         ],
         [
           [
@@ -680,7 +691,7 @@
               "PokemonSleepObjectSingleUI_Heart_Count"
             ]
           ],
-          2689
+          2730
         ],
         [
           [
@@ -693,15 +704,15 @@
               "SleepResearchScene_BaitBallInforPopup_BaitBallInfo_Title"
             ]
           ],
-          2812
+          2853
         ],
         [
           [],
-          2812
+          2853
         ],
         [
           [],
-          2812
+          2853
         ],
         [
           [
@@ -718,7 +729,7 @@
               "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Desc"
             ]
           ],
-          2962
+          3003
         ],
         [
           [
@@ -731,7 +742,7 @@
               "SleepResearchScene_EventPopup_Title"
             ]
           ],
-          3042
+          3083
         ],
         [
           [
@@ -744,7 +755,7 @@
               "SleepResearchSceneController_Text_3"
             ]
           ],
-          3135
+          3176
         ],
         [
           [
@@ -757,7 +768,7 @@
               "SleepResearchSceneController_Text_4"
             ]
           ],
-          3235
+          3276
         ],
         [
           [
@@ -778,7 +789,7 @@
               "SleepResearchSceneController_Text_5"
             ]
           ],
-          3430
+          3471
         ],
         [
           [
@@ -791,7 +802,7 @@
               "SleepResearchScene_NoBaitBallPopup_Title"
             ]
           ],
-          3534
+          3575
         ],
         [
           [
@@ -808,7 +819,7 @@
               "SleepResearchScene_BaitBallInforPopup_Title"
             ]
           ],
-          3677
+          3718
         ],
         [
           [
@@ -817,7 +828,7 @@
               "SleepResearchBonusBaitBallResultPopup_Cell_Result_Nice"
             ]
           ],
-          3736
+          3777
         ],
         [
           [
@@ -826,7 +837,7 @@
               "SleepResearchSceneController_Text_9"
             ]
           ],
-          3776
+          3817
         ],
         [
           [
@@ -839,7 +850,7 @@
               "SleepResearchScene_ManualRewardPopup_Title"
             ]
           ],
-          3886
+          3927
         ],
         [
           [
@@ -856,7 +867,7 @@
               "SleepResearchScene_BaitBallInforPopup_Full_Title"
             ]
           ],
-          4039
+          4080
         ],
         [
           [
@@ -865,7 +876,7 @@
               "SleepResearchScene_BaitBallInforPopup_Success_Desc_Small_1"
             ]
           ],
-          4102
+          4143
         ],
         [
           [
@@ -878,7 +889,7 @@
               "SleepResearchScene_ManualRewardPopup_Text_1"
             ]
           ],
-          4213
+          4254
         ],
         [
           [
@@ -891,7 +902,7 @@
               "SleepResearchScene_ManualRewardPopup_Text_2"
             ]
           ],
-          4322
+          4363
         ],
         [
           [
@@ -900,7 +911,7 @@
               "SleepResearchBaitBallPhaseEndConfirmPopup_Desc"
             ]
           ],
-          4373
+          4414
         ],
         [
           [
@@ -909,7 +920,7 @@
               "SleepResearchScene_ManualRewardPopup_Num"
             ]
           ],
-          4418
+          4459
         ],
         [
           [
@@ -922,7 +933,7 @@
               "SleepResearchScene_BaitBallInforPopup_BaitBallInfo_Name_Point"
             ]
           ],
-          4544
+          4585
         ],
         [
           [
@@ -939,7 +950,7 @@
               "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc"
             ]
           ],
-          4706
+          4747
         ]
       ]
     },
@@ -965,8 +976,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 87,
-        "size": 7340,
+        "entries": 88,
+        "size": 7482,
         "unknown1": 0,
         "unknown2": 0
       }

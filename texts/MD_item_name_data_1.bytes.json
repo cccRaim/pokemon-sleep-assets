@@ -50,7 +50,7 @@
       "촁 frammenti di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
     ],
     "item_desc_21": [
-      "Filo dotato di una misteriosa energia\nche lascia percepire un inspiegabile senso di connessione."
+      "Filo dotato di una misteriosa energia\nche fa percepire un inspiegabile\nsenso di connessione.\n\nSe usato dalla tasca strumenti\ndella Borsa, permette di ricevere\n5 caramelle di un Pokémon in grado\ndi evolversi con questo strumento."
     ],
     "item_desc_22": [
       "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. È gialla e arancione."
@@ -162,7 +162,7 @@
       "촁 frammenti di sogno."
     ],
     "item_desc_short_21": [
-      "Filo dotato di una misteriosa energia\nche lascia percepire un inspiegabile senso di connessione."
+      "Filo che fa percepire un inspiegabile\nsenso di connessione. Si può usare\nanche dalla Borsa."
     ],
     "item_desc_short_22": [
       "Pietra particolare che fa evolvere determinate\nspecie di Pokémon. È gialla e arancione."
@@ -1030,7 +1030,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14592,
+        "size": 14846,
         "unknown1": 0,
         "unknown2": 0
       }

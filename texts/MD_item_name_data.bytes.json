@@ -47,7 +47,7 @@
       "촁 Dream Shards.\nThe number of Dream Shards you\nreceive will increase as your research\nrank rises."
     ],
     "item_desc_21": [
-      "A string exuding a mysterious energy\nthat makes you feel a strange sense\nof connection."
+      "A string exuding a mysterious energy\nthat makes you feel a strange sense\nof connection.\n\nIf you use it from your Bag’s items\npocket, you’ll receive 5 candies of a\nrandomly selected Pokémon capable of\nevolving with the Linking Cord."
     ],
     "item_desc_22": [
       "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a fiery orange heart."
@@ -156,7 +156,7 @@
       "촁 Dream Shards."
     ],
     "item_desc_short_21": [
-      "A string exuding a mysterious\nenergy that makes you feel a\nstrange sense of connection."
+      "A string that makes you feel a\nstrange sense of connection. It can\nalso be used from your Bag."
     ],
     "item_desc_short_22": [
       "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a fiery orange heart."
@@ -1024,7 +1024,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14508,
+        "size": 14810,
         "unknown1": 0,
         "unknown2": 0
       }

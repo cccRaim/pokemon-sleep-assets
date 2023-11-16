@@ -16,6 +16,15 @@
     "md_event_item_packs_name_13": [
       "ハロウィン2023パックL"
     ],
+    "md_event_item_packs_name_14": [
+      "イーブイウィーク2023パックS"
+    ],
+    "md_event_item_packs_name_15": [
+      "イーブイウィーク2023パックM"
+    ],
+    "md_event_item_packs_name_16": [
+      "イーブイウィーク2023パックL"
+    ],
     "md_event_item_packs_name_2": [
       "1억 다운로드 기념 팩"
     ],
@@ -42,75 +51,27 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 12,
-        "size": 88,
+        "entries": 15,
+        "size": 109,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 7,
-        "size": 432,
+        "entries": 11,
+        "size": 560,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              2,
-              "md_event_item_packs_name_3"
-            ],
-            [
-              8,
-              "md_event_item_packs_name_10"
-            ]
-          ],
-          119
-        ],
-        [
-          [
-            [
-              3,
-              "md_event_item_packs_name_4"
-            ],
-            [
-              9,
-              "md_event_item_packs_name_11"
-            ]
-          ],
-          182
-        ],
-        [
-          [
-            [
-              10,
-              "md_event_item_packs_name_12"
-            ]
-          ],
-          214
-        ],
-        [
-          [
-            [
-              4,
-              "md_event_item_packs_name_6"
-            ],
-            [
               11,
               "md_event_item_packs_name_13"
             ]
           ],
-          277
-        ],
-        [
-          [
-            [
-              5,
-              "md_event_item_packs_name_7"
-            ]
-          ],
-          308
+          120
         ],
         [
           [
@@ -119,11 +80,11 @@
               "md_event_item_packs_name_1"
             ],
             [
-              6,
-              "md_event_item_packs_name_8"
+              12,
+              "md_event_item_packs_name_14"
             ]
           ],
-          370
+          183
         ],
         [
           [
@@ -132,11 +93,90 @@
               "md_event_item_packs_name_2"
             ],
             [
-              7,
-              "md_event_item_packs_name_9"
+              13,
+              "md_event_item_packs_name_15"
             ]
           ],
-          432
+          246
+        ],
+        [
+          [
+            [
+              2,
+              "md_event_item_packs_name_3"
+            ],
+            [
+              14,
+              "md_event_item_packs_name_16"
+            ]
+          ],
+          309
+        ],
+        [
+          [
+            [
+              3,
+              "md_event_item_packs_name_4"
+            ]
+          ],
+          340
+        ],
+        [
+          [],
+          340
+        ],
+        [
+          [
+            [
+              4,
+              "md_event_item_packs_name_6"
+            ]
+          ],
+          371
+        ],
+        [
+          [
+            [
+              5,
+              "md_event_item_packs_name_7"
+            ]
+          ],
+          402
+        ],
+        [
+          [
+            [
+              6,
+              "md_event_item_packs_name_8"
+            ],
+            [
+              8,
+              "md_event_item_packs_name_10"
+            ]
+          ],
+          465
+        ],
+        [
+          [
+            [
+              7,
+              "md_event_item_packs_name_9"
+            ],
+            [
+              9,
+              "md_event_item_packs_name_11"
+            ]
+          ],
+          528
+        ],
+        [
+          [
+            [
+              10,
+              "md_event_item_packs_name_12"
+            ]
+          ],
+          560
         ]
       ]
     },
@@ -162,8 +202,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 12,
-        "size": 388,
+        "entries": 15,
+        "size": 502,
         "unknown1": 0,
         "unknown2": 0
       }

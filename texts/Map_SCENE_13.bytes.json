@@ -35,8 +35,14 @@
     "MapDetailPopup_EventWeekButton": [
       "Evento della settimana"
     ],
+    "MapDetailPopup_EventWeekPopup_EventName_GSD": [
+      "Giorno sogni d'oro"
+    ],
     "MapDetailPopup_EventWeekPopup_EventName_Halloween": [
       "Evento di Halloween"
+    ],
+    "MapDetailPopup_EventWeekPopup_EventName_PokemonPickup": [
+      "Settimana di Eevee"
     ],
     "MapDetailPopup_EventWeekPopup_Head": [
       "Lista eventi"
@@ -136,8 +142,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 39,
-        "size": 277,
+        "entries": 41,
+        "size": 291,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -145,18 +151,18 @@
     "LBL1": {
       "header": {
         "entries": 23,
-        "size": 1439,
+        "size": 1545,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              29,
+              31,
               "MapDetailPopup_LibraryToggleButton"
             ],
             [
-              38,
+              40,
               "MapScene_DataDownload_Series_Text"
             ]
           ],
@@ -173,7 +179,7 @@
               "MapBonusPopup_ListTitle"
             ],
             [
-              31,
+              33,
               "MapDetailPopup_Per"
             ]
           ],
@@ -186,7 +192,7 @@
               "MapScene_EventEffectPopup_Title"
             ],
             [
-              35,
+              37,
               "MapObject_FieldBonus"
             ]
           ],
@@ -208,7 +214,7 @@
         [
           [
             [
-              30,
+              32,
               "MapDetailPopup_ResearchFaces"
             ]
           ],
@@ -228,9 +234,13 @@
             [
               28,
               "MapDetailPopup_EventWeekPopup_EventName_Halloween"
+            ],
+            [
+              30,
+              "MapDetailPopup_EventWeekPopup_EventName_GSD"
             ]
           ],
-          601
+          649
         ],
         [
           [
@@ -243,7 +253,7 @@
               "MapDetailPopup_SleepType"
             ]
           ],
-          659
+          707
         ],
         [
           [
@@ -252,7 +262,7 @@
               "MapDetailPopup_BestEnergyValue"
             ]
           ],
-          694
+          742
         ],
         [
           [
@@ -261,7 +271,7 @@
               "MapScene_EventOpen_Text"
             ]
           ],
-          722
+          770
         ],
         [
           [
@@ -274,11 +284,11 @@
               "MapDetailPopup_EventWeekPopup_Title"
             ],
             [
-              33,
+              35,
               "MapDetailPopup_OKButton"
             ]
           ],
-          825
+          873
         ],
         [
           [
@@ -287,7 +297,7 @@
               "MapScene_Header_Title"
             ]
           ],
-          851
+          899
         ],
         [
           [
@@ -296,7 +306,7 @@
               "MapScene_Info_InfoMessage"
             ]
           ],
-          881
+          929
         ],
         [
           [
@@ -313,11 +323,11 @@
               "MapBonusPopup_Title"
             ],
             [
-              37,
+              39,
               "MapScene_DataDownload_Series_Title"
             ]
           ],
-          1016
+          1064
         ],
         [
           [
@@ -326,7 +336,7 @@
               "MapSceneController_Text_1"
             ]
           ],
-          1046
+          1094
         ],
         [
           [
@@ -343,7 +353,7 @@
               "MapDetailPopup_EventWeekPopup_Head"
             ]
           ],
-          1129
+          1177
         ],
         [
           [
@@ -356,11 +366,11 @@
               "MapBonusPopup_Desc"
             ]
           ],
-          1185
+          1233
         ],
         [
           [],
-          1185
+          1233
         ],
         [
           [
@@ -369,20 +379,24 @@
               "MapDetailPopup_EventWeekButton"
             ],
             [
-              36,
+              38,
               "MapObject_FieldBonus_Per"
             ]
           ],
-          1249
+          1297
         ],
         [
           [
             [
               14,
               "MapScene_Content_CompletePer"
+            ],
+            [
+              29,
+              "MapDetailPopup_EventWeekPopup_EventName_PokemonPickup"
             ]
           ],
-          1282
+          1388
         ],
         [
           [
@@ -391,19 +405,19 @@
               "MapDetailPopup_InfoToggleButton"
             ],
             [
-              32,
+              34,
               "MapDetailPopup_GetPokemons"
             ],
             [
-              34,
+              36,
               "MapObject_CompletePer"
             ]
           ],
-          1375
+          1481
         ],
         [
           [],
-          1375
+          1481
         ],
         [
           [
@@ -416,7 +430,7 @@
               "MapDetailPopup_PokemonUnknown"
             ]
           ],
-          1439
+          1545
         ]
       ]
     },
@@ -442,8 +456,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 39,
-        "size": 1936,
+        "entries": 41,
+        "size": 2020,
         "unknown1": 0,
         "unknown2": 0
       }

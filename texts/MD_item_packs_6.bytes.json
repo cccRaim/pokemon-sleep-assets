@@ -5,13 +5,16 @@
     ],
     "md_item_packs_name_2": [
       "수면 리서치 팩"
+    ],
+    "md_item_packs_name_3": [
+      "デイリーギフト"
     ]
   },
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 2,
-        "size": 18,
+        "entries": 3,
+        "size": 25,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -19,7 +22,7 @@
     "LBL1": {
       "header": {
         "entries": 2,
-        "size": 66,
+        "size": 91,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -37,9 +40,13 @@
             [
               0,
               "md_item_packs_name_1"
+            ],
+            [
+              2,
+              "md_item_packs_name_3"
             ]
           ],
-          66
+          91
         ]
       ]
     },
@@ -65,8 +72,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 2,
-        "size": 44,
+        "entries": 3,
+        "size": 64,
         "unknown1": 0,
         "unknown2": 0
       }

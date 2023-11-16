@@ -47,7 +47,7 @@
       "촁 Dream Shards.\nThe number of Dream Shards you\nreceive will increase as your research\nrank rises."
     ],
     "item_desc_21": [
-      "A string exuding a mysterious energy\nthat makes you feel a strange sense\nof connection."
+      "A string exuding a mysterious energy\nthat makes you feel a strange sense\nof connection.\n\nIf you use it from your Bag’s items\npocket, you’ll receive 5 candies of a\nrandomly selected Pokémon capable of\nevolving with the Linking Cord."
     ],
     "item_desc_22": [
       "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a fiery orange heart."
@@ -101,7 +101,7 @@
       "An especially energizing whistle.\nOne blow, and your team of helpers\nwill gather three hours’ worth of\nBerries and ingredients for you.\nThis will not cause main skills\nto trigger."
     ],
     "item_desc_7": [
-      "A special ticket that lets you move\nto another site at any time.\n(You can only move to areas you have\nalready unlocked.)"
+      "A special ticket that lets you move\nto another site at any time.\n(You can only move to areas you have\nalready unlocked.)\n(Changing fields will reset Snorlax’s\nrating and certain mission rewards.)"
     ],
     "item_desc_8": [
       "Lets you borrow a Good Camp Set\nfor seven days to aid your research\nand help you raise Snorlax."
@@ -156,7 +156,7 @@
       "촁 Dream Shards."
     ],
     "item_desc_short_21": [
-      "A string exuding a mysterious\nenergy that makes you feel a\nstrange sense of connection."
+      "A string that makes you feel a\nstrange sense of connection. It can\nalso be used from your Bag."
     ],
     "item_desc_short_22": [
       "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a fiery orange heart."
@@ -1024,7 +1024,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14364,
+        "size": 14816,
         "unknown1": 0,
         "unknown2": 0
       }

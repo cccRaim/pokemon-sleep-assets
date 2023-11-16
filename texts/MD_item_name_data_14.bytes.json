@@ -52,7 +52,7 @@
       "\u0002s촀 de sueños.\nEl número que recibas aumentará a\nmedida que suba tu rango de estudio."
     ],
     "item_desc_21": [
-      "Cordón que emite una singular energía\ncapaz de transmitir una extraña\nsensación de conexión."
+      "Cordón que emite una singular energía\ncapaz de transmitir una extraña\nsensación de conexión.\n\nSi lo usas desde el bolsillo de objetos\nde tu bolsa, recibirás 5 caramelos de\nun Pokémon al azar de entre los que\nevolucionan con un Cordón Unión."
     ],
     "item_desc_22": [
       "Curiosa piedra que hace evolucionar\na determinadas especies de Pokémon.\nEs amarilla con una marca naranja."
@@ -106,7 +106,7 @@
       "Hace que tus ayudantes te traigan al\ninstante las bayas e ingredientes que\nhabrían tardado 3 horas en recoger.\nNo activa las habilidades principales."
     ],
     "item_desc_7": [
-      "Billete que te permite desplazarte\ncuando quieras a una zona de estudio\nque hayas desbloqueado previamente."
+      "Billete que permite desplazarse en\ncualquier momento a una zona de\nestudio ya desbloqueada.\nSolo puedes desplazarte a zonas que\nya has visitado.\nCambiar de zona reiniciará la\nvaloración de Snorlax y determinados\npremios de tus misiones."
     ],
     "item_desc_8": [
       "Permite alquilar durante siete días un\nLote de Acampada, útil para el estudio\nde sueño y para criar a Snorlax."
@@ -166,7 +166,7 @@
       "\u0002s촀 de sueños."
     ],
     "item_desc_short_21": [
-      "Cordón que emite una singular\nenergía capaz de transmitir una\nextraña sensación de conexión."
+      "Cordón capaz de transmitir una\nextraña sensación de conexión. Se\npuede usar también desde la bolsa."
     ],
     "item_desc_short_22": [
       "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Es amarilla y naranja."
@@ -1034,7 +1034,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14932,
+        "size": 15500,
         "unknown1": 0,
         "unknown2": 0
       }

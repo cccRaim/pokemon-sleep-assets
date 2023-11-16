@@ -50,7 +50,7 @@
       "촁 frammenti di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
     ],
     "item_desc_21": [
-      "Filo dotato di una misteriosa energia\nche lascia percepire un inspiegabile\nsenso di connessione."
+      "Filo dotato di una misteriosa energia\nche fa percepire un inspiegabile\nsenso di connessione.\n\nSe usato dalla tasca strumenti\ndella Borsa, permette di ricevere\n5 caramelle di un Pokémon in grado\ndi evolversi con questo strumento."
     ],
     "item_desc_22": [
       "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nHa sfumature arancioni."
@@ -104,7 +104,7 @@
       "Fischietto molto energizzante.\nBasta un fischio e la squadra di\naiutanti raccoglierà subito le bacche\ne gli ingredienti ottenibili in tre ore.\nLe abilità principali, però, non saranno\nattivate."
     ],
     "item_desc_7": [
-      "Biglietto speciale che permette di\ncambiare punto in ogni momento.\n(Solo di aree già sbloccate)"
+      "Biglietto speciale che permette\ndi spostarsi in un altro punto\nin qualunque momento (solo\nverso aree già sbloccate).\n(Spostandosi, il rango di Snorlax e\nle ricompense di alcune missioni\nverranno azzerati.)"
     ],
     "item_desc_8": [
       "Permette di prendere in prestito\nper 7 giorni un Set da campeggio\nbuono, utile per le ricerche e per\nfar crescere Snorlax."
@@ -162,7 +162,7 @@
       "촁 frammenti di sogno."
     ],
     "item_desc_short_21": [
-      "Filo dotato di una misteriosa\nenergia che lascia percepire un\ninspiegabile senso di connessione."
+      "Filo che fa percepire un inspiegabile\nsenso di connessione. Si può usare\nanche dalla Borsa."
     ],
     "item_desc_short_22": [
       "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nHa sfumature arancioni."
@@ -1030,7 +1030,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14464,
+        "size": 14938,
         "unknown1": 0,
         "unknown2": 0
       }

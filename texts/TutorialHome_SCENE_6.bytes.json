@@ -47,6 +47,12 @@
     "HomeSceneTutorialController_Text_32": [
       "Prova a toccare Pikachu\no le sue bacche!"
     ],
+    "HomeSceneTutorialController_Text_33": [
+      "Bonus completamento tutorial"
+    ],
+    "HomeSceneTutorialController_Text_34": [
+      "Ecco le ricompense che hai ottenuto\nper aver completato il tutorial."
+    ],
     "HomeSceneTutorialController_Text_7": [
       "Tocca Pikachu e dai delle bacche\na Snorlax!"
     ]
@@ -54,8 +60,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 16,
-        "size": 116,
+        "entries": 18,
+        "size": 130,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -63,18 +69,22 @@
     "LBL1": {
       "header": {
         "entries": 11,
-        "size": 995,
+        "size": 1075,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              14,
+              12,
+              "HomeSceneTutorialController_Text_34"
+            ],
+            [
+              16,
               "HomeSceneTutorialController_CannotUse_CookingChoice_Text"
             ]
           ],
-          149
+          189
         ],
         [
           [
@@ -87,7 +97,7 @@
               "HomeSceneTutorialController_Text_29"
             ]
           ],
-          251
+          291
         ],
         [
           [
@@ -96,7 +106,7 @@
               "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title"
             ]
           ],
-          324
+          364
         ],
         [
           [
@@ -105,15 +115,15 @@
               "HomeSceneTutorialController_Text_7"
             ]
           ],
-          363
+          403
         ],
         [
           [],
-          363
+          403
         ],
         [
           [],
-          363
+          403
         ],
         [
           [
@@ -122,7 +132,7 @@
               "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title"
             ]
           ],
-          434
+          474
         ],
         [
           [
@@ -135,24 +145,24 @@
               "HomeSceneTutorialController_Text_30"
             ],
             [
-              13,
+              15,
               "HomeSceneTutorialController_CannotUse_LevelUp_Text"
             ]
           ],
-          604
+          644
         ],
         [
           [
             [
-              11,
+              13,
               "HomeSceneTutorialController_Text_31"
             ],
             [
-              15,
+              17,
               "HomeSceneTutorialController_CannotUse_PotExpand_Text"
             ]
           ],
-          701
+          741
         ],
         [
           [
@@ -161,11 +171,11 @@
               "HomeSceneTutorialController_AskCookingTutorialStart_Message"
             ],
             [
-              12,
+              14,
               "HomeSceneTutorialController_Text_32"
             ]
           ],
-          805
+          845
         ],
         [
           [
@@ -180,9 +190,13 @@
             [
               7,
               "HomeSceneTutorialController_FooterMessage_FieldChange"
+            ],
+            [
+              11,
+              "HomeSceneTutorialController_Text_33"
             ]
           ],
-          995
+          1075
         ]
       ]
     },
@@ -208,8 +222,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 16,
-        "size": 1742,
+        "entries": 18,
+        "size": 1946,
         "unknown1": 0,
         "unknown2": 0
       }

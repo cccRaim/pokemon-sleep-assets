@@ -12,6 +12,40 @@
     "PokemonTopScene_Content_Title": [
       "Pokémon"
     ],
+    "PokemonTopScene_EXPBonusExplainPopup_Text": [
+      "Vous pouvez obtenir des objets en accumulant\ndu Bonus Dodo excédentaire."
+    ],
+    "PokemonTopScene_EXPBonusPopup_Content": [
+      "Jauge de Bonus Dodo"
+    ],
+    "PokemonTopScene_EXPBonusPopup_ExplainButton": [
+      "Détails"
+    ],
+    "PokemonTopScene_EXPBonusPopup_Text_1": [
+      "Si un Pokémon de soutien a déjà atteint le\nniveau maximal, tout Bonus Dodo\nexcédentaire sera ajouté à la jauge\nplutôt qu'au Pokémon."
+    ],
+    "PokemonTopScene_EXPBonusPopup_Text_2": [
+      "À chaque fois que la jauge est remplie, vous\nobtenez \u000e\u0003\u0003\u0004Ā촀 × \u000e\u0002\u0001\u0002\u0002."
+    ],
+    "PokemonTopScene_EXPBonusPopup_Title": [
+      "Bonus de niveau max."
+    ],
+    "PokemonTopScene_EXPBonusPopup_Value_1": [
+      "Bonbon Toubon S dans :"
+    ],
+    "PokemonTopScene_EXPBonusPopup_Value_2": [
+      "EXP"
+    ],
+    "PokemonTopScene_EXPBonusPopup_Value_3": [
+      "\u000e\u0002\u0002\u0002",
+      ""
+    ],
+    "PokemonTopScene_EXPBonusRewardGetPopup_Text": [
+      "Bonus de niveau max. obtenu :\n\u000e\u0003\u0003\u0004Ā촀 × \u000e\u0002\u0001\u0002\u0002."
+    ],
+    "PokemonTopScene_EXPBonus_Button": [
+      "Jauge bonus d'exp."
+    ],
     "PokemonTopScene_Header_TitleText": [
       "Pokémon"
     ]
@@ -19,35 +53,83 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 5,
-        "size": 39,
+        "entries": 16,
+        "size": 116,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 3,
-        "size": 196,
+        "entries": 11,
+        "size": 728,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              0,
-              "PokemonTopScene_Content_Title"
+              6,
+              "PokemonTopScene_EXPBonusPopup_Title"
             ],
+            [
+              8,
+              "PokemonTopScene_EXPBonusPopup_Value_1"
+            ]
+          ],
+          170
+        ],
+        [
+          [
+            [
+              9,
+              "PokemonTopScene_EXPBonusPopup_Value_2"
+            ]
+          ],
+          212
+        ],
+        [
+          [
             [
               3,
               "PokemonTopScene_Content_Name_2"
             ],
             [
-              4,
-              "PokemonTopScene_Header_TitleText"
+              10,
+              "PokemonTopScene_EXPBonusPopup_Value_3"
             ]
           ],
-          130
+          289
+        ],
+        [
+          [
+            [
+              7,
+              "PokemonTopScene_EXPBonusPopup_Content"
+            ],
+            [
+              13,
+              "PokemonTopScene_EXPBonusPopup_ExplainButton"
+            ]
+          ],
+          379
+        ],
+        [
+          [
+            [
+              2,
+              "PokemonTopScene_Content_Name"
+            ],
+            [
+              5,
+              "PokemonTopScene_EXPBonus_Button"
+            ],
+            [
+              15,
+              "PokemonTopScene_EXPBonusRewardGetPopup_Text"
+            ]
+          ],
+          496
         ],
         [
           [
@@ -56,16 +138,51 @@
               "PokemonTopScene_Content_Desc"
             ]
           ],
-          163
+          529
         ],
         [
           [
             [
-              2,
-              "PokemonTopScene_Content_Name"
+              4,
+              "PokemonTopScene_Header_TitleText"
             ]
           ],
-          196
+          566
+        ],
+        [
+          [],
+          566
+        ],
+        [
+          [
+            [
+              11,
+              "PokemonTopScene_EXPBonusPopup_Text_1"
+            ]
+          ],
+          607
+        ],
+        [
+          [
+            [
+              12,
+              "PokemonTopScene_EXPBonusPopup_Text_2"
+            ]
+          ],
+          648
+        ],
+        [
+          [
+            [
+              0,
+              "PokemonTopScene_Content_Title"
+            ],
+            [
+              14,
+              "PokemonTopScene_EXPBonusExplainPopup_Text"
+            ]
+          ],
+          728
         ]
       ]
     },
@@ -91,8 +208,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 5,
-        "size": 264,
+        "entries": 16,
+        "size": 1152,
         "unknown1": 0,
         "unknown2": 0
       }

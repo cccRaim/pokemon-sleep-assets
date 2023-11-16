@@ -81,6 +81,9 @@
     "ShopScene_Content_Message": [
       "스페셜 팩을 구입하면\n보너스로 꿈의덩어리M을\n매달 3개까지\n받을 수 있습니다"
     ],
+    "ShopScene_Content_Message_2": [
+      "毎日1つ受け取れる\n無料のギフト\nランダムで1つ\nアイテムが入ってます"
+    ],
     "ShopScene_Content_Messasge": [
       "\u000e\u0002\u0001\u0002",
       "개 한정"
@@ -94,6 +97,12 @@
     ],
     "ShopScene_Content_Messasge_4": [
       "보너스 없음"
+    ],
+    "ShopScene_Content_Messasge_5": [
+      "デイリーギフト"
+    ],
+    "ShopScene_Content_Messasge_6": [
+      "無料"
     ],
     "ShopScene_Content_Messasge_Soldout": [
       "품절"
@@ -156,6 +165,10 @@
     ],
     "ShopScene_Content_Title_6": [
       "다이아"
+    ],
+    "ShopScene_Content_Title_7": [
+      "デイリーギフト - 更新まであと\u000e\u0002\u0001\u0002",
+      "時間"
     ],
     "ShopScene_Content_UpgradeName_1": [
       "포켓몬 박스 확장"
@@ -283,6 +296,12 @@
       "한정 앞으로 \u000e\u0002",
       "\u0002촀개"
     ],
+    "ShopScene_Item_Detail_24": [
+      "デイリーギフト"
+    ],
+    "ShopScene_Item_Detail_25": [
+      "毎日受け取れる無料のギフト\nランダムでアイテムが入ってます"
+    ],
     "ShopScene_Item_Detail_3": [
       "취소"
     ],
@@ -351,6 +370,9 @@
       "스페셜 팩을 구입하면\n보너스로 \u000e\u0003\u0003\u0004Ā촀\u000e\b",
       "\u0002촂\n매달 \u000e\u0002\u0001\u0002\u0002개까지 받을 수 있습니다"
     ],
+    "ShopScene_ShopPopup_Pack_Bonus_Desc_2": [
+      "毎日1つ受け取れる無料のギフト\nランダムで1つアイテムが入ってます"
+    ],
     "ShopScene_ShopPopup_Pack_Label": [
       "보너스 증정"
     ],
@@ -416,133 +438,61 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 121,
-        "size": 851,
+        "entries": 128,
+        "size": 900,
         "unknown1": 0,
         "unknown2": 0
       }
     },
     "LBL1": {
       "header": {
-        "entries": 61,
-        "size": 4738,
+        "entries": 67,
+        "size": 5014,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
         [
           [
             [
-              42,
-              "ShopScene_Content_BoxUpgradePopup_Success_Text"
+              60,
+              "ShopScene_Item_Detail_2"
             ],
             [
-              75,
-              "ShopScene_Item_Detail_19"
+              70,
+              "ShopScene_Item_Detail_12"
             ]
           ],
-          568
-        ],
-        [
-          [],
-          568
+          593
         ],
         [
           [
             [
-              44,
-              "ShopScene_Content_Name_3"
+              59,
+              "ShopScene_Item_Detail_1_NoDiaVer"
             ],
             [
-              50,
-              "ShopScene_Header_Title"
+              61,
+              "ShopScene_Item_Detail_3"
             ],
             [
-              76,
-              "ShopScene_Item_Detail_20"
+              71,
+              "ShopScene_Item_Detail_13"
             ]
           ],
-          653
+          687
         ],
         [
           [
             [
-              46,
-              "ShopScene_Content_Name_4"
+              62,
+              "ShopScene_Item_Detail_4"
             ],
             [
-              77,
-              "ShopScene_Item_Detail_21"
+              72,
+              "ShopScene_Item_Detail_14"
             ]
           ],
-          711
-        ],
-        [
-          [
-            [
-              47,
-              "ShopScene_Content_Name_5"
-            ],
-            [
-              74,
-              "ShopScene_Item_Detail_22"
-            ]
-          ],
-          769
-        ],
-        [
-          [
-            [
-              48,
-              "ShopScene_Content_Name_6"
-            ],
-            [
-              69,
-              "ShopScene_Item_Detail_23"
-            ],
-            [
-              89,
-              "ShopScene_Hub_UpdateDate_0day"
-            ]
-          ],
-          861
-        ],
-        [
-          [
-            [
-              49,
-              "ShopScene_Content_Name_7"
-            ]
-          ],
-          890
-        ],
-        [
-          [],
-          890
-        ],
-        [
-          [],
-          890
-        ],
-        [
-          [
-            [
-              96,
-              "ShopScene_ShopPopup_Pack_Bonus_Desc"
-            ]
-          ],
-          930
-        ],
-        [
-          [],
-          930
-        ],
-        [
-          [],
-          930
-        ],
-        [
-          [],
-          930
+          744
         ],
         [
           [
@@ -551,15 +501,23 @@
               "ShopSceneController_Text_3"
             ],
             [
-              41,
-              "ShopScene_Content_BagUpgradePopup_Success_Text"
+              63,
+              "ShopScene_Item_Detail_5"
             ],
             [
-              83,
-              "ShopScene_Hub_Text"
+              74,
+              "ShopScene_Item_Detail_15"
+            ],
+            [
+              103,
+              "ShopScene_ShopPopup_Pack_Bonus_Desc_2"
+            ],
+            [
+              115,
+              "ShopScene_ShopPopup_PurchasePopupCell_ItemName"
             ]
           ],
-          1035
+          925
         ],
         [
           [
@@ -568,41 +526,45 @@
               "ShopSceneController_Text_4"
             ],
             [
-              79,
-              "ShopScene_Dialog_Text_1"
+              64,
+              "ShopScene_Item_Detail_6"
+            ],
+            [
+              75,
+              "ShopScene_Item_Detail_16"
             ]
           ],
-          1094
+          1013
         ],
         [
           [
             [
-              80,
-              "ShopScene_Dialog_Text_2"
+              65,
+              "ShopScene_Item_Detail_7"
+            ],
+            [
+              76,
+              "ShopScene_Item_Detail_17"
+            ],
+            [
+              106,
+              "ShopScene_ShopPopup_PurchasePopup_Title"
             ]
           ],
-          1122
+          1114
         ],
         [
           [
             [
-              19,
-              "ShopScene_Content_Title_2"
+              66,
+              "ShopScene_Item_Detail_8"
             ],
             [
-              20,
-              "ShopScene_Content_Title_2_0day"
-            ],
-            [
-              37,
-              "ShopScene_Content_BagUpgradePopup_Title"
-            ],
-            [
-              84,
-              "ShopScene_Hub_ShopButton"
+              77,
+              "ShopScene_Item_Detail_18"
             ]
           ],
-          1260
+          1171
         ],
         [
           [
@@ -611,11 +573,19 @@
               "ShopSceneController_Text_7"
             ],
             [
-              25,
-              "ShopScene_Content_Title_3"
+              67,
+              "ShopScene_Item_Detail_9"
+            ],
+            [
+              79,
+              "ShopScene_Item_Detail_19"
+            ],
+            [
+              117,
+              "ShopScene_ShopPopup_PurchasePopupCell_Desc_WithBonus"
             ]
           ],
-          1321
+          1316
         ],
         [
           [
@@ -624,23 +594,11 @@
               "ShopSceneController_Text_8"
             ],
             [
-              15,
-              "ShopConsumableItemCell_Text_1"
-            ],
-            [
-              32,
-              "ShopScene_Content_Title_4"
-            ],
-            [
-              81,
-              "ShopScene_Hub_HeaderTitle"
-            ],
-            [
-              92,
-              "ShopScene_ShopPopup_Limited_LeftNum"
+              127,
+              "ShopScene_ShopPopup_StoreRefund_Text_Google"
             ]
           ],
-          1486
+          1395
         ],
         [
           [
@@ -649,178 +607,147 @@
               "ShopSceneController_Text_9"
             ],
             [
-              33,
-              "ShopScene_Content_Title_5"
+              28,
+              "ShopScene_Content_Title_3_0day"
             ],
             [
-              100,
-              "ShopScene_ShopPopup_Tab_DiamondShop"
-            ]
-          ],
-          1587
-        ],
-        [
-          [
+              29,
+              "ShopScene_Content_Title_3_0hour"
+            ],
             [
               43,
-              "ShopScene_Content_Title_6"
-            ]
-          ],
-          1617
-        ],
-        [
-          [],
-          1617
-        ],
-        [
-          [
-            [
-              34,
-              "ShopScene_Content_UpgradeName_1"
+              "ShopScene_Content_BoxUpgradePopup_Title"
             ],
             [
-              95,
-              "ShopScene_ShopPopup_Pack_Label_Soldout"
+              54,
+              "ShopScene_Header_Title"
+            ],
+            [
+              119,
+              "ShopScene_ShopPopup_DiaAlreadyMaxPopup_Text"
+            ],
+            [
+              126,
+              "ShopScene_ShopPopup_StoreRefund_Text_Apple"
             ]
           ],
-          1696
+          1663
         ],
         [
           [
             [
-              35,
-              "ShopScene_Content_UpgradeName_2"
+              19,
+              "ShopScene_Content_Title_2"
             ]
           ],
-          1732
+          1693
+        ],
+        [
+          [
+            [
+              27,
+              "ShopScene_Content_Title_3"
+            ],
+            [
+              31,
+              "ShopScene_Content_Message_2"
+            ],
+            [
+              125,
+              "ShopScene_ShopPopup_StoreRefund_Title"
+            ]
+          ],
+          1797
         ],
         [
           [
             [
               36,
-              "ShopScene_Content_UpgradeName_3"
-            ]
-          ],
-          1768
-        ],
-        [
-          [
-            [
-              40,
-              "ShopScene_Content_BoxUpgradePopup_Text"
-            ]
-          ],
-          1811
-        ],
-        [
-          [
-            [
-              85,
-              "ShopScene_Hub_NormalButton"
+              "ShopScene_Content_Title_4"
             ],
             [
-              118,
-              "ShopScene_ShopPopup_StoreRefund_Title"
-            ]
-          ],
-          1884
-        ],
-        [
-          [
-            [
-              86,
+              92,
               "ShopScene_Hub_PremiumButton"
             ],
             [
-              114,
+              95,
+              "ShopScene_Hub_UpdateDate_0day"
+            ]
+          ],
+          1893
+        ],
+        [
+          [
+            [
+              37,
+              "ShopScene_Content_Title_5"
+            ],
+            [
+              109,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_1"
+            ]
+          ],
+          1971
+        ],
+        [
+          [
+            [
+              47,
+              "ShopScene_Content_Title_6"
+            ],
+            [
+              55,
+              "ShopScene_Dia_Detail_0"
+            ],
+            [
+              110,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_2"
+            ],
+            [
+              121,
               "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Text_1"
             ]
           ],
-          1967
+          2127
         ],
         [
           [
             [
-              90,
-              "ShopScene_Hub_UpdateDate_0hour"
+              26,
+              "ShopScene_Content_Title_7"
             ],
             [
-              115,
-              "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Text_2"
-            ]
-          ],
-          2053
-        ],
-        [
-          [
+              44,
+              "ShopScene_Content_BoxUpgradePopup_Text"
+            ],
             [
-              108,
-              "ShopScene_ShopPopup_PurchasePopupCell_ItemName"
-            ]
-          ],
-          2104
-        ],
-        [
-          [
-            [
-              39,
-              "ShopScene_Content_BoxUpgradePopup_Title"
+              56,
+              "ShopScene_Dia_Detail_1"
             ],
             [
               111,
-              "ShopScene_ShopPopup_DiaAlreadyMaxPopup_Title"
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_3"
             ],
-            [
-              116,
-              "ShopScene_ShopPopup_BagAlreadyMaxPopup_Title"
-            ]
-          ],
-          2246
-        ],
-        [
-          [
-            [
-              93,
-              "ShopScene_ShopPopup_Limited_Soldout"
-            ]
-          ],
-          2286
-        ],
-        [
-          [
-            [
-              82,
-              "ShopScene_Hub_Title"
-            ],
-            [
-              94,
-              "ShopScene_ShopPopup_Pack_Label"
-            ]
-          ],
-          2345
-        ],
-        [
-          [],
-          2345
-        ],
-        [
-          [
             [
               120,
-              "ShopScene_ShopPopup_StoreRefund_Text_Google"
+              "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Title"
+            ],
+            [
+              122,
+              "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Text_2"
             ]
           ],
-          2393
+          2376
         ],
         [
           [
             [
-              5,
-              "ShopSceneController_Text_10"
+              87,
+              "ShopScene_Hub_HeaderTitle"
             ],
             [
-              78,
-              "ShopScene_Dialog_Heading"
+              112,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_4"
             ]
           ],
           2454
@@ -828,32 +755,208 @@
         [
           [
             [
-              7,
-              "ShopSceneController_Text_11"
-            ],
-            [
-              102,
-              "ShopScene_ShopPopup_PurchaseCell_ItemName_1"
+              113,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_5"
             ]
           ],
-          2534
+          2502
+        ],
+        [
+          [
+            [
+              105,
+              "ShopScene_ShopPopup_BaitBall_Cell_ItemName"
+            ],
+            [
+              114,
+              "ShopScene_ShopPopup_PurchaseCell_ItemName_6"
+            ]
+          ],
+          2597
+        ],
+        [
+          [
+            [
+              90,
+              "ShopScene_Hub_ShopButton"
+            ]
+          ],
+          2626
+        ],
+        [
+          [],
+          2626
+        ],
+        [
+          [
+            [
+              123,
+              "ShopScene_ShopPopup_BagAlreadyMaxPopup_Title"
+            ]
+          ],
+          2675
+        ],
+        [
+          [
+            [
+              91,
+              "ShopScene_Hub_NormalButton"
+            ],
+            [
+              116,
+              "ShopScene_ShopPopup_PurchasePopupCell_Desc_NoBonus"
+            ]
+          ],
+          2761
+        ],
+        [
+          [
+            [
+              46,
+              "ShopScene_Content_BoxUpgradePopup_Success_Text"
+            ]
+          ],
+          2812
+        ],
+        [
+          [],
+          2812
+        ],
+        [
+          [],
+          2812
+        ],
+        [
+          [
+            [
+              22,
+              "ShopScene_Content_Messasge"
+            ]
+          ],
+          2843
+        ],
+        [
+          [
+            [
+              20,
+              "ShopScene_Content_Title_2_0day"
+            ],
+            [
+              124,
+              "ShopScene_ShopPopup_BagAlreadyMaxPopup_Text"
+            ]
+          ],
+          2926
+        ],
+        [
+          [
+            [
+              18,
+              "ShopScene_Content_Desc"
+            ]
+          ],
+          2953
+        ],
+        [
+          [
+            [
+              38,
+              "ShopScene_Content_UpgradeName_1"
+            ],
+            [
+              49,
+              "ShopScene_Content_Number"
+            ],
+            [
+              80,
+              "ShopScene_Item_Detail_20"
+            ]
+          ],
+          3047
+        ],
+        [
+          [
+            [
+              39,
+              "ShopScene_Content_UpgradeName_2"
+            ],
+            [
+              81,
+              "ShopScene_Item_Detail_21"
+            ]
+          ],
+          3112
+        ],
+        [
+          [
+            [
+              40,
+              "ShopScene_Content_UpgradeName_3"
+            ],
+            [
+              78,
+              "ShopScene_Item_Detail_22"
+            ]
+          ],
+          3177
+        ],
+        [
+          [
+            [
+              73,
+              "ShopScene_Item_Detail_23"
+            ]
+          ],
+          3206
+        ],
+        [
+          [
+            [
+              16,
+              "ShopConsumableItemCell_Text_1_DiaVer"
+            ],
+            [
+              82,
+              "ShopScene_Item_Detail_24"
+            ]
+          ],
+          3276
+        ],
+        [
+          [
+            [
+              83,
+              "ShopScene_Item_Detail_25"
+            ]
+          ],
+          3305
+        ],
+        [
+          [
+            [
+              5,
+              "ShopSceneController_Text_10"
+            ]
+          ],
+          3337
+        ],
+        [
+          [
+            [
+              7,
+              "ShopSceneController_Text_11"
+            ]
+          ],
+          3369
         ],
         [
           [
             [
               8,
               "ShopSceneController_Text_12"
-            ],
-            [
-              103,
-              "ShopScene_ShopPopup_PurchaseCell_ItemName_2"
-            ],
-            [
-              109,
-              "ShopScene_ShopPopup_PurchasePopupCell_Desc_NoBonus"
             ]
           ],
-          2669
+          3401
         ],
         [
           [
@@ -862,19 +965,11 @@
               "ShopSceneController_Text_13"
             ],
             [
-              98,
-              "ShopScene_ShopPopup_BaitBall_Cell_ItemName"
-            ],
-            [
-              99,
-              "ShopScene_ShopPopup_PurchasePopup_Title"
-            ],
-            [
-              104,
-              "ShopScene_ShopPopup_PurchaseCell_ItemName_3"
+              84,
+              "ShopScene_Dialog_Heading"
             ]
           ],
-          2840
+          3462
         ],
         [
           [
@@ -883,61 +978,29 @@
               "ShopSceneController_Text_14"
             ],
             [
-              88,
-              "ShopScene_Hub_UpdateDate"
-            ],
-            [
-              105,
-              "ShopScene_ShopPopup_PurchaseCell_ItemName_4"
-            ],
-            [
-              113,
-              "ShopScene_ShopPopup_ItemAlreadyMaxPopup_Title"
+              15,
+              "ShopConsumableItemCell_Text_1"
             ]
           ],
-          2999
+          3528
         ],
         [
           [
             [
               11,
               "ShopSceneController_Text_15"
-            ],
-            [
-              106,
-              "ShopScene_ShopPopup_PurchaseCell_ItemName_5"
-            ],
-            [
-              112,
-              "ShopScene_ShopPopup_DiaAlreadyMaxPopup_Text"
-            ],
-            [
-              119,
-              "ShopScene_ShopPopup_StoreRefund_Text_Apple"
             ]
           ],
-          3174
+          3560
         ],
         [
           [
             [
               12,
               "ShopSceneController_Text_16"
-            ],
-            [
-              55,
-              "ShopScene_Item_Detail_1_NoDiaVer"
-            ],
-            [
-              97,
-              "ShopScene_ShopPopup_BaitBall_Title"
-            ],
-            [
-              107,
-              "ShopScene_ShopPopup_PurchaseCell_ItemName_6"
             ]
           ],
-          3330
+          3592
         ],
         [
           [
@@ -946,15 +1009,15 @@
               "ShopSceneController_Text_17"
             ],
             [
-              87,
-              "ShopScene_Hub_Header"
+              30,
+              "ShopScene_Content_Message"
             ],
             [
-              117,
-              "ShopScene_ShopPopup_BagAlreadyMaxPopup_Text"
+              100,
+              "ShopScene_ShopPopup_Pack_Label"
             ]
           ],
-          3435
+          3689
         ],
         [
           [
@@ -963,145 +1026,103 @@
               "ShopSceneController_Text_18"
             ],
             [
-              16,
-              "ShopConsumableItemCell_Text_1_DiaVer"
+              102,
+              "ShopScene_ShopPopup_Pack_Bonus_Desc"
             ],
             [
-              27,
-              "ShopScene_Content_Title_3_0hour"
+              107,
+              "ShopScene_ShopPopup_Tab_DiamondShop"
             ]
           ],
-          3544
+          3801
         ],
         [
           [
             [
               6,
               "ShopSceneController_Text_19"
-            ],
+            ]
+          ],
+          3833
+        ],
+        [
+          [
             [
               17,
               "ShopScene_Content_Title"
-            ],
-            [
-              45,
-              "ShopScene_Content_Number"
             ]
           ],
-          3633
-        ],
-        [
-          [],
-          3633
+          3861
         ],
         [
           [
             [
-              24,
-              "ShopScene_Content_Price_Dia"
+              96,
+              "ShopScene_Hub_UpdateDate_0hour"
             ]
           ],
-          3665
-        ],
-        [
-          [
-            [
-              28,
-              "ShopScene_Content_Message"
-            ]
-          ],
-          3695
-        ],
-        [
-          [
-            [
-              51,
-              "ShopScene_Dia_Detail_0"
-            ]
-          ],
-          3722
-        ],
-        [
-          [
-            [
-              52,
-              "ShopScene_Dia_Detail_1"
-            ]
-          ],
-          3749
-        ],
-        [
-          [
-            [
-              18,
-              "ShopScene_Content_Desc"
-            ],
-            [
-              26,
-              "ShopScene_Content_Title_3_0day"
-            ],
-            [
-              53,
-              "ShopScene_Item_Detail_0"
-            ]
-          ],
-          3839
-        ],
-        [
-          [
-            [
-              54,
-              "ShopScene_Item_Detail_1"
-            ]
-          ],
-          3867
-        ],
-        [
-          [
-            [
-              38,
-              "ShopScene_Content_BagUpgradePopup_Text"
-            ],
-            [
-              56,
-              "ShopScene_Item_Detail_2"
-            ],
-            [
-              64,
-              "ShopScene_Item_Detail_10"
-            ]
-          ],
-          3967
-        ],
-        [
-          [
-            [
-              57,
-              "ShopScene_Item_Detail_3"
-            ],
-            [
-              65,
-              "ShopScene_Item_Detail_11"
-            ]
-          ],
-          4024
+          3896
         ],
         [
           [
             [
               21,
               "ShopScene_Content_Title_2_0hour"
-            ],
-            [
-              58,
-              "ShopScene_Item_Detail_4"
-            ],
-            [
-              66,
-              "ShopScene_Item_Detail_12"
             ]
           ],
-          4117
+          3932
+        ],
+        [
+          [
+            [
+              48,
+              "ShopScene_Content_Name_3"
+            ]
+          ],
+          3961
+        ],
+        [
+          [
+            [
+              50,
+              "ShopScene_Content_Name_4"
+            ],
+            [
+              97,
+              "ShopScene_ShopPopup_Limited_Label"
+            ]
+          ],
+          4028
+        ],
+        [
+          [
+            [
+              25,
+              "ShopScene_Content_Price_Dia"
+            ],
+            [
+              51,
+              "ShopScene_Content_Name_5"
+            ],
+            [
+              99,
+              "ShopScene_ShopPopup_Limited_Soldout"
+            ],
+            [
+              118,
+              "ShopScene_ShopPopup_DiaAlreadyMaxPopup_Title"
+            ]
+          ],
+          4178
+        ],
+        [
+          [
+            [
+              52,
+              "ShopScene_Content_Name_6"
+            ]
+          ],
+          4207
         ],
         [
           [
@@ -1110,104 +1131,165 @@
               "ShopScene_Content_Messasge_Soldout"
             ],
             [
-              29,
+              32,
               "ShopScene_Content_Messasge_2"
             ],
             [
-              59,
-              "ShopScene_Item_Detail_5"
-            ],
-            [
-              67,
-              "ShopScene_Item_Detail_13"
+              53,
+              "ShopScene_Content_Name_7"
             ]
           ],
-          4246
+          4308
         ],
         [
           [
             [
-              31,
+              35,
               "ShopScene_Content_Messasge_3"
             ],
             [
-              60,
-              "ShopScene_Item_Detail_6"
-            ],
-            [
-              68,
-              "ShopScene_Item_Detail_14"
+              94,
+              "ShopScene_Hub_UpdateDate"
             ]
           ],
-          4336
+          4370
         ],
         [
           [
             [
-              30,
+              33,
               "ShopScene_Content_Messasge_4"
-            ],
-            [
-              61,
-              "ShopScene_Item_Detail_7"
-            ],
-            [
-              70,
-              "ShopScene_Item_Detail_15"
             ]
           ],
-          4426
+          4403
         ],
         [
           [
             [
-              22,
-              "ShopScene_Content_Messasge"
+              34,
+              "ShopScene_Content_Messasge_5"
             ],
             [
-              62,
-              "ShopScene_Item_Detail_8"
-            ],
-            [
-              71,
-              "ShopScene_Item_Detail_16"
-            ],
-            [
-              91,
-              "ShopScene_ShopPopup_Limited_Label"
-            ],
-            [
-              110,
-              "ShopScene_ShopPopup_PurchasePopupCell_Desc_WithBonus"
-            ]
-          ],
-          4609
-        ],
-        [
-          [
-            [
-              63,
-              "ShopScene_Item_Detail_9"
-            ],
-            [
-              72,
-              "ShopScene_Item_Detail_17"
-            ]
-          ],
-          4666
-        ],
-        [
-          [
-            [
-              73,
-              "ShopScene_Item_Detail_18"
-            ],
-            [
-              101,
+              108,
               "ShopScene_ShopPopup_Tab_SleepPointShop"
             ]
           ],
-          4738
+          4479
+        ],
+        [
+          [
+            [
+              24,
+              "ShopScene_Content_Messasge_6"
+            ],
+            [
+              101,
+              "ShopScene_ShopPopup_Pack_Label_Soldout"
+            ]
+          ],
+          4555
+        ],
+        [
+          [],
+          4555
+        ],
+        [
+          [
+            [
+              88,
+              "ShopScene_Hub_Title"
+            ],
+            [
+              98,
+              "ShopScene_ShopPopup_Limited_LeftNum"
+            ]
+          ],
+          4619
+        ],
+        [
+          [
+            [
+              41,
+              "ShopScene_Content_BagUpgradePopup_Title"
+            ],
+            [
+              104,
+              "ShopScene_ShopPopup_BaitBall_Title"
+            ]
+          ],
+          4702
+        ],
+        [
+          [],
+          4702
+        ],
+        [
+          [
+            [
+              93,
+              "ShopScene_Hub_Header"
+            ]
+          ],
+          4727
+        ],
+        [
+          [],
+          4727
+        ],
+        [
+          [
+            [
+              42,
+              "ShopScene_Content_BagUpgradePopup_Text"
+            ],
+            [
+              45,
+              "ShopScene_Content_BagUpgradePopup_Success_Text"
+            ],
+            [
+              89,
+              "ShopScene_Hub_Text"
+            ]
+          ],
+          4844
+        ],
+        [
+          [],
+          4844
+        ],
+        [
+          [
+            [
+              57,
+              "ShopScene_Item_Detail_0"
+            ],
+            [
+              68,
+              "ShopScene_Item_Detail_10"
+            ],
+            [
+              85,
+              "ShopScene_Dialog_Text_1"
+            ]
+          ],
+          4929
+        ],
+        [
+          [
+            [
+              58,
+              "ShopScene_Item_Detail_1"
+            ],
+            [
+              69,
+              "ShopScene_Item_Detail_11"
+            ],
+            [
+              86,
+              "ShopScene_Dialog_Text_2"
+            ]
+          ],
+          5014
         ]
       ]
     },
@@ -1233,8 +1315,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 121,
-        "size": 4172,
+        "entries": 128,
+        "size": 4486,
         "unknown1": 0,
         "unknown2": 0
       }

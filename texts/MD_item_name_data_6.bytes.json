@@ -1,330 +1,322 @@
 {
   "strings": {
     "item_desc_1": [
-      "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce."
+      "睡眠リサーチでもらえる\nリサーチEXPが2倍になるおこう。\n次回の睡眠リサーチのみ有効。"
     ],
     "item_desc_10": [
-      "Dolcetto buonissimo che rende molto\npiù amici i Pokémon. Aumenta i punti\namicizia di 3."
+      "ポケモンにあげると\nかなり仲良くなれる素敵なおやつ。\nフレンドポイントが3上がる。"
     ],
     "item_desc_11": [
-      "Dolcetto speciale che rende i Pokémon\npiù amici che mai. Porta al massimo\ni punti amicizia."
+      "ポケモンにあげると、\n最高に仲良くなれる特別なおやつ。\nフレンドポイントがMAXまで上がる。"
     ],
     "item_desc_12": [
-      "Caramella piccola ma molto speciale\nche si può trasformare in 3 caramelle\ndi qualunque specie di Pokémon."
+      "どんなポケモンのアメ x3\nにも変えられる小さな特別なアメ。"
     ],
     "item_desc_13": [
-      "Caramella molto speciale che si può\ntrasformare in 20 caramelle di\nqualunque specie di Pokémon."
+      "どんなポケモンのアメ x20\nにも変えられる特別なアメ。"
     ],
     "item_desc_14": [
-      "Caramella grande e molto speciale che\nsi può trasformare in 100 caramelle\ndi qualunque specie di Pokémon."
+      "どんなポケモンのアメ x100\nにも変えられる大きな特別なアメ。"
     ],
     "item_desc_15": [
-      "Ottimo biglietto che si può scambiare\ncon \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀 per cucinare."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nうれしいチケット。"
     ],
     "item_desc_16": [
-      "Biglietto fantastico che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀\nper cucinare."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nすてきなチケット。"
     ],
     "item_desc_17": [
-      "Biglietto per palati fini, che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀\nper cucinare."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nくいしんぼう大喜びのチケット。"
     ],
     "item_desc_18": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 framment\u000e\u0005",
-      "\n\u0002o\u0002i촀 di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。\nリサーチランクが上がると、\n得られるゆめのかけらの量が増える。"
     ],
     "item_desc_19": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。\nリサーチランクが上がると、\n得られるゆめのかけらの量が増える。"
     ],
     "item_desc_2": [
-      "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce."
+      "睡眠リサーチでもらえる\nゆめのかけらが2倍になるおこう。\n次回の睡眠リサーチのみ有効。"
     ],
     "item_desc_20": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sogno.\nI frammenti di sogno ottenibili\naumentano man mano che\nil grado ricerca sale."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。\nリサーチランクが上がると、\n得られるゆめのかけらの量が増える。"
     ],
     "item_desc_21": [
-      "Filo dotato di una misteriosa energia\nche lascia percepire un inspiegabile\nsenso di connessione."
+      "なにかしらのつながりを感じさせる\nふしぎなエネルギーを秘めているヒモ。\n\nどうぐバッグから使うと、\nつながりのヒモで進化するポケモンのうち\nランダムで1種類のアメを5個受け取れる"
     ],
     "item_desc_22": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nHa sfumature arancioni."
+      "ある特定のポケモンを進化させる\nふしぎな石。だいだい色をしている。"
     ],
     "item_desc_23": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ azzurra."
+      "ある特定のポケモンを進化させる\nふしぎな石。澄んだ水色をしている。"
     ],
     "item_desc_24": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nRiporta l'immagine di un fulmine."
+      "ある特定のポケモンを進化させる\nふしぎな石。稲妻の模様がある。"
     ],
     "item_desc_25": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nRiporta l'immagine di una foglia."
+      "ある特定のポケモンを進化させる\nふしぎな石。はっぱの模様がある。"
     ],
     "item_desc_26": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nSi intravede l'immagine di un fiocco\ndi neve."
+      "ある特定のポケモンを進化させる\nふしぎな石。雪の模様がある。"
     ],
     "item_desc_27": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ nera come la notte."
+      "ある特定のポケモンを進化させる\nふしぎな石。夜空のように黒い。"
     ],
     "item_desc_28": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nBrilla di una luce abbagliante."
+      "ある特定のポケモンを進化させる\nふしぎな石。ひかりのようにまぶしい。"
     ],
     "item_desc_29": [
-      "Rivestimento che fa evolvere\ndeterminate specie di Pokémon.\nÈ fatta di un metallo speciale."
+      "ある特定のポケモンを進化させる膜。\n特殊な金属でできている。"
     ],
     "item_desc_3": [
-      "Raddoppia i PE ottenuti dagli aiutanti\ndopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce."
+      "睡眠リサーチでおてつだいポケモンが\nもらえるEXPが2倍になるおこう。\n次回の睡眠リサーチのみ有効。"
     ],
     "item_desc_30": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ tondeggiante."
+      "ある特定のポケモンを進化させる\nふしぎな石。たまのようにまるい。"
     ],
     "item_desc_31": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ a forma di corona."
+      "ある特定のポケモンを進化させる\nふしぎな石。王冠の形。"
     ],
     "item_desc_32": [
-      "Seme misterioso che fa salire\ndi 1 livello l'abilità principale\ndi un Pokémon."
+      "ポケモンのメインスキルのレベルが\n1つ上がる不思議なたね。"
     ],
     "item_desc_33": [
-      "Seme misterioso che migliora di 1\nla qualità di un'abilità secondaria\na caso di un Pokémon. "
+      "ポケモンのサブスキルのレア度が\nランダムで1つ上がる不思議なたね。"
     ],
     "item_desc_34": [
-      "Fa sì che per lo spuntino appaia\nalmeno un Pokémon particolarmente\naffamato. Dura una sola dormita e poi\nsparisce."
+      "おやつタイムでポケモンが\n1匹確定でチャンス状態になる。\n次回の睡眠リサーチでのみ有効。"
     ],
     "item_desc_4": [
-      "Raddoppia l'energia recuperata dagli\naiutanti dopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce."
+      "睡眠リサーチでおてつだいポケモンの\nげんき回復量が2倍になるおこう。\n次回の睡眠リサーチのみ有効。"
     ],
     "item_desc_5": [
-      "Cuscino ad hoc che fa recuperare\n50 energie a un solo Pokémon\naiutante."
+      "おてつだいポケモン1匹の\nげんきを50回復する特製まくら。"
     ],
     "item_desc_6": [
-      "Fischietto molto energizzante.\nBasta un fischio e la squadra di\naiutanti raccoglierà subito le bacche\ne gli ingredienti ottenibili in tre ore.\nLe abilità principali, però, non saranno\nattivate."
+      "ポケモンが活発になる特別なホイッスル。\nチームのおてつだい3時間分の\nきのみと食材を受け取れる。\nメインスキルは発動しない。"
     ],
     "item_desc_7": [
-      "Biglietto speciale che permette\ndi spostarsi in un altro punto\nin qualunque momento (solo\nverso aree già sbloccate).\n(Spostandosi, il rango di Snorlax e\nle ricompense di alcune missioni\nverranno azzerati.)"
+      "いつでもフィールドを\n移動することができる特別なチケット。\n※解放されたフィールドにのみ行けます\n※移動すると現時点でのカビゴン評価と\n一部のミッションの報酬がリセットされます"
     ],
     "item_desc_8": [
-      "Permette di prendere in prestito\nper 7 giorni un Set da campeggio\nbuono, utile per le ricerche e per\nfar crescere Snorlax."
+      "カビゴンの育成とリサーチに役立つ\nいいキャンプセットが借りられる。\n効果は7日間有効。"
     ],
     "item_desc_9": [
-      "Dolcetto che rende un po' più amici\ni Pokémon. Aumenta i punti amicizia\ndi 1."
+      "ポケモンにあげると\nちょっぴり仲良くなれるおやつ。\nフレンドポイントが1上がる。"
     ],
     "item_desc_short_1": [
-      "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno."
+      "睡眠リサーチでもらえる\nリサーチEXPが2倍になる。"
     ],
     "item_desc_short_10": [
-      "Dolcetto buonissimo che rende\nmolto più amici i Pokémon.\nAumenta i punti amicizia di 3."
+      "ポケモンにあげると\nかなり仲良くなれる素敵なおやつ。\nフレンドポイントが3上がる。"
     ],
     "item_desc_short_11": [
-      "Dolcetto speciale che rende\ni Pokémon più amici che mai.\nPorta al massimo i punti amicizia."
+      "ポケモンにあげると、\n最高に仲良くなれる特別なおやつ。\nフレンドポイントがMAXまで上がる。"
     ],
     "item_desc_short_12": [
-      "Caramella piccola ma molto speciale\nche si può trasformare in 3 caramelle\ndi qualunque specie di Pokémon."
+      "どんなポケモンのアメ x3\nにも変えられる小さな特別なアメ。"
     ],
     "item_desc_short_13": [
-      "Caramella molto speciale che si può\ntrasformare in 20 caramelle di\nqualunque specie di Pokémon."
+      "どんなポケモンのアメ x20\nにも変えられる特別なアメ。"
     ],
     "item_desc_short_14": [
-      "Caramella grande e molto speciale\nche si può trasformare in 100\ncaramelle di qualunque specie di Pokémon."
+      "どんなポケモンのアメ x100\nにも変えられる大きな特別なアメ。"
     ],
     "item_desc_short_15": [
-      "Ottimo biglietto che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nうれしいチケット。"
     ],
     "item_desc_short_16": [
-      "Biglietto fantastico che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nすてきなチケット。"
     ],
     "item_desc_short_17": [
-      "Biglietto per palati fini, che si può\nscambiare con \u000e\u0002\u0002\u0002",
-      " ingredient\u000e\u0005",
-      "\n\u0002e\u0002i촀."
+      "いろいろな食材が\u000e\u0002\u0002\u0002",
+      "個得られる\nくいしんぼう大喜びのチケット。"
     ],
     "item_desc_short_18": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 framment\u000e\u0005",
-      "\n\u0002o\u0002i촀 di sogno."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。"
     ],
     "item_desc_short_19": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sogno."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。"
     ],
     "item_desc_short_2": [
-      "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno."
+      "睡眠リサーチでもらえる\nゆめのかけらが2倍になる。"
     ],
     "item_desc_short_20": [
-      "Misterioso blocco scintillante\nche può essere scambiato\ncon \u000e\u0002\u0005\u0004",
-      "촁 frammenti di sogno."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。"
     ],
     "item_desc_short_21": [
-      "Filo dotato di una misteriosa\nenergia che lascia percepire un\ninspiegabile senso di connessione."
+      "なにかしらのつながりを感じさせる\nふしぎなエネルギーを秘めているヒモ。\nどうぐバッグから使うこともできる。"
     ],
     "item_desc_short_22": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nHa sfumature arancioni."
+      "ある特定のポケモンを進化させる\nふしぎな石。だいだい色をしている。"
     ],
     "item_desc_short_23": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ azzurra."
+      "ある特定のポケモンを進化させる\nふしぎな石。澄んだ水色をしている。"
     ],
     "item_desc_short_24": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nRiporta l'immagine di un fulmine."
+      "ある特定のポケモンを進化させる\nふしぎな石。稲妻の模様がある。"
     ],
     "item_desc_short_25": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nRiporta l'immagine di una foglia."
+      "ある特定のポケモンを進化させる\nふしぎな石。はっぱの模様がある。"
     ],
     "item_desc_short_26": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nSi intravede l'immagine di un fiocco\ndi neve."
+      "ある特定のポケモンを進化させる\nふしぎな石。雪の模様がある。"
     ],
     "item_desc_short_27": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ nera come la notte."
+      "ある特定のポケモンを進化させる\nふしぎな石。夜空のように黒い。"
     ],
     "item_desc_short_28": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nBrilla di una luce abbagliante."
+      "ある特定のポケモンを進化させる\nふしぎな石。ひかりのようにまぶしい。"
     ],
     "item_desc_short_29": [
-      "Rivestimento che fa evolvere\ndeterminate specie di Pokémon.\nÈ fatta di un metallo speciale."
+      "ある特定のポケモンを進化させる膜。\n特殊な金属でできている。"
     ],
     "item_desc_short_3": [
-      "Raddoppia i PE ottenuti dagli\naiutanti dopo la ricerca sul sonno."
+      "睡眠リサーチでおてつだいポケモンが\nもらえるEXPが2倍になる。"
     ],
     "item_desc_short_30": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ tondeggiante."
+      "ある特定のポケモンを進化させる\nふしぎな石。たまのようにまるい。"
     ],
     "item_desc_short_31": [
-      "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ a forma di corona."
+      "ある特定のポケモンを進化させる\nふしぎな石。王冠の形。"
     ],
     "item_desc_short_32": [
-      "Seme misterioso che fa salire\ndi 1 livello l'abilità principale\ndi un Pokémon."
+      "ポケモンのメインスキルのレベルが\n1つ上がる不思議なたね。"
     ],
     "item_desc_short_33": [
-      "Seme misterioso che migliora di 1\nla qualità di un'abilità secondaria\na caso di un Pokémon. "
+      "ポケモンのサブスキルのレア度が\nランダムで1つ上がる不思議なたね。"
     ],
     "item_desc_short_34": [
-      "Fa sì che per lo spuntino\nappaia almeno un Pokémon\nparticolarmente affamato."
+      "おやつタイムでポケモンが\n1匹確定でチャンス状態になる。"
     ],
     "item_desc_short_4": [
-      "Raddoppia l'energia recuperata\ndagli aiutanti dopo la ricerca\nsul sonno."
+      "睡眠リサーチでおてつだいポケモンの\nげんき回復量が2倍になる。"
     ],
     "item_desc_short_5": [
-      "Cuscino ad hoc che fa recuperare\n50 energie a un solo Pokémon\naiutante."
+      "おてつだいポケモン1匹の\nげんきを50回復する特製まくら。"
     ],
     "item_desc_short_6": [
-      "Fischietto molto energizzante che\npermette di ricevere subito bacche\ne ingredienti ottenibili in tre ore."
+      "ポケモンが活発になる特別なホイッスル。\nチームのおてつだい3時間分の\nきのみと食材を受け取れる。"
     ],
     "item_desc_short_7": [
-      "Biglietto speciale che permette di\ncambiare punto in ogni momento."
+      "いつでもフィールドを\n移動することができる特別なチケット。"
     ],
     "item_desc_short_8": [
-      "Permette di prendere in prestito\nper 7 giorni un Set da campeggio\nbuono, utile per ricerche e Snorlax."
+      "カビゴンの育成とリサーチに役立つ\nいいキャンプセットが借りられる。\n効果は7日間有効。"
     ],
     "item_desc_short_9": [
-      "Dolcetto che rende un po' più amici\ni Pokémon.\nAumenta i punti amicizia di 1."
+      "ポケモンにあげると\nちょっぴり仲良くなれるおやつ。\nフレンドポイントが1上がる。"
     ],
     "item_name_1": [
-      "Concentraroma"
+      "しゅうちゅうのおこう"
     ],
     "item_name_10": [
-      "Megabiscotto"
+      "スーパーサブレ"
     ],
     "item_name_11": [
-      "Masterbiscotto"
+      "マスターサブレ"
     ],
     "item_name_12": [
-      "Jollymella S"
+      "ばんのうアメS"
     ],
     "item_name_13": [
-      "Jollymella M"
+      "ばんのうアメM"
     ],
     "item_name_14": [
-      "Jollymella L"
+      "ばんのうアメL"
     ],
     "item_name_15": [
-      "Biglietto ingredienti S"
+      "食材チケットS"
     ],
     "item_name_16": [
-      "Biglietto ingredienti M"
+      "食材チケットM"
     ],
     "item_name_17": [
-      "Biglietto ingredienti L"
+      "食材チケットL"
     ],
     "item_name_18": [
-      "Blocco di sogni S"
+      "ゆめのかたまりS"
     ],
     "item_name_19": [
-      "Blocco di sogni M"
+      "ゆめのかたまりM"
     ],
     "item_name_2": [
-      "Fortunaroma "
+      "こううんのおこう"
     ],
     "item_name_20": [
-      "Blocco di sogni L"
+      "ゆめのかたまりL"
     ],
     "item_name_21": [
-      "Filo dell'unione"
+      "つながりのヒモ"
     ],
     "item_name_22": [
-      "Pietrafocaia"
+      "ほのおのいし"
     ],
     "item_name_23": [
-      "Pietraidrica"
+      "みずのいし"
     ],
     "item_name_24": [
-      "Pietratuono"
+      "かみなりのいし"
     ],
     "item_name_25": [
-      "Pietrafoglia"
+      "リーフのいし"
     ],
     "item_name_26": [
-      "Pietragelo"
+      "こおりのいし"
     ],
     "item_name_27": [
-      "Pietralunare"
+      "つきのいし"
     ],
     "item_name_28": [
-      "Pietrabrillo"
+      "ひかりのいし"
     ],
     "item_name_29": [
-      "Metalcopertura"
+      "メタルコート"
     ],
     "item_name_3": [
-      "Cresciaroma"
+      "せいちょうのおこう"
     ],
     "item_name_30": [
-      "Pietraovale"
+      "まんまるいし"
     ],
     "item_name_31": [
-      "Roccia di re"
+      "おうじゃのしるし"
     ],
     "item_name_32": [
-      "Seme abilità principale"
+      "メインスキルのたね"
     ],
     "item_name_33": [
-      "Seme abilità secondaria"
+      "サブスキルのたね"
     ],
     "item_name_34": [
-      "Affiataroma"
+      "なかよしのおこう"
     ],
     "item_name_4": [
-      "Risanaroma"
+      "かいふくのおこう"
     ],
     "item_name_5": [
-      "Cuscino energia"
+      "げんきマクラ"
     ],
     "item_name_6": [
-      "Fischietto aiutanti"
+      "おてつだいホイッスル"
     ],
     "item_name_7": [
-      "Biglietto sonnotrasporto"
+      "フィールドいどうチケット"
     ],
     "item_name_8": [
-      "Biglietto buoncampeggio"
+      "いいキャンプチケット"
     ],
     "item_name_9": [
-      "Pokébiscotto"
+      "ポケサブレ"
     ]
   },
   "structure": {
@@ -1030,7 +1022,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14684,
+        "size": 6248,
         "unknown1": 0,
         "unknown2": 0
       }

@@ -46,7 +46,7 @@
       "촁 Traumsplitter eingetauscht\nwerden. Du erhältst mehr\nTraumsplitter, wenn dein\nForschungsrang steigt."
     ],
     "item_desc_21": [
-      "Diese Schnur verströmt eine\nmysteriöse Energie und verleiht ein\nseltsames Gefühl der Verbundenheit.\n"
+      "Diese Schnur verströmt mysteriöse\nEnergie und verleiht ein seltsames\nGefühl der Verbundenheit.\nSetzt du sie in der Itemtasche deines\nBeutels ein, erhältst du 5 Bonbons\nfür ein zufälliges Pokémon, das sich\ndurch die Verbindungsschnur\nentwickeln kann."
     ],
     "item_desc_22": [
       "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er schimmert in den Farben\nOrange und Gelb."
@@ -100,7 +100,7 @@
       "Eine erstaunlich aufweckende Pfeife.\nMit einem Pfiff erhältst du sofort\neine 3-Stundenration an Beeren und\nZutaten. Haupttalente werden dabei\naber nicht ausgelöst."
     ],
     "item_desc_7": [
-      "Ein besonderes Ticket, mit dem du\njederzeit in ein anderes Gebiet reisen\nkannst.\n(Du kannst nur in Gebiete reisen,\ndie du bereits freigeschaltet hast.)\n(Wenn du das Gebiet wechselst,\nwerden Relaxos Rang und bestimmte\nMissionen zurückgesetzt.)\n"
+      "Ein besonderes Ticket, mit dem du\njederzeit in ein anderes Gebiet reisen\nkannst.\n(Du kannst nur in Gebiete reisen,\ndie du bereits freigeschaltet hast.)\n(Wenn du das Gebiet wechselst,\nwerden Relaxos Rang und bestimmte\nMissionsbelohnungen zurückgesetzt.)"
     ],
     "item_desc_8": [
       "Ermöglicht es, für sieben Tage ein\nProfi-Camping-Set auszuleihen, das\ndeine Forschung erleichtert und\nRelaxo beim Wachsen unterstützt."
@@ -154,7 +154,7 @@
       "촁 Traumsplitter eingetauscht\nwerden kann."
     ],
     "item_desc_short_21": [
-      "Diese Schnur verströmt mysteriöse\nEnergie und verleiht ein seltsames\nGefühl der Verbundenheit."
+      "Eine Schnur, die ein Gefühl der\nVerbundenheit verleiht. Sie kann \nauch im Beutel eingesetzt werden."
     ],
     "item_desc_short_22": [
       "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er schimmert in\nden Farben Orange und Gelb."
@@ -1022,7 +1022,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 14704,
+        "size": 15030,
         "unknown1": 0,
         "unknown2": 0
       }

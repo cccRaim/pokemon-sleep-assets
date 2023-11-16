@@ -1,346 +1,322 @@
 {
   "strings": {
     "item_desc_1": [
-      "Un Encens qui double les points de\nrecherche obtenus pendant une\nsession de recherche sur le sommeil.\nValable pour une seule session après\nutilisation."
+      "수면 리서치로 받을 수 있는\n리서치 EXP가 2배가 되는 향로.\n다음번 수면 리서치에만 효과가 있다."
     ],
     "item_desc_10": [
-      "Une délicieuse friandise permettant\nde rendre un Pokémon plus\naffectueux. Chacun de ces biscuits\ndonne 3 points d'amitié."
+      "포켓몬에게 주면\n상당히 친밀해질 수 있는 근사한 간식.\n프렌드 포인트가 3 오른다."
     ],
     "item_desc_11": [
-      "Une friandise spéciale permettant\nde maximiser l'affection d'un\nPokémon. Chacun de ces biscuits\ndonne le maximum de points d'amitié."
+      "포켓몬에게 주면\n최고로 친밀해질 수 있는 특별한 간식.\n프렌드 포인트가 MAX까지 오른다."
     ],
     "item_desc_12": [
-      "Un petit bonbon très spécial pouvant\ndevenir 3 bonbons pour n'importe\nquel Pokémon."
+      "どんなポケモンのアメ x3\nにも変えられる小さな特別なアメ。"
     ],
     "item_desc_13": [
-      "Un bonbon très spécial pouvant\ndevenir 20 bonbons pour n'importe\nquel Pokémon."
+      "どんなポケモンのアメ x20\nにも変えられる特別なアメ。"
     ],
     "item_desc_14": [
-      "Un gros bonbon très spécial pouvant\ndevenir 100 bonbons pour n'importe\nquel Pokémon."
+      "どんなポケモンのアメ x100\nにも変えられる大きな特別なアメ。"
     ],
     "item_desc_15": [
-      "Un super ticket à échanger\ncontre \u000e\u0002\u0002\u0002",
-      " ingrédient\u000e\u0004",
-      "\b",
-      "\u0002s촀 de cuisine."
+      "다양한 식재료를 \u000e\u0002\u0002\u0002",
+      "개 받을 수 있는\n행복한 세트."
     ],
     "item_desc_16": [
-      "Un incroyable ticket à échanger\ncontre \u000e\u0002\u0002\u0002",
-      " ingrédient\u000e\u0004",
-      "\b",
-      "\u0002s촀 de cuisine."
+      "다양한 식재료를 \u000e\u0002\u0002\u0002",
+      "개 받을 수 있는\n근사한 세트."
     ],
     "item_desc_17": [
-      "Un ticket pour les plus fins gourmets,\nà échanger contre \u000e\u0002\u0002\u0002",
-      " ingrédient\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde cuisine."
+      "다양한 식재료를 \u000e\u0002\u0002\u0002",
+      "개 받을 수 있는\n대식가를 위한 세트."
     ],
     "item_desc_18": [
-      "Un mystérieux agrégat de matière\nqui brille intensément. Il peut être\néchangé contre \u000e\u0002\u0005\u0004",
-      "촁 Fragment\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde Rêve.\nLe nombre de Fragments de Rêve\nreçus monte à mesure que votre rang\nde recherche augmente."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。\nリサーチランクが上がると、\n得られるゆめのかけらの量が増える。"
     ],
     "item_desc_19": [
-      "Un mystérieux agrégat de matière\nqui brille intensément. Il peut être\néchangé contre \u000e\u0002\u0005\u0004",
-      "촁 Fragment\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde Rêve.\nLe nombre de Fragments de Rêve\nreçus monte à mesure que votre rang\nde recherche augmente."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。\nリサーチランクが上がると、\n得られるゆめのかけらの量が増える。"
     ],
     "item_desc_2": [
-      "Un Encens qui double les Fragments de\nRêve obtenus pendant une session de\nrecherche sur le sommeil. Valable\npour une seule session après\nutilisation."
+      "수면 리서치로 받을 수 있는\n꿈의조각이 2배가 되는 향로.\n다음번 수면 리서치에만 효과가 있다."
     ],
     "item_desc_20": [
-      "Un mystérieux agrégat de matière\nqui brille intensément. Il peut être\néchangé contre \u000e\u0002\u0005\u0004",
-      "촁 Fragment\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde Rêve.\nLe nombre de Fragments de Rêve\nreçus monte à mesure que votre rang\nde recherche augmente."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。\nリサーチランクが上がると、\n得られるゆめのかけらの量が増える。"
     ],
     "item_desc_21": [
-      "Un fil qui semble abriter une étrange\nénergie capable de nouer des liens\nentre les êtres."
+      "なにかしらのつながりを感じさせる\nふしぎなエネルギーを秘めているヒモ。\n\nどうぐバッグから使うと、\nつながりのヒモで進化するポケモンのうち\nランダムで1種類のアメを5個受け取れる"
     ],
     "item_desc_22": [
-      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nest jaune et orange."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 주황색을 띠고 있다."
     ],
     "item_desc_23": [
-      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nest de couleur bleue."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 투명한 푸른색을 띠고 있다."
     ],
     "item_desc_24": [
-      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Un\néclair est dessiné dessus."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 천둥번개 무늬가 있다."
     ],
     "item_desc_25": [
-      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Une\nfeuille est dessinée dessus."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 잎사귀 무늬가 있다."
     ],
     "item_desc_26": [
-      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Un\nflocon de neige semble dessiné\ndessus."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 눈송이 무늬가 있다."
     ],
     "item_desc_27": [
-      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nest sombre comme la nuit."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 밤하늘처럼 까맣다."
     ],
     "item_desc_28": [
-      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nbrille d'une lumière aveuglante."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 빛처럼 눈부시다."
     ],
     "item_desc_29": [
-      "Une pellicule métallique qui fait\névoluer certaines espèces de\nPokémon. Elle est faite d'un métal\nparticulier.\n"
+      "어느 특정 포켓몬을 진화시키는 장막.\n특수한 금속으로 되어 있다."
     ],
     "item_desc_3": [
-      "Un Encens qui double les points\nd'expérience obtenus par les Pokémon\nde soutien pendant une session de\nrecherche sur le sommeil. Valable\npour une seule session après\nutilisation."
+      "수면 리서치로 도우미 포켓몬이\n받을 수 있는 EXP가 2배가 되는 향로.\n다음번 수면 리서치에만 효과가 있다."
     ],
     "item_desc_30": [
-      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle a\nla forme d'un œuf."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 구슬처럼 둥글다."
     ],
     "item_desc_31": [
-      "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle a\nla forme d'une couronne."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 왕관처럼 생겼다."
     ],
     "item_desc_32": [
-      "Une graine mystérieuse qui augmente\nde 1 niveau la Compétence Principale\nd'un Pokémon."
+      "포켓몬의 메인 스킬 레벨이\n1 오르는 신비한 씨앗."
     ],
     "item_desc_33": [
-      "Une graine mystérieuse qui améliore\nd'un rang les effets d'une des\nCompétences Secondaires au hasard\npour un Pokémon."
+      "포켓몬의 서브 스킬 레어도가\n랜덤으로 1 오르는 신비한 씨앗."
     ],
     "item_desc_34": [
-      "Un Encens qui garantit l'apparition\nd'au moins un Pokémon super affamé à\nl'heure du goûter. Valable pour une\nseule session après utilisation."
+      "간식 타임에 포켓몬이\n1마리 확정으로 찬스 상태가 된다.\n다음번 수면 리서치에만 효과가 있다."
     ],
     "item_desc_4": [
-      "Un Encens qui double l'Énergie\nrécupérée par les Pokémon de soutien\npendant une session de recherche sur\nle sommeil. Valable pour une seule\nsession après utilisation."
+      "수면 리서치로 도우미 포켓몬이 회복하는\n기력 회복량이 2배가 되는 향로.\n다음번 수면 리서치에만 효과가 있다."
     ],
     "item_desc_5": [
-      "Un oreiller spécial qui restaure de 50\nl'Énergie d'un Pokémon de soutien."
+      "도우미 포켓몬 1마리의\n기력을 50 회복하는 특제 베개."
     ],
     "item_desc_6": [
-      "Un sifflet spécial qui motive les\nPokémon et permet d'obtenir\nl'équivalent de 3 heures de recherche\nen Baies et ingrédients. N'active pas\nde Compétence Principale."
+      "포켓몬이 활발해지는 특별한 휘슬.\n도우미 팀이 3시간 모은 만큼의\n나무열매와 식재료를 받을 수 있다.\n메인 스킬은 발동하지 않는다."
     ],
     "item_desc_7": [
-      "Un ticket mystérieux qui permet\nde changer de zone de recherche\nà tout moment.\n(Fonctionne uniquement vers les zones\nde recherche déjà débloquées.)\n(Changer de zone réinitialisera le rang\nde Ronflex et certaines missions.)"
+      "언제든지 필드를\n이동할 수 있는 신비한 버튼."
     ],
     "item_desc_8": [
-      "Permet d'utiliser un Kit de Camping\nfacilitant les recherches et le\nrenforcement de Ronflex pendant\n7 jours."
+      "잠만보 육성과 리서치에 도움이 되는\n좋은캠프세트를 빌릴 수 있다.\n효과는 7일간 유효하다."
     ],
     "item_desc_9": [
-      "Une friandise permettant de rendre\nun Pokémon un peu plus affectueux.\nChacun de ces biscuits donne 1 point\nd'amitié."
+      "포켓몬에게 주면\n조금 친밀해질 수 있는 간식.\n프렌드 포인트가 1 오른다."
     ],
     "item_desc_short_1": [
-      "Double les points de recherche\nobtenus pendant les recherches."
+      "수면 리서치로 받을 수 있는\n리서치 EXP가 2배가 된다."
     ],
     "item_desc_short_10": [
-      "Rend un Pokémon plus affectueux.\nDonne 3 points d'amitié."
+      "포켓몬에게 주면\n상당히 친밀해질 수 있는 근사한 간식.\n프렌드 포인트가 3 오른다."
     ],
     "item_desc_short_11": [
-      "Maximise l'affection d'un Pokémon.\nDonne le maximum de points\nd'amitié."
+      "포켓몬에게 주면\n최고로 친밀해질 수 있는 특별한 간식.\n프렌드 포인트가 MAX까지 오른다."
     ],
     "item_desc_short_12": [
-      "Peut devenir 3 bonbons\npour n'importe quel Pokémon."
+      "どんなポケモンのアメ x3\nにも変えられる小さな特別なアメ。"
     ],
     "item_desc_short_13": [
-      "Peut devenir 20 bonbons\npour n'importe quel Pokémon."
+      "どんなポケモンのアメ x20\nにも変えられる特別なアメ。"
     ],
     "item_desc_short_14": [
-      "Peut devenir 100 bonbons\npour n'importe quel Pokémon."
+      "どんなポケモンのアメ x100\nにも変えられる大きな特別なアメ。"
     ],
     "item_desc_short_15": [
-      "S'échange contre \u000e\u0002\u0002\u0002",
-      " ingrédient\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde cuisine."
+      "다양한 식재료를 \u000e\u0002\u0002\u0002",
+      "개 받을 수 있는\n행복한 세트."
     ],
     "item_desc_short_16": [
-      "S'échange contre \u000e\u0002\u0002\u0002",
-      " ingrédient\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde cuisine."
+      "다양한 식재료를 \u000e\u0002\u0002\u0002",
+      "개 받을 수 있는\n근사한 세트."
     ],
     "item_desc_short_17": [
-      "S'échange contre \u000e\u0002\u0002\u0002",
-      " ingrédient\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde cuisine."
+      "다양한 식재료를 \u000e\u0002\u0002\u0002",
+      "개 받을 수 있는\n대식가를 위한 세트."
     ],
     "item_desc_short_18": [
-      "S'échange contre \u000e\u0002\u0005\u0004",
-      "촁 Fragment\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde Rêve."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。"
     ],
     "item_desc_short_19": [
-      "S'échange contre \u000e\u0002\u0005\u0004",
-      "촁 Fragment\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde Rêve."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。"
     ],
     "item_desc_short_2": [
-      "Double les Fragments de Rêve\nobtenus pendant les recherches."
+      "수면 리서치로 받을 수 있는\n꿈의조각이 2배가 된다."
     ],
     "item_desc_short_20": [
-      "S'échange contre \u000e\u0002\u0005\u0004",
-      "촁 Fragment\u000e\u0004",
-      "\b",
-      "\u0002s촀\nde Rêve."
+      "キラキラ光るふしぎなかたまり。\nゆめのかけら x\u000e\u0002\u0005\u0004",
+      "촁と交換できる。"
     ],
     "item_desc_short_21": [
-      "Semble abriter une étrange énergie\ncapable de nouer des liens entre les\nêtres."
+      "なにかしらのつながりを感じさせる\nふしぎなエネルギーを秘めているヒモ。\nどうぐバッグから使うこともできる。"
     ],
     "item_desc_short_22": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 주황색을 띠고 있다."
     ],
     "item_desc_short_23": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 투명한 푸른색을 띠고 있다."
     ],
     "item_desc_short_24": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 천둥번개 무늬가 있다."
     ],
     "item_desc_short_25": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 잎사귀 무늬가 있다."
     ],
     "item_desc_short_26": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 눈송이 무늬가 있다."
     ],
     "item_desc_short_27": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 밤하늘처럼 까맣다."
     ],
     "item_desc_short_28": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 빛처럼 눈부시다."
     ],
     "item_desc_short_29": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는 장막.\n특수한 금속으로 되어 있다."
     ],
     "item_desc_short_3": [
-      "Double les points d'expérience\nobtenus par les Pokémon de soutien\npendant les recherches."
+      "수면 리서치로 도우미 포켓몬이\n받을 수 있는 EXP가 2배가 된다."
     ],
     "item_desc_short_30": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 구슬처럼 둥글다."
     ],
     "item_desc_short_31": [
-      "Fait évoluer certaines espèces de\nPokémon."
+      "어느 특정 포켓몬을 진화시키는\n이상한 돌. 왕관처럼 생겼다."
     ],
     "item_desc_short_32": [
-      "Augmente de 1 niveau\nla Compétence Principale\nd'un Pokémon."
+      "포켓몬의 메인 스킬 레벨이\n1 오르는 신비한 씨앗."
     ],
     "item_desc_short_33": [
-      "Améliore d'un rang les effets d'une\ndes Compétences Secondaires au\nhasard pour un Pokémon."
+      "포켓몬의 서브 스킬 레어도가\n랜덤으로 1 오르는 신비한 씨앗."
     ],
     "item_desc_short_34": [
-      "Garantit l'apparition d'au moins un\nPokémon super affamé à l'heure du\ngoûter."
+      "おやつタイムでポケモンが\n1匹確定でチャンス状態になる。"
     ],
     "item_desc_short_4": [
-      "Double l'Énergie récupérée\npar les Pokémon de soutien\npendant les recherches."
+      "수면 리서치로 도우미 포켓몬이 회복하는\n기력 회복량이 2배가 된다."
     ],
     "item_desc_short_5": [
-      "Restaure de 50 l'Énergie d'un\nPokémon de soutien."
+      "도우미 포켓몬 1마리의\n기력을 50 회복하는 특제 베개."
     ],
     "item_desc_short_6": [
-      "Permet d'obtenir l'équivalent de\n3 heures de recherche en Baies et\ningrédients."
+      "포켓몬이 활발해지는 특별한 휘슬.\n도우미 팀이 3시간 모은 만큼의\n나무열매와 식재료를 받을 수 있다."
     ],
     "item_desc_short_7": [
-      "Permet de changer de zone de\nrecherche à tout moment."
+      "언제든지 필드를\n이동할 수 있는 신비한 버튼."
     ],
     "item_desc_short_8": [
-      "Facilite les recherches et le\nrenforcement de Ronflex pendant\n7 jours."
+      "잠만보 육성과 리서치에 도움이 되는\n좋은캠프세트를 빌릴 수 있다.\n효과는 7일간 유효하다."
     ],
     "item_desc_short_9": [
-      "Rend un Pokémon un peu plus\naffectueux. Donne 1 point d'amitié."
+      "포켓몬에게 주면\n조금 친밀해질 수 있는 간식.\n프렌드 포인트가 1 오른다."
     ],
     "item_name_1": [
-      "Encens Concentration"
+      "집중의향로"
     ],
     "item_name_10": [
-      "Super Biscuit"
+      "슈퍼 사블레"
     ],
     "item_name_11": [
-      "Master Biscuit"
+      "마스터 사블레"
     ],
     "item_name_12": [
-      "Bonbon Toubon S"
+      "만능사탕S"
     ],
     "item_name_13": [
-      "Bonbon Toubon M"
+      "만능사탕M"
     ],
     "item_name_14": [
-      "Bonbon Toubon L"
+      "만능사탕L"
     ],
     "item_name_15": [
-      "Ticket Ingrédients S"
+      "식재료 세트S"
     ],
     "item_name_16": [
-      "Ticket Ingrédients M"
+      "식재료 세트M"
     ],
     "item_name_17": [
-      "Ticket Ingrédients L"
+      "식재료 세트L"
     ],
     "item_name_18": [
-      "Amas de Rêve S"
+      "꿈의덩어리S"
     ],
     "item_name_19": [
-      "Amas de Rêve M"
+      "꿈의덩어리M"
     ],
     "item_name_2": [
-      "Encens Veine"
+      "행운의향로"
     ],
     "item_name_20": [
-      "Amas de Rêve L"
+      "꿈의덩어리L"
     ],
     "item_name_21": [
-      "Fil de Liaison"
+      "연결의끈"
     ],
     "item_name_22": [
-      "Pierre Feu"
+      "불꽃의돌"
     ],
     "item_name_23": [
-      "Pierre Eau"
+      "물의돌"
     ],
     "item_name_24": [
-      "Pierre Foudre"
+      "천둥의돌"
     ],
     "item_name_25": [
-      "Pierre Plante"
+      "리프의돌"
     ],
     "item_name_26": [
-      "Pierre Glace"
+      "얼음의돌"
     ],
     "item_name_27": [
-      "Pierre Lune"
+      "달의돌"
     ],
     "item_name_28": [
-      "Pierre Éclat"
+      "빛의돌"
     ],
     "item_name_29": [
-      "Peau Métal"
+      "금속코트"
     ],
     "item_name_3": [
-      "Encens Croissance"
+      "성장의향로"
     ],
     "item_name_30": [
-      "Pierre Ovale"
+      "동글동글돌"
     ],
     "item_name_31": [
-      "Roche Royale"
+      "왕의징표석"
     ],
     "item_name_32": [
-      "Graine de Compétence Principale"
+      "메인 스킬 씨앗"
     ],
     "item_name_33": [
-      "Graine de Compétence Secondaire"
+      "서브 스킬 씨앗"
     ],
     "item_name_34": [
-      "Encens Amitié"
+      "절친의향로"
     ],
     "item_name_4": [
-      "Encens Récupération"
+      "회복의향로"
     ],
     "item_name_5": [
-      "Oreiller Énergie"
+      "기력 회복"
     ],
     "item_name_6": [
-      "Sifflet de Soutien"
+      "도우미 휘슬"
     ],
     "item_name_7": [
-      "Ticket Transport"
+      "필드 이동 버튼"
     ],
     "item_name_8": [
-      "Ticket de Camping"
+      "좋은캠프티켓"
     ],
     "item_name_9": [
-      "Poké Biscuit"
+      "포켓사블레"
     ]
   },
   "structure": {
@@ -1046,7 +1022,7 @@
     "TXT2": {
       "header": {
         "entries": 102,
-        "size": 13688,
+        "size": 6408,
         "unknown1": 0,
         "unknown2": 0
       }

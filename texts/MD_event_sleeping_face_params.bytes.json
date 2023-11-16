@@ -1,13 +1,13 @@
 {
   "strings": {
     "md_event_sleeping_face_params_1": [
-      "Probabilidad ligeramente mayor:"
+      "Apparition un peu plus fréquente :"
     ],
     "md_event_sleeping_face_params_2": [
-      "Probabilidad alta:"
+      "Apparition plus fréquente :"
     ],
     "md_event_sleeping_face_params_3": [
-      "Probabilidad muy alta:"
+      "Apparition bien plus fréquente :"
     ]
   },
   "structure": {
@@ -73,7 +73,7 @@
     "TXT2": {
       "header": {
         "entries": 3,
-        "size": 160,
+        "size": 204,
         "unknown1": 0,
         "unknown2": 0
       }

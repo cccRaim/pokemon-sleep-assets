@@ -69,6 +69,12 @@
     "CommonPopup_Title_OfflineDialog_Title": [
       "Erreur de communication"
     ],
+    "CommonPopup_UnknownError_Message": [
+      "Une erreur inconnue s'est produite.\nVeuillez redémarrer l'application."
+    ],
+    "CommonPopup_UnknownError_Title": [
+      "Erreur inconnue"
+    ],
     "CommonPopup_Usercodes_Clipboard": [
       "Joins-toi à moi sur Pokémon Sleep !\nVoici mon ID de recherche."
     ],
@@ -88,8 +94,8 @@
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 28,
-        "size": 200,
+        "entries": 30,
+        "size": 214,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -97,7 +103,7 @@
     "LBL1": {
       "header": {
         "entries": 17,
-        "size": 1194,
+        "size": 1266,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -115,9 +121,13 @@
             [
               5,
               "CommonPopup_Title_OfflineDialog_Title"
+            ],
+            [
+              28,
+              "CommonPopup_UnknownError_Title"
             ]
           ],
-          234
+          269
         ],
         [
           [
@@ -126,11 +136,11 @@
               "CommonPopup_TimeZoneChange_Text"
             ]
           ],
-          270
+          305
         ],
         [
           [],
-          270
+          305
         ],
         [
           [
@@ -145,9 +155,13 @@
             [
               27,
               "CommonPopup_ObtFinishWaiting_Message"
+            ],
+            [
+              29,
+              "CommonPopup_UnknownError_Message"
             ]
           ],
-          382
+          454
         ],
         [
           [
@@ -164,7 +178,7 @@
               "CommonPopup_ApplicationQuit_Message"
             ]
           ],
-          500
+          572
         ],
         [
           [
@@ -177,7 +191,7 @@
               "CommonPopup_Datechange_Title"
             ]
           ],
-          558
+          630
         ],
         [
           [
@@ -194,7 +208,7 @@
               "CommonPopup_ObtEnd_Message"
             ]
           ],
-          674
+          746
         ],
         [
           [
@@ -203,11 +217,11 @@
               "CommonPopup_Datechange_Text"
             ]
           ],
-          706
+          778
         ],
         [
           [],
-          706
+          778
         ],
         [
           [
@@ -216,11 +230,11 @@
               "CommonPopup_ObtLockPopup_Message"
             ]
           ],
-          743
+          815
         ],
         [
           [],
-          743
+          815
         ],
         [
           [
@@ -229,7 +243,7 @@
               "CommonPopup_ObtEnd_Title"
             ]
           ],
-          772
+          844
         ],
         [
           [
@@ -242,7 +256,7 @@
               "CommonPopup_Option_UserNameChange_SuccessDialog_Text"
             ]
           ],
-          865
+          937
         ],
         [
           [
@@ -259,7 +273,7 @@
               "CommonPopup_ObtFinishWaiting_Title"
             ]
           ],
-          974
+          1046
         ],
         [
           [
@@ -276,7 +290,7 @@
               "CommonPopup_ApplicationQuit_Title"
             ]
           ],
-          1089
+          1161
         ],
         [
           [
@@ -293,7 +307,7 @@
               "CommonPopup_DataUpdate_Text"
             ]
           ],
-          1194
+          1266
         ]
       ]
     },
@@ -319,8 +333,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 28,
-        "size": 3764,
+        "entries": 30,
+        "size": 3946,
         "unknown1": 0,
         "unknown2": 0
       }
