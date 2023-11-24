@@ -5,16 +5,13 @@
     ],
     "md_item_packs_name_2": [
       "Research Bundle"
-    ],
-    "md_item_packs_name_3": [
-      "デイリーギフト"
     ]
   },
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 3,
-        "size": 25,
+        "entries": 2,
+        "size": 18,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -22,7 +19,7 @@
     "LBL1": {
       "header": {
         "entries": 2,
-        "size": 91,
+        "size": 66,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -40,13 +37,9 @@
             [
               0,
               "md_item_packs_name_1"
-            ],
-            [
-              2,
-              "md_item_packs_name_3"
             ]
           ],
-          91
+          66
         ]
       ]
     },
@@ -72,8 +65,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 3,
-        "size": 90,
+        "entries": 2,
+        "size": 70,
         "unknown1": 0,
         "unknown2": 0
       }

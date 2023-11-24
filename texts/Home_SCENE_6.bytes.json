@@ -1,22 +1,22 @@
 {
   "strings": {
     "FieldObject_CookingExpandObjectBalloon": [
-      "Pot"
+      "Puchero"
     ],
     "FieldObject_SleepConsumableItemObjectBalloon": [
-      "Incense"
+      "Incienso"
     ],
     "FieldObject_TentCampSetBalloon": [
-      "Camp Set"
+      "Acampada"
     ],
     "GPPHomePopup_ConnectButton": [
-      "Connect"
+      "Conectar"
     ],
     "GPPHomePopup_OthersLabel": [
-      "Other"
+      "Otros"
     ],
     "GPPHomePopup_SettingsLabel": [
-      "Settings"
+      "Configuración"
     ],
     "GPPHomePopup_SyncDate": [
       "\u000e\t",
@@ -24,25 +24,25 @@
       ""
     ],
     "GPPHomePopup_SyncDateTitle": [
-      "Last Synced:"
+      "Sincronizado el:"
     ],
     "GPPHomePopup_Title_2": [
-      "Wake-up Alarm"
+      "Despertador"
     ],
     "GPPHomePopup_Title_3": [
-      "Bedtime Notification"
+      "Recordatorio dormir"
     ],
     "GPPHomePopup_Title_4": [
-      "Bedtime"
+      "Hora de dormir"
     ],
     "GPPHomePopup_Title_5": [
-      "Track Sleep with Smart Device"
+      "Registro de sueño con smartphone"
     ],
     "GPPHomePopup_Title_6": [
-      "View Help Articles"
+      "Ayuda"
     ],
     "GPPHomePopup_Title_7": [
-      "Unpair Pokémon GO Plus +"
+      "Desvincular Pokémon GO Plus +"
     ],
     "GPPHomePopup_Value": [
       "\u000e\t",
@@ -60,148 +60,148 @@
       ""
     ],
     "GoBonusPopup_Text_2": [
-      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0002\u0002\u0002"
+      "\u000e\u0003\u0003\u0004Ā촁 ×\u000e\u0002\u0002\u0002\u0002"
     ],
     "HomeFavoriteFoodPopup_Message": [
-      "Giving Snorlax its favorite Berries will grant\n\u000e",
-      "\u0003\u0004毿Ｗtwice as much\u000e",
+      "Dale a Snorlax sus bayas favoritas y el\nvigor que consiga \u000e",
+      "\u0003\u0004旾ｷse multiplicará por 2\u000e",
       "\u0003\u0004",
-      "＀ Strength as usual."
+      "＀."
     ],
     "HomeFavoriteFoodPopup_Title": [
-      "This Snorlax's Favorite Berries"
+      "Bayas favoritas del Snorlax de la semana"
     ],
     "HomeGPPController_Text_1": [
-      "Unpair Pokémon GO Plus +"
+      "Desvincular Pokémon GO Plus +"
     ],
     "HomeGPPController_Text_2": [
-      "If you unpair your Pokémon GO Plus +,\nany sleep data you haven't synced\nwith Pokémon Sleep will be lost.\nAre you sure you want to unpair it?"
+      "Si desvinculas tu Pokémon GO Plus +,\nperderás los datos que no hayas\nsincronizado con Pokémon Sleep.\n¿Seguro que quieres continuar?"
     ],
     "HomeGPPController_Text_3": [
-      "Unpair It"
+      "Sí"
     ],
     "HomeGoNextMapNotification_Text_1": [
-      "Missions"
+      "Misiones"
     ],
     "HomeGoNextMapNotification_Text_2": [
-      "You have mission rewards waiting to\nbe claimed. If you leave this site once,\nyou won't be able to claim them.\nAre you sure you're ready to move?"
+      "Tienes premios de tus misiones\npendientes de recepción. Si cambias de\nzona, no podrás recibirlos. ¿Seguro\nque quieres cambiar de zona?"
     ],
     "HomeGoNextMapNotification_Text_3": [
-      "Move"
+      "Cambiar de zona"
     ],
     "HomeMainHeader_Text_1": [
       "\u000e\u0002\u0002\u0002",
-      " more"
+      " más"
     ],
     "HomePokemonExpGage_LevelNum": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomePokemonExpGage_LevelUnit": [
-      "Lv. "
+      "Nv."
     ],
     "HomePokemonExpGage_LevelupText": [
-      "LEVEL UP!"
+      "¡NIVEL ↑!"
     ],
     "HomePokemonExpGage_Text_1": [
       "+\u000e\u0002\u0002\u0002",
-      "% bonus"
+      " % extra"
     ],
     "HomePowerRecoveryPopup_Bonus": [
-      "Bonus × \u000e\u0002\u0003\u0004",
+      "Bonus ×\u000e\u0002\u0003\u0004",
       "촁"
     ],
     "HomePowerRecoveryPopup_BonusEXPPopup_Title": [
-      "EXP Bonus"
+      "Bonus de EXP"
     ],
     "HomePowerRecoveryPopup_BonusEnergyPopup_Title": [
-      "Energy Bonus"
+      "Bonus de energía"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList": [
-      "Bonus List"
+      "Listado de bonus"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Event": [
-      "Event"
+      "Evento"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Incense": [
-      "Incense"
+      "Incienso"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_NoBonus": [
-      "No bonuses are currently active."
+      "No hay bonus activos."
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Note": [
-      "Bonuses for individual Pokémon will be\ntriggered separately."
+      "Los bonus de cada Pokémon se activarán\npor separado."
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_SubSkill": [
-      "Pokémon Sub Skill"
+      "Habilidad secundaria"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusValue": [
       " ×\u000e\u0002\u0003\u0004",
       "촁"
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1": [
-      "All Pokémon in your Pokémon Box will\nrecover Energy equal to 5% of your sleep\nscore."
+      "Todos los Pokémon almacenados en la caja\nrecuperarán una cantidad de energía\nequivalente al 5 % de tu puntuación."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_1": [
-      "This does not apply to Pokémon currently\non your team."
+      "Esto no se aplica a los Pokémon de tu equipo\nactivo."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_2": [
-      "If you are using Recovery Incense, the\namount recovered will be equal to 10% of\nyour sleep score."
+      "Si usas un Incienso Reparador,\nrecuperarán una cantidad equivalente\nal 10 % de tu puntuación."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_3": [
-      "Adjustments to Energy recovery based on\nindividual Pokémon Natures will be applied\nseparately."
+      "Los efectos de las naturalezas en la\nrecuperación de energía se aplicarán\naparte."
     ],
     "HomePowerRecoveryPopup_Num": [
       "\u000e\u0002\u0002\u0002",
-      "%"
+      " %"
     ],
     "HomePowerRecoveryPopup_Num_2": [
       "\u000e\u0002\u0002\u0002",
-      " "
+      ""
     ],
     "HomePowerRecoveryPopup_OKButton": [
-      "OK"
+      "Vale"
     ],
     "HomePowerRecoveryPopup_Score": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomePowerRecoveryPopup_Title": [
-      "Your Sleep Session"
+      "Tu sesión"
     ],
     "HomePowerRecoveryPopup_Title_2": [
-      "Helper Pokémon Growth"
+      "Crecimiento de los ayudantes"
     ],
     "HomePowerRecoveryPopup_Title_3": [
-      "Energy recovered"
+      "Energía recuperada"
     ],
     "HomePowerRecoveryPopup_Title_4": [
-      "EXP gained"
+      "EXP obtenida"
     ],
     "HomePowerRecoveryPopup_Title_5": [
-      "Energy in the Box"
+      "Energía en la caja"
     ],
     "HomePowerRecoveryPopup_Title_inner": [
-      "Sleep Score"
+      "Puntuación"
     ],
     "HomePowerRecoveryPopup_Unit_2": [
       "EXP"
     ],
     "HomePromisePopup_CardButton": [
-      "View Stamp Card"
+      "Ver tarjeta de sellos"
     ],
     "HomePromisePopup_ChangeButton": [
-      "Save"
+      "Guardar"
     ],
     "HomePromisePopup_Desc": [
-      "Hit the hay between \u000e\t",
+      "Ir a dormir entre las \u000e\t",
       "\u000e\nhh:mm",
-      " and \u000e\t",
-      "\u000e\nhh:mm\u0001.\nPush notification reminder at \u000e\t",
+      " y las \u000e\t",
+      "\u000e\nhh:mm\u0001.\nRecordatorio a las \u000e\t",
       "\u000e\nhh:mm\u0002."
     ],
     "HomePromisePopup_SetTargetTimeButton": [
-      "Change Bedtime"
+      "Cambiar hora\nde dormir"
     ],
     "HomePromisePopup_TargetTime": [
       "\u000e\t",
@@ -209,22 +209,22 @@
       ""
     ],
     "HomePromisePopup_Text_1": [
-      "Confirm Reset"
+      "Confirmar reinicio"
     ],
     "HomePromisePopup_Text_2": [
-      "Changing your target time will reset\nyour bedtime stamp card to day 1."
+      "Si cambias tu hora de dormir, tu\ntarjeta de sellos se reiniciará."
     ],
     "HomePromisePopup_Title": [
-      "Bedtime"
+      "Hora de dormir"
     ],
     "HomePromisePopup_Title_2": [
-      "Your Daily Target Bedtime"
+      "Tu hora de dormir diaria"
     ],
     "HomePromisePopup_Title_3": [
-      "Your Bedtime"
+      "Tu hora de dormir"
     ],
     "HomePromiseStampCardPopup_Day": [
-      "Day \u000e\u0002\u0002\u0002",
+      "Día \u000e\u0002\u0002\u0002",
       ""
     ],
     "HomePromiseStampCardPopup_RewardNum": [
@@ -232,82 +232,82 @@
       ""
     ],
     "HomePromiseStampCardPopup_Text_3": [
-      "Rewards"
+      "Premios"
     ],
     "HomePromiseStampCardPopup_Title": [
-      "Reward Stamp Card #\u000e\u0002\u0002\u0002",
+      "Tarjeta de sellos de premios n.º \u000e\u0002\u0002\u0002",
       ""
     ],
     "HomePromiseTimeChangeConfirmPopup_Desc_1": [
-      "Changing your bedtime will reset\nyour progress on your stamp card."
+      "Si cambias tu hora de dormir, perderás\ntu progreso en la tarjeta de sellos."
     ],
     "HomePromiseTimeChangeConfirmPopup_Desc_2": [
-      "Are you sure you want to change it?"
+      "¿Seguro que quieres cambiarla?"
     ],
     "HomePromiseTimeChangeConfirmPopup_Title": [
-      "Confirm"
+      "Confirmación"
     ],
     "HomeSceneGraphicText_PremiumPass": [
-      "PREMIUM\nPASS"
+      "PASE\nPRÉMIUM"
     ],
     "HomeSceneOverflowController_Text_1": [
-      "Bag Full"
+      "Bolsa llena"
     ],
     "HomeSceneOverflowController_Text_2": [
-      "Your bag's ingredients pocket is full.\nWould you like to open your bag?"
+      "Tu bolsillo de ingredientes está lleno.\n¿Quieres abrir la bolsa?"
     ],
     "HomeSceneOverflowController_Text_3": [
-      "Open Bag"
+      "Abrir la bolsa"
     ],
     "HomeSceneOverflowController_Text_6": [
-      "Your bag’s items pocket is full.\nWould you like to open your bag?"
+      "Tu bolsa de objetos está llena.\n¿Quieres abrir la bolsa?"
     ],
     "HomeSceneOverflowController_Text_7": [
-      "Open Bag"
+      "Abrir la bolsa"
     ],
     "HomeSceneUIController_Text_1": [
-      "A New Day"
+      "Un nuevo día"
     ],
     "HomeSceneUIController_Text_2": [
-      "The date has changed!\nNow returning to the title screen."
+      "La fecha ha cambiado. Regresarás a la\npantalla del título."
     ],
     "HomeSceneUIController_Text_3": [
-      "Multiple Sleep Sessions"
+      "Sesiones múltiples"
     ],
     "HomeSceneUIController_Text_4_1timeOverMax": [
-      "You can still track your sleep today,\nbut you can’t do any more sleep\nresearch. The most sleep you can\ncount toward your research is\n8 hours and 30 minutes per day."
+      "Puedes seguir registrando tu sueño,\npero no contará para el estudio.\nEl tiempo máximo de sueño que cuenta\npara el estudio es de 8 horas y media\nal día."
     ],
     "HomeSceneUIController_Text_4_1timeOverMax_B": [
-      "You can still track your sleep today,\nbut you can’t do any more sleep\nresearch. The most sleep you can\ncount toward your research is\n11 hours per day."
+      "Puedes seguir registrando tu sueño,\npero no contará para el estudio.\nEl tiempo máximo de sueño que cuenta\npara el estudio es de 11 horas al día."
     ],
     "HomeSceneUIController_Text_4_2times": [
-      "It looks like this is your\nsecond sleep session today.\nYou can get as much sleep as you like,\nbut only \u000e\u0002\u0001\u0002",
-      " hours and \u000e\u0002\u0001\u0002\u0001 minutes can\nbe counted toward today's research."
+      "Esta es la segunda sesión de sueño que\nregistras hoy. Puedes dormir cuanto\nquieras, pero solo contarán \u000e\u0002\u0001\u0002",
+      " horas\ny \u000e\u0002\u0001\u0002\u0001 minutos para el estudio."
     ],
     "HomeSceneUIController_Text_4_2times_1ManualVer": [
-      "It looks like this is your\nsecond sleep session today.\nYou can get as much sleep as you like,\nbut only \u000e\u0002\u0001\u0002",
-      " hours and \u000e\u0002\u0001\u0002\u0001 minutes can\nbe counted toward today’s research.\nYou also won’t get an extra Bonus\nBiscuit as a manual entry reward from\nthe next sleep session you track\nafter today."
+      "Esta es la segunda sesión de sueño que\nregistras hoy. Puedes dormir cuanto\nquieras, pero solo contarán \u000e\u0002\u0001\u0002",
+      " horas\ny \u000e\u0002\u0001\u0002\u0001 minutos para el estudio.\nTampoco obtendrás una Galleta Extra\nmás como premio por entrada manual\nen la próxima sesión de sueño que\nregistres a partir de mañana."
     ],
     "HomeSceneUIController_Text_5": [
-      "Unreviewed Reports"
+      "Informes pendientes"
     ],
     "HomeSceneUIController_Text_6": [
-      "You have sleep data that you\nhaven’t reviewed yet.\nWould you like to review it?"
+      "Tienes informes de sueño sin revisar.\n¿Quieres ojearlos ahora?"
     ],
     "HomeSceneUIController_Text_7": [
-      "Review"
+      "Revisar"
     ],
     "HomeSceneUIController_Text_9": [
-      "Activate Skill"
+      "Activar habilidad"
     ],
     "HomeScene_Canvas-FieldChange_Footer_Message": [
-      "Week Complete!"
+      "¡Semana completa!"
     ],
     "HomeScene_Canvas-FieldChange_Header_Energy_Title": [
-      "Final Strength"
+      "Vigor total"
     ],
     "HomeScene_Canvas-UI_Complete_Title": [
-      "Goal Met!"
+      "¡Cumplido!"
     ],
     "HomeScene_Canvas-UI_Energy": [
       "\u000e\u0002\t\u0004",
@@ -321,20 +321,20 @@
       "GO Plus +"
     ],
     "HomeScene_Canvas-UI_LeftTitle": [
-      "Find"
+      "Busca"
     ],
     "HomeScene_Canvas-UI_Level": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomeScene_Canvas-UI_MainMenuButton": [
-      "Main Menu"
+      "Menú principal"
     ],
     "HomeScene_Canvas-UI_MissionButton": [
-      "Missions"
+      "Misiones"
     ],
     "HomeScene_Canvas-UI_MoveButton": [
-      "Choose Next Research Site"
+      "Elegir nueva zona de estudio"
     ],
     "HomeScene_Canvas-UI_Name": [
       "Snorlax"
@@ -343,13 +343,13 @@
       "Pokémon"
     ],
     "HomeScene_Canvas-UI_ShopButton": [
-      "Shops"
+      "Tiendas"
     ],
     "HomeScene_Canvas-UI_SleepButton": [
-      "Sleep"
+      "Dormir"
     ],
     "HomeScene_Canvas-UI_SleepMileButton": [
-      "Sleep Pass"
+      "Pase de\nsueño"
     ],
     "HomeScene_Canvas-UI_SleepMile_GetPoint": [
       "+\u000e\u0002\u0002\u0002",
@@ -360,175 +360,172 @@
       "+"
     ],
     "HomeScene_Canvas-UI_SleepPowerLabel": [
-      "Strength"
+      "Vigor"
     ],
     "HomeScene_Canvas-UI_SleepReportGPP_1": [
       "\u000e",
-      "\u0003\u0004ꈝ￿Pokémon GO Plus +\u000e",
+      "\u0003\u0004ꈝ￿Pokémon GO Plus +\u000e",
       "\u0003\u0004",
       "＀"
     ],
     "HomeScene_Canvas-UI_SleepReportGPP_2": [
-      "Synchronize"
+      "Sincronizar"
     ],
     "HomeScene_Canvas-UI_SleepReportNotification": [
-      "Unreviewed Sleep\nReports"
+      "Informes pendientes"
     ],
     "HomeScene_Canvas-UI_SleepReportNotification_WeekChange": [
-      "Sleep Reports\nduring Maintenance"
+      "Informes durante el\nmantenimiento"
     ],
     "HomeScene_Canvas-UI_SleepReportWeekChange_LaterPopup": [
-      "If you finish reviewing\nyour reports, you can\nsynchronize data with\nyour Pokémon GO Plus +.  "
+      "Cuando hayas revisado\ntus informes, podrás\nsincronizar los datos con\ntu Pokémon GO Plus +."
     ],
     "HomeScene_Canvas-UI_SleepStartSkipButton": [
-      "Skip"
+      "Saltar"
     ],
     "HomeScene_Canvas-UI_SyncBalloon": [
-      "Sync\nSleep Data"
+      "Sincronizar\ndatos de sueño"
     ],
     "HomeScene_Canvas-UI_Title": [
-      "Rank"
+      "Rango"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_1": [
-      "The \u000e",
-      "\u0003\u0004糿＇Eevee Week 2023\u000e",
+      "¡La \u000e",
+      "\u0003\u0004糿＇Semana de Eevee 2023 \u000e",
       "\u0003\u0004",
-      "＀ event lasts from\n4:00 a.m. on Monday, November 20!"
+      "＀comienza\nel lunes, 20 de noviembre, a las 04:00!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_2": [
-      "Eevee Week 2023 is a week-long event to\ncelebrate Eevee Day (November 21), during\nwhich \u000e",
-      "\u0003\u0004糿＇Eevee and its Evolutions are more likely\nto gather to sleep\u000e",
+      "La Semana de Eevee 2023 es un evento que\ncelebra el Día de Eevee, el 21 de noviembre.\nDurante toda la semana, podrás encontrarte\n\u000e",
+      "\u0003\u0004糿＇Pokémon con distintos tipos de sueño\u000e",
       "\u0003\u0004",
-      "＀!\nYou’ll be able to encounter Pokémon of\n\u000e",
-      "\u0003\u0004糿＇different sleep types\u000e",
+      "＀ sin\nimportar cuál sea el tuyo y tendrás \u000e",
+      "\u0003\u0004糿＇más\nposibilidades de encontrarte \u000e",
       "\u0003\u0004",
-      "＀ regardless of your own,\nand Eevee and its Evolutions will be \u000e",
-      "\u0003\u0004糿＇more likely\nto appear\u000e",
-      "\u0003\u0004",
-      "＀.\nYou might even meet a Shiny Eevee!"
+      "＀a Eevee\ny a sus evoluciones.\n¡Hasta podrías toparte con un Eevee variocolor!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_3": [
-      "Also, if you conduct sleep research on Eevee\nDay (November 21), you can get 1,121 bonus\nsleep points.\nYou can get nice rewards like Eevee Incense\nthrough special missions, which will be\navailable in addition to the usual missions.\nAnd during this Eevee Week, all of your helper\nPokémon’s main skills are more likely to\nbe triggered!\nWe hope you enjoy this great work from your\nhelper Pokémon!"
+      "Además, si continúas con tu estudio del sueño\nel Día de Eevee, el 21 de noviembre, podrás\nobtener 1121 puntos de sueño adicionales.\nTambién podrás conseguir generosos premios,\ncomo Incienso Eevee, en misiones especiales\nque se añadirán a las habituales y, durante esa\nsemana, todas las habilidades principales de tus\nPokémon ayudantes tendrán más probabilidades\nde activarse.\n¡Deja que tu equipo te ayude más que nunca!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_4": [
-      "• How to Progress in the Event\nParticipating in the event is easy!\nSimply tap the “Sleep” button during the event\nperiod to track your sleep.\nA variety of event-related effects will be\ntriggered during your sleep research.\nNote: Event bonuses can be triggered in any\narea for this event. The effects described\nbelow will apply during the event period."
+      "• Desarrollo del evento\n¡Participar en el evento es fácil!\nSolo tienes que tocar el botón Dormir cuando\nvayas a acostarte mientras se esté celebrando\nel evento para iniciar el registro.\nAsí se activarán los diversos efectos del evento\ndurante el estudio del sueño.\nEstos son los efectos que se activarán durante el\nevento y que, en este caso, se podrán activar en\ncualquier punto del mapa."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_5": [
-      "\u000e",
-      "\u0003\u0004糿＇Eevee Day (November 21)\u000e",
+      "– \u000e",
+      "\u0003\u0004糿＇Día de Eevee (21 de noviembre)\u000e",
       "\u0003\u0004",
-      "＀\n• \u000e",
-      "\u0003\u0004糿＇Greater appearance rate for Eevee and its\nEvolutions\u000e",
+      "＀:\n• \u000e",
+      "\u0003\u0004糿＇Eevee y sus evoluciones tendrán más\nprobabilidades de aparecer\u000e",
       "\u0003\u0004",
-      "＀ during sleep research.\n• \u000e",
-      "\u0003\u0004糿＇Many Pokémon of different sleep types will\nappear\u000e",
+      "＀ durante el estudio.\n• \u000e",
+      "\u0003\u0004糿＇Muchos Pokémon con distintos tipos de sueño\nse dejarán ver \u000e",
       "\u0003\u0004",
-      "＀ during sleep research regardless of the\nresearcher’s sleep type for the day.\n• You may encounter a Shiny Eevee.\n• \u000e",
-      "\u0003\u0004糿＇+1,121\u000e",
+      "＀durante el estudio, sin importar\ncuál sea el tuyo.\n• Podrías encontrarte con un Eevee variocolor.\n• Obtendrás \u000e",
+      "\u0003\u0004糿＇1121 \u000e",
       "\u0003\u0004",
-      "＀ bonus sleep points\n• Main skills for all helper Pokémon are\n\u000e",
+      "＀puntos de sueño adicionales.\n• Habrá \u000e",
       "\u0003\u0004糿＇\u000e\u0002\u0001\u0002",
-      " times more likely \u000e",
+      " \u000e",
       "\u0003\u0004",
-      "＀to be triggered."
+      "＀veces más de probabilidad de que\nse activen las habilidades principales de tus\nayudantes."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_6": [
-      "\u000e",
-      "\u0003\u0004糿＇Other days (November 20 and November 22–26)\u000e",
+      "– \u000e",
+      "\u0003\u0004糿＇Resto de días (20 y del 22 al 26 de noviembre)\u000e",
       "\u0003\u0004",
-      "＀\n• \u000e",
-      "\u0003\u0004糿＇Greater appearance rate for Eevee and its\nEvolutions\u000e",
+      "＀:\n• \u000e",
+      "\u0003\u0004糿＇Eevee y sus evoluciones tendrán más\nprobabilidades de aparecer\u000e",
       "\u0003\u0004",
-      "＀ during sleep research.\n• \u000e",
-      "\u0003\u0004糿＇A few Pokémon of different sleep types will\nappear\u000e",
+      "＀ durante el estudio.\n• \u000e",
+      "\u0003\u0004糿＇Algunos Pokémon con distintos tipos de sueño\nse dejarán ver\u000e",
       "\u0003\u0004",
-      "＀ during sleep research regardless of the\nresearcher’s sleep type for the day.\n• You may encounter a Shiny\nEevee.\n• Main skills for all helper Pokémon are\n\u000e",
+      "＀ durante el estudio, sin importar\ncuál sea el tuyo.\n• Podrías encontrarte con un Eevee variocolor.\n• Habrá \u000e",
       "\u0003\u0004糿＇\u000e\u0002\u0001\u0002",
-      " times more likely \u000e",
+      " \u000e",
       "\u0003\u0004",
-      "＀to be triggered."
+      "＀veces más de probabilidad de que\nse activen las habilidades principales de tus\nayudantes."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_7": [
-      "• Pokémon that are easier to encounter during\nthe event\nDuring the event period, the following Pokémon\nare more likely to appear!"
+      "• Pokémon más fáciles de encontrar durante el\nevento\nHabrá más probabilidades de encontrarte con\nlos siguientes Pokémon durante el evento:"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_8": [
       "\u000e",
-      "\u0003\u0004糿＇Much Greater Appearance Rate\u000e",
+      "\u0003\u0004糿＇Probabilidad de encuentro muy alta\u000e",
       "\u0003\u0004",
       "＀\nEevee\n\u000e",
-      "\u0003\u0004糿＇Greater Appearance Rate\u000e",
+      "\u0003\u0004糿＇Probabilidad de encuentro alta\u000e",
       "\u0003\u0004",
-      "＀\nVaporeon, Jolteon, Flareon, Espeon, Umbreon,\nLeafeon, Glaceon, Sylveon\nNotes: The much greater appearance rate for\nEevee applies to all areas.\nThe greater appearance rate for other\nPokémon applies only to the separate areas\nwhere each Pokémon appears."
+      "＀\nVaporeon, Jolteon, Flareon, Espeon, Umbreon,\nLeafeon, Glaceon y Sylveon\n\nLa probabilidad muy alta de encontrarse con\nEevee se aplica a todos los puntos del mapa.\nLa probabilidad alta de encontrarse con el\nresto de Pokémon se aplica únicamente a sus\nrespectivas zonas de aparición."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_9": [
-      "For more details about the event, please see\nthe in-game News."
+      "Consulta la sección Noticias de la aplicación\npara conocer más detalles sobre el evento."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Title": [
-      "Eevee Week"
+      "Semana de Eevee"
     ],
     "HomeScene_EventPopup_Text_1": [
+      "¡\u000e",
+      "\u0003\u0004毿ＷProbabilidad de activación de habilidad\nprincipal\u000e",
+      "\u0003\u0004",
+      "＀ de los ayudantes \u000e",
+      "\u0003\u0004毿Ｗ×\u000e\u0002\u0001\u0002",
       "\u000e",
-      "\u0003\u0004毿ＷMain skills\u000e",
       "\u0003\u0004",
-      "＀ for all helper Pokémon are\n\u000e",
-      "\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002",
-      " times more likely to be triggered!\u000e",
-      "\u0003\u0004",
-      "＀"
+      "＀!"
     ],
     "HomeScene_Event_Popup_Start": [
-      "Happening Now"
+      "En curso"
     ],
     "HomeScene_Event_Popup_Start_Button": [
-      "See Details"
+      "Ver detalles"
     ],
     "HomeScene_FieldChangeDialog_Doctor_1": [
-      "Nice work this week! Looks like\nyou're getting more and more\nused to doing research here."
+      "¡Buen trabajo! He compilado un\ninforme con los resultados del\nestudio. Revísalo cuando puedas."
     ],
     "HomeScene_FieldChangeDialog_Doctor_2": [
-      "Now, alas, it’s time to say\ngoodbye to this Snorlax! We’ve\ngot to pick the next week's site."
+      "Ha llegado la hora de despedirse\nde este Snorlax y elegir una nueva\nubicación para la próxima semana."
     ],
     "HomeScene_FieldChangeDialog_Doctor_3": [
-      "Looks like you and this Snorlax\ndidn't do any sleep research\nduring your time together."
+      "Parece que este Snorlax y tú\nno habéis registrado ni una sola\nsesión de sueño."
     ],
     "HomeScene_FieldChangeDialog_Doctor_4": [
-      "Now it’s time to pick this week’s\nresearch site, so we’ll have to\nsay bye-bye here."
+      "Es hora de escoger una ubicación\nnueva. Habrá que despedirse\nde este Snorlax."
     ],
     "HomeScene_FieldChangeDialog_Heading": [
-      "Moving to New Sites"
+      "Desplazarse a una nueva zona"
     ],
     "HomeScene_FieldChangeDialog_Player_1": [
-      "Take care, Snorlax! Thanks for a\ngreat week of snoozy studies!"
+      "¡Cuídate, Snorlax! ¡Gracias por la\nayuda y dulces sueños!"
     ],
     "HomeScene_FieldChangeDialog_Text": [
-      "You’ll spend seven days—from Monday\nthrough Sunday—raising a Snorlax each\nweek by building up its Strength as you\ncarry out sleep research. But when the\nweek is over, it will be time to say\ngoodbye to that Snorlax, move to a new\nresearch site, and find a new Snorlax\nto help with your studies."
+      "Cada semana cuidarás de un Snorlax y pasarás\nde lunes a domingo aumentando su vigor a\nmedida que lleves a cabo tu estudio del sueño.\nAl terminar la semana, deberás despedirte de\nese Snorlax, cambiar de zona y encontrar un\nnuevo Snorlax que te ayude en tu estudio."
     ],
     "HomeScene_FieldChange_CheckSleepResult_Popup_Text": [
-      "If you have unreviewed sleep reports\nwhen you move to a new site, don't\nworry! You'll still be able to review\nthose reports after you move, and\nyour research will be based on the\nsite you were in and the status of\nyour Snorlax from before you moved."
+      "No te preocupes si aún tienes informes\npendientes cuando vayas a cambiar de\nubicación. Podrás revisarlos tras la\nmudanza, y retomar tu estudio a\npartir de los datos de tu ubicación y\ntu Snorlax anteriores al traslado."
     ],
     "HomeScene_FieldChange_CheckSleepResult_Popup_Title": [
-      "Review after Moving Sites"
+      "Mudanza con informes pendientes"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_FieldBonus": [
-      "Area Bonus"
+      "Bonus de zona"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_FieldBonus_Value": [
       "\u000e\u0002\u0003\u0004",
-      "촁%"
+      "촁 %"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_Heading": [
-      "Bonus Applied"
+      "Tienes un bonus"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_Text_1": [
-      "Your bonus for this area has\nincreased by \u000e",
+      "El bonus de esta zona ha aumentado\nun \u000e",
       "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
-      "촁%\u000e",
+      "촁\u000e",
       "\u0003\u0004",
-      "＀."
+      "＀ %."
     ],
     "HomeScene_FieldChange_FieldBonusPopup_Text_2": [
       "\u000e",
-      "\u0003\u0004蚆ﾆThis bonus will apply to Strength\ngains of future Snorlax raised here.\u000e",
+      "\u0003\u0004蚆ﾆEl bonus se aplicará al vigor que gane\ntu próximo Snorlax.\u000e",
       "\u0003\u0004",
       "＀"
     ],
@@ -536,416 +533,416 @@
       "\u000e\u0003\u0003\u0004Ā촀"
     ],
     "HomeScene_GSD_WhatPopup_Text_1": [
-      "Rest your very best on the night of a full moon!\nThis month’s Good Sleep Day event will be held \u000e",
-      "\u0003\u0004ꈝ￿from \u000e\t",
+      "¡Descansa como los campeones en luna llena!\nEste mes, el Día de los dormilones se celebrará \u000e",
+      "\u0003\u0004ꈝ￿del \u000e\t",
       "\u000e\nMM/dd",
-      " to \u000e\t",
+      " al \u000e\t",
       "\u000e\nMM/dd\u0001\u000e",
       "\u0003\u0004",
-      "＀. If you conduct sleep research during this time period, your Snorlax’s Drowsy Power will be \u000e",
-      "\u0003\u0004ꈝ￿multiplied by \u000e\u0002\u0001\u0002\u0002\u000e",
+      "＀. Si realizas estudios del sueño durante este período, tu Snorlax verá \u000e",
+      "\u0003\u0004ꈝ￿multiplicado por \u000e\u0002\u0001\u0002\u0002 su poder Zzz\u000e",
       "\u0003\u0004",
-      "＀, and on \u000e",
+      "＀, y el \u000e",
       "\u0003\u0004ꈝ￿\u000e\t",
       "\u000e\nMM/dd\u0003\u000e",
       "\u0003\u0004",
       "＀, \u000e",
-      "\u0003\u0004ꈝ￿the night of the full moon\u000e",
+      "\u0003\u0004ꈝ￿noche de luna llena\u000e",
       "\u0003\u0004",
-      "＀, it will be \u000e",
-      "\u0003\u0004ꈝ￿multiplied by \u000e\u0002\u0001\u0002\u0004\u000e",
+      "＀, se verá \u000e",
+      "\u0003\u0004ꈝ￿multiplicado por \u000e\u0002\u0001\u0002\u0004\u000e",
       "\u0003\u0004",
-      "＀.\nLet’s all try to get lots of sleep during the event and research loads of Pokémon sleep styles!"
+      "＀.\n¡Todos a dormir a pierna suelta durante el evento y a estudiar muchas posturas de Pokémon!"
     ],
     "HomeScene_GSD_WhatPopup_Text_2": [
-      "Please check News in the app for details."
+      "Para saber más detalles, consulta la sección Noticias en la aplicación."
     ],
     "HomeScene_GSD_WhatPopup_Text_3": [
-      "Participating in the event is easy! \nSimply press the “Sleep” button before going to sleep during the event period to track your sleep.\nA variety of event-related effects will be triggered during your sleep research."
+      "¡Participar en el evento es fácil!\nBasta con registrar tu sueño mientras dure el evento. Pulsa el botón Dormir cuando vayas a acostarte para iniciar el registro, y aprovecha los diversos bonus de evento que se activarán durante la sesión de estudio."
     ],
     "HomeScene_GSD_WhatPopup_Text_4": [
       "— \u000e",
-      "\u0003\u0004ꈝ￿Night of the full moon (\u000e\t",
+      "\u0003\u0004ꈝ￿Noche de luna llena (\u000e\t",
       "\u000e\nMM/dd",
       ") \u000e",
       "\u0003\u0004",
-      "＀—\nDrowsy Power \u000e",
+      "＀—\nPoder Zzz \u000e",
       "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0001\n\u000e",
       "\u0003\u0004",
-      "＀Pokémon Sleep EXP \u000e",
+      "＀EXP al dormir \u000e",
       "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0002\n\u000e",
       "\u0003\u0004",
-      "＀Bonus Sleep Points \u000e",
+      "＀Puntos de sueño adicionales \u000e",
       "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\u0003촁\n\n\u000e",
       "\u0003\u0004",
       "＀— \u000e",
-      "\u0003\u0004ꈝ￿Other days (\u000e\t",
+      "\u0003\u0004ꈝ￿Resto de días (\u000e\t",
       "\u000e\nMM/dd\u0004, \u000e\t",
-      "\u000e\nMM/dd\u0005)) \u000e",
+      "\u000e\nMM/dd\u0005) \u000e",
       "\u0003\u0004",
-      "＀—\nDrowsy Power\u000e",
+      "＀—\nPoder Zzz\u000e",
       "\u0003\u0004ꈝ￿ ×\u000e\u0002\u0002\u0002\u0006\n\u000e",
       "\u0003\u0004",
-      "＀Pokémon Sleep EXP \u000e",
+      "＀EXP al dormir \u000e",
       "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0007\u000e",
       "\u0003\u0004",
-      "＀\nBonus Sleep Points \u000e",
+      "＀\nPuntos de sueño adicionales \u000e",
       "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\b촁\u000e",
       "\u0003\u0004",
       "＀"
     ],
     "HomeScene_GSD_WhatPopup_Title": [
-      "Good Sleep Day"
+      "Día de los dormilones"
     ],
     "HomeScene_HalloweenEvent_Popup_Start": [
-      "Halloween Event"
+      "Evento de Halloween"
     ],
     "HomeScene_Halloween_BannerPopup_Text_1": [
-      "Beginning at 4:00 a.m. on Monday, October 30,\nwe will be holding an event:\n\u000e",
-      "\u0003\u0004맿ＯHalloween 2023 — Double Candy Research\u000e",
+      "¡El evento \u000e",
+      "\u0003\u0004맿ＯHalloween 2023: doble dulce\n\u000e",
       "\u0003\u0004",
-      "＀!"
+      "＀comenzará el lunes, 30 de octubre, a las 04:00!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_2": [
-      "Trick or treat!\nDuring the week-long event, “Halloween 2023 —\nDouble Candy Research,” you’ll be able to\nencounter Pokémon of various sleep types,\nregardless of your own sleep type.\nAlso, you can get lavish rewards, such as a total\nof \u000e",
-      "\u0003\u0004毿Ｗ\u000e",
-      "\u0003\u0004맿ＯHandy Candy S ×25\u000e",
-      "\u0003\u0004毿Ｗ \u000e",
+      "¡Truco o trato!\nEl evento Halloween 2023: doble dulce durará\nuna semana, durante la cual podrás encontrarte\nPokémon de tipos de sueño variados,\nsin importar cuál sea el tuyo.\nTambién podrás conseguir generosos premios,\ncomo un total de \u000e",
+      "\u0003\u0004맿Ｏ25 Multimelos S \u000e",
       "\u0003\u0004",
-      "＀through special missions\nthat will be added to the usual missions, and\nyou can get \u000e",
-      "\u0003\u0004맿Ｏat least \u000e\u0002\u0001\u0002",
-      " times the usual number\nof Pokémon candies\u000e",
+      "＀en misiones\nespeciales que se añadirán a las habituales, y\n\u000e",
+      "\u0003\u0004맿Ｏmultiplicar al menos por \u000e\u0002\u0001\u0002",
+      " los caramelos\nPokémon\u000e",
       "\u0003\u0004",
-      "＀ from sleep research.\nTry to get lots of candies during this event!\nAnd this time you’ll have lots of chances to\nmeet \u000e",
-      "\u0003\u0004맿ＯPikachu wearing a Halloween hat\u000e",
+      "＀ que obtengas por el estudio del sueño.\n¡Aprovecha para reunir un montón de caramelos!\nAdemás, ¡tendrás muchas probabilidades de ver\nun \u000e",
+      "\u0003\u0004맿ＯPikachu con sombrero de Halloween\u000e",
       "\u0003\u0004",
-      "＀ and also\n\u000e",
-      "\u0003\u0004맿ＯGhost-type Pokémon such as Gastly\u000e",
+      "＀, así como\n\u000e",
+      "\u0003\u0004맿ＯPokémon de tipo Fantasma como Gastly\u000e",
       "\u0003\u0004",
-      "＀!\nWe hope you’re looking forward to it!"
+      "＀!\n¡Te esperamos!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_3": [
-      "• How to Progress in the Event\nParticipating in the event is easy!\nSimply tap the “Sleep” button on\n\u000e",
-      "\u0003\u0004맿ＯGreengrass Isle\u000e",
+      "• Desarrollo del evento\n¡Participar en el evento es fácil!\nSolo tienes que tocar el botón Dormir en\n\u000e",
+      "\u0003\u0004맿ＯIsla Verdegal\u000e",
       "\u0003\u0004",
-      "＀ before going to sleep during\nthe event period to track your sleep.\nA variety of event-related effects will be\ntriggered during your sleep research.\nNote: Tracking sleep on any map other than\nGreengrass Isle will not trigger the event\nbonuses. The effects described below will apply\nduring the event period."
+      "＀ cuando vayas a acostarte mientras\nse esté celebrando para iniciar el registro.\nAsí se activarán los diversos efectos del evento\ndurante el estudio del sueño.\nTen en cuenta que esto no sucederá si inicias\ntu registro en otro punto del mapa que no sea\nIsla Verdegal.\nEstos son los efectos que se activarán durante\nel evento:"
     ],
     "HomeScene_Halloween_BannerPopup_Text_4": [
-      "\u000e",
-      "\u0003\u0004맿ＯHalloween (October 31) and last day of the\nevent (November 5)\u000e",
+      "– \u000e",
+      "\u0003\u0004맿ＯHalloween (31 de octubre) y último día del\nevento (5 de noviembre)\u000e",
       "\u0003\u0004",
-      "＀\n• Researchers will gain \u000e",
+      "＀:\n• Obtendrás \u000e",
       "\u0003\u0004맿Ｏ\u000e\u0002\u0001\u0002",
-      " times the usual\nnumber of candies\u000e",
+      " veces más caramelos\u000e",
       "\u0003\u0004",
-      "＀ for the first sleep research\nof the day\n• \u000e",
-      "\u0003\u0004맿ＯMany Pokémon of different sleep types will\nappear\u000e",
+      "＀\npor el primer estudio del sueño del día.\n• \u000e",
+      "\u0003\u0004맿ＯAparecerán muchos Pokémon con distintos\ntipos de sueño\u000e",
       "\u0003\u0004",
-      "＀ during sleep research regardless of the\nresearcher’s sleep type for that day\n• \u000e",
-      "\u0003\u0004맿ＯCertain Pokémon will have a greater chance of\nappearing\u000e",
+      "＀ durante el estudio,\nsin importar cuál sea el tuyo.\n• \u000e",
+      "\u0003\u0004맿ＯAlgunos Pokémon tendrán más probabilidades\nde aparecer\u000e",
       "\u0003\u0004",
-      "＀ during sleep research"
+      "＀ durante el estudio del sueño."
     ],
     "HomeScene_Halloween_BannerPopup_Text_5": [
-      "\u000e",
-      "\u0003\u0004맿ＯOther days (October 30 and November 1−4)\u000e",
+      "– \u000e",
+      "\u0003\u0004맿ＯResto de días (30 de octubre y del 1 al 4 de\nnoviembre)\u000e",
       "\u0003\u0004",
-      "＀\n• Researchers will gain \u000e",
-      "\u0003\u0004毿Ｗ\u000e",
+      "＀:\n• Obtendrás \u000e",
       "\u0003\u0004맿Ｏ\u000e\u0002\u0001\u0002",
-      " times the usual\nnumber of candies\u000e",
-      "\u0003\u0004毿Ｗ \u000e",
+      " veces más caramelos\u000e",
       "\u0003\u0004",
-      "＀for the first sleep research\nof the day\n• \u000e",
-      "\u0003\u0004맿ＯA few Pokémon of different sleep types will\nappear\u000e",
+      "＀\npor el primer estudio del sueño del día.\n• \u000e",
+      "\u0003\u0004맿ＯAparecerán unos pocos Pokémon con distintos\ntipos de sueño\u000e",
       "\u0003\u0004",
-      "＀ during sleep research regardless of the\nresearcher’s sleep type for the day\n• \u000e",
-      "\u0003\u0004맿ＯCertain Pokémon will have a greater chance of\nappearing\u000e",
+      "＀ durante el estudio,\nsin importar cuál sea el tuyo.\n• \u000e",
+      "\u0003\u0004맿ＯAlgunos Pokémon tendrán más probabilidades\nde aparecer\u000e",
       "\u0003\u0004",
-      "＀ during sleep research"
+      "＀ durante el estudio del sueño."
     ],
     "HomeScene_Halloween_BannerPopup_Text_6": [
-      "• Pokémon that are easier to encounter during\nthe event\nDuring the event period, you’ll have a greater \nchance of meeting the following Pokémon!"
+      "• Pokémon más fáciles de encontrar durante el\nevento\nDurante el evento, tendrás más posibilidades de\nencontrarte a los siguientes Pokémon:"
     ],
     "HomeScene_Halloween_BannerPopup_Text_7": [
       "\u000e",
-      "\u0003\u0004맿ＯMuch Greater Encounter Chance\u000e",
+      "\u0003\u0004맿ＯProbabilidad de encuentro muy alta\u000e",
       "\u0003\u0004",
-      "＀\nPikachu (Halloween), Gastly, Haunter, Gengar\n\u000e",
-      "\u0003\u0004맿ＯGreater Encounter Chance\u000e",
+      "＀\nPikachu (Halloween), Gastly, Haunter y Gengar\n\u000e",
+      "\u0003\u0004맿ＯProbabilidad de encuentro alta\u000e",
       "\u0003\u0004",
-      "＀\nMeowth, Cubone\n\u000e",
-      "\u0003\u0004맿ＯSlightly Greater Encounter Chance\u000e",
+      "＀\nMeowth y Cubone\n\u000e",
+      "\u0003\u0004맿ＯProbabilidad de encuentro ligeramente mayor\u000e",
       "\u0003\u0004",
-      "＀\n???, ???"
+      "＀\n(?) y (?)"
     ],
     "HomeScene_Halloween_BannerPopup_Text_8": [
-      "For more details about the event, please see\nthe in-game News."
+      "Consulta la sección Noticias de la aplicación\npara conocer más detalles sobre el evento."
     ],
     "HomeScene_Halloween_BannerPopup_Title": [
-      "Halloween Event"
+      "Evento de Halloween"
     ],
     "HomeScene_MainSkillFoodBagOver_Text": [
-      "Please make some space in your bag\nso Pokémon can gather ingredients\nusing their skills."
+      "Libera espacio en la bolsa para que los\nPokémon puedan aprovechar sus\nhabilidades para recolectar ingredientes."
     ],
     "HomeScene_MainSkillFoodBagOver_Title": [
-      "Ingredients Pocket Is Full"
+      "Bolsillo de ingredientes lleno"
     ],
     "HomeScene_MainSkillWindow_Title": [
-      "\u000e\u0003\u000b\u0002촀 (Lv. \u000e\u0002\u0002\u0002\u0001)"
+      "\u000e\u0003\u000b\u0002촀 (Nv. \u000e\u0002\u0002\u0002\u0001)"
     ],
     "HomeScene_MapChangePopup_Button": [
-      "Move"
+      "Mudarse"
     ],
     "HomeScene_MapChangePopup_Text_1": [
-      "Please note the following\nbefore moving to another site.\nDo you still want to move?"
+      "Ten en cuenta los siguientes puntos\nantes de cambiar de ubicación.\n¿Seguro que quieres continuar?"
     ],
     "HomeScene_MapChangePopup_Text_2": [
-      "You have \u000e",
-      "\u0003\u0004毿Ｗmission rewards waiting\u000e",
-      "\u0003\u0004",
-      "＀\n\u000e",
-      "\u0003\u0004毿Ｗto be claimed\u000e",
+      "Tienes \u000e",
+      "\u0003\u0004毿Ｗpendiente recibir premios\nde misiones\u000e",
       "\u0003\u0004",
       "＀."
     ],
     "HomeScene_MapChangePopup_Text_3": [
-      "Once you leave this site, you\nwon't be able to claim them."
+      "Una vez que hayas cambiado de ubicación, ya\nno podrás recibirlos."
     ],
     "HomeScene_MapChangePopup_Text_4": [
-      "You haven’t \u000e",
-      "\u0003\u0004毿Ｗsynced your data with\nyour Pokémon GO Plus + \u000e",
+      "Hoy no has \u000e",
+      "\u0003\u0004毿Ｗsincronizado tus datos\ncon tu Pokémon GO Plus +\u000e",
       "\u0003\u0004",
-      "＀today."
+      "＀."
     ],
     "HomeScene_MapChangePopup_Text_5": [
-      "If you leave this site, the incense you have\nselected will be removed. Please finish\nsynchronizing data before leaving the site."
+      "Si cambias de ubicación, perderás el incienso\nque hubieras seleccionado. Termina de\nsincronizar los datos antes de mudarte."
     ],
     "HomeScene_NotMainSkillPopup_Text": [
-      "Because a main skill has already\nbrought your cooking pot to its max\ncapacity of \u000e\u0002\u0003\u0004",
-      "촁, Main Skill\n\u000e\u0003\u000b\u0002촁 cannot be used.\nThis main skill can be used again after\nyou have cooked."
+      "Tu puchero ya ha alcanzado el límite\nde su capacidad (\u000e\u0002\u0003\u0004",
+      "촁) por efecto de\nuna habilidad principal, por lo que no\npodrás usar \u000e\u0003\u000b\u0002촁\nhasta después de cocinar."
     ],
     "HomeScene_NotMainSkillPopup_Title": [
-      "Cannot Use Main Skill"
+      "Habilidad principal no disponible"
     ],
     "HomeScene_PokemonPickupEvent_Popup_Start": [
-      "Eevee Week"
+      "Semana de Eevee"
     ],
     "HomeScene_PremiumPassFinished_Popup_SubText": [
-      "Your Regular Pass has been restored.\nWe hope to see you again at the Premium\nExchange sometime!"
+      "Tu plan ha revertido a un pase estándar.\n¡Esperamos volver a verte pronto usando\nel canje prémium!"
     ],
     "HomeScene_PremiumPassFinished_Popup_Text": [
-      "Your Premium Pass has \u000e",
-      "\u0003\u0004毿Ｗexpired\u000e",
+      "Tu pase prémium ha \u000e",
+      "\u0003\u0004毿Ｗcaducado\u000e",
       "\u0003\u0004",
       "＀."
     ],
     "HomeScene_PremiumPassFinished_Popup_Title": [
-      "Premium Pass Expired"
+      "Pase prémium caducado"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_1_1": [
-      "Candies gained through\nresearch ×\u000e\u0002\u0001\u0002",
-      " (once per day)"
+      "Caramelos obtenidos por el\nestudio ×\u000e\u0002\u0001\u0002",
+      " (una vez al día)."
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_1_2": [
-      "Pokémon with different sleep types appear regardless of researcher’s sleep type"
+      "Aparecen Pokémon con distintos\ntipos de sueño independientemente\ndel tipo de sueño del usuario."
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_1": [
-      "Drowsy Power ×\u000e\u0002\u0001\u0002",
+      "Poder Zzz ×\u000e\u0002\u0001\u0002",
       ""
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_2": [
-      "EXP gained through sleeping ×\u000e\u0002",
+      "EXP obtenida al dormir ×\u000e\u0002",
       "\u0002촀"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_3": [
-      "Gain \u000e\u0002\u0003\u0004",
-      "촁 bonus sleep points for tracking sleep (only once per day)"
+      "\u000e\u0002\u0003\u0004",
+      "촁 punto\u000e\u0007",
+      "\b",
+      "\u0002s촀 de sueño adicional\u000e\u0007",
+      "\n",
+      "\u0004es촀\npor registro (una vez al día)."
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_3": [
-      "Try using a Master Biscuit with your sleep research."
+      "Prueba a usar una Megagalleta\ndurante el estudio del sueño."
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_4": [
-      "Greater Shiny Appearance Rate:"
+      "Mayor probabilidad de encontrarse\ncon Pokémon variocolor:"
     ],
     "HomeStartSleepPopup_Bonus_Content_1": [
-      "Halloween Event"
+      "Evento de Halloween"
     ],
     "HomeStartSleepPopup_Bonus_Content_2": [
-      "Good Sleep Day"
+      "Día de los dormilones"
     ],
     "HomeStartSleepPopup_Bonus_Content_3": [
-      "Master Biscuit Tutorial"
+      "Tutorial de Megagalletas"
     ],
     "HomeStartSleepPopup_Bonus_Content_4": [
-      "Eevee Week"
+      "Semana de Eevee"
     ],
     "HomeStartSleepPopup_Bonus_Header_1": [
-      "Bonus List"
+      "Lista de bonus"
     ],
     "HomeStartSleepPopup_Bonus_Secret": [
-      "???"
+      "(?)"
     ],
     "HomeStartSleepPopup_Bonus_Slash": [
       ","
     ],
     "HomeStartSleepPopup_Bonus_SmallTitle": [
-      "Research Bonus"
+      "Bonus de\nestudio"
     ],
     "HomeStartSleepPopup_Bonus_Text_1": [
-      "View all of today’s research bonuses."
+      "Consulta todos tus bonus de estudio de hoy."
     ],
     "HomeStartSleepPopup_Bonus_Title": [
-      "Research Bonus"
+      "Bonus de estudio"
     ],
     "HomeStartSleepPopup_CannotSet_MultiPokemonIncense": [
-      "You can only use incense to attract\none Pokémon species at a time."
+      "No puedes usar inciensos de Pokémon\npara dos especies a la vez."
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Text": [
-      "You can’t choose this incense because\n\u000e\u0003\u0001\u0002",
-      " won’t appear at the\ncurrent site."
+      "No puedes usar este incienso porque\nen esta ubicación no aparece ningún\n\u000e\u0003\u0001\u0002",
+      "."
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Title": [
-      "Cannot Be Used"
+      "No se puede usar"
     ],
     "HomeStartSleepPopup_CannotSet_SameTypeItem": [
-      "You've already chosen this incense.\nYou can't use two of the same type\nof incense in the same sleep session."
+      "Ya has seleccionado este incienso.\nNo puedes usar dos unidades del mismo\nincienso en una sesión de sueño."
     ],
     "HomeStartSleepPopup_CannotUse_Incense": [
-      "One of the incenses you've chosen\ncan't be used. Please remove it."
+      "No es posible usar uno de los inciensos\nque has seleccionado. Retíralo."
     ],
     "HomeStartSleepPopup_CannotUse_Title": [
-      "Cannot Be Used"
+      "No se puede usar"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_Message": [
-      "To change your bedtime, the app\nwill need to communicate with\nyour Pokémon GO Plus +.\n\nIs it all right to connect to\nyour Pokémon GO Plus +?"
+      "Para cambiar tu hora de dormir,\nla aplicación debe comunicarse\ncon tu Pokémon GO Plus +.\n\n¿Quieres conectar con tu\nPokémon GO Plus +?"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_OK": [
-      "Connect"
+      "Conectar"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_Title": [
-      "Confirmation"
+      "Confirmación"
     ],
     "HomeStartSleepPopup_Text_1": [
-      "Microphone Access Permissions"
+      "Permiso de acceso al micrófono"
     ],
     "HomeStartSleepPopup_Text_2": [
-      "The app needs permission to access\nyour device’s microphone in order to\ntrack your sleep. Please allow\nmicrophone access."
+      "La aplicación necesita permiso para\nacceder al micrófono de tu dispositivo\nmóvil para poder registrar tu sueño.\nRealiza los ajustes necesarios desde\nla configuración de tu dispositivo."
     ],
     "HomeStartSleepPopup_UnsetItem_Message": [
-      "Are you sure you want to remove this\n\u000e\u0003\u0003\u0004Ā촀?"
+      "¿Seguro que quieres retirar este\n\u000e\u0003\u0003\u0004Ā촀?"
     ],
     "HomeStartSleepPopup_UnsetItem_Title": [
-      "Remove Incense"
+      "Retirar incienso"
     ],
     "Home_AutoPickup_Popup_Desc": [
-      "Your Pokémon helped provide Snorlax\nwith some snacks while you were away.\nIt's grown even stronger!"
+      "Tus ayudantes se han ocupado de cuidar a Snorlax\nen tu ausencia."
     ],
     "Home_AutoPickup_Popup_Energy_Title": [
-      "Strength Gained:"
+      "Vigor ganado:"
     ],
     "Home_AutoPickup_Popup_Section_Title": [
-      "Your Helpers"
+      "Tus ayudantes"
     ],
     "Home_AutoPickup_Popup_Title": [
-      "Sneaky Snacking"
+      "Picoteo furtivo"
     ],
     "Home_BottomButtons_MainMissionProgressButton_GoalTitle": [
-      "Next Goal"
+      "Próximo objetivo"
     ],
     "Home_NoMoreSleepStartPopup_Message": [
-      "You can track up to two sessions of\nsleep per day. You've hit today's limit."
+      "Puedes registrar hasta dos sesiones\nde sueño al día. Por hoy es suficiente."
     ],
     "Home_NoMoreSleepStartPopup_Title": [
-      "Tracking Sleep"
+      "Registro del sueño"
     ],
     "Home_NoMoreSleepStartPopup_UnixtimeDuplication_Message": [
-      "You can't start tracking sleep right\nnow because your device's current\ntime overlaps with the time of a\nsleep session you previously tracked.\nFor details, please consult the FAQ."
+      "No puedes empezar a registrar el\nsueño porque la hora actual de tu\ndispositivo se superpone con la hora\nde una sesión registrada previamente.\nPara obtener más detalles, consulta la\npágina de preguntas frecuentes."
     ],
     "Home_SCENE_MissionGoalCutin_Badge_Title": [
-      "Styles"
+      "registros"
     ],
     "Home_SCENE_MissionGoalCutin_Complete_Title": [
-      "Total Sleep Styles!"
+      "Posturas estudiadas"
     ],
     "Home_SCENE_MissionGoalCutin_RewardTitle": [
-      "Rewards Received"
+      "Premios recibidos"
     ],
     "Home_SCENE_MissionGoalPopup_Button_Close": [
-      "Close"
+      "Cerrar"
     ],
     "Home_SCENE_MissionGoalPopup_Button_Complete": [
-      "Claim Rewards"
+      "Recibir premios"
     ],
     "Home_SCENE_MissionGoalPopup_Button_SleepingFacePokedex": [
-      "Go to Dex"
+      "DormiDex"
     ],
     "Home_SCENE_MissionGoalPopup_ContentTitle": [
-      "Dex Goal Rewards"
+      "Premios por objetivos de la DormiDex"
     ],
     "Home_SCENE_MissionGoalPopup_Content_IconNumber": [
       "×\u000e\u0002\u0002\u0002",
       ""
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_1": [
-      "Unlock a new area:\n\u000e\u0003\u0003\u0004Ā촀"
+      "¡Ya puedes estudiar\n\u000e\u0003\u000e\u0002",
+      "!"
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_2": [
-      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0004\u0004\u0002촁"
+      "\u000e\u0003\u0003\u0004Ā촁 ×\u000e\u0002\u0004\u0004\u0002촁"
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_2_NoNumber": [
-      "\u000e\u0003\u0003\u0004Ā촀"
+      "\u000e\u0003\u0003\u0004Ā촁"
     ],
     "Home_SCENE_MissionGoalPopup_Desc_1": [
-      "Your Sleep Style Dex goal:"
+      "Tu próximo objetivo de la DormiDex"
     ],
     "Home_SCENE_MissionGoalPopup_NextUpdate_Message": [
-      "You've completed all your Sleep Style\nDex goals! Please look forward to\nfuture updates that may bring new\ngoals for your dex progress."
+      "¡Has cumplido todos tus objetivos de\nla Dormidex! Busca nuevos objetivos\nen futuras actualizaciones y sigue\nprogresando con tu DormiDex."
     ],
     "Home_SCENE_MissionGoalPopup_NextUpdate_Title": [
-      "All Goals Met!"
+      "Todos los objetivos cumplidos"
     ],
     "Home_SCENE_MissionGoalPopup_SleepTypeNumber_1": [
       "\u000e\u0002\u0002\u0002",
-      "/\u000e\u0002\u0002\u0002\u0001 Styles"
+      "/\u000e\u0002\u0002\u0002\u0001 posturas"
     ],
     "Home_SCENE_MissionGoalPopup_SleepTypeNumber_2": [
-      "Study \u000e\u0002\u0002\u0002",
-      " Styles!"
+      "¡\u000e\u0002\u0002\u0002",
+      " postura\u000e\u0007",
+      "\b",
+      "\u0002s촀!"
     ],
     "Home_SCENE_MissionGoalPopup_Title": [
-      "Sleep Style Dex Goal"
+      "Objetivo DormiDex"
     ],
     "ItemSelectCell_Text_1": [
-      "Already In Use"
+      "Ya en uso"
     ],
     "SnorlaxHomeObject_FeedBalloon": [
-      "Breakfast"
+      "Desayuno"
     ],
     "SnorlaxHomeObject_NextTime_Breakfast": [
-      "6:00 a.m."
+      "06:00"
     ],
     "SnorlaxHomeObject_NextTime_Dinner": [
-      "6:00 p.m."
+      "18:00"
     ],
     "SnorlaxHomeObject_NextTime_Lunch": [
-      "12:00 p.m."
+      "12:00"
     ],
     "SnorlaxHomeObject_Title": [
-      "Next Meal"
+      "Siguiente comida"
     ],
     "SnorlaxRankListCell_NeedEnergy": [
-      "Strength needed: \u000e\u0002\t\u0004",
+      "Vigor necesario: \u000e\u0002\t\u0004",
       "촁"
     ],
     "SnorlaxRankListCell_NeedEnergyNone": [
-      "Strength needed: none"
+      "Vigor necesario: 0"
     ],
     "WeeklyMission_Notification_Badge": [
-      "DONE!"
+      "¡LISTO!"
     ],
     "WeeklyMission_Notification_Title": [
-      "Mission Complete!"
+      "¡Misión cumplida!"
     ]
   },
   "structure": {
@@ -2444,7 +2441,7 @@
     "TXT2": {
       "header": {
         "entries": 240,
-        "size": 28966,
+        "size": 29712,
         "unknown1": 0,
         "unknown2": 0
       }

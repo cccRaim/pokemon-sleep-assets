@@ -1,22 +1,22 @@
 {
   "strings": {
     "FieldObject_CookingExpandObjectBalloon": [
-      "鍋子"
+      "Topf"
     ],
     "FieldObject_SleepConsumableItemObjectBalloon": [
-      "薰香"
+      "Rauch"
     ],
     "FieldObject_TentCampSetBalloon": [
-      "露營組合"
+      "Camping-Set"
     ],
     "GPPHomePopup_ConnectButton": [
-      "前往連線、設定"
+      "Verbinden"
     ],
     "GPPHomePopup_OthersLabel": [
-      "其他"
+      "Anderes"
     ],
     "GPPHomePopup_SettingsLabel": [
-      "設定內容"
+      "Einstellungen"
     ],
     "GPPHomePopup_SyncDate": [
       "\u000e\t",
@@ -24,25 +24,25 @@
       ""
     ],
     "GPPHomePopup_SyncDateTitle": [
-      "完成同步的時間"
+      "Synchronisiert:"
     ],
     "GPPHomePopup_Title_2": [
-      "起床鬧鈴"
+      "Wecker"
     ],
     "GPPHomePopup_Title_3": [
-      "就寢時間通知"
+      "Erinnerung zur\nSchlafenszeit"
     ],
     "GPPHomePopup_Title_4": [
-      "就寢約定"
+      "Schlafenszeit"
     ],
     "GPPHomePopup_Title_5": [
-      "用智慧型手機測量睡眠"
+      "Schlafaufzeichnung mit Smartphone"
     ],
     "GPPHomePopup_Title_6": [
-      "說明"
+      "Hilfsinhalte ansehen"
     ],
     "GPPHomePopup_Title_7": [
-      "解除Pokémon GO Plus +的登錄"
+      "Pokémon GO Plus + trennen"
     ],
     "GPPHomePopup_Value": [
       "\u000e\t",
@@ -60,38 +60,38 @@
       ""
     ],
     "GoBonusPopup_Text_2": [
-      "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0002\u0002\u0002個"
+      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0002\u0002\u0002"
     ],
     "HomeFavoriteFoodPopup_Message": [
-      "餵給卡比獸牠喜歡的樹果，\n會使能量增加量變成\u000e",
-      "\u0003\u0004毿Ｗ2倍\u000e",
+      "Gibst du Relaxo seine Lieblingsbeeren, erhält\nes dadurch \u000e",
+      "\u0003\u0004旾ｷdoppelt so viel\u000e",
       "\u0003\u0004",
-      "＀。"
+      "＀ Stärke wie sonst."
     ],
     "HomeFavoriteFoodPopup_Title": [
-      "這週的卡比獸喜歡的樹果"
+      "Lieblingsbeeren dieses Relaxos"
     ],
     "HomeGPPController_Text_1": [
-      "解除Pokémon GO Plus +的登錄"
+      "Pokémon GO Plus + trennen"
     ],
     "HomeGPPController_Text_2": [
-      "若解除Pokémon GO Plus +的登錄，\n將無法在《Pokémon Sleep》取得\n尚未反映的睡眠資料。\n確定要解除登錄嗎？"
+      "Wenn du Pokémon GO Plus + trennst\ngehen sämtliche Schlafdaten verloren,\ndie du nicht zuvor mit Pokémon Sleep\nsynchronisiert hast. Möchtest du\nfortfahren?"
     ],
     "HomeGPPController_Text_3": [
-      "解除登錄"
+      "Trennen"
     ],
     "HomeGoNextMapNotification_Text_1": [
-      "任務"
+      "Missionen"
     ],
     "HomeGoNextMapNotification_Text_2": [
-      "您有還沒領取報酬的任務。\n移動到下一個營地後，\n將無法領取報酬。\n確定要移動營地嗎？"
+      "Du hast noch Missionsbelohnungen, die\ndu abholen musst. Verlässt du diese\nSeite, gehen sie verloren. Möchtest du\ndiese Seite wirklich verlassen?"
     ],
     "HomeGoNextMapNotification_Text_3": [
-      "移動"
+      "Seite verlassen"
     ],
     "HomeMainHeader_Text_1": [
       "\u000e\u0002\u0002\u0002",
-      "種類"
+      " mehr"
     ],
     "HomePokemonExpGage_LevelNum": [
       "\u000e\u0002\u0002\u0002",
@@ -101,63 +101,63 @@
       "Lv."
     ],
     "HomePokemonExpGage_LevelupText": [
-      "LEVEL UP！"
+      "LEVELAUFSTIEG!"
     ],
     "HomePokemonExpGage_Text_1": [
       "+\u000e\u0002\u0002\u0002",
-      "%獎勵"
+      " % Bonus"
     ],
     "HomePowerRecoveryPopup_Bonus": [
-      "獎勵×\u000e\u0002\u0003\u0004",
+      "Bonus × \u000e\u0002\u0003\u0004",
       "촁"
     ],
     "HomePowerRecoveryPopup_BonusEXPPopup_Title": [
-      "EXP獎勵"
+      "EP-Bonus"
     ],
     "HomePowerRecoveryPopup_BonusEnergyPopup_Title": [
-      "活力獎勵"
+      "Energiebonus"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList": [
-      "獎勵一覽"
+      "Bonusliste"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Event": [
-      "活動"
+      "Event"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Incense": [
-      "薰香"
+      "Rauch"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_NoBonus": [
-      "目前沒有有效的獎勵。"
+      "Kein Bonus aktiv"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Note": [
-      "※寶可夢各自的獎勵會另行計算。"
+      "Boni für einzelne Pokémon werden\nseparat ausgelöst."
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_SubSkill": [
-      "寶可夢的副技能"
+      "Nebentalent"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusValue": [
-      "×\u000e\u0002\u0003\u0004",
+      " ×\u000e\u0002\u0003\u0004",
       "촁"
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1": [
-      "讓寶可夢盒內所有的寶可夢\n回復睡眠分數的5%的活力量。"
+      "Alle Pokémon in deiner Pokémon-Box\nregenerieren Energie im Wert von 5%\ndeines Schlafresultats."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_1": [
-      "不包含已編制在目前的隊伍中的寶可夢。"
+      "Dies gilt nicht für Pokémon, die sich gerade\nin deinem Team befinden."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_2": [
-      "使用回復薰香時，回復量會是睡眠分數的10%。"
+      "Setzt du Erholungsrauch ein, erhöht sich\ndie Erholungsrate auf 10% deines\nSchlafresultats."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_3": [
-      "每隻寶可夢各別的「性格」帶來的\n活力回復量的差異會另行計算。"
+      "Anpassungen der Energieauffüllung je nach\nindividuellem Wesen der Pokémon wird\nseparat berechnet."
     ],
     "HomePowerRecoveryPopup_Num": [
       "\u000e\u0002\u0002\u0002",
-      "%"
+      " %"
     ],
     "HomePowerRecoveryPopup_Num_2": [
       "\u000e\u0002\u0002\u0002",
-      ""
+      " "
     ],
     "HomePowerRecoveryPopup_OKButton": [
       "OK"
@@ -167,41 +167,41 @@
       ""
     ],
     "HomePowerRecoveryPopup_Title": [
-      "今天的睡眠"
+      "Deine Schlafeinheit"
     ],
     "HomePowerRecoveryPopup_Title_2": [
-      "幫手寶可夢的成長"
+      "Wachstum der Helfer-Pokémon"
     ],
     "HomePowerRecoveryPopup_Title_3": [
-      "回復的活力"
+      "Energie aufgefüllt"
     ],
     "HomePowerRecoveryPopup_Title_4": [
-      "獲得的EXP"
+      "Erhaltene EP"
     ],
     "HomePowerRecoveryPopup_Title_5": [
-      "盒子的活力"
+      "Energie in der Box"
     ],
     "HomePowerRecoveryPopup_Title_inner": [
-      "今天的\n睡眠分數"
+      "Schlafresultat"
     ],
     "HomePowerRecoveryPopup_Unit_2": [
-      "EXP"
+      "EP"
     ],
     "HomePromisePopup_CardButton": [
-      "查看集章卡"
+      "Stempelkarte prüfen"
     ],
     "HomePromisePopup_ChangeButton": [
-      "儲存"
+      "Speichern"
     ],
     "HomePromisePopup_Desc": [
-      "在\u000e\t",
+      "Leg dich zwischen \u000e\t",
       "\u000e\nhh:mm",
-      "～\u000e\t",
-      "\u000e\nhh:mm\u0001間睡覺能獲得集章！\n\u000e\t",
-      "\u000e\nhh:mm\u0002時會用推播通知提醒您。"
+      " Uhr und\n\u000e\t",
+      "\u000e\nhh:mm\u0001 Uhr schlafen.\nPush-Mitteilung zur Erinnerung um \u000e\t",
+      "\u000e\nhh:mm\u0002."
     ],
     "HomePromisePopup_SetTargetTimeButton": [
-      "重新設定目標"
+      "Schlafenszeit ändern"
     ],
     "HomePromisePopup_TargetTime": [
       "\u000e\t",
@@ -209,105 +209,105 @@
       ""
     ],
     "HomePromisePopup_Text_1": [
-      "確認重置"
+      "Zurücksetzen bestätigen"
     ],
     "HomePromisePopup_Text_2": [
-      "若重新設定目標時刻，\n約定集章卡將重置回第1天。"
+      "Wenn du deine Schlafenszeit änderst,\nwird deine Stempelkarte auf Tag 1\nzurückgesetzt."
     ],
     "HomePromisePopup_Title": [
-      "就寢約定"
+      "Schlafenszeit"
     ],
     "HomePromisePopup_Title_2": [
-      "每天的目標就寢時刻"
+      "Tägliche Zielschlafenszeit"
     ],
     "HomePromisePopup_Title_3": [
-      "約定的就寢時刻"
+      "Deine Schlafenszeit"
     ],
     "HomePromiseStampCardPopup_Day": [
-      "第\u000e\u0002\u0002\u0002",
-      "天"
+      "Tag \u000e\u0002\u0002\u0002",
+      ""
     ],
     "HomePromiseStampCardPopup_RewardNum": [
-      "x\u000e\u0002\u0001\u0002",
+      "×\u000e\u0002\u0001\u0002",
       ""
     ],
     "HomePromiseStampCardPopup_Text_3": [
-      "報酬"
+      "Belohnungen"
     ],
     "HomePromiseStampCardPopup_Title": [
-      "獎勵集章卡 第\u000e\u0002\u0002\u0002",
-      "張"
+      "Stempelkarte Nr. \u000e\u0002\u0002\u0002",
+      ""
     ],
     "HomePromiseTimeChangeConfirmPopup_Desc_1": [
-      "若變更就寢約定的時刻，\n集章就會重置。"
+      "Eine Änderung deiner Bettzeit wird\ndeine Stempelkarte zurücksetzen."
     ],
     "HomePromiseTimeChangeConfirmPopup_Desc_2": [
-      "確定要變更嗎？"
+      "Möchtest du wirklich die Zeit ändern?"
     ],
     "HomePromiseTimeChangeConfirmPopup_Title": [
-      "確認"
+      "Bestätigen"
     ],
     "HomeSceneGraphicText_PremiumPass": [
-      "PREMIUM\nPASS"
+      "PREMIUM-\nPASS"
     ],
     "HomeSceneOverflowController_Text_1": [
-      "包包已滿"
+      "Beutel voll"
     ],
     "HomeSceneOverflowController_Text_2": [
-      "食材包包已滿。\n要前往食材包包嗎？"
+      "Die Zutatentasche deines Beutels ist\nvoll. Möchtest du deinen Beutel öffnen?"
     ],
     "HomeSceneOverflowController_Text_3": [
-      "前往食材包包"
+      "Beutel öffnen"
     ],
     "HomeSceneOverflowController_Text_6": [
-      "道具包包已滿。\n要前往道具包包嗎？"
+      "Die Itemtasche deines Beutels ist voll.\nMöchtest du den Beutel öffnen?"
     ],
     "HomeSceneOverflowController_Text_7": [
-      "前往道具包包"
+      "Beutel öffnen"
     ],
     "HomeSceneUIController_Text_1": [
-      "新的一天"
+      "Ein neuer Tag"
     ],
     "HomeSceneUIController_Text_2": [
-      "日期已改變。\n即將返回標題畫面。"
+      "Ein neuer Tag hat begonnen!\nDu kehrst zum Titelbildschirm zurück."
     ],
     "HomeSceneUIController_Text_3": [
-      "複數次睡眠"
+      "Mehrere Schlafmessungen"
     ],
     "HomeSceneUIController_Text_4_1timeOverMax": [
-      "您今天還是可以測量睡眠，\n但是不會進行睡眠研究。\n1天內會反映到睡眠研究的\n睡眠時間以8小時30分為限。"
+      "Du kannst deinen Schlaf heute zwar\nnoch aufzeichnen, aber keine Forschung\nmehr daran durchführen. Du kannst\nmax. 8 Std. und 30 Min. pro Tag in die\nForschung einfließen lassen."
     ],
     "HomeSceneUIController_Text_4_1timeOverMax_B": [
-      "您今天還是可以測量睡眠，\n但是不會進行睡眠研究。\n1天內會反映到睡眠研究的\n睡眠時間以11小時為限。"
+      "Du kannst deinen Schlaf heute zwar\nnoch aufzeichnen, aber keine Forschung\nmehr daran durchführen. Du kannst\nmax. 11 Std. pro Tag in die Forschung\neinfließen lassen."
     ],
     "HomeSceneUIController_Text_4_2times": [
-      "這是您1天當中的第2次睡眠測量。\n今天能夠被計入睡眠研究的睡眠時間\n還有\u000e\u0002\u0001\u0002",
-      "小時\u000e\u0002\u0001\u0002\u0001分。"
+      "Dies scheint heute deine zweite\nAufzeichnung zu sein. Du kannst so\nlange schlafen, wie du möchtest, aber\nes werden nur \u000e\u0002\u0001\u0002",
+      " Std. und \u000e\u0002\u0001\u0002\u0001 Min. zur\nheutigen Schlafforschung gezählt."
     ],
     "HomeSceneUIController_Text_4_2times_1ManualVer": [
-      "這是您1天當中的第2次睡眠測量。\n今天能夠被計入睡眠研究的睡眠時間\n還有\u000e\u0002\u0001\u0002",
-      "小時\u000e\u0002\u0001\u0002\u0001分。\n此外，也不會在隔天之後的睡眠研究\n獲得額外的獎勵沙布蕾作為手動輸入的報酬。"
+      "Anscheinend schläfst du heute schon\nzum zweiten Mal. Du kannst so viel\nschlafen, wie du magst, aber nur\n\u000e\u0002\u0001\u0002",
+      " Std. und \u000e\u0002\u0001\u0002\u0001 Min. können in die\nheutigen Schlafforschung einfließen.\nDu erhältst auch keinen Bonuskeks als\nBelohnung für das manuelle Nachtragen\nder nächsten Schlafaufzeichnung,\ndie du nach der heutigen tätigst."
     ],
     "HomeSceneUIController_Text_5": [
-      "未報告的研究結果"
+      "Ungeprüfte Schlafforschungsberichte"
     ],
     "HomeSceneUIController_Text_6": [
-      "您有未報告的研究結果。\n要報告嗎？"
+      "Du hast einige Schlafdaten noch\nnicht überprüft. Möchtest du sie\njetzt ansehen?"
     ],
     "HomeSceneUIController_Text_7": [
-      "報告"
+      "Überprüfen"
     ],
     "HomeSceneUIController_Text_9": [
-      "發動技能"
+      "Talent aktivieren"
     ],
     "HomeScene_Canvas-FieldChange_Footer_Message": [
-      "這一週辛苦了。"
+      "Forschungswoche beendet!"
     ],
     "HomeScene_Canvas-FieldChange_Header_Energy_Title": [
-      "最終能量"
+      "Gesamtstärke"
     ],
     "HomeScene_Canvas-UI_Complete_Title": [
-      "目標達成！"
+      "Ziel erreicht!"
     ],
     "HomeScene_Canvas-UI_Energy": [
       "\u000e\u0002\t\u0004",
@@ -321,35 +321,35 @@
       "GO Plus +"
     ],
     "HomeScene_Canvas-UI_LeftTitle": [
-      "還有"
+      "Noch"
     ],
     "HomeScene_Canvas-UI_Level": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomeScene_Canvas-UI_MainMenuButton": [
-      "選單"
+      "Hauptmenü"
     ],
     "HomeScene_Canvas-UI_MissionButton": [
-      "任務"
+      "Missionen"
     ],
     "HomeScene_Canvas-UI_MoveButton": [
-      "移動研究營地"
+      "Nächstes Gebiet auswählen"
     ],
     "HomeScene_Canvas-UI_Name": [
-      "卡比獸"
+      "Relaxo"
     ],
     "HomeScene_Canvas-UI_PokemonButton": [
-      "寶可夢"
+      "Pokémon"
     ],
     "HomeScene_Canvas-UI_ShopButton": [
-      "商店"
+      "Shops"
     ],
     "HomeScene_Canvas-UI_SleepButton": [
-      "睡覺"
+      "Schlafen"
     ],
     "HomeScene_Canvas-UI_SleepMileButton": [
-      "睡眠票證"
+      "Schlafpass"
     ],
     "HomeScene_Canvas-UI_SleepMile_GetPoint": [
       "+\u000e\u0002\u0002\u0002",
@@ -360,7 +360,7 @@
       "+"
     ],
     "HomeScene_Canvas-UI_SleepPowerLabel": [
-      "總能量"
+      "Stärke"
     ],
     "HomeScene_Canvas-UI_SleepReportGPP_1": [
       "\u000e",
@@ -369,157 +369,178 @@
       "＀"
     ],
     "HomeScene_Canvas-UI_SleepReportGPP_2": [
-      "同步"
+      "Synchronisieren"
     ],
     "HomeScene_Canvas-UI_SleepReportNotification": [
-      "未報告的睡眠研究"
+      "Ungeprüfte\nSchlafberichte"
     ],
     "HomeScene_Canvas-UI_SleepReportNotification_WeekChange": [
-      "維護作業期間的\n睡眠研究"
+      "Schlafberichte bei\nWartungsarbeiten"
     ],
     "HomeScene_Canvas-UI_SleepReportWeekChange_LaterPopup": [
-      "完成報告後\n即可與GO Plus +同步資料"
+      "Wenn du deine Berichte\nüberprüft hast, kannst du\nDaten mit deinem\nPokémon Go Plus +\nsynchronisieren."
     ],
     "HomeScene_Canvas-UI_SleepStartSkipButton": [
-      "跳過"
+      "Überspringen"
     ],
     "HomeScene_Canvas-UI_SyncBalloon": [
-      "同步睡眠資料"
+      "Schlafdaten\nsynchronisieren"
     ],
     "HomeScene_Canvas-UI_Title": [
-      "階級"
+      "Rang"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_1": [
-      "自11/20 4:00起，舉辦「\u000e",
-      "\u0003\u0004糿＇伊布週2023\u000e",
+      "Das Event „\u000e",
+      "\u0003\u0004糿＇Evoli-Woche 2023\u000e",
       "\u0003\u0004",
-      "＀」活動！"
+      "＀“ beginnt Montag,\nden 20. November um 04:00 Uhr!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_2": [
-      "為慶祝11/21「伊布日」，\n在為期一週的「伊布週2023」活動中，\n\u000e",
-      "\u0003\u0004糿＇「伊布」和牠的進化形寶可夢\n會更容易前來睡覺！\u000e",
+      "Die Evoli-Woche 2023 ist ein einwöchiges Event,\num den Evoli-Tag (21. November) zu feiern, bei\ndem die Wahrscheinlichkeit steigt, dass sich\n\u000e",
+      "\u0003\u0004糿＇Evoli und seine Entwicklungen zum Schlafen\neinfinden!\u000e",
       "\u0003\u0004",
-      "＀\n不論您當天的睡眠類型為何，\n皆能遇見\u000e",
-      "\u0003\u0004糿＇所有睡眠類型\u000e",
+      "＀\nUnabhängig von deinem eigenen Schlaftyp\nkannst du Pokémon \u000e",
+      "\u0003\u0004糿＇verschiedener Schlaftypen\u000e",
       "\u0003\u0004",
-      "＀的寶可夢，\n且伊布\u000e",
-      "\u0003\u0004糿＇將會比較容易現身\u000e",
+      "＀\nbegegnen. Außerdem sind \u000e",
+      "\u0003\u0004糿＇Evoli und seine\nEntwicklungen\u000e",
       "\u0003\u0004",
-      "＀。\n如果幸運的話，\n說不定也能遇見異色的「伊布」！"
+      "＀ \u000e",
+      "\u0003\u0004糿＇wahrscheinlicher anzutreffen\u000e",
+      "\u0003\u0004",
+      "＀.\nVielleicht triffst du ja auf ein Schillerndes Evoli!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_3": [
-      "此外，若在11/21「伊布日」進行睡眠研究，\n將能獲得1121點紅利睡眠點數。\n除了平時的任務之外，還可透過追加的「特別任務」\n獲得「伊布的薰香」等令人眉開眼笑的報酬。\n\n同時，在這次的「伊布週」期間中，\n所有的幫手寶可夢的主技能\n將會更容易發動！\n也請期待幫手寶可夢的活躍表現吧！"
+      "Außerdem kannst du 1121 Bonus-Schlafpunkte\nerhalten, wenn du am Evoli-Tag (21. November)\nSchlafforschung durchführst!\nDurch besondere Missionen, die zusätzlich zu\nden regulären Missionen verfügbar sein werden,\nkannst du tolle Belohnungen wie Evoli-Rauch\nerhalten.\nZudem steigt während der Evoli-Woche die\nWahrscheinlichkeit, dass die Haupttalente\naller deiner Helfer-Pokémon aktiviert werden!\nWir hoffen, dass du Freude an der fleißigen\nArbeit deiner Helfer-Pokémon hast!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_4": [
-      "●活動進行方法\n活動的參加方法很簡單！\n只需在活動期間，睡前點擊「睡覺」按鈕測量睡眠即可。\n這麼一來，各式各樣的活動獎勵就會在睡眠研究生效。\n※本次活動的活動獎勵適用於所有的營地。\n此外，活動期間會發生下列效果。"
+      "- Wie du am Event teilnimmst\nDu kannst ganz einfach am Event teilnehmen!\nTippe während des Eventzeitraums einfach vor\ndem Schlafen auf „Schlafen“, um deinen Schlaf\naufzuzeichnen.\nBei deiner Schlafforschung wird so eine Vielzahl\neventspezifischer Effekte aktiviert.\nHinweis: Event-Boni können unabhängig vom\nGebiet ausgelöst werden, in dem du forschst.\nDie unten beschriebenen Effekte werden\nwährend des Eventzeitraums aktiv sein."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_5": [
-      "【\u000e",
-      "\u0003\u0004糿＇伊布日（11/21）\u000e",
+      "\u000e",
+      "\u0003\u0004糿＇Evoli-Tag (21. November)\u000e",
       "\u0003\u0004",
-      "＀】\n・睡眠研究時，\u000e",
-      "\u0003\u0004糿＇伊布的出現機率提升\u000e",
+      "＀\n- \u000e",
+      "\u0003\u0004糿＇Erhöhte Erscheinungsrate für\u000e",
       "\u0003\u0004",
-      "＀。\n・睡眠研究時，不論研究者當天的睡眠類型為何，\n　\u000e",
-      "\u0003\u0004糿＇都也能遇見許多其他睡眠類型的寶可夢\u000e",
+      "＀ \u000e",
+      "\u0003\u0004糿＇Evoli und seine\nEntwicklungen \u000e",
       "\u0003\u0004",
-      "＀。\n・如果幸運的話，說不定也能遇見異色的「伊布」。\n・紅利睡眠點數\u000e",
-      "\u0003\u0004糿＇+1121點\u000e",
+      "＀bei der Schlafforschung.\n- Bei der Schlafforschung werden \u000e",
+      "\u0003\u0004糿＇viele Pokémon\u000e",
       "\u0003\u0004",
-      "＀。\n・所有的幫手寶可夢的主技能發動機率提升\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇verschiedener Schlaftypen auftauchen\u000e",
+      "\u0003\u0004",
+      "＀,\nunabhängig vom Schlaftyp des Forschers.\n- Du könntest auf ein Schillerndes Evoli treffen.\n- \u000e",
+      "\u0003\u0004糿＇+1121\u000e",
+      "\u0003\u0004",
+      "＀ Bonus-Schlafpunkte\n- Haupttalente aller Helfer-Pokémon werden\nmit \u000e",
       "\u0003\u0004糿＇\u000e\u0002\u0001\u0002",
-      "倍\u000e",
+      "-facher Wahrscheinlichkeit\u000e",
       "\u0003\u0004",
-      "＀。"
+      "＀ ausgelöst."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_6": [
-      "【\u000e",
-      "\u0003\u0004糿＇其他日子（11/20、11/22～11/26）\u000e",
+      "\u000e",
+      "\u0003\u0004糿＇Andere Tage (20. Nov., 22.-26. Nov.)\u000e",
       "\u0003\u0004",
-      "＀】\n・睡眠研究時，\u000e",
-      "\u0003\u0004糿＇伊布的出現機率提升\u000e",
+      "＀\n- \u000e",
+      "\u0003\u0004糿＇Erhöhte Erscheinungsrate für\u000e",
       "\u0003\u0004",
-      "＀。\n・睡眠研究時，不論研究者當天的睡眠類型為何，\n　\u000e",
-      "\u0003\u0004糿＇都也能遇見一些其他睡眠類型的寶可夢\u000e",
+      "＀ \u000e",
+      "\u0003\u0004糿＇Evoli und seine\nEntwicklungen \u000e",
       "\u0003\u0004",
-      "＀。\n・如果幸運的話，說不定還也遇見異色的「伊布」。\n・所有的幫手寶可夢的主技能發動機率提升\u000e",
+      "＀bei der Schlafforschung.\n- Bei der Forschung werden \u000e",
+      "\u0003\u0004糿＇einige Pokémon\nverschiedener Schlaftypen\u000e",
+      "\u0003\u0004",
+      "＀ \u000e",
+      "\u0003\u0004糿＇auftauchen\u000e",
+      "\u0003\u0004",
+      "＀,\nunabhängig vom Schlaftyp des Forschers.\n- Du könntest auf ein Schillerndes Evoli treffen.\n- Haupttalente aller Helfer-Pokémon werden\nmit \u000e",
       "\u0003\u0004糿＇\u000e\u0002\u0001\u0002",
-      "倍\u000e",
+      "-facher Wahrscheinlichkeit\u000e",
       "\u0003\u0004",
-      "＀。"
+      "＀ ausgelöst."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_7": [
-      "●在活動期間特別容易遇見的寶可夢\n活動期間是能比平時更常遇見下列寶可夢的好機會！"
+      "- Pokémon, die während des Events einfacher\nanzutreffen sind\nIm Eventzeitraum sind die folgenden Pokémon\nwahrscheinlicher anzutreffen:"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_8": [
-      "【機率大幅提升】\n伊布\n【機率中幅提升】\n水伊布、雷伊布、火伊布、太陽伊布、月亮伊布、葉伊布、冰伊布、仙子伊布\n※機率大幅提升的伊布會出現在所有的營地。\n※機率中幅提升的寶可夢只會分別出現在特定的營地。"
+      "\u000e",
+      "\u0003\u0004糿＇Stark erhöhte Erscheinungsrate\u000e",
+      "\u0003\u0004",
+      "＀\nEvoli\n\u000e",
+      "\u0003\u0004糿＇Erhöhte Erscheinungsrate\u000e",
+      "\u0003\u0004",
+      "＀\nAquana, Blitza, Flamara, Psiana, Nachtara,\nFolipurba, Glaziola, Feelinara\nHinweis: Die stark erhöhte Erscheinungsrate\nfür Evoli ist in allen Gebieten wirksam.\nDie erhöhte Erscheinungsrate von allen anderen\nPokémon ist nur in den Gebieten wirksam, in\ndenen sie auch auftauchen."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_9": [
-      "更詳細的活動內容請查看遊戲內的「通知」。"
+      "Mehr Infos zum Event findest du in den\nNeuigkeiten im Spiel."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Title": [
-      "伊布週"
+      "Evoli-Woche"
     ],
     "HomeScene_EventPopup_Text_1": [
-      "所有幫手寶可夢的\n\u000e",
-      "\u0003\u0004毿Ｗ主技能發動機率提升\u000e\u0002\u0001\u0002",
-      "倍。\u000e",
+      "Haupttalente aller Pokémon werden mit\n\u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002",
+      "-facher Wahrscheinlichkeit aktiv!\u000e",
       "\u0003\u0004",
       "＀"
     ],
     "HomeScene_Event_Popup_Start": [
-      "舉辦中"
+      "Im Gange"
     ],
     "HomeScene_Event_Popup_Start_Button": [
-      "查看詳情"
+      "Details"
     ],
     "HomeScene_FieldChangeDialog_Doctor_1": [
-      "這一週的研究辛苦了！\n看起來，你也逐漸習慣\n在這個營地裡進行調查了呢。"
+      "Gute Arbeit! Es scheint, dass du\ndich immer mehr an die Forschung\nim Feld gewöhnst."
     ],
     "HomeScene_FieldChangeDialog_Doctor_2": [
-      "那麼，雖然有點捨不得，\n我們跟這隻卡比獸道別，\n前往下一個研究營地吧。"
+      "Und nun heißt es leider Abschied\nnehmen von Relaxo. Wir ziehen\nweiter!"
     ],
     "HomeScene_FieldChangeDialog_Doctor_3": [
-      "你好像還沒和這隻卡比獸\n進行過睡眠研究呢。"
+      "Du hast wohl mit diesem Relaxo\nnicht mal ein kleines bisschen\nSchlafforschung betrieben."
     ],
     "HomeScene_FieldChangeDialog_Doctor_4": [
-      "已經到了要前往下一個營地的時候，\n所以和這隻卡比獸就此道別吧。"
+      "Jetzt ist es Zeit, in ein anderes\nGebiet aufzubrechen und diesem\nRelaxo Lebewohl zu sagen."
     ],
     "HomeScene_FieldChangeDialog_Heading": [
-      "移動到不同的營地"
+      "Gebietswechsel"
     ],
     "HomeScene_FieldChangeDialog_Player_1": [
-      "這一週謝謝你了！\n拜拜！卡比獸！"
+      "Danke für eine Woche voller\ntraumhafter Forschungserlebnisse,\nRelaxo!"
     ],
     "HomeScene_FieldChangeDialog_Text": [
-      "您會在每週一到週日的7天中\n幫卡比獸累積能量，並且持續地進行研究。\n一週之後，將會和那隻卡比獸道別。\n屆時，請前往別的營地，\n與願意幫忙您的卡比獸展開研究吧。"
+      "Du verbringst sieben Tage (Montag bis\nSonntag) damit, Relaxo zu stärken, während\ndu Schlafforschung betreibst. Am Ende der\nWoche musst du dich vom jeweiligen\nRelaxo verabschieden und in ein neues Gebiet\naufbrechen, wo du ein neues Relaxo findest,\ndas dich bei deiner Forschung unterstützt.\n"
     ],
     "HomeScene_FieldChange_CheckSleepResult_Popup_Text": [
-      "「尚未報告的睡眠研究」\n可以在移動營地後報告。\n請放心！即使在移動營地之後，\n這些研究也會根據移動前的營地，\n以及在那裡的卡比獸的狀態來進行。"
+      "Mach dir keine Sorgen, wenn du das\nGebiet wechselst und du noch\nungelesene Berichte hast! Du kannst\ndiese nach dem Gebietswechsel\nüberprüfen und deine Schlafforschung\nbezieht sich auf das Relaxo in dem\nGebiet, in dem du zuvor warst."
     ],
     "HomeScene_FieldChange_CheckSleepResult_Popup_Title": [
-      "在移動營地後報告"
+      "Nach Gebietswechsel überprüfen"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_FieldBonus": [
-      "營地獎勵"
+      "Gebietsbonus"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_FieldBonus_Value": [
       "\u000e\u0002\u0003\u0004",
-      "촁%"
+      "촁 %"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_Heading": [
-      "獲得獎勵"
+      "Bonus eingerechnet"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_Text_1": [
-      "營地獎勵\n上升\u000e",
+      "Dein Bonus für dieses Gebiet ist um\n\u000e",
       "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
-      "촁%\u000e",
+      "촁 %\u000e",
       "\u0003\u0004",
-      "＀"
+      "＀ gestiegen."
     ],
     "HomeScene_FieldChange_FieldBonusPopup_Text_2": [
       "\u000e",
-      "\u0003\u0004蚆ﾆ在今後培育卡比獸時，\n將會獲得能量上升的獎勵。\u000e",
+      "\u0003\u0004香ﾙDieser Stärkebonus wird bei deinem\nnächsten Relaxo gewährt.\u000e",
       "\u0003\u0004",
       "＀"
     ],
@@ -527,409 +548,431 @@
       "\u000e\u0003\u0003\u0004Ā촀"
     ],
     "HomeScene_GSD_WhatPopup_Text_1": [
-      "在滿月高掛的夜晚，睡個香甜的好覺吧！\n本月的好眠日在\u000e",
-      "\u0003\u0004ꈝ￿\u000e\t",
+      "Ruh dich zur Vollmondnacht aus wie die Allerbesten!\nDas diesmonatige Schlummertag-Event findet vom \u000e\t",
       "\u000e\nMM/dd",
-      "～\u000e\t",
-      "\u000e\nMM/dd\u0001\u000e",
+      " bis zum \u000e\t",
+      "\u000e\nMM/dd\u0001 statt. Wenn du in diesem Zeitraum Schlafforschung betreibst, wird die \u000e",
+      "\u0003\u0004ꈝ￿Schlafkraft deines\u000e",
       "\u0003\u0004",
-      "＀舉辦。\n只要在活動期間進行睡眠研究，睡意之力就會變為\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0002倍\u000e",
+      "＀ \u000e",
+      "\u0003\u0004ꈝ￿Relaxo um das \u000e\u0002\u0001\u0002\u0002-Fache erhöht\u000e",
       "\u0003\u0004",
-      "＀，\n在\u000e",
-      "\u0003\u0004ꈝ￿\u000e\t",
-      "\u000e\nMM/dd\u0003的滿月之日\u000e",
+      "＀ und am \u000e\t",
+      "\u000e\nMM/dd\u0003, wenn Vollmond ist, steigt sie sogar um das \u000e",
+      "\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0004-Fache\u000e",
       "\u0003\u0004",
-      "＀睡意之力更會變為\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0004倍\u000e",
-      "\u0003\u0004",
-      "＀。\n歡迎把握活動期間睡飽睡足，多多研究寶可夢的睡姿！"
+      "＀.\nVersuche, während des Events möglichst viel zu schlafen und viele Schlafposen zu entdecken!"
     ],
     "HomeScene_GSD_WhatPopup_Text_2": [
-      "活動詳情請查看應用程式內的「通知」"
+      "Bitte überprüfe die Neuigkeiten in der App für mehr Infos."
     ],
     "HomeScene_GSD_WhatPopup_Text_3": [
-      "活動的參加方法很簡單！\n只需在活動期間，睡前點擊「睡覺」按鈕測量睡眠即可。\n這麼一來，各式各樣的活動獎勵就會在睡眠研究中生效。"
+      "Du kannst ganz einfach am Event teilnehmen!\nBerühre während des Eventzeitraums einfach den „Schlafen“-Knopf bevor du dich schlafen legst, um eine Schlafaufzeichnung zu starten.\nEine Vielzahl eventspezifischer Effekte wird bei deiner Schlafforschung aktiviert."
     ],
     "HomeScene_GSD_WhatPopup_Text_4": [
-      "【\u000e",
-      "\u0003\u0004ꈝ￿滿月之日 (\u000e\t",
+      "- \u000e",
+      "\u0003\u0004ꈝ￿Nacht des Vollmonds (\u000e\t",
       "\u000e\nMM/dd",
       ")\u000e",
       "\u0003\u0004",
-      "＀】\n睡意之力：\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0002\u0002\u0001倍\u000e",
+      "＀ -\nSchlafkraft \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0001\u000e",
       "\u0003\u0004",
-      "＀\n寶可夢的睡眠EXP：\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0002\u0002\u0002倍\n\u000e",
+      "＀\nPokémon Sleep EP \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0002\u000e",
       "\u0003\u0004",
-      "＀紅利睡眠點數：\u000e",
-      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\u0003촁pt\n\u000e",
+      "＀\nBonus Schlafpunkte \u000e",
+      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\u0003촁\u000e",
       "\u0003\u0004",
-      "＀\n【\u000e",
-      "\u0003\u0004ꈝ￿其他日子 (\u000e\t",
+      "＀\n\n- \u000e",
+      "\u0003\u0004ꈝ￿Übrige Tage (\u000e\t",
       "\u000e\nMM/dd\u0004, \u000e\t",
       "\u000e\nMM/dd\u0005)\u000e",
       "\u0003\u0004",
-      "＀】\n睡意之力：\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0002\u0002\u0006倍\u000e",
+      "＀ -\nSchlafkraft \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0006\u000e",
       "\u0003\u0004",
-      "＀\n寶可夢的睡眠EXP：\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0002\u0002\u0007倍\n\u000e",
+      "＀\nPokémon Sleep EP \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0007\u000e",
       "\u0003\u0004",
-      "＀紅利睡眠點數：\u000e",
-      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\b촁pt\u000e",
+      "＀\nBonus Schlafpunkte \u000e",
+      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\b촁\u000e",
       "\u0003\u0004",
       "＀"
     ],
     "HomeScene_GSD_WhatPopup_Title": [
-      "好眠日"
+      "Schlummertag"
     ],
     "HomeScene_HalloweenEvent_Popup_Start": [
-      "萬聖節活動"
+      "Halloween-Event"
     ],
     "HomeScene_Halloween_BannerPopup_Text_1": [
-      "自10/30 4:00起，\n舉辦「 \u000e",
-      "\u0003\u0004毿Ｗ萬聖節2023：糖果倍增研究\u000e",
+      "Ab 04:00 Uhr am Montag, dem 30. Oktober\nwird ein Event beginnen:\n\u000e",
+      "\u0003\u0004毿ＷHalloween 2023: Doppelbonbon-Forschung\u000e",
       "\u0003\u0004",
-      "＀ 」活動！"
+      "＀!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_2": [
-      "不給糖就搗蛋！\n在為期一週的「萬聖節2023：糖果倍增研究」活動中，\n無論您的睡眠類型為何，\n皆能遇見其他睡眠類型的寶可夢。\n此外，除了平時的任務之外，還設有「 \u000e",
-      "\u0003\u0004毿Ｗ特別任務\u000e",
+      "Süßes oder Saures!\nBeim einwöchigen Event „Halloween 2023:\nDoppelbonbon-Forschung“ kannst du Pokémon\nverschiedener Schlaftypen begegnen, egal,\nwelchem Schlaftyp du selbst entsprichst.\nDu kannst auch reichlich Belohnungen erhalten,\nwie insgesamt\u000e",
+      "\u0003\u0004맿Ｏ 25× Universalbonbons S\u000e",
       "\u0003\u0004",
-      "＀ 」，\n將可獲得 \u000e",
-      "\u0003\u0004毿Ｗ萬能糖果S×25（總計） \u000e",
+      "＀ durch\nbesondere Missionen, die zu den regulären\nhinzugefügt werden, und mindestens\u000e",
+      "\u0003\u0004맿Ｏ \u000e\u0002\u0001\u0002",
+      "-mal\nso viele Pokémon-Bonbons wie üblich\u000e",
       "\u0003\u0004",
-      "＀等豪華報酬，\n睡眠研究中寶可夢的 \u000e",
-      "\u0003\u0004毿Ｗ糖果的獲得量\n將會是平常的\u000e\u0002\u0001\u0002",
-      "倍以上\u000e",
+      "＀ bei der\nSchlafforschung! Sammle also viele Bonbons bei\ndiesem Event! Außerdem wirst du öfters die\nChance haben, ein \u000e",
+      "\u0003\u0004맿ＯPikachu mit Halloweenhut\n\u000e",
       "\u0003\u0004",
-      "＀ 。\n在活動期間中獲得許多糖果吧！\n\n不僅如此，這次的活動還有機會遇見許多\n比如 \u000e",
-      "\u0003\u0004毿Ｗ戴著萬聖節帽子的「皮卡丘」\u000e",
+      "＀und \u000e",
+      "\u0003\u0004맿ＯGeister-Pokémon wie Nebulak\u000e",
       "\u0003\u0004",
-      "＀ ，\n或是\u000e",
-      "\u0003\u0004毿Ｗ 「鬼斯」等幽靈屬性的寶可夢\u000e",
-      "\u0003\u0004",
-      "＀ ！\n敬請期待！"
+      "＀ zu treffen!\nWir hoffen, dass du dich darauf freust!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_3": [
-      "●活動進行方法\n活動的參加方法很簡單！\n只需在活動期間，睡前在 \u000e",
-      "\u0003\u0004毿Ｗ萌綠之島 \n\u000e",
+      "- Wie du am Event teilnimmst\nDu kannst ganz einfach am Event teilnehmen!\nTippe während des Eventzeitraums auf der\n\u000e",
+      "\u0003\u0004맿ＯGrasgrün-Insel \u000e",
       "\u0003\u0004",
-      "＀點擊「睡覺」按鈕測量睡眠即可。\n這麼一來，各式各樣的活動獎勵就會在睡眠研究生效。\n\n※若在萌綠之島以外的地圖測量睡眠，\n活動獎勵將不會生效。\n此外，活動期間將會產生下列效果。"
+      "＀einfach vor dem Schlafen auf\n„Schlafen“, um deinen Schlaf aufzuzeichnen.\nBei deiner Schlafforschung wird so eine Vielzahl\neventspezifischer Effekte aktiviert.\nHinweis: Schlafaufzeichnungen in anderen\nGebieten als der Grasgrün-Insel werden die\nEvent-Boni nicht auslösen.\nDie unten beschriebenen Effekte werden\nwährend des Eventzeitraums aktiv sein."
     ],
     "HomeScene_Halloween_BannerPopup_Text_4": [
-      "【 \u000e",
-      "\u0003\u0004毿Ｗ萬聖節之日（10/31）及活動最後一天（11/5）\u000e",
+      "\u000e",
+      "\u0003\u0004맿ＯHalloween (31. Okt.) und letzter Tag des\nEvents (05. Nov.):\u000e",
       "\u0003\u0004",
-      "＀ 】\n・第1次睡眠研究的 \u000e",
-      "\u0003\u0004毿Ｗ糖果獲得量為\u000e\u0002\u0001\u0002",
-      "倍 \u000e",
+      "＀\n- Forscher erhalten \u000e",
+      "\u0003\u0004맿Ｏ\u000e\u0002\u0001\u0002",
+      "-mal mehr als die übliche\nMenge an Pokémon-Bonbons \u000e",
       "\u0003\u0004",
-      "＀。\n・在睡眠研究中，不限於研究者當天的睡眠類型，\n \u000e",
-      "\u0003\u0004毿Ｗ皆能遇見許多其他睡眠類型的寶可夢 \u000e",
+      "＀für die erste\nSchlafaufzeichnung des Tages\n- Bei der Schlafforschung werden \u000e",
+      "\u0003\u0004毿Ｗ\u000e",
+      "\u0003\u0004맿Ｏviele Pokémon\u000e",
+      "\u0003\u0004毿Ｗ\n\u000e",
+      "\u0003\u0004맿Ｏverschiedener Schlaftypen auftauchen\u000e",
+      "\u0003\u0004毿Ｗ\u000e",
       "\u0003\u0004",
-      "＀。\n・在睡眠研究中， \u000e",
-      "\u0003\u0004毿Ｗ特定寶可夢的出現機率提升 \u000e",
+      "＀,\nunabhängig vom Schlaftyp des Forschers\n- \u000e",
+      "\u0003\u0004맿ＯBestimmte Pokémon werden\u000e",
       "\u0003\u0004",
-      "＀。"
-    ],
-    "HomeScene_Halloween_BannerPopup_Text_5": [
-      "【 \u000e",
-      "\u0003\u0004毿Ｗ其他日子（10/30、11/1、11/2、11/3、11/4） \u000e",
-      "\u0003\u0004",
-      "＀】\n・第1次睡眠研究的 \u000e",
-      "\u0003\u0004毿Ｗ糖果獲得量為\u000e\u0002\u0001\u0002",
-      "倍 \u000e",
-      "\u0003\u0004",
-      "＀。\n・在睡眠研究中，不限於研究者當天的睡眠類型，\n \u000e",
-      "\u0003\u0004毿Ｗ皆能遇見少許其他睡眠類型的寶可夢 \u000e",
-      "\u0003\u0004",
-      "＀。\n・在睡眠研究中， \u000e",
-      "\u0003\u0004毿Ｗ特定寶可夢的出現機率提升 \u000e",
-      "\u0003\u0004",
-      "＀。"
-    ],
-    "HomeScene_Halloween_BannerPopup_Text_6": [
-      "●活動中會特別常遇見的寶可夢\n活動期間正是比平常遇見更多下列寶可夢的大好機會！"
-    ],
-    "HomeScene_Halloween_BannerPopup_Text_7": [
-      "【 \u000e",
-      "\u0003\u0004毿Ｗ機率大幅提升\u000e",
-      "\u0003\u0004",
-      "＀ 】\n皮卡丘（萬聖節）/鬼斯/鬼斯通/耿鬼\n【 \u000e",
-      "\u0003\u0004毿Ｗ機率中幅提升\u000e",
-      "\u0003\u0004",
-      "＀ 】\n喵喵/卡拉卡拉\n【 \u000e",
-      "\u0003\u0004毿Ｗ機率小幅提升\u000e",
-      "\u0003\u0004",
-      "＀ 】\n???/???"
-    ],
-    "HomeScene_Halloween_BannerPopup_Text_8": [
-      "更詳細的活動內容請查看遊戲內的「通知」。"
-    ],
-    "HomeScene_Halloween_BannerPopup_Title": [
-      "萬聖節活動"
-    ],
-    "HomeScene_MainSkillFoodBagOver_Text": [
-      "請整理食材，\n否則寶可夢無法用技能獲得食材。"
-    ],
-    "HomeScene_MainSkillFoodBagOver_Title": [
-      "食材包包已滿"
-    ],
-    "HomeScene_MainSkillWindow_Title": [
-      "\u000e\u0003\u000b\u0002촀 Lv.\u000e\u0002\u0002\u0002\u0001"
-    ],
-    "HomeScene_MapChangePopup_Button": [
-      "移動"
-    ],
-    "HomeScene_MapChangePopup_Text_1": [
-      "移動營地前，\n請確認以下事項。\n確定要移動營地嗎？"
-    ],
-    "HomeScene_MapChangePopup_Text_2": [
-      "有\u000e",
-      "\u0003\u0004毿Ｗ尚未領取報酬\u000e",
-      "\u0003\u0004",
-      "＀的任務。"
-    ],
-    "HomeScene_MapChangePopup_Text_3": [
-      "移動營地後將無法領取報酬。"
-    ],
-    "HomeScene_MapChangePopup_Text_4": [
-      "您今天尚未與\u000e",
-      "\u0003\u0004毿ＷPokémon GO Plus +\n同步睡眠資料\u000e",
-      "\u0003\u0004",
-      "＀。"
-    ],
-    "HomeScene_MapChangePopup_Text_5": [
-      "移動營地後，薰香會被移除。\n若有設置薰香，\n請在移動前先完成資料同步。"
-    ],
-    "HomeScene_NotMainSkillPopup_Text": [
-      "鍋子容量已透過主技能\n提升至上限值\u000e\u0002\u0003\u0004",
-      "촁，\n因此無法使用主技能「\u000e\u0003\u000b\u0002촁」。\n您可以透過製作料理，\n重新使用這個主技能。"
-    ],
-    "HomeScene_NotMainSkillPopup_Title": [
-      "無法使用主技能"
-    ],
-    "HomeScene_PokemonPickupEvent_Popup_Start": [
-      "伊布週"
-    ],
-    "HomeScene_PremiumPassFinished_Popup_SubText": [
-      "已返回一般票證。\n期待您下次再度使用。"
-    ],
-    "HomeScene_PremiumPassFinished_Popup_Text": [
-      "進階票證的有效期限\n\u000e",
-      "\u0003\u0004毿Ｗ已結束\u000e",
+      "＀ bei der\nSchlafforschung \u000e",
+      "\u0003\u0004맿Ｏhäufiger erscheinen\u000e",
       "\u0003\u0004",
       "＀"
     ],
+    "HomeScene_Halloween_BannerPopup_Text_5": [
+      "\u000e",
+      "\u0003\u0004맿ＯAndere Tage (30. Okt., 01.-04. Nov.)\n\u000e",
+      "\u0003\u0004",
+      "＀- Forscher erhalten \u000e",
+      "\u0003\u0004맿Ｏ\u000e\u0002\u0001\u0002",
+      "-mal mehr als die übliche\nMenge an Pokémon-Bonbons\u000e",
+      "\u0003\u0004",
+      "＀ für die erste\nSchlafaufzeichnung des Tages\n- Bei der Schlafforschung werden\u000e",
+      "\u0003\u0004맿Ｏ \u000e",
+      "\u0003\u0004",
+      "＀\u000e",
+      "\u0003\u0004毿Ｗ\u000e",
+      "\u0003\u0004맿Ｏeinige\u000e",
+      "\u0003\u0004毿Ｗ\n\u000e",
+      "\u0003\u0004맿ＯPokémon verschiedener Schlaftypen\u000e",
+      "\u0003\u0004毿Ｗ\n\u000e",
+      "\u0003\u0004맿Ｏauftauchen\u000e",
+      "\u0003\u0004毿Ｗ\u000e",
+      "\u0003\u0004",
+      "＀, unabhängig davon, welchen\nSchlaftyp der Forscher an diesem Tag hatte\n- \u000e",
+      "\u0003\u0004맿ＯBestimmte Pokémon werden \u000e",
+      "\u0003\u0004",
+      "＀bei der\nSchlafforschung\u000e",
+      "\u0003\u0004맿Ｏ häufiger erscheinen\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_6": [
+      "- Pokémon, die einfacher während des Events\nanzutreffen sind\nIm Eventzeitraum, hast du eine erhöhte Chance,\nfolgende Pokémon anzutreffen!"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_7": [
+      "\u000e",
+      "\u0003\u0004맿ＯStark erhöhte Chance\u000e",
+      "\u0003\u0004",
+      "＀\nPikachu (Halloween), Nebulak, Alpollo, Gengar\n\u000e",
+      "\u0003\u0004맿ＯErhöhte Chance\u000e",
+      "\u0003\u0004",
+      "＀\nMauzi, Tragosso\n\u000e",
+      "\u0003\u0004맿ＯLeicht erhöhte Chance\u000e",
+      "\u0003\u0004",
+      "＀\n???, ???"
+    ],
+    "HomeScene_Halloween_BannerPopup_Text_8": [
+      "Für mehr Details zum Event, schau dir bitte die\nNeuigkeiten im Spiel an."
+    ],
+    "HomeScene_Halloween_BannerPopup_Title": [
+      "Halloween-Event"
+    ],
+    "HomeScene_MainSkillFoodBagOver_Text": [
+      "Bitte mache Platz in deinem Beutel,\ndamit Pokémon weiter mit ihren\nTalenten Zutaten sammeln können."
+    ],
+    "HomeScene_MainSkillFoodBagOver_Title": [
+      "Zutatentasche voll"
+    ],
+    "HomeScene_MainSkillWindow_Title": [
+      "\u000e\u0003\u000b\u0002촀 (Lv. \u000e\u0002\u0002\u0002\u0001)"
+    ],
+    "HomeScene_MapChangePopup_Button": [
+      "Gebiet verlassen"
+    ],
+    "HomeScene_MapChangePopup_Text_1": [
+      "Bitte beachte Folgendes,\nbevor du das Gebiet wechselst.\nMöchtest du dich dennoch fortbewegen?"
+    ],
+    "HomeScene_MapChangePopup_Text_2": [
+      "Du hast noch \u000e",
+      "\u0003\u0004毿Ｗausstehende\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿ＷMissionsbelohnungen\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "HomeScene_MapChangePopup_Text_3": [
+      "Wenn du dieses Gebiet verlässt,\nkannst du sie nicht erhalten."
+    ],
+    "HomeScene_MapChangePopup_Text_4": [
+      "Du hast deine heutigen\n\u000e",
+      "\u0003\u0004毿ＷSchlafdaten nicht mit deinem\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿ＷPokémon GO Plus +\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗsynchronisiert\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "HomeScene_MapChangePopup_Text_5": [
+      "Wenn du dieses Gebiet verlässt, wird dein\neingesetzter Rauch entfernt.\nSynchronisiere bitte zuerst deine Daten, bevor\ndu das Gebiet wechselst."
+    ],
+    "HomeScene_NotMainSkillPopup_Text": [
+      "Da ein Haupttalent deinen Kochtopf\nbereits auf maximale Kapazität von\n\u000e\u0002\u0003\u0004",
+      "촁 gebracht hat, kann Haupttalent\n\u000e\u0003\u000b\u0002촁 nicht\neingesetzt werden. Es kann wieder\neingesetzt werden, nachdem du\ngekocht hast."
+    ],
+    "HomeScene_NotMainSkillPopup_Title": [
+      "Haupttalent nicht einsetzbar"
+    ],
+    "HomeScene_PokemonPickupEvent_Popup_Start": [
+      "Evoli-Woche"
+    ],
+    "HomeScene_PremiumPassFinished_Popup_SubText": [
+      "Du hast nun wieder einen Standardpass.\nWir würden uns freuen, dich bald beim\nPremiumtausch wieder zu begrüßen!"
+    ],
+    "HomeScene_PremiumPassFinished_Popup_Text": [
+      "Dein Premiumspass ist \u000e",
+      "\u0003\u0004毿Ｗabgelaufen\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
     "HomeScene_PremiumPassFinished_Popup_Title": [
-      "進階票證結束"
+      "Premium Pass abgelaufen"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_1_1": [
-      "研究後的糖果獲得量為\u000e\u0002\u0001\u0002",
-      "倍。（1天僅限1次）"
+      "Durch Forschung erhaltene\nBonbons ×\u000e\u0002\u0001\u0002",
+      " (einmal täglich)"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_1_2": [
-      "無論研究者的睡眠類型為何，\n皆能遇見其他睡眠類型的寶可夢。"
+      "Pokémon verschiedener Schlaftypen erscheinen, egal welcher Schlaftyp der Forscher selbst ist"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_1": [
-      "睡意之力為\u000e\u0002\u0001\u0002",
-      "倍。"
+      "Schlafkraft ×\u000e\u0002\u0001\u0002",
+      ""
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_2": [
-      "透過睡眠獲得的EXP為\u000e\u0002",
-      "\u0002촀倍。"
+      "Erhaltene EP durch Schlaf ×\u000e\u0002",
+      "\u0002촀"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_3": [
-      "只要測量睡眠即可獲得\u000e\u0002\u0003\u0004",
-      "촁紅利睡眠點數（1天僅限1次）。"
+      "Erhalte \u000e\u0002\u0003\u0004",
+      "촁 zusätzliche Schlafpunkte für Schlafaufzeichnungen (ein Mal täglich)"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_3": [
-      "試著在睡眠研究中\n使用大師沙布蕾吧。"
+      "Versuche, einen Meisterkeks bei deiner Schlafforschung zu verwenden."
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_4": [
-      "【容易遇見異色的寶可夢】"
+      "Erhöhte Erscheinungsrate für\nSchillernde Pokémon:"
     ],
     "HomeStartSleepPopup_Bonus_Content_1": [
-      "萬聖節活動"
+      "Halloween-Event"
     ],
     "HomeStartSleepPopup_Bonus_Content_2": [
-      "好眠日"
+      "Schlummertag"
     ],
     "HomeStartSleepPopup_Bonus_Content_3": [
-      "大師沙布蕾新手教學"
+      "Meisterkeks-Tutorial"
     ],
     "HomeStartSleepPopup_Bonus_Content_4": [
-      "伊布週"
+      "Evoli-Woche"
     ],
     "HomeStartSleepPopup_Bonus_Header_1": [
-      "獎勵一覽"
+      "Bonusliste"
     ],
     "HomeStartSleepPopup_Bonus_Secret": [
       "???"
     ],
     "HomeStartSleepPopup_Bonus_Slash": [
-      " /"
+      ","
     ],
     "HomeStartSleepPopup_Bonus_SmallTitle": [
-      "研究獎勵"
+      "Forschungsbonus"
     ],
     "HomeStartSleepPopup_Bonus_Text_1": [
-      "可以一覽今天的研究獎勵。"
+      "Hier kannst du alle heutigen Forschungsboni\neinsehen."
     ],
     "HomeStartSleepPopup_Bonus_Title": [
-      "研究獎勵"
+      "Forschungsbonus"
     ],
     "HomeStartSleepPopup_CannotSet_MultiPokemonIncense": [
-      "不能同時設置2個以上\n同種寶可夢的薰香。"
+      "Du kannst nur einen Rauch einsetzen,\num eine Pokémon-Art auf einmal\nanzuziehen."
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Text": [
-      "\u000e\u0003\u0001\u0002",
-      "不會出現在目前的營地，\n所以無法設置這個薰香。"
+      "Du kannst diesen Rauch nicht\neinsetzen, weil in diesem Gebiet keine\n\u000e\u0003\u0001\u0002",
+      " erscheinen."
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Title": [
-      "無法使用"
+      "Kann nicht eingesetzt werden"
     ],
     "HomeStartSleepPopup_CannotSet_SameTypeItem": [
-      "您已經設置了相同種類的薰香，\n所以不能選擇這個薰香。"
+      "Dieser Rauch ist bereits ausgewählt.\nDu kannst keine zwei Exemplare des\nselben Rauchs in einer Schlafmessung\neinsetzen."
     ],
     "HomeStartSleepPopup_CannotUse_Incense": [
-      "有不能使用的薰香。\n請將其移除。"
+      "Ein Rauch in deiner Auswahl kann nicht\neingesetzt werden. Bitte entferne ihn."
     ],
     "HomeStartSleepPopup_CannotUse_Title": [
-      "無法使用"
+      "Kann nicht eingesetzt werden"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_Message": [
-      "若要變更就寢約定，就必須和\nPokémon GO Plus +連線。\n\n確定要和Pokémon GO Plus +連線嗎？"
+      "Um deine Schlafenszeit zu ändern,\nmuss die App mit Pokémon GO Plus +\nDaten austauschen.\n\nMöchtest du eine Verbindung mit\nPokémon GO Plus + herstellen?"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_OK": [
-      "連線"
+      "Verbinden"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_Title": [
-      "確認"
+      "Bestätigung"
     ],
     "HomeStartSleepPopup_Text_1": [
-      "允許取用麥克風"
+      "Mikrofonzugriffsberechtigung"
     ],
     "HomeStartSleepPopup_Text_2": [
-      "沒有麥克風的取用權。\n若要測量睡眠，\n請從設定開啟麥克風。"
+      "Die App benötigt die Erlaubnis, auf\ndein Mikrofon zugreifen zu können, um\ndeinen Schlaf aufzeichnen zu können.\nBitte erlaube den Mikrofonzugriff."
     ],
     "HomeStartSleepPopup_UnsetItem_Message": [
-      "確定要移除\n\u000e\u0003\u0003\u0004Ā촀嗎？"
+      "Möchtest du \u000e\u0003\u0003\u0004Ā촀 wirklich\nentfernen?"
     ],
     "HomeStartSleepPopup_UnsetItem_Title": [
-      "移除薰香"
+      "Rauch entfernen"
     ],
     "Home_AutoPickup_Popup_Desc": [
-      "您不在的這段期間，\n寶可夢們幫忙培育了卡比獸。"
+      "Dein Pokémon hat Relaxo in deiner Abwesenheit\nheimlich Snacks zukommen lassen. Es ist dadurch\nnoch stärker geworden!"
     ],
     "Home_AutoPickup_Popup_Energy_Title": [
-      "獲得能量："
+      "Erh. Stärke:"
     ],
     "Home_AutoPickup_Popup_Section_Title": [
-      "幫手詳情"
+      "Dein Helfer-Team"
     ],
     "Home_AutoPickup_Popup_Title": [
-      "不知不覺成長"
+      "Heimlicher Snack"
     ],
     "Home_BottomButtons_MainMissionProgressButton_GoalTitle": [
-      "下一個目標"
+      "Nächstes Ziel"
     ],
     "Home_NoMoreSleepStartPopup_Message": [
-      "1天最多能測量2次睡眠。\n今天已無法再測量。"
+      "Pro Tag kannst du bis zu zwei\nSchlafaufzeichnungen durchführen.\nDu hast das heutige Limit erreicht."
     ],
     "Home_NoMoreSleepStartPopup_Title": [
-      "測量睡眠"
+      "Schlafaufzeichnung"
     ],
     "Home_NoMoreSleepStartPopup_UnixtimeDuplication_Message": [
-      "過去測量的睡眠資料中有部分時間\n與目前裝置的時間重複，\n因此無法開始測量。\n詳情請參閱常見問題。"
+      "Du kannst jetzt keine Aufzeichnung\nstarten, weil sich die Zeit deines\nGeräts mit einer bereits getätigten\nAufzeichnung überschneidet.\nMehr Infos findest du unter „Hilfe“."
     ],
     "Home_SCENE_MissionGoalCutin_Badge_Title": [
-      "登錄完成"
+      "Posen"
     ],
     "Home_SCENE_MissionGoalCutin_Complete_Title": [
-      "睡姿登錄達成！"
+      "Alle Schlafposen!"
     ],
     "Home_SCENE_MissionGoalCutin_RewardTitle": [
-      "獲得的報酬"
+      "Erhaltene Belohnungen"
     ],
     "Home_SCENE_MissionGoalPopup_Button_Close": [
-      "關閉"
+      "Schließen"
     ],
     "Home_SCENE_MissionGoalPopup_Button_Complete": [
-      "目標達成！"
+      "Belohnungen erhalten"
     ],
     "Home_SCENE_MissionGoalPopup_Button_SleepingFacePokedex": [
-      "前往睡姿圖鑑"
+      "Zum Schlafdex"
     ],
     "Home_SCENE_MissionGoalPopup_ContentTitle": [
-      "目標達成的報酬"
+      "Schlafdex-Belohnungen"
     ],
     "Home_SCENE_MissionGoalPopup_Content_IconNumber": [
-      "x\u000e\u0002\u0002\u0002",
+      "×\u000e\u0002\u0002\u0002",
       ""
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_1": [
-      "開放新營地\n「\u000e\u0003\u0003\u0004Ā촀」"
+      "Schalte folgendes Gebiet frei:\n\u000e\u0003\u0003\u0004Ā촀"
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_2": [
-      "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0004\u0004\u0002촁"
+      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0004\u0004\u0002촁"
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_2_NoNumber": [
       "\u000e\u0003\u0003\u0004Ā촀"
     ],
     "Home_SCENE_MissionGoalPopup_Desc_1": [
-      "下一個睡姿圖鑑的目標"
+      "Schlafdex-Ziel:"
     ],
     "Home_SCENE_MissionGoalPopup_NextUpdate_Message": [
-      "所有的睡姿圖鑑目標都已達成。\n敬請期待日後更新，\n以追加睡姿圖鑑目標。"
+      "Du hast alle Schlafdex-Ziele erreicht!\nFreue dich jetzt schon auf zukünftige\nUpdates mit neuen Zielen für deinen\nSchlafdex-Fortschritt!"
     ],
     "Home_SCENE_MissionGoalPopup_NextUpdate_Title": [
-      "所有的目標都已達成"
+      "Alle Ziele erreicht"
     ],
     "Home_SCENE_MissionGoalPopup_SleepTypeNumber_1": [
       "\u000e\u0002\u0002\u0002",
-      "/\u000e\u0002\u0002\u0002\u0001種類"
+      "/\u000e\u0002\u0002\u0002\u0001 Posen"
     ],
     "Home_SCENE_MissionGoalPopup_SleepTypeNumber_2": [
       "\u000e\u0002\u0002\u0002",
-      "種類 達成！"
+      " Posen!"
     ],
     "Home_SCENE_MissionGoalPopup_Title": [
-      "睡姿圖鑑的目標"
+      "Schlafdex-Ziel"
     ],
     "ItemSelectCell_Text_1": [
-      "已經在使用"
+      "Bereits in Gebrauch"
     ],
     "SnorlaxHomeObject_FeedBalloon": [
-      "早餐"
+      "Frühstück"
     ],
     "SnorlaxHomeObject_NextTime_Breakfast": [
-      "6:00～"
+      "06:00 Uhr"
     ],
     "SnorlaxHomeObject_NextTime_Dinner": [
-      "18:00～"
+      "18:00 Uhr"
     ],
     "SnorlaxHomeObject_NextTime_Lunch": [
-      "12:00～"
+      "12:00 Uhr"
     ],
     "SnorlaxHomeObject_Title": [
-      "下一個料理"
+      "Nächste Mahlzeit"
     ],
     "SnorlaxRankListCell_NeedEnergy": [
-      "所需能量：\u000e\u0002\t\u0004",
+      "Benötigte Stärke: \u000e\u0002\t\u0004",
       "촁"
     ],
     "SnorlaxRankListCell_NeedEnergyNone": [
-      "所需能量 - 無"
+      "Benötigte Stärke: keine"
     ],
     "WeeklyMission_Notification_Badge": [
-      "CLEAR"
+      "FERTIG!"
     ],
     "WeeklyMission_Notification_Title": [
-      "任務達成"
+      "Mission erfüllt!"
     ]
   },
   "structure": {
@@ -2428,7 +2471,7 @@
     "TXT2": {
       "header": {
         "entries": 240,
-        "size": 11998,
+        "size": 31330,
         "unknown1": 0,
         "unknown2": 0
       }

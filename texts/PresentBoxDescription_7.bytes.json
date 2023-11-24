@@ -97,13 +97,16 @@
     ],
     "PresentBoxDescription_text21": [
       "Bonus por vincular\ntu cuenta"
+    ],
+    "PresentBoxDescription_text22": [
+      "Regalo especial"
     ]
   },
   "structure": {
     "ATR1": {
       "header": {
-        "entries": 29,
-        "size": 207,
+        "entries": 30,
+        "size": 214,
         "unknown1": 0,
         "unknown2": 0
       }
@@ -111,7 +114,7 @@
     "LBL1": {
       "header": {
         "entries": 17,
-        "size": 1123,
+        "size": 1156,
         "unknown": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       },
       "lists": [
@@ -247,9 +250,13 @@
             [
               6,
               "PresentBoxDescription_text02_05"
+            ],
+            [
+              29,
+              "PresentBoxDescription_text22"
             ]
           ],
-          781
+          814
         ],
         [
           [
@@ -262,7 +269,7 @@
               "PresentBoxDescription_text10"
             ]
           ],
-          850
+          883
         ],
         [
           [
@@ -275,7 +282,7 @@
               "PresentBoxDescription_text11"
             ]
           ],
-          919
+          952
         ],
         [
           [
@@ -284,7 +291,7 @@
               "PresentBoxDescription_text02_08"
             ]
           ],
-          955
+          988
         ],
         [
           [
@@ -301,7 +308,7 @@
               "PresentBoxDescription_text13"
             ]
           ],
-          1057
+          1090
         ],
         [
           [
@@ -314,7 +321,7 @@
               "PresentBoxDescription_text14"
             ]
           ],
-          1123
+          1156
         ]
       ]
     },
@@ -340,8 +347,8 @@
     },
     "TXT2": {
       "header": {
-        "entries": 29,
-        "size": 2152,
+        "entries": 30,
+        "size": 2188,
         "unknown1": 0,
         "unknown2": 0
       }

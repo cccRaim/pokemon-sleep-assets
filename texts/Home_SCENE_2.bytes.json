@@ -1,22 +1,22 @@
 {
   "strings": {
     "FieldObject_CookingExpandObjectBalloon": [
-      "냄비"
+      "Pentola"
     ],
     "FieldObject_SleepConsumableItemObjectBalloon": [
-      "향로"
+      "Aroma"
     ],
     "FieldObject_TentCampSetBalloon": [
-      "캠프세트"
+      "Set da campeggio"
     ],
     "GPPHomePopup_ConnectButton": [
-      "접속/설정으로"
+      "Connetti"
     ],
     "GPPHomePopup_OthersLabel": [
-      "기타"
+      "Altro"
     ],
     "GPPHomePopup_SettingsLabel": [
-      "설정 내용"
+      "Impostazioni"
     ],
     "GPPHomePopup_SyncDate": [
       "\u000e\t",
@@ -24,25 +24,25 @@
       ""
     ],
     "GPPHomePopup_SyncDateTitle": [
-      "同期した日時"
+      "Sincronizzato:"
     ],
     "GPPHomePopup_Title_2": [
-      "기상 알람"
+      "Sveglia"
     ],
     "GPPHomePopup_Title_3": [
-      "취침 시간 알림"
+      "Notifica ora\ndi dormire"
     ],
     "GPPHomePopup_Title_4": [
-      "잠자기 약속"
+      "Ora di dormire"
     ],
     "GPPHomePopup_Title_5": [
-      "스마트폰으로 수면을 계측한다"
+      "Misura il sonno con dispositivo smart"
     ],
     "GPPHomePopup_Title_6": [
-      "도움말"
+      "Vedi pagine di aiuto"
     ],
     "GPPHomePopup_Title_7": [
-      "Pokémon GO Plus + 등록 해제"
+      "Rimuovi Pokémon GO Plus +"
     ],
     "GPPHomePopup_Value": [
       "\u000e\t",
@@ -60,148 +60,149 @@
       ""
     ],
     "GoBonusPopup_Text_2": [
-      "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0002\u0002\u0002개"
+      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0002\u0002\u0002"
     ],
     "HomeFavoriteFoodPopup_Message": [
-      "잠만보가 좋아하는 나무열매를 선물하면\n에너지 증가량이 \u000e",
-      "\u0003\u0004毿Ｗ2배\u000e",
+      "Dando a Snorlax le sue bacche preferite,\nla potenza da lui ottenuta \u000e",
+      "\u0003\u0004旾ｷraddoppia\u000e",
       "\u0003\u0004",
-      "＀가 됩니다"
+      "＀."
     ],
     "HomeFavoriteFoodPopup_Title": [
-      "이번 주의 잠만보가 좋아하는 나무열매"
+      "Bacche preferite di questo Snorlax"
     ],
     "HomeGPPController_Text_1": [
-      "Pokémon GO Plus + 등록 해제"
+      "Rimuovi Pokémon GO Plus +"
     ],
     "HomeGPPController_Text_2": [
-      "Pokémon GO Plus +의 등록을 해제하면\n반영되지 않은 수면 데이터는\nPokémon Sleep에서 취득할 수 없게 됩니다\n등록을 해제하겠습니까?"
+      "Se rimuovi Pokémon GO Plus +,\ni dati del sonno non sincronizzati\ncon Pokémon Sleep andranno perduti.\nVuoi rimuoverlo comunque?"
     ],
     "HomeGPPController_Text_3": [
-      "등록을 해제한다"
+      "Rimuovi"
     ],
     "HomeGoNextMapNotification_Text_1": [
-      "미션"
+      "Missioni"
     ],
     "HomeGoNextMapNotification_Text_2": [
-      "보상을 받지 않은 미션이 있습니다\n다음 필드로 이동하면\n보상을 받을 수 없습니다\n그래도 이동하겠습니까?"
+      "Non hai ancora ricevuto le ricompense\ndi alcune missioni. Se ti sposti in un\naltro punto non potrai più ottenerle.\nVuoi spostarti comunque?"
     ],
     "HomeGoNextMapNotification_Text_3": [
-      "이동한다"
+      "Spostati"
     ],
     "HomeMainHeader_Text_1": [
       "\u000e\u0002\u0002\u0002",
-      "종류"
+      " stil\u000e\u0005",
+      "\n\u0002e\u0002i촀"
     ],
     "HomePokemonExpGage_LevelNum": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomePokemonExpGage_LevelUnit": [
-      "Lv."
+      "L."
     ],
     "HomePokemonExpGage_LevelupText": [
-      "LEVEL UP！"
+      "LIVELLO ↑!"
     ],
     "HomePokemonExpGage_Text_1": [
       "+\u000e\u0002\u0002\u0002",
-      "% 보너스"
+      "% bonus"
     ],
     "HomePowerRecoveryPopup_Bonus": [
-      "ボーナス x\u000e\u0002\u0003\u0004",
+      "Bonus ×\u000e\u0002\u0003\u0004",
       "촁"
     ],
     "HomePowerRecoveryPopup_BonusEXPPopup_Title": [
-      "EXPのボーナス"
+      "Bonus PE"
     ],
     "HomePowerRecoveryPopup_BonusEnergyPopup_Title": [
-      "げんきのボーナス"
+      "Bonus energia"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList": [
-      "ボーナス一覧"
+      "Lista bonus"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Event": [
-      "イベント"
+      "Evento"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Incense": [
-      "おこう"
+      "Aroma"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_NoBonus": [
-      "現在、有効なボーナスはありません"
+      "Nessun bonus attualmente attivo."
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Note": [
-      "※ポケモン個別にかかるボーナスは別途発揮されます"
+      "I bonus dei singoli Pokémon saranno\nattivati separatamente."
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_SubSkill": [
-      "ポケモンのサブスキル"
+      "Abilità secondaria"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusValue": [
-      "x\u000e\u0002\u0003\u0004",
+      " ×\u000e\u0002\u0003\u0004",
       "촁"
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1": [
-      "포켓몬 박스 내의 모든 포켓몬은\n수면 스코어의 5%만큼 기력을 회복합니다"
+      "Tutti i Pokémon nel box recupereranno\nuna quantità di energia pari al 5%\ndel tuo punteggio sonno."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_1": [
-      "현재 팀에 편성된 포켓몬은 포함되지 않습니다"
+      "Sono esclusi i Pokémon attualmente\nin squadra."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_2": [
-      "회복의향로를 사용한 경우\n수면 스코어의 10%만큼 회복합니다."
+      "Se stai usando un Risanaroma, la quantità\ndi energia recuperata sarà pari al 10%\ndel tuo punteggio sonno."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_3": [
-      "개별 포켓몬의 [성격]에 따른\n기력 회복량의 보정은 별도로 적용됩니다"
+      "Gli effetti delle nature dei singoli\nPokémon in caso di recupero di energia\nsaranno applicati separatamente."
     ],
     "HomePowerRecoveryPopup_Num": [
       "\u000e\u0002\u0002\u0002",
-      ""
+      "%"
     ],
     "HomePowerRecoveryPopup_Num_2": [
       "\u000e\u0002\u0002\u0002",
-      ""
+      " "
     ],
     "HomePowerRecoveryPopup_OKButton": [
-      "OK"
+      "Ok"
     ],
     "HomePowerRecoveryPopup_Score": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomePowerRecoveryPopup_Title": [
-      "오늘의 수면"
+      "Ultima sessione di sonno"
     ],
     "HomePowerRecoveryPopup_Title_2": [
-      "도우미 포켓몬의 성장"
+      "Crescita dei Pokémon aiutanti"
     ],
     "HomePowerRecoveryPopup_Title_3": [
-      "회복한 기력"
+      "Energia recuperata"
     ],
     "HomePowerRecoveryPopup_Title_4": [
-      "기초 EXP"
+      "PE ottenuti"
     ],
     "HomePowerRecoveryPopup_Title_5": [
-      "박스의 기력"
+      "Energia nel box"
     ],
     "HomePowerRecoveryPopup_Title_inner": [
-      "오늘의 수면 스코어"
+      "Punteggio sonno"
     ],
     "HomePowerRecoveryPopup_Unit_2": [
-      "EXP"
+      "PE"
     ],
     "HomePromisePopup_CardButton": [
-      "스탬프 카드를 확인한다"
+      "Guarda la tessera timbri"
     ],
     "HomePromisePopup_ChangeButton": [
-      "저장한다"
+      "Salva"
     ],
     "HomePromisePopup_Desc": [
-      "\u000e\t",
+      "Dormi tra le ore \u000e\t",
       "\u000e\nhh:mm",
-      "~\u000e\t",
-      "\u000e\nhh:mm\u0001에 잠들면 스탬프 GET!\n\u000e\t",
-      "\u000e\nhh:mm\u0002에 푸시 알림을 보내 드립니다"
+      " e le ore \u000e\t",
+      "\u000e\nhh:mm\u0001.\nNotifica push promemoria alle ore \u000e\t",
+      "\u000e\nhh:mm\u0002."
     ],
     "HomePromisePopup_SetTargetTimeButton": [
-      "목표를 다시 설정한다"
+      "Cambia ora di dormire"
     ],
     "HomePromisePopup_TargetTime": [
       "\u000e\t",
@@ -209,105 +210,105 @@
       ""
     ],
     "HomePromisePopup_Text_1": [
-      "리셋 확인"
+      "Conferma modifica"
     ],
     "HomePromisePopup_Text_2": [
-      "목표 시각을 다시 설정하면\n약속 스탬프 카드가\n1일차로 되돌아갑니다"
+      "Se cambi l'ora di dormire, la tessera\nverrà azzerata."
     ],
     "HomePromisePopup_Title": [
-      "잠자기 약속"
+      "Ora di dormire"
     ],
     "HomePromisePopup_Title_2": [
-      "매일 잠들 시각 목표"
+      "Ora di dormire giornaliera"
     ],
     "HomePromisePopup_Title_3": [
-      "잠자기 약속 시각"
+      "Ora di dormire"
     ],
     "HomePromiseStampCardPopup_Day": [
       "\u000e\u0002\u0002\u0002",
-      "일차"
+      "° giorno"
     ],
     "HomePromiseStampCardPopup_RewardNum": [
-      "x\u000e\u0002\u0001\u0002",
+      "×\u000e\u0002\u0001\u0002",
       ""
     ],
     "HomePromiseStampCardPopup_Text_3": [
-      "보상"
+      "Ricompense"
     ],
     "HomePromiseStampCardPopup_Title": [
-      "보상 스탬프 카드 \u000e\u0002\u0002\u0002",
-      "장째"
+      "Tessera timbri n° \u000e\u0002\u0002\u0002",
+      ""
     ],
     "HomePromiseTimeChangeConfirmPopup_Desc_1": [
-      "잠자기 약속 시각을 변경하면\n스탬프가 리셋됩니다"
+      "Se modifichi l'ora di dormire, la\ntessera timbri verrà azzerata."
     ],
     "HomePromiseTimeChangeConfirmPopup_Desc_2": [
-      "변경하겠습니까?"
+      "Vuoi davvero cambiarla?"
     ],
     "HomePromiseTimeChangeConfirmPopup_Title": [
-      "확인"
+      "Conferma"
     ],
     "HomeSceneGraphicText_PremiumPass": [
-      "PREMIUM\nPASS"
+      "PASS\nPREMIUM"
     ],
     "HomeSceneOverflowController_Text_1": [
-      "가방이 가득"
+      "Borsa piena"
     ],
     "HomeSceneOverflowController_Text_2": [
-      "식재료 가방이 가득 찼습니다\n식재료 가방으로 이동하겠습니까?"
+      "La tasca ingredienti della Borsa\nè piena. Vuoi aprire la Borsa?"
     ],
     "HomeSceneOverflowController_Text_3": [
-      "식재료 가방으로"
+      "Apri la Borsa"
     ],
     "HomeSceneOverflowController_Text_6": [
-      "도구 가방이 가득 찼습니다\n도구 가방으로 이동하겠습니까?"
+      "La tasca strumenti della Borsa è\npiena. Vuoi aprire la Borsa?"
     ],
     "HomeSceneOverflowController_Text_7": [
-      "도구 가방으로"
+      "Apri la Borsa"
     ],
     "HomeSceneUIController_Text_1": [
-      "새로운 하루"
+      "Un nuovo giorno"
     ],
     "HomeSceneUIController_Text_2": [
-      "날짜가 바뀌었습니다\n타이틀 화면으로 돌아갑니다"
+      "La data è cambiata!\nTornerai alla schermata del titolo."
     ],
     "HomeSceneUIController_Text_3": [
-      "여러 번에 걸친 수면"
+      "Più sessioni di sonno"
     ],
     "HomeSceneUIController_Text_4_1timeOverMax": [
-      "오늘은 수면을 계측할 수는 있지만\n수면 리서치는 실시되지 않습니다\n수면 리서치에 반영되는 수면 시간은\n하루에 8시간 30분까지입니다"
+      "Oggi puoi ancora misurare il sonno, ma\nnon puoi più fare ricerche sul sonno.\nPer i dati di ricerca c'è un limite di\n8 ore e 30 minuti di sonno al giorno."
     ],
     "HomeSceneUIController_Text_4_1timeOverMax_B": [
-      "오늘은 수면을 계측할 수는 있지만\n수면 리서치는 실시되지 않습니다\n수면 리서치에 반영되는 수면 시간은\n하루에 11시간까지입니다"
+      "Oggi puoi ancora misurare il sonno, ma\nnon puoi più fare ricerche sul sonno.\nPer i dati di ricerca c'è un limite di\n11 ore di sonno al giorno."
     ],
     "HomeSceneUIController_Text_4_2times": [
-      "하루 중 2회째 수면 계측입니다\n수면 리서치에 반영되는 것은\n앞으로 \u000e\u0002\u0001\u0002",
-      "시간 \u000e\u0002\u0001\u0002\u0001분입니다"
+      "Sembra che questa sia la tua seconda\nsessione di sonno di oggi. Puoi dormire\nquanto vuoi, ma per la ricerca di oggi\nconteranno solo \u000e\u0002\u0001\u0002",
+      " h \u000e\u0002\u0001\u0002\u0001 m."
     ],
     "HomeSceneUIController_Text_4_2times_1ManualVer": [
-      "1日の中で2回目の睡眠計測になります\n睡眠リサーチに反映されるのは\n残り\u000e\u0002\u0001\u0002",
-      "時間\u000e\u0002\u0001\u0002\u0001分です\nまた、マニュアル入力の報酬の\n翌日以降のボーナスサブレの追加分は\n無くなります"
+      "Sembra che questa sia la tua seconda\nsessione di sonno di oggi. Puoi dormire\nquanto vuoi, ma per la ricerca di oggi\nconteranno solo \u000e\u0002\u0001\u0002",
+      " h \u000e\u0002\u0001\u0002\u0001 m.\nInoltre, non riceverai un Biscotto\nbonus extra come ricompensa\nper l'inserimento manuale dei\ndati del sonno nella prossima\nsessione di sonno che misurerai\na partire da domani."
     ],
     "HomeSceneUIController_Text_5": [
-      "보고하지 않은 리서치 결과"
+      "Dati da esaminare"
     ],
     "HomeSceneUIController_Text_6": [
-      "보고하지 않은 리서치 결과가 있습니다\n보고하겠습니까?"
+      "Ci sono dati ancora da esaminare.\nVuoi esaminarli?"
     ],
     "HomeSceneUIController_Text_7": [
-      "보고한다"
+      "Esamina"
     ],
     "HomeSceneUIController_Text_9": [
-      "スキル発動"
+      "Attiva abilità"
     ],
     "HomeScene_Canvas-FieldChange_Footer_Message": [
-      "한 주간 수고하셨습니다"
+      "Settimana completata!"
     ],
     "HomeScene_Canvas-FieldChange_Header_Energy_Title": [
-      "최종 에너지"
+      "Potenza raggiunta"
     ],
     "HomeScene_Canvas-UI_Complete_Title": [
-      "잠자는 모습 도감 목표 달성!"
+      "Fatto!"
     ],
     "HomeScene_Canvas-UI_Energy": [
       "\u000e\u0002\t\u0004",
@@ -321,46 +322,46 @@
       "GO Plus +"
     ],
     "HomeScene_Canvas-UI_LeftTitle": [
-      "앞으로"
+      "Scopri"
     ],
     "HomeScene_Canvas-UI_Level": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomeScene_Canvas-UI_MainMenuButton": [
-      "메뉴"
+      "Menu principale"
     ],
     "HomeScene_Canvas-UI_MissionButton": [
-      "미션"
+      "Missioni"
     ],
     "HomeScene_Canvas-UI_MoveButton": [
-      "리서치 필드를 이동한다"
+      "Scegli il nuovo punto per la ricerca"
     ],
     "HomeScene_Canvas-UI_Name": [
-      "잠만보"
+      "Snorlax"
     ],
     "HomeScene_Canvas-UI_PokemonButton": [
-      "포켓몬"
+      "Pokémon"
     ],
     "HomeScene_Canvas-UI_ShopButton": [
-      "숍"
+      "Negozi"
     ],
     "HomeScene_Canvas-UI_SleepButton": [
-      "잠을 잔다"
+      "Dormi"
     ],
     "HomeScene_Canvas-UI_SleepMileButton": [
-      "슬립 패스"
+      "Pass sonno"
     ],
     "HomeScene_Canvas-UI_SleepMile_GetPoint": [
       "+\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomeScene_Canvas-UI_SleepMile_GetPoint_Overflow": [
-      "+\u000e\u0002\u0002\u0002",
-      ""
+      "\u000e\u0002\u0002\u0002",
+      "+"
     ],
     "HomeScene_Canvas-UI_SleepPowerLabel": [
-      "총 에너지"
+      "Potenza"
     ],
     "HomeScene_Canvas-UI_SleepReportGPP_1": [
       "\u000e",
@@ -369,157 +370,190 @@
       "＀"
     ],
     "HomeScene_Canvas-UI_SleepReportGPP_2": [
-      "同期する"
+      "Sincronizza"
     ],
     "HomeScene_Canvas-UI_SleepReportNotification": [
-      "보고하지 않은\n수면 리서치"
+      "Rapporti sul sonno\nnon esaminati"
     ],
     "HomeScene_Canvas-UI_SleepReportNotification_WeekChange": [
-      "メンテナンス時の\n睡眠リサーチ"
+      "Rapporti sul sonno\nnella manutenzione"
     ],
     "HomeScene_Canvas-UI_SleepReportWeekChange_LaterPopup": [
-      "報告を完了すると\nGO Plus +とデータ同期が\nできるようになります"
+      "Una volta esaminati tutti\ni rapporti sul sonno, puoi\nsincronizzare i dati con\nPokémon GO Plus +."
     ],
     "HomeScene_Canvas-UI_SleepStartSkipButton": [
-      "스킵"
+      "Salta"
     ],
     "HomeScene_Canvas-UI_SyncBalloon": [
-      "수면 데이터 동기화"
+      "Sincronizza\ndati sonno"
     ],
     "HomeScene_Canvas-UI_Title": [
-      "랭크"
+      "Grado"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_1": [
-      "11/20(月) 4:00から、\n「\u000e",
-      "\u0003\u0004糿＇イーブイウィーク2023\u000e",
+      "L'evento \"\u000e",
+      "\u0003\u0004糿＇Settimana di Eevee 2023\u000e",
       "\u0003\u0004",
-      "＀」イベントを開催いたします！"
+      "＀\" si svolgerà\na partire dalle ore 04:00 di lunedì 20 novembre!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_2": [
-      "11/21 「イーブイの日」を記念して、\n1週間続く「イーブイウィーク2023」イベントでは、\n\u000e",
-      "\u0003\u0004糿＇「イーブイ」とその進化形のポケモンが\nねむりにやってきやすくなります！\n\u000e",
+      "L'evento \"Settimana di Eevee 2023\" celebra\nla festa di Eevee (21 novembre). Per tutta\nla settimana dell'evento \u000e",
+      "\u0003\u0004糿＇ci saranno più\u000e",
       "\u0003\u0004",
-      "＀あなたの睡眠タイプに関わらず、\u000e",
-      "\u0003\u0004糿＇他の睡眠タイプ\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇probabilità che durante il sonno appaiano\u000e",
       "\u0003\u0004",
-      "＀の\nポケモンにも出会えるようになっており、\nイーブイたちが\u000e",
-      "\u0003\u0004糿＇姿を現しやすく\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇Eevee e le sue evoluzioni\u000e",
       "\u0003\u0004",
-      "＀なっています。\n運が良ければ色違いの「イーブイ」とも\n出会えるかもしれません！"
+      "＀! Potrai incontrare\nPokémon con \u000e",
+      "\u0003\u0004糿＇vari tipi di sonno\u000e",
+      "\u0003\u0004",
+      "＀ non legati\nal tuo tipo, e ci saranno \u000e",
+      "\u0003\u0004糿＇più probabilità\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇che appaiano\u000e",
+      "\u0003\u0004",
+      "＀ Eevee e le sue evoluzioni.\nPotresti persino incontrare un Eevee\ncromatico!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_3": [
-      "また、11/21 「イーブイの日」に睡眠リサーチを行うと、\nボーナススリープポイントが1,121ptもらえます。\n普段のミッションに加えて「特別なミッション」が\n設置され、「イーブイのおこう」などの嬉しい報酬を\n入手することができます。\nそして今回、「イーブイウィーク」期間中では\nすべてのおてつだいポケモンのメインスキルが\n発動しやすくなっています！\nおてつだいポケモンの活躍もお楽しみに！"
+      "Inoltre, facendo la ricerca sul sonno il giorno\ndella festa di Eevee (21 novembre) potrai\nottenere 1.121 punti sonno bonus.\nPotrai anche ottenere ottime ricompense,\ncome l'Aroma Eevee, con le missioni speciali\ndisponibili in aggiunta a quelle normali.\nE in più, durante la settimana di Eevee\nle abilità principali di tutti i Pokémon aiutanti\navranno maggiori probabilità di attivarsi!\nApprofittane per trarre il massimo vantaggio\ndall'aiuto extra dei tuoi Pokémon!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_4": [
-      "●イベントの進め方\nイベント参加方法はかんたん！\nイベント期間中、眠る前に「ねむる」ボタンを押して、\n睡眠計測を行うだけです。\n睡眠リサーチで、さまざまなイベントボーナスが\n発揮されます。\n※本イベントはすべてのフィールドで\nイベントボーナスが発生します。\nまた、イベント期間中は下記の効果がかかります。"
+      "• Come si svolge l'evento\nPartecipare all'evento è facile!\nBasta toccare l'icona \"Dormi\" nel periodo\ndell'evento per misurare il sonno.\nDurante la ricerca sul sonno si attiveranno\nuna serie di effetti legati all'evento.\nAttenzione: i bonus di questo evento si possono\nattivare in qualunque area. Nel periodo\ndell'evento saranno attivi gli effetti indicati\ndi seguito."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_5": [
-      "【\u000e",
-      "\u0003\u0004糿＇イーブイの日(11/21)\u000e",
+      "\u000e",
+      "\u0003\u0004糿＇Festa di Eevee (21 novembre)\u000e",
       "\u0003\u0004",
-      "＀】\n・睡眠リサーチにて、\u000e",
-      "\u0003\u0004糿＇イーブイたちの出現確率UP\u000e",
+      "＀\n• Durante la ricerca sul sonno sarà \u000e",
+      "\u0003\u0004糿＇più probabile\u000e",
       "\u0003\u0004",
-      "＀\n・睡眠リサーチにて、\n　その日のリサーチャーの睡眠タイプに限らず、\n　\u000e",
-      "\u0003\u0004糿＇他の睡眠タイプのポケモンも多く出現\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇incontrare Eevee e le sue evoluzioni\u000e",
       "\u0003\u0004",
-      "＀\n・運が良ければ色違いの「イーブイ」とも\n　出会えるかもしれません\n・ボーナススリープポイント\u000e",
-      "\u0003\u0004糿＇+1,121pt\u000e",
+      "＀.\n• Durante la ricerca sul sonno \u000e",
+      "\u0003\u0004糿＇appariranno\u000e",
       "\u0003\u0004",
-      "＀\n・すべてのおてつだいポケモンの\n　メインスキル発動確率が\u000e",
-      "\u0003\u0004糿＇\u000e\u0002\u0001\u0002",
-      "倍UP\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇molti Pokémon con vari tipi di sonno\u000e",
       "\u0003\u0004",
-      "＀"
+      "＀\nindipendentemente dal proprio tipo di sonno.\n• Potresti incontrare un Eevee cromatico.\n• \u000e",
+      "\u0003\u0004糿＇+1.121\u000e",
+      "\u0003\u0004",
+      "＀ punti sonno bonus.\n• Probabilità di attivazione delle abilità\nprincipali degli aiutanti \u000e",
+      "\u0003\u0004糿＇x\u000e\u0002\u0001\u0002",
+      "\u000e",
+      "\u0003\u0004",
+      "＀."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_6": [
-      "【\u000e",
-      "\u0003\u0004毿Ｗそれ以外の日 (11/20, 11/22,23,24,25,26)\u000e",
+      "\u000e",
+      "\u0003\u0004糿＇Altri giorni (20/11 e 22-26/11)\u000e",
       "\u0003\u0004",
-      "＀】\n・睡眠リサーチにて、\u000e",
-      "\u0003\u0004糿＇イーブイたちの出現確率UP\u000e",
+      "＀\n• Durante la ricerca sul sonno sarà \u000e",
+      "\u0003\u0004糿＇più probabile\u000e",
       "\u0003\u0004",
-      "＀\n・睡眠リサーチにて、\n　その日のリサーチャーの睡眠タイプに限らず、\n　\u000e",
-      "\u0003\u0004糿＇他の睡眠タイプのポケモンも少し出現\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇incontrare Eevee e le sue evoluzioni\u000e",
       "\u0003\u0004",
-      "＀\n・運が良ければ色違いの「イーブイ」とも\n　出会えるかもしれません\n・すべてのおてつだいポケモンの\n　メインスキル発動確率が\u000e",
-      "\u0003\u0004糿＇\u000e\u0002\u0001\u0002",
-      "倍UP\u000e",
+      "＀.\n• Durante la ricerca sul sonno \u000e",
+      "\u0003\u0004糿＇appariranno\u000e",
       "\u0003\u0004",
-      "＀"
+      "＀\n\u000e",
+      "\u0003\u0004糿＇alcuni Pokémon con vari tipi di sonno\u000e",
+      "\u0003\u0004",
+      "＀\nindipendentemente dal proprio tipo di sonno.\n• Potresti incontrare un Eevee cromatico.\n• Probabilità di attivazione delle abilità\nprincipali degli aiutanti \u000e",
+      "\u0003\u0004糿＇x\u000e\u0002\u0001\u0002",
+      "\u000e",
+      "\u0003\u0004",
+      "＀."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_7": [
-      "●イベント中に特に多く出会えるポケモン\nイベント期間中は下記のポケモンたちと\nいつもより多く出会えるチャンスです！"
+      "• Pokémon più facili da incontrare durante\nl'evento\nNel periodo dell'evento avrai più probabilità\ndi incontrare i Pokémon indicati di seguito!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_8": [
-      "【 大ピックアップ 】\nイーブイ\n【 中ピックアップ 】\nシャワーズ/サンダース/ブースター/エーフィ\nブラッキー/リーフィア/グレイシア/ニンフィア\n※大ピックアップのイーブイは\nすべてのフィールドで出現します\n※中ピックアップのポケモンたちは\nそれぞれ特定のフィールドにのみ出現します"
+      "\u000e",
+      "\u0003\u0004糿＇Probabilità di incontro molto più alta:\u000e",
+      "\u0003\u0004",
+      "＀\nEevee\n\u000e",
+      "\u0003\u0004糿＇Probabilità di incontro più alta:\u000e",
+      "\u0003\u0004",
+      "＀\nVaporeon, Jolteon, Flareon, Espeon, Umbreon,\nLeafeon, Glaceon, Sylveon\n\nNote: la probabilità molto più alta di incontrare\nEevee vale per tutte le aree.\nLa probabilità più alta di incontrare gli altri\nPokémon vale solo nelle singole aree dove\nappare ciascuno di loro."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_9": [
-      "より詳しいイベント内容はゲーム内の「お知らせ」を\nご確認ください。"
+      "Per altre informazioni sull'evento, controlla\nla sezione \"Novità\" del gioco."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Title": [
-      "イーブイウィーク"
+      "Settimana di Eevee"
     ],
     "HomeScene_EventPopup_Text_1": [
-      "すべてのおてつだいポケモンの\n\u000e",
-      "\u0003\u0004毿Ｗメインスキル発動確率が\u000e\u0002\u0001\u0002",
-      "倍UP\u000e",
+      "\u000e",
+      "\u0003\u0004毿ＷProbabilità di attivazione delle abilità\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗprincipali\u000e",
+      "\u0003\u0004",
+      "＀ di tutti i Pokémon aiutanti \u000e",
+      "\u0003\u0004毿Ｗ×\u000e\u0002\u0001\u0002",
+      "!\u000e",
       "\u0003\u0004",
       "＀"
     ],
     "HomeScene_Event_Popup_Start": [
-      "開催中"
+      "In corso"
     ],
     "HomeScene_Event_Popup_Start_Button": [
-      "詳細をみる"
+      "Vedi info"
     ],
     "HomeScene_FieldChangeDialog_Doctor_1": [
-      "한 주간 리서치하느라 고생했어!\n리서치 리포트를 작성해 두었으니까\n나중에 확인해 보렴"
+      "Hai fatto un ottimo lavoro questa\nsettimana! Ci stai prendendo\nla mano a fare ricerca qui."
     ],
     "HomeScene_FieldChangeDialog_Doctor_2": [
-      "그럼 아쉽지만\n잠만보와 작별하고\n다음 리서치 필드로 가 볼까?"
+      "Ora purtroppo bisogna salutare\nSnorlax! Dobbiamo scegliere dove\nstabilirci la prossima settimana."
     ],
     "HomeScene_FieldChangeDialog_Doctor_3": [
-      "이 잠만보와는 한 번도\n수면 리서치를 하지 않았나 보구나"
+      "Sembra che tu non abbia fatto\nnessuna ricerca sul sonno\ncon questo Snorlax."
     ],
     "HomeScene_FieldChangeDialog_Doctor_4": [
-      "다음 필드로 갈 시간이 됐으니까\n이 잠만보와는 여기서 헤어져야 해"
+      "È ora di scegliere il punto\nper la ricerca della settimana,\nquindi dovrete salutarvi qui."
     ],
     "HomeScene_FieldChangeDialog_Heading": [
-      "フィールドを移動しよう"
+      "Cambiare punto"
     ],
     "HomeScene_FieldChangeDialog_Player_1": [
-      "한 주간 고마웠어!\n바이바이! 잠만보!"
+      "Grazie per averci aiutato con la\nricerca questa settimana, Snorlax!\nCiao ciao!"
     ],
     "HomeScene_FieldChangeDialog_Text": [
-      "毎週月曜日から日曜日まで、7日間かけて\nカビゴンのエナジーを貯めながら\nリサーチを繰り返します。1週間経つと、\nそのカビゴンとはお別れになります。\n新しくリサーチに協力してくれるカビゴンのいる\nフィールドに移動しましょう。"
+      "Ogni settimana passerai sette giorni,\ndal lunedì alla domenica, a far crescere\nuno Snorlax diverso, aumentando\nla sua potenza mentre fai la ricerca\nsul sonno. Alla fine della settimana dovrai\nsalutare quello Snorlax, cambiare punto\ndi ricerca e cercare un altro Snorlax\nche ti aiuti nei tuoi studi."
     ],
     "HomeScene_FieldChange_CheckSleepResult_Popup_Text": [
-      "「未報告の睡眠リサーチ」は\nフィールド移動後に報告することができます。\nフィールド移動後でも、\n移動前のフィールドやカビゴンの状況を\n引き継いでリサーチできますので、ご安心ください。"
+      "Se quando cambi punto hai ancora\ndei rapporti sul sonno da esaminare,\nnon preoccuparti: potrai esaminarli\ndopo. La ricerca sarà basata sul\npunto in cui ti trovavi e sui dati di\nSnorlax prima del tuo spostamento."
     ],
     "HomeScene_FieldChange_CheckSleepResult_Popup_Title": [
-      "フィールド移動後に報告できます"
+      "Esamina dopo aver cambiato punto"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_FieldBonus": [
-      "フィールドボーナス"
+      "Bonus area"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_FieldBonus_Value": [
       "\u000e\u0002\u0003\u0004",
       "촁%"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_Heading": [
-      "ボーナス獲得"
+      "Bonus attivato"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_Text_1": [
-      "フィールドボーナスが\n\u000e",
+      "Aumento bonus per l'area: \u000e",
       "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
       "촁%\u000e",
       "\u0003\u0004",
-      "＀ アップ"
+      "＀"
     ],
     "HomeScene_FieldChange_FieldBonusPopup_Text_2": [
       "\u000e",
-      "\u0003\u0004蚆ﾆ次回以降のカビゴンの育成で\nエナジーの上昇にボーナスが加算されます\u000e",
+      "\u0003\u0004蚆ﾆIl bonus varrà per il potenziamento dei\nprossimi Snorlax fatti crescere qui.\u000e",
       "\u0003\u0004",
       "＀"
     ],
@@ -527,414 +561,417 @@
       "\u000e\u0003\u0003\u0004Ā촀"
     ],
     "HomeScene_GSD_WhatPopup_Text_1": [
-      "満月の夜により良い睡眠を！\n今月のグッドスリープデーが\u000e",
+      "Dormite da Campioni con la luna piena!\nPeriodo dell'evento \"Giorno sogni d'oro\"\ndi questo mese: \u000e",
       "\u0003\u0004ꈝ￿\u000e\t",
       "\u000e\nMM/dd",
-      "〜\u000e\t",
+      " - \u000e\t",
       "\u000e\nMM/dd\u0001\u000e",
       "\u0003\u0004",
-      "＀で\n開催されます。期間中に睡眠リサーチをすると、\nねむけパワーが\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0002倍\u000e",
+      "＀.\nNelle ricerche sul sonno di questo periodo,\nil potere sonno di Snorlax sarà \u000e",
+      "\u0003\u0004ꈝ￿moltiplicato\u000e",
       "\u0003\u0004",
-      "＀ になり、\u000e",
-      "\u0003\u0004ꈝ￿\u000e\t",
-      "\u000e\nMM/dd\u0003の満月の日\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004ꈝ￿per \u000e\u0002\u0001\u0002\u0002\u000e",
       "\u0003\u0004",
-      "＀には\nねむけパワーが\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0004倍\u000e",
+      "＀ e nella \u000e",
+      "\u0003\u0004ꈝ￿notte di luna piena (\u000e\t",
+      "\u000e\nMM/dd\u0003) per \u000e\u0002\u0001\u0002\u0004\u000e",
       "\u0003\u0004",
-      "＀ になります。\n期間中にみんなでたくさん寝て、\nたくさんポケモンの寝顔をリサーチしよう！"
+      "＀.\nApprofittatene per dormire molto e scoprire\ntanti stili di sonno dei Pokémon!"
     ],
     "HomeScene_GSD_WhatPopup_Text_2": [
-      "イベントの詳細はアプリ内の「お知らせ」からご確認ください"
+      "Per tutti i dettagli, vai alla sezione\n\"Novità\" dell'app."
     ],
     "HomeScene_GSD_WhatPopup_Text_3": [
-      "イベント参加方法はかんたん！\nイベント期間中、眠る前に「ねむる」ボタンを押して、\n睡眠計測を行うだけです。\n睡眠リサーチで、さまざまなイベントボーナスが\n発揮されます。"
+      "Partecipare all'evento è facile!\nBasta toccare l'icona \"Dormi\" prima di\nandare a dormire nel periodo dell'evento\nper misurare il sonno. Durante la ricerca\nsul sonno si attiveranno una serie di\neffetti legati all'evento."
     ],
     "HomeScene_GSD_WhatPopup_Text_4": [
-      "【\u000e",
-      "\u0003\u0004ꈝ￿満月の日 (\u000e\t",
+      "— \u000e",
+      "\u0003\u0004ꈝ￿Notte di luna piena (\u000e\t",
       "\u000e\nMM/dd",
-      ")\u000e",
+      ") \u000e",
       "\u0003\u0004",
-      "＀】\nねむけパワー\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0002\u0002\u0001倍\u000e",
+      "＀—\nPotere sonno \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0001\u000e",
       "\u0003\u0004",
-      "＀\nポケモンの睡眠EXP\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0002\u0002\u0002倍\n\u000e",
+      "＀\nPE sonno Pokémon \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0002\u000e",
       "\u0003\u0004",
-      "＀ボーナススリープポイント\u000e",
-      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\u0003촁pt\n\u000e",
+      "＀\nPunti sonno bonus \u000e",
+      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\u0003촁\u000e",
       "\u0003\u0004",
-      "＀\n【\u000e",
-      "\u0003\u0004ꈝ￿それ以外の日 (\u000e\t",
+      "＀\n\n— \u000e",
+      "\u0003\u0004ꈝ￿Altri giorni (\u000e\t",
       "\u000e\nMM/dd\u0004, \u000e\t",
-      "\u000e\nMM/dd\u0005)\u000e",
+      "\u000e\nMM/dd\u0005) \u000e",
       "\u0003\u0004",
-      "＀】\nねむけパワー\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0002\u0002\u0006倍\u000e",
+      "＀—\nPotere sonno\u000e",
+      "\u0003\u0004ꈝ￿ ×\u000e\u0002\u0002\u0002\u0006\u000e",
       "\u0003\u0004",
-      "＀\nポケモンの睡眠EXP\u000e",
-      "\u0003\u0004ꈝ￿\u000e\u0002\u0002\u0002\u0007倍\n\u000e",
+      "＀\nPE sonno Pokémon \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0007\u000e",
       "\u0003\u0004",
-      "＀ボーナススリープポイント\u000e",
-      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\b촁pt\u000e",
+      "＀\nPunti sonno bonus \u000e",
+      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\b촁\u000e",
       "\u0003\u0004",
       "＀"
     ],
     "HomeScene_GSD_WhatPopup_Title": [
-      "グッドスリープデー"
+      "Giorno sogni d'oro"
     ],
     "HomeScene_HalloweenEvent_Popup_Start": [
-      "ハロウィンイベント"
+      "Evento di Halloween"
     ],
     "HomeScene_Halloween_BannerPopup_Text_1": [
-      "10/30(月) 4:00から、\n「 \u000e",
-      "\u0003\u0004맿Ｏハロウィン2023：ダブルアメリサーチ\u000e",
+      "Alle ore 04:00 di lunedì 30 ottobre avrà inizio\nl'evento \"\u000e",
+      "\u0003\u0004맿ＯHalloween 2023 - Caramelle doppie\u000e",
       "\u0003\u0004",
-      "＀ 」イベントを\n開催いたします！"
+      "＀\"!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_2": [
-      "トリック・オア・トリート！\n1週間続く「ハロウィン2023：ダブルアメリサーチ」\nイベントでは、あなたの睡眠タイプに関わらず、他の\n睡眠タイプのポケモンにも出会えるようになります。\nまた、普段のミッションに加えて「 \u000e",
-      "\u0003\u0004맿Ｏ特別なミッション\u000e",
+      "Dolcetto o scherzetto?\nDurante la settimana dell'evento \"Halloween\n2023 - Caramelle doppie\", potrai incontrare\nPokémon con vari tipi di sonno, non legati\nal tuo tipo. Inoltre, potrai ricevere ricche\nricompense come un totale di \u000e",
+      "\u0003\u0004맿ＯJollymella S ×25\u000e",
       "\u0003\u0004",
-      "＀ \n」が設置され、 \u000e",
-      "\u0003\u0004맿ＯばんのうアメS x25（合計）\u000e",
+      "＀\nattraverso missioni speciali aggiunte a quelle\nnormali, e ottenere \u000e",
+      "\u0003\u0004맿Ｏun minimo di \u000e\u0002\u0001\u0002",
+      " volte la normale\nquantità di caramelle Pokémon \u000e",
       "\u0003\u0004",
-      "＀ などの\n豪華な報酬を入手することができ、\n睡眠リサーチではポケモンの \u000e",
-      "\u0003\u0004맿Ｏアメの獲得量がいつもの\n\u000e\u0002\u0001\u0002",
-      "倍以上\u000e",
+      "＀con la ricerca sul sonno.\nCerca di fare scorta di caramelle durante\nquesto evento! Avrai anche molte probabilità\ndi incontrare un \u000e",
+      "\u0003\u0004맿ＯPikachu con un cappello\ndi Halloween\u000e",
       "\u0003\u0004",
-      "＀ になります。\nイベント期間中にたくさんのアメをゲットしましょう！\nそして今回、 \u000e",
-      "\u0003\u0004맿Ｏハロウィン帽子をかぶった「ピカチュウ」 \u000e",
+      "＀ e \u000e",
+      "\u0003\u0004맿ＯPokémon di tipo Spettro\ncome Gastly\u000e",
       "\u0003\u0004",
-      "＀\nをはじめ、\u000e",
-      "\u0003\u0004毿Ｗ \u000e",
-      "\u0003\u0004",
-      "＀\u000e",
-      "\u0003\u0004맿Ｏ「ゴース」などのゴーストタイプのポケモン\u000e",
-      "\u0003\u0004",
-      "＀ \nと多く出会えるチャンスがあります！\nお楽しみに！"
+      "＀! Buon divertimento!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_3": [
-      "●イベントの進め方\nイベント参加方法はかんたん！\nイベント期間中、 \u000e",
-      "\u0003\u0004맿Ｏワカクサ本島\u000e",
+      "• Come si svolge l'evento\nPartecipare all'evento è facile!\nBasta trovarsi sull'\u000e",
+      "\u0003\u0004毿Ｗ\u000e",
+      "\u0003\u0004맿ＯIsola Erbaverde\u000e",
+      "\u0003\u0004毿Ｗ \u000e",
       "\u0003\u0004",
-      "＀ で眠る前に「ねむる」\nボタンを押して、睡眠計測を行うだけです。\n睡眠リサーチで、さまざまなイベントボーナスが発揮\nされます。\n※ワカクサ本島以外のマップで睡眠計測を行った場合、\nイベントボーナスが発生しません。\nまた、イベント期間中は下記の効果がかかります。"
+      "＀e toccare\nl'icona \"Dormi\" prima di andare a dormire\nnel periodo dell'evento per misurare il sonno.\nDurante la ricerca sul sonno si attiveranno\nuna serie di effetti legati all'evento.\nAttenzione: i bonus dell'evento non\nsi attiveranno se si misura il sonno\nin una mappa diversa dall'Isola Erbaverde.\nNel periodo dell'evento saranno attivi\ngli effetti descritti di seguito."
     ],
     "HomeScene_Halloween_BannerPopup_Text_4": [
-      "【 \u000e",
-      "\u0003\u0004맿Ｏハロウィンの日(10/31)・イベント最終日(11/5)\u000e",
+      "— \u000e",
+      "\u0003\u0004맿ＯHalloween (31/10) e ultimo giorno \ndell'evento (05/11)\u000e",
       "\u0003\u0004",
-      "＀ 】\n・1回目の睡眠リサーチでの \u000e",
-      "\u0003\u0004맿Ｏアメ獲得量\u000e\u0002\u0001\u0002",
-      "倍\u000e",
+      "＀ —\n• I ricercatori otterranno \u000e",
+      "\u0003\u0004맿Ｏ\u000e\u0002\u0001\u0002",
+      " volte la normale\nquantità di caramelle\u000e",
       "\u0003\u0004",
-      "＀\n・睡眠リサーチにて、その日のリサーチャーの\n睡眠タイプに限らず、 \u000e",
-      "\u0003\u0004맿Ｏ他の睡眠タイプのポケモンも\n多く出現\n\u000e",
+      "＀ per la prima ricerca\nsul sonno della giornata\n• Durante la ricerca sul sonno \u000e",
+      "\u0003\u0004맿Ｏappariranno\nmolti Pokémon con vari tipi di sonno\u000e",
       "\u0003\u0004",
-      "＀・睡眠リサーチにて、 \u000e",
-      "\u0003\u0004맿Ｏ特定のポケモンの出現確率UP\u000e",
+      "＀\nindipendentemente dal proprio tipo di sonno\n• \u000e",
+      "\u0003\u0004맿ＯAlcuni Pokémon avranno più probabilità\ndi apparire\u000e",
       "\u0003\u0004",
-      "＀"
+      "＀ durante la ricerca sul sonno"
     ],
     "HomeScene_Halloween_BannerPopup_Text_5": [
-      "【 \u000e",
-      "\u0003\u0004맿Ｏそれ以外の日 (10/30, 11/1,2,3,4)\u000e",
+      "— \u000e",
+      "\u0003\u0004毿Ｗ\u000e",
+      "\u0003\u0004맿ＯAltri giorni (30/10 e 01-04/11)\u000e",
+      "\u0003\u0004毿Ｗ \u000e",
       "\u0003\u0004",
-      "＀ 】\n・1回目の睡眠リサーチでの \u000e",
-      "\u0003\u0004맿Ｏアメ獲得量\u000e\u0002\u0001\u0002",
-      "倍\u000e",
+      "＀—\n• I ricercatori otterranno \u000e",
+      "\u0003\u0004맿Ｏ\u000e\u0002\u0001\u0002",
+      " volte la normale\nquantità di caramelle \u000e",
       "\u0003\u0004",
-      "＀\n・睡眠リサーチにて、その日のリサーチャーの\n睡眠タイプに限らず、 \u000e",
-      "\u0003\u0004맿Ｏ他の睡眠タイプのポケモンも\n少し出現\n\u000e",
+      "＀per la prima ricerca\nsul sonno della giornata\n• Durante la ricerca sul sonno \u000e",
+      "\u0003\u0004맿Ｏapparirà\nqualche Pokémon con vari tipi di sonno\u000e",
       "\u0003\u0004",
-      "＀・睡眠リサーチにて、 \u000e",
-      "\u0003\u0004맿Ｏ特定のポケモンの出現確率UP\u000e",
+      "＀\nindipendentemente dal proprio tipo di sonno\n• \u000e",
+      "\u0003\u0004맿ＯAlcuni Pokémon avranno più probabilità\ndi apparire\u000e",
       "\u0003\u0004",
-      "＀"
+      "＀ durante la ricerca sul sonno"
     ],
     "HomeScene_Halloween_BannerPopup_Text_6": [
-      "●イベント中に特に多く出会えるポケモン\nイベント期間中は下記のポケモンたちといつもより多く\n出会えるチャンスです！"
+      "• Pokémon più facili da incontrare durante\nl'evento\nNel periodo dell'evento avrai più probabilità\ndi incontrare i Pokémon indicati di seguito!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_7": [
-      "【 \u000e",
-      "\u0003\u0004맿Ｏ大ピックアップ\u000e",
+      "\u000e",
+      "\u0003\u0004맿ＯProbabilità di incontro molto più alta\u000e",
       "\u0003\u0004",
-      "＀ 】\nピカチュウ(ハロウィン)/ゴース/ゴースト/ゲンガー\n【 \u000e",
-      "\u0003\u0004맿Ｏ中ピックアップ\u000e",
+      "＀\nPikachu (Halloween), Gastly, Haunter, Gengar\n\u000e",
+      "\u0003\u0004맿ＯProbabilità di incontro più alta\u000e",
       "\u0003\u0004",
-      "＀ 】\nニャース/カラカラ\n【 \u000e",
-      "\u0003\u0004맿Ｏ小ピックアップ\u000e",
+      "＀\nMeowth, Cubone\n\u000e",
+      "\u0003\u0004맿ＯProbabilità di incontro un po' più alta\u000e",
       "\u0003\u0004",
-      "＀ 】\n???/???"
+      "＀\n???, ???"
     ],
     "HomeScene_Halloween_BannerPopup_Text_8": [
-      "より詳しいイベント内容はゲーム内の「お知らせ」を\nご確認ください。"
+      "Per altre informazioni sull'evento, controlla\nla sezione \"Novità\" del gioco."
     ],
     "HomeScene_Halloween_BannerPopup_Title": [
-      "ハロウィンイベント"
+      "Evento di Halloween"
     ],
     "HomeScene_MainSkillFoodBagOver_Text": [
-      "식재료를 정리해 주십시오\n포켓몬이 스킬로 식재료를 획득할 수 없습니다"
+      "Fai spazio nella Borsa per permettere\nal Pokémon di raccogliere\ningredienti con la sua abilità."
     ],
     "HomeScene_MainSkillFoodBagOver_Title": [
-      "식재료 가방이 가득 찼습니다"
+      "Tasca ingredienti piena"
     ],
     "HomeScene_MainSkillWindow_Title": [
-      "\u000e\u0003\u000b\u0002촀 Lv.\u000e\u0002\u0002\u0002\u0001"
+      "\u000e\u0003\u000b\u0002촀 (L. \u000e\u0002\u0002\u0002\u0001)"
     ],
     "HomeScene_MapChangePopup_Button": [
-      "移動する"
+      "Spostati"
     ],
     "HomeScene_MapChangePopup_Text_1": [
-      "フィールドを移動する前に\n以下の項目にご注意ください\nそれでも移動しますか？"
+      "Tieni presente quanto segue\nprima di cambiare punto.\nVuoi spostarti comunque?"
     ],
     "HomeScene_MapChangePopup_Text_2": [
-      "ミッションで\n\u000e",
-      "\u0003\u0004毿Ｗ未受け取りの報酬\u000e",
+      "Non hai ancora \u000e",
+      "\u0003\u0004毿Ｗricevuto le\u000e",
       "\u0003\u0004",
-      "＀ があります"
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗricompense di alcune missioni\u000e",
+      "\u0003\u0004",
+      "＀."
     ],
     "HomeScene_MapChangePopup_Text_3": [
-      "移動すると報酬は受け取れません"
+      "Se cambi punto, non potrai più riceverle."
     ],
     "HomeScene_MapChangePopup_Text_4": [
-      "今日はまだ \u000e",
-      "\u0003\u0004毿ＷPokémon GO Plus +と\n睡眠データを同期していません\u000e",
+      "Oggi non hai ancora \u000e",
+      "\u0003\u0004毿Ｗsincronizzato\u000e",
       "\u0003\u0004",
-      "＀"
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗi dati con Pokémon GO Plus +\u000e",
+      "\u0003\u0004",
+      "＀."
     ],
     "HomeScene_MapChangePopup_Text_5": [
-      "移動すると、おこうは取り外されます。セットしている\n場合は移動前にデータ同期を完了してください"
+      "Se ti sposti, gli aromi selezionati saranno\nrimossi. Prima di cambiare punto, esegui\nla sincronizzazione dei dati."
     ],
     "HomeScene_NotMainSkillPopup_Text": [
-      "メインスキルによる、なべの容量アップが\n最大の\u000e\u0002\u0003\u0004",
-      "촁に達しているため、\nメインスキル「\u000e\u0003\u000b\u0002촁」を\n使用できません\n料理をすることで、再びこのメインスキルを\n使用することができます"
+      "La pentola ha già raggiunto\nla capienza massima di \u000e\u0002\u0003\u0004",
+      "촁\ngrazie a un'abilità principale, perciò\nl'abilità \u000e\u0003\u000b\u0002촁\nnon può essere utilizzata.\nPotrai usare di nuovo questa abilità\nprincipale dopo aver cucinato."
     ],
     "HomeScene_NotMainSkillPopup_Title": [
-      "メインスキルを使用できません"
+      "Abilità principale non utilizzabile"
     ],
     "HomeScene_PokemonPickupEvent_Popup_Start": [
-      "イーブイウィーク"
+      "Settimana di Eevee"
     ],
     "HomeScene_PremiumPassFinished_Popup_SubText": [
-      "ノーマルパスにもどりました\nまたのご利用をお待ちしております"
+      "Il tuo pass base è stato riattivato. Speriamo\nche vorrai fare nuovamente scambi premium!"
     ],
     "HomeScene_PremiumPassFinished_Popup_Text": [
-      "プレミアムパスの有効期限が\n\u000e",
-      "\u0003\u0004毿Ｗ終了しました\u000e",
+      "Il pass premium è \u000e",
+      "\u0003\u0004毿Ｗscaduto\u000e",
       "\u0003\u0004",
-      "＀"
+      "＀."
     ],
     "HomeScene_PremiumPassFinished_Popup_Title": [
-      "プレミアムパス終了"
+      "Pass premium scaduto"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_1_1": [
-      "リサーチでのアメ獲得量が\u000e\u0002\u0001\u0002",
-      "倍(1日1回のみ)"
+      "Caramelle ottenute con la\nricerca ×\u000e\u0002\u0001\u0002",
+      " (una volta al giorno)"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_1_2": [
-      "リサーチャーの睡眠タイプにかかわらず、\n他の睡眠タイプからもポケモンが出現"
+      "Comparsa di Pokémon con vari tipi\ndi sonno, indipendentemente dal\ntuo tipo di sonno"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_1": [
-      "ねむけパワーが\u000e\u0002\u0001\u0002",
-      "倍"
+      "Potere sonno ×\u000e\u0002\u0001\u0002",
+      ""
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_2": [
-      "睡眠で獲得するEXPが\u000e\u0002",
-      "\u0002촀倍"
+      "PE ottenuti dormendo ×\u000e\u0002",
+      "\u0002촀"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_3": [
-      "睡眠計測をするとボーナススリープ\nポイント\u000e\u0002\u0003\u0004",
-      "촁を獲得(1日1回のみ)"
+      "Ottieni \u000e\u0002\u0003\u0004",
+      "촁 punt\u000e\u0005",
+      "\n\u0002o\u0002i촀 sonno bonus\nper aver misurato il sonno\n(solo una volta al giorno)"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_3": [
-      "マスターサブレを睡眠リサーチで\n試しに使ってみよう"
+      "Prova a usare un\nMasterbiscotto durante\nla ricerca sul sonno."
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_4": [
-      "【色違いのポケモンと出会いやすくなる】"
+      "Probabilità più alta di incontrare\t\nPokémon cromatici:"
     ],
     "HomeStartSleepPopup_Bonus_Content_1": [
-      "ハロウィンイベント"
+      "Evento di Halloween"
     ],
     "HomeStartSleepPopup_Bonus_Content_2": [
-      "グッドスリープデー"
+      "Giorno sogni d'oro"
     ],
     "HomeStartSleepPopup_Bonus_Content_3": [
-      "マスターサブレチュートリアル"
+      "Tutorial Masterbiscotti"
     ],
     "HomeStartSleepPopup_Bonus_Content_4": [
-      "イーブイウィーク"
+      "Settimana di Eevee"
     ],
     "HomeStartSleepPopup_Bonus_Header_1": [
-      "ボーナス一覧"
+      "Lista bonus"
     ],
     "HomeStartSleepPopup_Bonus_Secret": [
       "???"
     ],
     "HomeStartSleepPopup_Bonus_Slash": [
-      " /"
+      ","
     ],
     "HomeStartSleepPopup_Bonus_SmallTitle": [
-      "リサーチボーナス"
+      "Bonus ricerca"
     ],
     "HomeStartSleepPopup_Bonus_Text_1": [
-      "今日のリサーチボーナスの一覧です"
+      "Qui puoi vedere tutti i bonus ricerca di oggi."
     ],
     "HomeStartSleepPopup_Bonus_Title": [
-      "リサーチボーナス"
+      "Bonus ricerca"
     ],
     "HomeStartSleepPopup_CannotSet_MultiPokemonIncense": [
-      "포켓몬의 향로는 동시에\n2개 이상 세팅할 수 없습니다"
+      "Puoi usare gli aromi per attirare una\nsola specie di Pokémon per volta."
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Text": [
-      "\u000e\u0003\u0001\u0002",
-      "は現在のフィールドでは\n出現しないため、このおこうを\nセットすることができません"
+      "Non puoi scegliere questo aroma\nperché \u000e\u0003\u0001\u0002",
+      " non appare\nin questo punto di ricerca."
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Title": [
-      "使用できません"
+      "Non utilizzabile"
     ],
     "HomeStartSleepPopup_CannotSet_SameTypeItem": [
-      "같은 종류의 향로가\n세팅되어 있으므로\n이 향로는 선택할 수 없습니다"
+      "Hai già scelto questo aroma. Non puoi\nusare due aromi dello stesso tipo\nnella stessa sessione di sonno."
     ],
     "HomeStartSleepPopup_CannotUse_Incense": [
-      "사용할 수 없는 향로가 있습니다\n제거해 주십시오"
+      "Uno degli aromi che hai scelto non può\nessere usato. Rimuovilo."
     ],
     "HomeStartSleepPopup_CannotUse_Title": [
-      "사용할 수 없습니다"
+      "Non utilizzabile"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_Message": [
-      "ねむりの約束を変更するには\nPokémon GO Plus +と\n通信する必要があります\n\nPokémon GO Plus +と\n接続をしてもよろしいですか？"
+      "Per cambiare l'ora di dormire, l'app\ndeve comunicare con il dispositivo\nPokémon GO Plus +.\n\nVuoi connetterti a Pokémon GO\nPlus +?"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_OK": [
-      "接続する"
+      "Connetti"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_Title": [
-      "確認"
+      "Conferma"
     ],
     "HomeStartSleepPopup_Text_1": [
-      "마이크 접근 권한"
+      "Accesso al microfono"
     ],
     "HomeStartSleepPopup_Text_2": [
-      "마이크 접근 권한이 없습니다\n수면 계측을 하기 위해서는\n설정에서 마이크 접근을 허용해 주십시오"
+      "L'app necessita dell'autorizzazione\nad accedere al microfono\ndel dispositivo. Per misurare il sonno,\nautorizza l'accesso al microfono."
     ],
     "HomeStartSleepPopup_UnsetItem_Message": [
-      "\u000e\u0003\u0003\u0004Ā촀\u000e\b",
-      "\u0002촂\n제거하겠습니까?"
+      "Vuoi davvero rimuovere lo strumento?\n\u000e\u0003\u0003\u0004Ā촀"
     ],
     "HomeStartSleepPopup_UnsetItem_Title": [
-      "향로 제거"
+      "Rimuovi aroma"
     ],
     "Home_AutoPickup_Popup_Desc": [
-      "당신이 없는 동안 포켓몬들이\n잠만보를 보살펴 주었습니다"
+      "I tuoi Pokémon ti hanno aiutato a dare\nda mangiare a Snorlax mentre eri via.\nSnorlax è diventato ancora più potente!"
     ],
     "Home_AutoPickup_Popup_Energy_Title": [
-      "획득 에너지:"
+      "Potenza ottenuta:"
     ],
     "Home_AutoPickup_Popup_Section_Title": [
-      "도우미 상세"
+      "Aiutanti"
     ],
     "Home_AutoPickup_Popup_Title": [
-      "어느샌가 육성"
+      "Spuntini furtivi"
     ],
     "Home_BottomButtons_MainMissionProgressButton_GoalTitle": [
-      "다음 목표"
+      "Prossimo obiettivo"
     ],
     "Home_NoMoreSleepStartPopup_Message": [
-      "수면 계측은 하루에 2회까지 실시할 수 있습니다\n오늘은 더 이상 계측할 수 없습니다"
+      "Puoi misurare il sonno solo due\nvolte al giorno. Hai raggiunto\nil limite per oggi."
     ],
     "Home_NoMoreSleepStartPopup_Title": [
-      "수면 계측"
+      "Misurazione del sonno"
     ],
     "Home_NoMoreSleepStartPopup_UnixtimeDuplication_Message": [
-      "과거에 계측한 수면 데이터의 시간대와\n현재 단말기의 시각이 겹쳐서\n계측을 시작할 수 없습니다\n자세한 내용은 FAQ를 확인해 주십시오"
+      "Non puoi iniziare a misurare il sonno\nperché l'orario attuale del dispositivo\nsi sovrappone a quello di una sessione\ngià misurata.\nPer ulteriori informazioni, consulta\nla pagina delle domande frequenti."
     ],
     "Home_SCENE_MissionGoalCutin_Badge_Title": [
-      "등록 완료"
+      "registrati"
     ],
     "Home_SCENE_MissionGoalCutin_Complete_Title": [
-      "잠자는 모습 등록 달성!"
+      "stili in totale!"
     ],
     "Home_SCENE_MissionGoalCutin_RewardTitle": [
-      "획득한 보상"
+      "Ricompense ricevute"
     ],
     "Home_SCENE_MissionGoalPopup_Button_Close": [
-      "닫는다"
+      "Chiudi"
     ],
     "Home_SCENE_MissionGoalPopup_Button_Complete": [
-      "목표 달성!"
+      "Ricevi ricompense"
     ],
     "Home_SCENE_MissionGoalPopup_Button_SleepingFacePokedex": [
-      "잠자는 모습 도감으로"
+      "Sonnodex"
     ],
     "Home_SCENE_MissionGoalPopup_ContentTitle": [
-      "목표 달성 보상"
+      "Ricompense obiettivo Sonnodex"
     ],
     "Home_SCENE_MissionGoalPopup_Content_IconNumber": [
-      "x\u000e\u0002\u0002\u0002",
+      "×\u000e\u0002\u0002\u0002",
       ""
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_1": [
-      "새로운 필드를 개방한다\n[\u000e\u0003\u000e\u0002",
-      "]"
+      "Sblocca nuova area:\n\u000e\u0003\u0003\u0004Ā촀"
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_2": [
-      "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0004\u0004\u0002촁"
+      "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0004\u0004\u0002촁"
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_2_NoNumber": [
       "\u000e\u0003\u0003\u0004Ā촀"
     ],
     "Home_SCENE_MissionGoalPopup_Desc_1": [
-      "다음 잠자는 모습 도감 목표"
+      "Obiettivo Sonnodex:"
     ],
     "Home_SCENE_MissionGoalPopup_NextUpdate_Message": [
-      "새로운 잠자는 모습 도감 목표가 추가될 때까지\n업데이트를 기다려 주십시오"
+      "Hai completato tutti gli obiettivi\ndel Sonnodex!\nAttendi aggiornamenti futuri,\nche potrebbero includere nuovi\nobiettivi!"
     ],
     "Home_SCENE_MissionGoalPopup_NextUpdate_Title": [
-      "모든 잠자는 모습 도감 목표 달성"
+      "Obiettivi completati!"
     ],
     "Home_SCENE_MissionGoalPopup_SleepTypeNumber_1": [
       "\u000e\u0002\u0002\u0002",
-      "/\u000e\u0002\u0002\u0002\u0001종류"
+      "/\u000e\u0002\u0002\u0002\u0001 stili"
     ],
     "Home_SCENE_MissionGoalPopup_SleepTypeNumber_2": [
-      "\u000e\u0002\u0002\u0002",
-      "종류 달성!"
+      "Studia \u000e\u0002\u0002\u0002",
+      " stili!"
     ],
     "Home_SCENE_MissionGoalPopup_Title": [
-      "잠자는 모습 도감 목표"
+      "Obiettivo Sonnodex"
     ],
     "ItemSelectCell_Text_1": [
-      "이미 사용 중입니다"
+      "Già in uso"
     ],
     "SnorlaxHomeObject_FeedBalloon": [
-      "아침밥"
+      "Colazione"
     ],
     "SnorlaxHomeObject_NextTime_Breakfast": [
-      "6:00~"
+      "06:00"
     ],
     "SnorlaxHomeObject_NextTime_Dinner": [
-      "18:00~"
+      "18:00"
     ],
     "SnorlaxHomeObject_NextTime_Lunch": [
-      "12:00~"
+      "12:00"
     ],
     "SnorlaxHomeObject_Title": [
-      "다음 요리"
+      "Prossimo pasto"
     ],
     "SnorlaxRankListCell_NeedEnergy": [
-      "필요 에너지: \u000e\u0002\t\u0004",
+      "Potenza richiesta: \u000e\u0002\t\u0004",
       "촁"
     ],
     "SnorlaxRankListCell_NeedEnergyNone": [
-      "필요 에너지: 없음"
+      "Potenza richiesta: 0"
     ],
     "WeeklyMission_Notification_Badge": [
-      "CLEAR"
+      "Fatto!"
     ],
     "WeeklyMission_Notification_Title": [
-      "미션 달성"
+      "Missione completata!"
     ]
   },
   "structure": {
@@ -2433,7 +2470,7 @@
     "TXT2": {
       "header": {
         "entries": 240,
-        "size": 15200,
+        "size": 30156,
         "unknown1": 0,
         "unknown2": 0
       }

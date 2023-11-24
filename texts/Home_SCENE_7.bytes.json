@@ -1,22 +1,22 @@
 {
   "strings": {
     "FieldObject_CookingExpandObjectBalloon": [
-      "Casserole"
+      "Pentola"
     ],
     "FieldObject_SleepConsumableItemObjectBalloon": [
-      "Encens"
+      "Aroma"
     ],
     "FieldObject_TentCampSetBalloon": [
-      "Kit de camping"
+      "Set da campeggio"
     ],
     "GPPHomePopup_ConnectButton": [
-      "Connexion"
+      "Connetti"
     ],
     "GPPHomePopup_OthersLabel": [
-      "Autres"
+      "Altro"
     ],
     "GPPHomePopup_SettingsLabel": [
-      "Paramètres"
+      "Impostazioni"
     ],
     "GPPHomePopup_SyncDate": [
       "\u000e\t",
@@ -24,25 +24,25 @@
       ""
     ],
     "GPPHomePopup_SyncDateTitle": [
-      "Dernière synchro. :"
+      "Sincronizzato il:"
     ],
     "GPPHomePopup_Title_2": [
-      "Réveil"
+      "Sveglia"
     ],
     "GPPHomePopup_Title_3": [
-      "Notification coucher"
+      "Notifica ora\ndi dormire"
     ],
     "GPPHomePopup_Title_4": [
-      "Heure du dodo"
+      "Ora di dormire"
     ],
     "GPPHomePopup_Title_5": [
-      "Mesurer avec votre appareil"
+      "Misura il sonno con il telefono"
     ],
     "GPPHomePopup_Title_6": [
-      "Lire des articles d'aide"
+      "Vedi pagine di aiuto"
     ],
     "GPPHomePopup_Title_7": [
-      "Dissocier le Pokémon GO Plus +"
+      "Rimuovi Pokémon GO Plus +"
     ],
     "GPPHomePopup_Value": [
       "\u000e\t",
@@ -63,145 +63,145 @@
       "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0002\u0002\u0002"
     ],
     "HomeFavoriteFoodPopup_Message": [
-      "Nourrissez Ronflex avec ses Baies préférées\npour qu'il gagne \u000e",
-      "\u0003\u0004毿Ｗdeux fois plus\u000e",
+      "Dando a Snorlax le sue bacche preferite,\nla potenza da lui ottenuta \u000e",
+      "\u0003\u0004旾ｷraddoppia\u000e",
       "\u0003\u0004",
-      "＀ de puissance."
+      "＀."
     ],
     "HomeFavoriteFoodPopup_Title": [
-      "Baies préférées de ce Ronflex :"
+      "Bacche preferite di questo Snorlax"
     ],
     "HomeGPPController_Text_1": [
-      "Dissocier le Pokémon GO Plus +"
+      "Rimuovi Pokémon GO Plus +"
     ],
     "HomeGPPController_Text_2": [
-      "Si vous dissociez votre Pokémon GO\nPlus +, toutes vos données de sommeil\nnon enregistrées sur Pokémon Sleep\nseront perdues. Continuer ?"
+      "Se rimuovi Pokémon GO Plus +,\ni dati del sonno non sincronizzati\ncon Pokémon Sleep andranno perduti.\nVuoi rimuoverlo comunque?"
     ],
     "HomeGPPController_Text_3": [
-      "Dissocier"
+      "Rimuovi"
     ],
     "HomeGoNextMapNotification_Text_1": [
-      "Missions"
+      "Missioni"
     ],
     "HomeGoNextMapNotification_Text_2": [
-      "Certaines récompenses de missions\nn'ont pas encore été récupérées. Si\nvous quittez cette zone, elles seront\ndéfinitivement perdues. Continuer ?"
+      "Ci sono missioni per cui non hai ancora\nricevuto ricompense. Se cambi punto,\nnon potrai più ottenerle.\nVuoi spostarti comunque?"
     ],
     "HomeGoNextMapNotification_Text_3": [
-      "Changer de zone"
+      "Spostati"
     ],
     "HomeMainHeader_Text_1": [
-      "Encore \u000e\u0002\u0002\u0002",
-      ""
+      "\u000e\u0002\u0002\u0002",
+      " stili"
     ],
     "HomePokemonExpGage_LevelNum": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomePokemonExpGage_LevelUnit": [
-      "N."
+      "L."
     ],
     "HomePokemonExpGage_LevelupText": [
-      "NIVEAU + 1 !"
+      "Sali di livello!"
     ],
     "HomePokemonExpGage_Text_1": [
       "+\u000e\u0002\u0002\u0002",
-      " % bonus"
+      "% bonus"
     ],
     "HomePowerRecoveryPopup_Bonus": [
       "Bonus × \u000e\u0002\u0003\u0004",
       "촁"
     ],
     "HomePowerRecoveryPopup_BonusEXPPopup_Title": [
-      "Bonus d'expérience"
+      "Bonus PE"
     ],
     "HomePowerRecoveryPopup_BonusEnergyPopup_Title": [
-      "Bonus d'énergie"
+      "Bonus energia"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList": [
-      "Liste des bonus"
+      "Lista bonus"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Event": [
-      "Évènement"
+      "Evento"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Incense": [
-      "Encens"
+      "Aroma"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_NoBonus": [
-      "Aucun bonus actif en ce moment."
+      "Nessun bonus attualmente attivo."
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_Note": [
-      "Les bonus pour les Pokémon individuels seront déclenchés séparément."
+      "I bonus dei singoli Pokémon saranno\nattivati separatamente."
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusList_SubSkill": [
-      "Compétence Secondaire du Pokémon"
+      "Abilità secondaria Pokémon"
     ],
     "HomePowerRecoveryPopup_BonusPopup_BonusValue": [
-      " × \u000e\u0002\u0003\u0004",
+      " ×\u000e\u0002\u0003\u0004",
       "촁"
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1": [
-      "Tous les Pokémon dans votre Boîte\nrécupéreront une quantité d'énergie égale\nà 5 % de votre score de sommeil."
+      "Tutti i Pokémon nel box recupereranno\nuna quantità di energia pari al 5%\ndel tuo punteggio sonno."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_1": [
-      "Cela ne s'applique pas aux Pokémon\nactuellement dans votre équipe."
+      "Sono esclusi i Pokémon attualmente\nin squadra."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_2": [
-      "Si vous utilisez un Encens Récupération,\nla quantité d'énergie récupérée sera égale\nà 10 % de votre score de sommeil."
+      "Se stai usando un Risanaroma, la quantità\ndi energia recuperata sarà pari al 10%\ndel tuo punteggio sonno."
     ],
     "HomePowerRecoveryPopup_BoxEnergy_Text_1_3": [
-      "Les ajustements de récupération d'énergie\nbasée sur la nature de chaque Pokémon\nseront appliqués séparément."
+      "Le modifiche al recupero di energia\ndovute alla natura dei singoli Pokémon\nsaranno applicate separatamente."
     ],
     "HomePowerRecoveryPopup_Num": [
       "\u000e\u0002\u0002\u0002",
-      " %"
+      "%"
     ],
     "HomePowerRecoveryPopup_Num_2": [
       "\u000e\u0002\u0002\u0002",
       " "
     ],
     "HomePowerRecoveryPopup_OKButton": [
-      "OK"
+      "Ok"
     ],
     "HomePowerRecoveryPopup_Score": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomePowerRecoveryPopup_Title": [
-      "Votre session de sommeil"
+      "Ultima dormita"
     ],
     "HomePowerRecoveryPopup_Title_2": [
-      "Croissance des soutiens"
+      "Crescita dei Pokémon aiutanti"
     ],
     "HomePowerRecoveryPopup_Title_3": [
-      "Énergie récupérée"
+      "Energia recuperata"
     ],
     "HomePowerRecoveryPopup_Title_4": [
-      "EXP obtenus"
+      "PE ottenuti"
     ],
     "HomePowerRecoveryPopup_Title_5": [
-      "Boîte et énergie"
+      "Energia nel box"
     ],
     "HomePowerRecoveryPopup_Title_inner": [
-      "Score de sommeil"
+      "Punteggio sonno"
     ],
     "HomePowerRecoveryPopup_Unit_2": [
-      "EXP"
+      "PE"
     ],
     "HomePromisePopup_CardButton": [
-      "Voir la Carte Cadodo"
+      "Guarda la tessera timbri"
     ],
     "HomePromisePopup_ChangeButton": [
-      "Sauvegarder"
+      "Salva"
     ],
     "HomePromisePopup_Desc": [
-      "Essayez de vous coucher entre \u000e\t",
+      "Dormi tra le ore \u000e\t",
       "\u000e\nhh:mm",
-      "\net \u000e\t",
-      "\u000e\nhh:mm\u0001 !\nUne notification sera envoyée à \u000e\t",
+      " e le ore \u000e\t",
+      "\u000e\nhh:mm\u0001.\nNotifica push promemoria alle ore \u000e\t",
       "\u000e\nhh:mm\u0002."
     ],
     "HomePromisePopup_SetTargetTimeButton": [
-      "Changer l'heure fixée"
+      "Cambia ora di dormire"
     ],
     "HomePromisePopup_TargetTime": [
       "\u000e\t",
@@ -209,113 +209,105 @@
       ""
     ],
     "HomePromisePopup_Text_1": [
-      "Confirmation de la réinitialisation"
+      "Conferma modifica"
     ],
     "HomePromisePopup_Text_2": [
-      "Modifier votre objectif réinitialisera\nvotre Carte Cadodo à partir du jour 1."
+      "Se cambi l'ora di dormire, la tessera\nverrà azzerata."
     ],
     "HomePromisePopup_Title": [
-      "Heure du dodo"
+      "Ora di dormire"
     ],
     "HomePromisePopup_Title_2": [
-      "Heure du dodo souhaitée"
+      "Ora di dormire giornaliera"
     ],
     "HomePromisePopup_Title_3": [
-      "Heure du dodo"
+      "Ora di dormire"
     ],
     "HomePromiseStampCardPopup_Day": [
-      "Jour \u000e\u0002\u0002\u0002",
-      ""
+      "\u000e\u0002\u0002\u0002",
+      "° giorno"
     ],
     "HomePromiseStampCardPopup_RewardNum": [
       "×\u000e\u0002\u0001\u0002",
       ""
     ],
     "HomePromiseStampCardPopup_Text_3": [
-      "Récompenses"
+      "Ricompense"
     ],
     "HomePromiseStampCardPopup_Title": [
-      "Carte Cadodo nº \u000e\u0002\u0002\u0002",
+      "Tessera timbri n° \u000e\u0002\u0002\u0002",
       ""
     ],
     "HomePromiseTimeChangeConfirmPopup_Desc_1": [
-      "Changer votre heure du dodo\nréinitialisera votre Carte Cadodo."
+      "La modifica all'ora di dormire azzera\nla tessera timbri."
     ],
     "HomePromiseTimeChangeConfirmPopup_Desc_2": [
-      "Appliquer la modification ?"
+      "Vuoi davvero cambiarla?"
     ],
     "HomePromiseTimeChangeConfirmPopup_Title": [
-      "Confirmer"
+      "Conferma"
     ],
     "HomeSceneGraphicText_PremiumPass": [
       "PASS\nPREMIUM"
     ],
     "HomeSceneOverflowController_Text_1": [
-      "Sac plein"
+      "Borsa piena"
     ],
     "HomeSceneOverflowController_Text_2": [
-      "La poche à ingrédients de votre Sac\nest pleine. Ouvrir le Sac ?"
+      "La tasca ingredienti della Borsa\nè piena. Vuoi aprire la Borsa?"
     ],
     "HomeSceneOverflowController_Text_3": [
-      "Voir ingrédients"
+      "Apri Borsa"
     ],
     "HomeSceneOverflowController_Text_6": [
-      "La poche à objets de votre Sac\nest pleine. Ouvrir le Sac ?"
+      "La tasca strumenti della Borsa è\npiena. Vuoi aprire la Borsa?"
     ],
     "HomeSceneOverflowController_Text_7": [
-      "Voir objets"
+      "Apri la Borsa"
     ],
     "HomeSceneUIController_Text_1": [
-      "Nouvelle journée"
+      "Un nuovo giorno"
     ],
     "HomeSceneUIController_Text_2": [
-      "Un nouveau jour se lève !\nRetour à l'écran titre."
+      "La data è cambiata!\nRitorno alla schermata del titolo."
     ],
     "HomeSceneUIController_Text_3": [
-      "Sessions de sommeil multiples"
+      "Dormite multiple"
     ],
     "HomeSceneUIController_Text_4_1timeOverMax": [
-      "Vous pouvez toujours mesurer votre\nsommeil aujourd'hui, mais ces mesures\nne pourront pas être utilisées pour\nvos recherches. Le temps de recherche\nmaximal est de 8,5 heures par jour."
+      "Puoi ancora misurare il sonno di oggi,\nma non puoi più fare ricerca sul sonno.\nPer la ricerca vale un massimo di 8 ore\ne 30 minuti di sonno al giorno."
     ],
     "HomeSceneUIController_Text_4_1timeOverMax_B": [
-      "Vous pouvez toujours mesurer votre\nsommeil aujourd'hui, mais ces mesures\nne pourront pas être utilisées pour\nvos recherches. Le temps de recherche\nmaximal est de 11 heures par jour."
+      "Puoi ancora misurare il sonno di oggi,\nma non puoi più fare ricerca sul sonno.\nPer la ricerca vale un massimo\ndi 11 ore di sonno al giorno."
     ],
     "HomeSceneUIController_Text_4_2times": [
-      "Vous entamez votre seconde session\nde sommeil aujourd'hui.\nMême si vous dormez davantage, il ne\nreste plus que \u000e\u0002\u0001\u0002",
-      " heure\u000e\u0004",
-      "\b",
-      "\u0002s촀 et \u000e\u0002\u0001\u0002\u0001 minute\u000e\u0004",
-      "\b",
-      "\u0002s촁\nà attribuer au temps de recherche du jour."
+      "Sembra che questa sia la tua seconda\nsessione di sonno di oggi. Puoi dormire\nquanto vuoi, ma per la ricerca di oggi\nconteranno solo \u000e\u0002\u0001\u0002",
+      " h \u000e\u0002\u0001\u0002\u0001 m."
     ],
     "HomeSceneUIController_Text_4_2times_1ManualVer": [
-      "Vous entamez votre seconde session\nde sommeil aujourd'hui.\nMême si vous dormez davantage, il ne\nreste plus que \u000e\u0002\u0001\u0002",
-      " heure\u000e\u0004",
-      "\b",
-      "\u0002s촀 et \u000e\u0002\u0001\u0002\u0001 minute\u000e\u0004",
-      "\b",
-      "\u0002s촁\nà attribuer au temps de recherche du jour.\nVous n'obtiendrez pas non plus de\nBiscuit Bonus comme récompense de saisie\nmanuelle lors de la prochaine session que\nvous mesurerez à partir de demain."
+      "Sembra che questa sia la tua seconda\nsessione di sonno di oggi. Puoi dormire\nquanto vuoi, ma per la ricerca di oggi\nconteranno solo \u000e\u0002\u0001\u0002",
+      " h \u000e\u0002\u0001\u0002\u0001 m.\nInoltre, a partire dalla prossima\nsessione misurata dopo quella odierna,\nnon riceverai un Biscotto bonus extra\ncome ricompensa per l'inserimento\nmanuale dei dati del sonno."
     ],
     "HomeSceneUIController_Text_5": [
-      "Rapports de sommeil à consulter"
+      "Dati da esaminare"
     ],
     "HomeSceneUIController_Text_6": [
-      "Des données de sommeil n'ont pas\nencore été consultées. Voulez-vous\nles passer en revue maintenant ?"
+      "Ci sono dati ancora da esaminare.\nVuoi esaminarli?"
     ],
     "HomeSceneUIController_Text_7": [
-      "Consulter"
+      "Esamina"
     ],
     "HomeSceneUIController_Text_9": [
-      "Activation de Compétence"
+      "Attiva abilità"
     ],
     "HomeScene_Canvas-FieldChange_Footer_Message": [
-      "Semaine terminée !"
+      "Settimana completata!"
     ],
     "HomeScene_Canvas-FieldChange_Header_Energy_Title": [
-      "Puissance finale"
+      "Potenza raggiunta"
     ],
     "HomeScene_Canvas-UI_Complete_Title": [
-      "Fait !"
+      "Fatto!"
     ],
     "HomeScene_Canvas-UI_Energy": [
       "\u000e\u0002\t\u0004",
@@ -326,38 +318,38 @@
       "/\u000e\u0002\u0002\u0002\u0001"
     ],
     "HomeScene_Canvas-UI_GPPButton": [
-      "GO Plus +"
+      "GO Plus+"
     ],
     "HomeScene_Canvas-UI_LeftTitle": [
-      "Encore"
+      "Trova"
     ],
     "HomeScene_Canvas-UI_Level": [
       "\u000e\u0002\u0002\u0002",
       ""
     ],
     "HomeScene_Canvas-UI_MainMenuButton": [
-      "Menu principal"
+      "Menu principale"
     ],
     "HomeScene_Canvas-UI_MissionButton": [
-      "Missions"
+      "Missioni"
     ],
     "HomeScene_Canvas-UI_MoveButton": [
-      "Choisir la prochaine zone"
+      "Scegli nuovo punto di ricerca"
     ],
     "HomeScene_Canvas-UI_Name": [
-      "Ronflex"
+      "Snorlax"
     ],
     "HomeScene_Canvas-UI_PokemonButton": [
       "Pokémon"
     ],
     "HomeScene_Canvas-UI_ShopButton": [
-      "Boutiques"
+      "Negozi"
     ],
     "HomeScene_Canvas-UI_SleepButton": [
-      "Dormir"
+      "Dormi"
     ],
     "HomeScene_Canvas-UI_SleepMileButton": [
-      "Pass Dodo"
+      "Pass sonno"
     ],
     "HomeScene_Canvas-UI_SleepMile_GetPoint": [
       "+\u000e\u0002\u0002\u0002",
@@ -365,10 +357,10 @@
     ],
     "HomeScene_Canvas-UI_SleepMile_GetPoint_Overflow": [
       "\u000e\u0002\u0002\u0002",
-      " +"
+      "+"
     ],
     "HomeScene_Canvas-UI_SleepPowerLabel": [
-      "Puissance"
+      "Potenza"
     ],
     "HomeScene_Canvas-UI_SleepReportGPP_1": [
       "\u000e",
@@ -377,169 +369,190 @@
       "＀"
     ],
     "HomeScene_Canvas-UI_SleepReportGPP_2": [
-      "Synchroniser"
+      "Sincronizza"
     ],
     "HomeScene_Canvas-UI_SleepReportNotification": [
-      "Rapports de sommeil\nà consulter"
+      "Rapporti sul sonno\nnon esaminati"
     ],
     "HomeScene_Canvas-UI_SleepReportNotification_WeekChange": [
-      "Rapports pendant\nla maintenance"
+      "Rapporti sul sonno\nnella manutenzione"
     ],
     "HomeScene_Canvas-UI_SleepReportWeekChange_LaterPopup": [
-      "Une fois vos rapports lus,\nvous pouvez synchroniser\nles données avec votre\nPokémon GO Plus +."
+      "Se hai finito di esaminare\ni rapporti sul sonno, puoi\nsincronizzare i dati\ncon Pokémon GO Plus +."
     ],
     "HomeScene_Canvas-UI_SleepStartSkipButton": [
-      "Passer"
+      "Salta"
     ],
     "HomeScene_Canvas-UI_SyncBalloon": [
-      "Synchro. des\ndonnées"
+      "Sincronizza\ndati sonno"
     ],
     "HomeScene_Canvas-UI_Title": [
-      "Rang"
+      "Grado"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_1": [
-      "L'évènement « \u000e",
-      "\u0003\u0004糿＇Semaine Évoli 2023\u000e",
+      "L'evento \"\u000e",
+      "\u0003\u0004糿＇Settimana di Eevee 2023\u000e",
       "\u0003\u0004",
-      "＀ » commence\nle lundi 20 novembre à 04:00 !"
+      "＀\" inizierà\nalle ore 04:00 di lunedì 20 novembre!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_2": [
-      "La Semaine Évoli est un évènement organisé\npour fêter la Journée Évoli (le 21 novembre),\nau long duquel \u000e",
-      "\u0003\u0004糿＇Évoli et ses évolutions seront\nplus susceptibles de venir dormir à vos côtés\u000e",
+      "L'evento \"Settimana di Eevee 2023\" celebra\nla festa di Eevee (21 novembre). Per tutta\nla settimana dell'evento \u000e",
+      "\u0003\u0004糿＇ci saranno più\u000e",
       "\u0003\u0004",
-      "＀ !\nDes Pokémon de \u000e",
-      "\u0003\u0004糿＇plein de types de dodo variés\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇probabilità che durante il sonno appaiano\u000e",
       "\u0003\u0004",
-      "＀\napparaîtront, sans tenir compte du vôtre, et\nÉvoli et ses évolutions \u000e",
-      "\u0003\u0004毿Ｗen feront\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇Eevee e le sue evoluzioni\u000e",
       "\u0003\u0004",
-      "＀ \u000e",
-      "\u0003\u0004糿＇plus\nfréquemment partie\u000e",
+      "＀! Potrai incontrare\nPokémon con \u000e",
+      "\u0003\u0004糿＇vari tipi di sonno\u000e",
       "\u0003\u0004",
-      "＀.\nVous pourrez peut-être même\nvoir un Évoli chromatique !"
+      "＀ non legati\nal tuo tipo, e ci saranno \u000e",
+      "\u0003\u0004糿＇più probabilità\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇che appaiano\u000e",
+      "\u0003\u0004",
+      "＀ Eevee e le sue evoluzioni.\nPotresti persino incontrare un Eevee\ncromatico!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_3": [
-      "De plus, si vous menez des recherches sur\nle sommeil pendant la Journée Évoli\n(le 21 novembre), vous pourrez obtenir\n1 121 dodopoints bonus !\nVous pourrez aussi obtenir de belles\nrécompenses telles que des Encens Évoli via\ndes missions spéciales qui seront ajoutées\naux missions régulières.\nEn outre, pendant la Semaine Évoli,\nles Compétences Principales de vos Pokémon de\nsoutien seront plus susceptibles de s'activer.\nPuissent-ils vous être d'une grande aide !"
+      "Inoltre, facendo la ricerca sul sonno il giorno\ndella festa di Eevee (21 novembre) potrai\nottenere 1.121 punti sonno bonus.\nPotrai anche ottenere ottime ricompense,\ncome l'Aroma Eevee, con le missioni speciali\ndisponibili in aggiunta a quelle normali.\nE in più, durante la settimana di Eevee\nle abilità principali di tutti i Pokémon aiutanti\navranno maggiori probabilità di attivarsi!\nApprofittane per trarre il massimo vantaggio\ndall'aiuto extra dei tuoi Pokémon!"
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_4": [
-      "• Déroulement de l'évènement\nPour participer, c'est facile !\nPendant l'évènement, appuyez simplement sur\nle bouton « Dormir » pour mesurer votre\nsommeil.\nDivers effets relatifs à l'évènement seront\ndéclenchés pendant vos recherches.\nNote : Les bonus d'évènement peuvent être\nactivés dans n'importe quelle zone. Les effets\nci-dessous seront appliqués pendant la période\nde l'évènement."
+      "• Come si svolge l'evento\nPartecipare all'evento è facile!\nBasta toccare l'icona \"Dormi\" nel periodo\ndell'evento per misurare il sonno.\nDurante la ricerca sul sonno si attiveranno\nuna serie di effetti legati all'evento.\nAttenzione: i bonus di questo evento si possono\nattivare in qualunque area. Nel periodo\ndell'evento saranno attivi gli effetti descritti\ndi seguito."
     ],
     "HomeScene_EeveeWeek_BannerPopup_Text_5": [
       "\u000e",
-      "\u0003\u0004糿＇Journée Évoli (le 21 novembre)\u000e",
+      "\u0003\u0004糿＇Festa di Eevee (21 novembre)\u000e",
       "\u0003\u0004",
-      "＀\n• \u000e",
-      "\u0003\u0004糿＇Taux d'apparition accru pour Évoli et ses \névolutions\u000e",
+      "＀\n• Durante la ricerca sul sonno sarà \u000e",
+      "\u0003\u0004糿＇più probabile\u000e",
       "\u0003\u0004",
-      "＀ pendant vos recherches.\n• \u000e",
-      "\u0003\u0004糿＇Plusieurs Pokémon avec divers types de dodo\napparaîtront\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇incontrare Eevee e le sue evoluzioni\u000e",
       "\u0003\u0004",
-      "＀ pendant vos recherches, et ce,\nquel que soit votre type de dodo ce jour-là.\n• Chance de rencontrer un Évoli chromatique.\n• \u000e",
-      "\u0003\u0004糿＇+ 1 121\u000e",
+      "＀.\n• Durante la ricerca sul sonno \u000e",
+      "\u0003\u0004糿＇appariranno\u000e",
       "\u0003\u0004",
-      "＀ dodopoints bonus.\n• Les Compétences Principales de tous les\nPokémon de soutien s'activeront \u000e",
-      "\u0003\u0004糿＇\u000e\u0002\u0001\u0002",
-      " fois plus\nsouvent\u000e",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇molti Pokémon con vari tipi di sonno\u000e",
       "\u0003\u0004",
-      "＀ !"
-    ],
-    "HomeScene_EeveeWeek_BannerPopup_Text_6": [
+      "＀\nindipendentemente dal proprio tipo di sonno.\n• Potresti incontrare un Eevee cromatico.\n• \u000e",
+      "\u0003\u0004糿＇+1.121\u000e",
+      "\u0003\u0004",
+      "＀ punti sonno bonus.\n• Probabilità di attivazione delle abilità\nprincipali degli aiutanti \u000e",
+      "\u0003\u0004糿＇x\u000e\u0002\u0001\u0002",
       "\u000e",
-      "\u0003\u0004糿＇Autres jours (les 20 et 22-26 novembre)\u000e",
-      "\u0003\u0004",
-      "＀\n• \u000e",
-      "\u0003\u0004糿＇Taux d'apparition accru pour Évoli et ses\névolutions\u000e",
-      "\u0003\u0004",
-      "＀ pendant vos recherches.\n• \u000e",
-      "\u0003\u0004糿＇Quelques Pokémon avec divers types de dodo\napparaîtront\u000e",
-      "\u0003\u0004",
-      "＀ pendant vos recherches, et ce,\nquel que soit votre type de dodo ce jour-là.\n• Possibilité de rencontrer un Évoli chromatique.\n• Les Compétences Principales de tous les\nPokémon de soutien s'activeront \u000e",
-      "\u0003\u0004糿＇\u000e\u0002\u0001\u0002",
-      " fois\nplus souvent\u000e",
-      "\u0003\u0004",
-      "＀ !"
-    ],
-    "HomeScene_EeveeWeek_BannerPopup_Text_7": [
-      "• Les Pokémon plus faciles à croiser pendant\nl'évènement\nVoici la liste des Pokémon que vous serez plus\nsusceptible de rencontrer !"
-    ],
-    "HomeScene_EeveeWeek_BannerPopup_Text_8": [
-      "\u000e",
-      "\u0003\u0004糿＇Bien plus fréquent :\u000e",
-      "\u0003\u0004",
-      "＀\nÉvoli\n\u000e",
-      "\u0003\u0004糿＇Plus fréquents :\u000e",
-      "\u0003\u0004",
-      "＀\nAquali, Voltali, Pyroli, Mentali, Noctali,\nPhyllali, Givrali, Nymphali\nNote : Évoli est bien plus fréquent dans toutes\nles zones.\nLes autres Pokémon apparaissent plus\nfréquemment dans leurs zones respectives."
-    ],
-    "HomeScene_EeveeWeek_BannerPopup_Text_9": [
-      "Pour plus d'informations sur l'évènement,\nveuillez consulter les annonces en jeu."
-    ],
-    "HomeScene_EeveeWeek_BannerPopup_Title": [
-      "Semaine Évoli"
-    ],
-    "HomeScene_EventPopup_Text_1": [
-      "Les \u000e",
-      "\u0003\u0004毿ＷCompétences\u000e",
-      "\u0003\u0004",
-      "＀ de tous les Pokémon de\nsoutien s'activeront \u000e",
-      "\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002",
-      " fois plus souvent\u000e",
-      "\u0003\u0004",
-      "＀ !"
-    ],
-    "HomeScene_Event_Popup_Start": [
-      "En ce moment"
-    ],
-    "HomeScene_Event_Popup_Start_Button": [
-      "Voir les détails"
-    ],
-    "HomeScene_FieldChangeDialog_Doctor_1": [
-      "Bon travail cette semaine ! On\ndirait que tu es de plus en plus\nà l'aise avec les recherches ici."
-    ],
-    "HomeScene_FieldChangeDialog_Doctor_2": [
-      "L'heure est venue de dire au\nrevoir à Ronflex et de choisir la\nzone de recherche de la semaine."
-    ],
-    "HomeScene_FieldChangeDialog_Doctor_3": [
-      "On dirait que tu n'as effectué\naucune recherche sur le sommeil\navec ce Ronflex."
-    ],
-    "HomeScene_FieldChangeDialog_Doctor_4": [
-      "L'heure est maintenant venue de\nchanger de zone. Il va falloir lui\ndire au revoir."
-    ],
-    "HomeScene_FieldChangeDialog_Heading": [
-      "Changer de zone"
-    ],
-    "HomeScene_FieldChangeDialog_Player_1": [
-      "Prends soin de toi, Ronflex ! Merci\npour ton aide cette semaine !"
-    ],
-    "HomeScene_FieldChangeDialog_Text": [
-      "Chaque semaine, vous passerez sept jours\n(du lundi au dimanche) à renforcer un Ronflex\nen augmentant sa puissance au gré de\nvos recherches.\nÀ la fin de la semaine, il sera l'heure de\nse séparer de ce Ronflex et de partir pour\nune autre zone à la rencontre d'un nouveau\nRonflex qui vous aidera dans vos recherches."
-    ],
-    "HomeScene_FieldChange_CheckSleepResult_Popup_Text": [
-      "Si vous n'avez pas lu tous vos rapports\navant de changer de zone, ne vous en\nfaites pas ! Vous pourrez les consulter\naprès avoir fait le déplacement.\nLes recherchent s'appuieront sur la\nzone précédente et sur le statut de\nRonflex sur le camp en question."
-    ],
-    "HomeScene_FieldChange_CheckSleepResult_Popup_Title": [
-      "Consultation après déplacement"
-    ],
-    "HomeScene_FieldChange_FieldBonusPopup_FieldBonus": [
-      "Bonus de zone"
-    ],
-    "HomeScene_FieldChange_FieldBonusPopup_FieldBonus_Value": [
-      "\u000e\u0002\u0003\u0004",
-      "촁 %"
-    ],
-    "HomeScene_FieldChange_FieldBonusPopup_Heading": [
-      "Bonus attribué"
-    ],
-    "HomeScene_FieldChange_FieldBonusPopup_Text_1": [
-      "Votre bonus dans cette zone a\naugmenté de \u000e",
-      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
-      "촁 %\u000e",
       "\u0003\u0004",
       "＀."
     ],
+    "HomeScene_EeveeWeek_BannerPopup_Text_6": [
+      "\u000e",
+      "\u0003\u0004糿＇Altri giorni (20/11 e 22-26/11)\u000e",
+      "\u0003\u0004",
+      "＀\n• Durante la ricerca sul sonno sarà \u000e",
+      "\u0003\u0004糿＇più probabile\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇incontrare Eevee e le sue evoluzioni\u000e",
+      "\u0003\u0004",
+      "＀.\n• Durante la ricerca sul sonno \u000e",
+      "\u0003\u0004糿＇appariranno\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004糿＇alcuni Pokémon con vari tipi di sonno\u000e",
+      "\u0003\u0004",
+      "＀\nindipendentemente dal proprio tipo di sonno.\n• Potresti incontrare un Eevee cromatico.\n• Probabilità di attivazione delle abilità\nprincipali degli aiutanti \u000e",
+      "\u0003\u0004糿＇x\u000e\u0002\u0001\u0002",
+      "\u000e",
+      "\u0003\u0004",
+      "＀."
+    ],
+    "HomeScene_EeveeWeek_BannerPopup_Text_7": [
+      "• Pokémon più facili da incontrare durante\nl'evento\nNel periodo dell'evento avrai più probabilità\ndi incontrare i Pokémon indicati di seguito!"
+    ],
+    "HomeScene_EeveeWeek_BannerPopup_Text_8": [
+      "\u000e",
+      "\u0003\u0004糿＇Probabilità di incontro molto più alta:\u000e",
+      "\u0003\u0004",
+      "＀\nEevee\n\u000e",
+      "\u0003\u0004糿＇Probabilità di incontro più alta:\u000e",
+      "\u0003\u0004",
+      "＀\nVaporeon, Jolteon, Flareon, Espeon, Umbreon,\nLeafeon, Glaceon, Sylveon\n\nNote: la probabilità molto più alta di incontrare\nEevee vale per tutte le aree.\nLa probabilità più alta di incontrare gli altri\nPokémon vale solo nelle singole aree dove\nappare ciascuno di loro."
+    ],
+    "HomeScene_EeveeWeek_BannerPopup_Text_9": [
+      "Per altre informazioni sull'evento, controlla\nla sezione \"Novità\" del gioco."
+    ],
+    "HomeScene_EeveeWeek_BannerPopup_Title": [
+      "Settimana di Eevee"
+    ],
+    "HomeScene_EventPopup_Text_1": [
+      "\u000e",
+      "\u0003\u0004毿ＷProbabilità di attivazione delle abilità\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗprincipali\u000e",
+      "\u0003\u0004",
+      "＀ di tutti i Pokémon aiutanti \u000e",
+      "\u0003\u0004毿Ｗ×\u000e\u0002\u0001\u0002",
+      "!\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
+    "HomeScene_Event_Popup_Start": [
+      "In corso"
+    ],
+    "HomeScene_Event_Popup_Start_Button": [
+      "Vedi info"
+    ],
+    "HomeScene_FieldChangeDialog_Doctor_1": [
+      "Hai fatto un ottimo lavoro questa\nsettimana! Ci stai prendendo\nla mano a fare ricerca qui."
+    ],
+    "HomeScene_FieldChangeDialog_Doctor_2": [
+      "Ora purtroppo bisogna salutare\nSnorlax! Dobbiamo scegliere dove\nstabilirci la prossima settimana."
+    ],
+    "HomeScene_FieldChangeDialog_Doctor_3": [
+      "Sembra che tu non abbia fatto\nnessuna ricerca sul sonno\ncon questo Snorlax."
+    ],
+    "HomeScene_FieldChangeDialog_Doctor_4": [
+      "È ora di scegliere il punto\nper la ricerca della settimana,\nquindi dovrete salutarvi qui."
+    ],
+    "HomeScene_FieldChangeDialog_Heading": [
+      "Cambiare punto"
+    ],
+    "HomeScene_FieldChangeDialog_Player_1": [
+      "Grazie per averci aiutato nello\nstudio questa settimana!\nCiao ciao, Snorlax!"
+    ],
+    "HomeScene_FieldChangeDialog_Text": [
+      "Ogni settimana passerai sette giorni,\ndal lunedì alla domenica, a far crescere\nuno Snorlax diverso, aumentando\nla sua potenza mentre fai la ricerca\nsul sonno. Alla fine della settimana dovrai\nsalutare quello Snorlax, cambiare punto\ndi ricerca e cercare un altro Snorlax\nche ti aiuti nei tuoi studi."
+    ],
+    "HomeScene_FieldChange_CheckSleepResult_Popup_Text": [
+      "Se quando cambi punto hai ancora\ndei rapporti sul sonno da esaminare,\nnon preoccuparti! Potrai esaminarli\ndopo: la ricerca sarà basata sul punto\nin cui ti trovavi e sulle condizioni\ndi Snorlax prima che ti spostassi."
+    ],
+    "HomeScene_FieldChange_CheckSleepResult_Popup_Title": [
+      "Esamina dopo aver cambiato punto"
+    ],
+    "HomeScene_FieldChange_FieldBonusPopup_FieldBonus": [
+      "Bonus area"
+    ],
+    "HomeScene_FieldChange_FieldBonusPopup_FieldBonus_Value": [
+      "\u000e\u0002\u0003\u0004",
+      "촁%"
+    ],
+    "HomeScene_FieldChange_FieldBonusPopup_Heading": [
+      "Bonus attivato"
+    ],
+    "HomeScene_FieldChange_FieldBonusPopup_Text_1": [
+      "Aumento bonus\nper l'area: \u000e",
+      "\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004",
+      "촁%\u000e",
+      "\u0003\u0004",
+      "＀"
+    ],
     "HomeScene_FieldChange_FieldBonusPopup_Text_2": [
       "\u000e",
-      "\u0003\u0004蚆ﾆCe bonus sera attribué au gain de\npuissance du futur Ronflex.\u000e",
+      "\u0003\u0004蚆ﾆIl bonus varrà per il potenziamento\ndegli Snorlax futuri cresciuti qui.\u000e",
       "\u0003\u0004",
       "＀"
     ],
@@ -547,233 +560,259 @@
       "\u000e\u0003\u0003\u0004Ā촀"
     ],
     "HomeScene_GSD_WhatPopup_Text_1": [
-      "Profitez de la pleine lune pour faire le plein de sommeil !\nCe mois-ci, la Journée du Doux Dodo aura lieu du \u000e\t",
+      "Dormite da Campioni con la luna piena!\nPeriodo dell'evento \"Giorno sogni d'oro\"\ndi questo mese:\n\u000e",
+      "\u0003\u0004ꈝ￿\u000e\t",
       "\u000e\nMM/dd",
-      " au \u000e\t",
-      "\u000e\nMM/dd\u0001. Profitez d'une \u000e",
-      "\u0003\u0004ꈝ￿dodoforce multipliée par \u000e\u0002\u0001\u0002\u0002 pour votre Ronflex\u000e",
+      " - \u000e\t",
+      "\u000e\nMM/dd\u0001\u000e",
       "\u0003\u0004",
-      "＀ pour toute session de sommeil effectuée pendant cette période, et même \u000e",
-      "\u0003\u0004ꈝ￿multipliée par \u000e\u0002\u0001\u0002\u0004\u000e",
+      "＀.\nNelle ricerche sul sonno, il potere sonno di\nSnorlax sarà \u000e",
+      "\u0003\u0004ꈝ￿moltiplicato per \u000e\u0002\u0001\u0002\u0002\u000e",
       "\u0003\u0004",
-      "＀ la nuit de la pleine lune, le \u000e\t",
-      "\u000e\nMM/dd\u0003.\nProfitez de l'évènement pour dormir le plus possible et découvrir de nombreux styles de dodo !\n"
+      "＀ e \u000e",
+      "\u0003\u0004ꈝ￿nella notte\u000e",
+      "\u0003\u0004",
+      "＀\n\u000e",
+      "\u0003\u0004ꈝ￿di luna piena\u000e",
+      "\u0003\u0004",
+      "＀ (\u000e",
+      "\u0003\u0004ꈝ￿\u000e\t",
+      "\u000e\nMM/dd\u0003\u000e",
+      "\u0003\u0004",
+      "＀) \u000e",
+      "\u0003\u0004ꈝ￿per \u000e\u0002\u0001\u0002\u0004\u000e",
+      "\u0003\u0004",
+      "＀.\nApprofittatene per dormire molto e scoprire\ntanti stili di sonno dei Pokémon!"
     ],
     "HomeScene_GSD_WhatPopup_Text_2": [
-      "Consulter les Annonces dans l'application pour plus de détails."
+      "Trovi altre informazioni nella sezione \"Novità\" dell'app."
     ],
     "HomeScene_GSD_WhatPopup_Text_3": [
-      "Participer à un évènement, c'est facile !\nAppuyer simplement sur le bouton « Dormir »\navant de vous coucher pendant l'évènement\npour mesurer votre sommeil.\nDivers effets relatifs à l'évènement seront\ndéclenchés pendant vos recherches."
+      "Partecipare all'evento è facile!\nBasta toccare l'icona \"Dormi\" prima di andare\na dormire nel periodo dell'evento per misurare\nil sonno. Durante la ricerca sul sonno\nsi attiveranno una serie di effetti legati\nall'evento."
     ],
     "HomeScene_GSD_WhatPopup_Text_4": [
       "— \u000e",
-      "\u0003\u0004ꈝ￿Nuit de la pleine lune (\u000e\t",
+      "\u0003\u0004ꈝ￿Notte di luna piena (\u000e\t",
       "\u000e\nMM/dd",
-      ")\u000e",
+      ") \u000e",
       "\u0003\u0004",
-      "＀ —\nDodoforce \u000e",
-      "\u0003\u0004ꈝ￿× \u000e\u0002\u0002\u0002\u0001\n\u000e",
+      "＀—\nPotere sonno \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0001\u000e",
       "\u0003\u0004",
-      "＀Bonus Dodo \u000e",
-      "\u0003\u0004ꈝ￿× \u000e\u0002\u0002\u0002\u0002\u000e",
+      "＀\nPE sonno Pokémon \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0002\u000e",
       "\u0003\u0004",
-      "＀\nDodopoints bonus \u000e",
-      "\u0003\u0004ꈝ￿+ \u000e\u0002\u0004\u0004\u0003촁\u000e",
+      "＀\nPunti sonno bonus \u000e",
+      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\u0003촁\u000e",
       "\u0003\u0004",
       "＀\n\n— \u000e",
-      "\u0003\u0004ꈝ￿Les autres jours (\u000e\t",
+      "\u0003\u0004ꈝ￿Altri giorni (\u000e\t",
       "\u000e\nMM/dd\u0004, \u000e\t",
-      "\u000e\nMM/dd\u0005)\u000e",
+      "\u000e\nMM/dd\u0005) \u000e",
       "\u0003\u0004",
-      "＀ —\nDodoforce \u000e",
-      "\u0003\u0004ꈝ￿× \u000e\u0002\u0002\u0002\u0006\u000e",
+      "＀—\nPotere sonno\u000e",
+      "\u0003\u0004ꈝ￿ ×\u000e\u0002\u0002\u0002\u0006\u000e",
       "\u0003\u0004",
-      "＀\nBonus Dodo \u000e",
-      "\u0003\u0004ꈝ￿× \u000e\u0002\u0002\u0002\u0007\u000e",
+      "＀\nPE sonno Pokémon \u000e",
+      "\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0007\u000e",
       "\u0003\u0004",
-      "＀\nDodopoints bonus \u000e",
-      "\u0003\u0004ꈝ￿+ \u000e\u0002\u0004\u0004\b촁\u000e",
+      "＀\nPunti sonno bonus \u000e",
+      "\u0003\u0004ꈝ￿+\u000e\u0002\u0004\u0004\b촁\u000e",
       "\u0003\u0004",
       "＀"
     ],
     "HomeScene_GSD_WhatPopup_Title": [
-      "Journée du doux dodo"
+      "Giorno sogni d'oro"
     ],
     "HomeScene_HalloweenEvent_Popup_Start": [
-      "Évènement d'Halloween"
+      "Evento di Halloween"
     ],
     "HomeScene_Halloween_BannerPopup_Text_1": [
-      "Un évènement aura lieu à partir du 30 octobre\nà 04:00 : \u000e",
-      "\u0003\u0004맿ＯHalloween 2023 : Double dose\nde bonbons\u000e",
+      "Alle ore 04:00 di lunedì 30 ottobre avrà inizio\nl'evento \"\u000e",
+      "\u0003\u0004맿ＯHalloween 2023 - Caramelle doppie\u000e",
       "\u0003\u0004",
-      "＀ !"
+      "＀\"!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_2": [
-      "Des bonbons ou un sort !\nPendant la semaine que dure l'évènement\n« Halloween 2023 : Double dose de bonbons »,\nvous pourrez rencontrer des Pokémon dont\nle type de dodo pourra être différent du vôtre.\nVous remporterez des récompenses alléchantes\ntelles que \u000e",
-      "\u0003\u0004맿Ｏ25 Bonbons Toubon S\u000e",
+      "Dolcetto o scherzetto?\nDurante la settimana dell'evento \"Halloween\n2023 - Caramelle doppie\", potrai incontrare\nPokémon con vari tipi di sonno, non legati\nal tuo tipo. Inoltre, potrai ricevere ricche\nricompense come un totale di \u000e",
+      "\u0003\u0004맿ＯJollymella S ×25\u000e",
       "\u0003\u0004",
-      "＀ via des missions\nspéciales qui seront ajoutées aux missions\nrégulières, et pourrez obtenir \u000e",
-      "\u0003\u0004맿Ｏau moins \u000e\u0002\u0001\u0002",
-      " fois\nplus de Bonbons Pokémon\u000e",
+      "＀\nattraverso missioni speciali aggiunte a quelle\nnormali, e \u000e",
+      "\u0003\u0004맿Ｏun minimo di \u000e\u0002\u0001\u0002",
+      " volte la normale\nquantità di caramelle Pokémon\u000e",
       "\u0003\u0004",
-      "＀ par recherche.\nEssayez de faire le plein de bonbons pendant\nl'évènement ! Et cette fois, vous aurez plus de\nchances de croiser un \u000e",
-      "\u0003\u0004맿ＯPikachu portant un\nchapeau d'Halloween\u000e",
+      "＀ ottenute\ncon la ricerca sul sonno.\nCerca di fare scorta di caramelle durante\nquesto evento! Hai anche molte probabilità\ndi incontrare \u000e",
+      "\u0003\u0004맿ＯPikachu con un cappello\ndi Halloween\u000e",
       "\u0003\u0004",
-      "＀, ainsi que de\u000e",
-      "\u0003\u0004맿Ｏs Pokémon\nSpectre comme Fantominus\u000e",
+      "＀ e \u000e",
+      "\u0003\u0004맿ＯPokémon di tipo Spettro\ncome Gastly\u000e",
       "\u0003\u0004",
-      "＀ ! Avez-vous hâte ?"
+      "＀! Buon divertimento!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_3": [
-      "• Déroulement de l'évènement\nPour participer, c'est facile !\nPendant l'évènement, appuyez simplement sur\nle bouton « Dormir » sur l'\u000e",
-      "\u0003\u0004맿ＯÎle Vertepousse\u000e",
+      "• Come si svolge l'evento\nPartecipare all'evento è facile!\nBasta trovarsi sull'\u000e",
+      "\u0003\u0004毿Ｗ\u000e",
+      "\u0003\u0004맿ＯIsola Erbaverde\u000e",
+      "\u0003\u0004毿Ｗ \u000e",
       "\u0003\u0004",
-      "＀ avant\nde vous coucher pour mesurer votre sommeil.\nDivers effets relatifs à l'évènement seront\ndéclenchés pendant vos recherches.\nNote : Mesurer son sommeil sur une autre carte\nque celle de l'Île Vertepousse n'activera pas\nles bonus. Les effets ci-dessous seront\nappliqués pendant la période de l'évènement."
+      "＀e toccare\nl'icona \"Dormi\" prima di andare a dormire\nnel periodo dell'evento per misurare il sonno.\nDurante la ricerca sul sonno si attiveranno\nuna serie di effetti legati all'evento.\nAttenzione: i bonus dell'evento non\nsi attiveranno se si misura il sonno\nin una mappa diversa dall'Isola Erbaverde.\nNel periodo dell'evento saranno attivi\ngli effetti descritti di seguito."
     ],
     "HomeScene_Halloween_BannerPopup_Text_4": [
       "— \u000e",
-      "\u0003\u0004맿ＯLe jour d'Halloween (31/10) et le dernier jour\nde l'évènement (05/11)\u000e",
+      "\u0003\u0004맿ＯHalloween (31/10) e ultimo giorno \ndell'evento (05/11)\u000e",
       "\u0003\u0004",
-      "＀ —\n• Vous gagnerez \u000e",
+      "＀ —\n• I ricercatori otterranno \u000e",
       "\u0003\u0004맿Ｏ\u000e\u0002\u0001\u0002",
-      " fois plus de bonbons que\nd'habitude\u000e",
+      " volte la normale\nquantità di caramelle\u000e",
       "\u0003\u0004",
-      "＀ après votre première recherche\ndu jour.\n• \u000e",
-      "\u0003\u0004맿ＯPlusieurs Pokémon avec divers types de dodo\napparaîtront\u000e",
+      "＀ per la prima ricerca\nsul sonno della giornata\n• \u000e",
+      "\u0003\u0004맿ＯDurante la ricerca sul sonno appariranno\nmolti Pokémon con vari tipi di sonno\u000e",
       "\u0003\u0004",
-      "＀ pendant vos recherches, et ce,\nquel que soit votre type de dodo ce jour-là.\n• \u000e",
-      "\u0003\u0004맿ＯCertains Pokémon auront plus de chances\nd'apparaître\u000e",
+      "＀\nindipendentemente dal proprio tipo di sonno\n• \u000e",
+      "\u0003\u0004맿ＯAlcuni Pokémon avranno più probabilità\ndi apparire\u000e",
       "\u0003\u0004",
-      "＀ pendant vos recherches."
+      "＀ durante la ricerca sul sonno"
     ],
     "HomeScene_Halloween_BannerPopup_Text_5": [
-      "— Autres jours (30/10 et du 01/11 au 04/11) —\n• Vous gagnerez \u000e",
+      "— \u000e",
+      "\u0003\u0004毿Ｗ\u000e",
+      "\u0003\u0004맿ＯAltri giorni (30/10 e 01-04/11)\u000e",
+      "\u0003\u0004毿Ｗ \u000e",
+      "\u0003\u0004",
+      "＀—\n• I ricercatori otterranno \u000e",
       "\u0003\u0004맿Ｏ\u000e\u0002\u0001\u0002",
-      " fois plus de bonbons que\nd'habitude\u000e",
+      " volte la normale\nquantità di caramelle \u000e",
       "\u0003\u0004",
-      "＀ après votre première recherche\ndu jour.\n• \u000e",
-      "\u0003\u0004맿ＯQuelques Pokémon avec divers types de dodo\napparaîtront\u000e",
+      "＀per la prima ricerca\nsul sonno della giornata\n• \u000e",
+      "\u0003\u0004맿ＯDurante la ricerca sul sonno apparirà\nqualche Pokémon con vari tipi di sonno\u000e",
       "\u0003\u0004",
-      "＀ pendant vos recherches, et ce,\nquel que soit votre type de dodo ce jour-là.\n• \u000e",
-      "\u0003\u0004맿ＯCertains Pokémon auront plus de chances\nd'apparaître\u000e",
+      "＀\nindipendentemente dal proprio tipo di sonno\n• \u000e",
+      "\u0003\u0004맿ＯAlcuni Pokémon avranno più probabilità\ndi apparire\u000e",
       "\u0003\u0004",
-      "＀ pendant vos recherches."
+      "＀ durante la ricerca sul sonno"
     ],
     "HomeScene_Halloween_BannerPopup_Text_6": [
-      "• Les Pokémon plus faciles à croiser pendant\nl'évènement.\nVoici la liste des Pokémon que vous aurez plus\nde chances de rencontrer !"
+      "• Pokémon più facili da incontrare durante\nl'evento\nNel periodo dell'evento avrai più probabilità\ndi incontrare i Pokémon indicati di seguito!"
     ],
     "HomeScene_Halloween_BannerPopup_Text_7": [
       "\u000e",
-      "\u0003\u0004맿ＯBien plus fréquents\u000e",
+      "\u0003\u0004맿ＯProbabilità di incontro molto più alta\u000e",
       "\u0003\u0004",
-      "＀ :\nPikachu (Halloween), Fantominus, Spectrum,\nEctoplasma\n\u000e",
-      "\u0003\u0004맿ＯPlus fréquents\u000e",
+      "＀\nPikachu (Halloween), Gastly, Haunter, Gengar\n\u000e",
+      "\u0003\u0004맿ＯProbabilità di incontro più alta\u000e",
       "\u0003\u0004",
-      "＀ :\nMiaouss, Osselait\n\u000e",
-      "\u0003\u0004맿ＯUn peu plus fréquents\u000e",
+      "＀\nMeowth, Cubone\n\u000e",
+      "\u0003\u0004맿ＯProbabilità di incontro leggermente più alta\u000e",
       "\u0003\u0004",
-      "＀ :\n???, ???"
+      "＀\n???, ???"
     ],
     "HomeScene_Halloween_BannerPopup_Text_8": [
-      "Pour plus d'informations sur l'évènement,\nveuillez consulter les annonces en jeu."
+      "Per altre informazioni sull'evento, controlla\nla sezione \"Novità\" del gioco."
     ],
     "HomeScene_Halloween_BannerPopup_Title": [
-      "Évènement d'Halloween"
+      "Evento di Halloween"
     ],
     "HomeScene_MainSkillFoodBagOver_Text": [
-      "Réarrangez votre Sac afin que vos\nPokémon utilisent leur Compétences\npour trouver des ingrédients."
+      "Fai spazio nella Borsa per permettere\nai Pokémon di raccogliere ingredienti\ncon le loro abilità."
     ],
     "HomeScene_MainSkillFoodBagOver_Title": [
-      "La poche à ingrédients est pleine"
+      "Tasca ingredienti piena"
     ],
     "HomeScene_MainSkillWindow_Title": [
-      "\u000e\u0003\u000b\u0002촀 (N. \u000e\u0002\u0002\u0002\u0001)"
+      "\u000e\u0003\u000b\u0002촀 (L. \u000e\u0002\u0002\u0002\u0001)"
     ],
     "HomeScene_MapChangePopup_Button": [
-      "Changer de zone"
+      "Spostati"
     ],
     "HomeScene_MapChangePopup_Text_1": [
-      "Avant de vous diriger vers un autre site,\nveuillez prendre note des informations\nsuivantes.\nSouhaitez-vous effectuer le déplacement ?"
+      "Vuoi cambiare punto nonostante\nquanto segue?"
     ],
     "HomeScene_MapChangePopup_Text_2": [
-      "\u000e",
-      "\u0003\u0004毿ＷDes récompenses de missions\nn'ont pas encore été récupérées.\u000e",
+      "Non hai ancora \u000e",
+      "\u0003\u0004毿Ｗricevuto\u000e",
       "\u0003\u0004",
-      "＀"
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗle ricompense di alcune missioni\u000e",
+      "\u0003\u0004",
+      "＀."
     ],
     "HomeScene_MapChangePopup_Text_3": [
-      "Si vous quittez cette zone, elles seront\ndéfinitivement perdues."
+      "Se cambi punto, non potrai più riceverle."
     ],
     "HomeScene_MapChangePopup_Text_4": [
-      "Vous n'avez pas \u000e",
-      "\u0003\u0004毿Ｗsynchronisé votre\nPokémon Go Plus +\u000e",
+      "Oggi non hai ancora \u000e",
+      "\u0003\u0004毿Ｗsincronizzato\u000e",
       "\u0003\u0004",
-      "＀ aujourd'hui."
+      "＀\n\u000e",
+      "\u0003\u0004毿Ｗi dati con Pokémon GO Plus +\u000e",
+      "\u0003\u0004",
+      "＀."
     ],
     "HomeScene_MapChangePopup_Text_5": [
-      "Si vous quittez ce site, l'Encens sélectionné sera\nretiré. Veuillez synchroniser vos données avant\nde quitter le site."
+      "Se ti sposti, gli aromi selezionati saranno\nrimossi. Termina la sincronizzazione dei dati\nprima di cambiare punto."
     ],
     "HomeScene_NotMainSkillPopup_Text": [
-      "L'utilisation de la compétence\n\u000e\u0003\u000b\u0002촁 est\nimpossible, car une autre compétence\naugmente déjà la capacité de la\nmarmite à son maximum de \u000e\u0002\u0003\u0004",
-      "촁.\nVous pourrez réutiliser cette\ncompétence après avoir cuisiné."
+      "La pentola ha già raggiunto\nla capacità massima di \u000e\u0002\u0003\u0004",
+      "촁\ngrazie a un'abilità principale, perciò\nl'abilità \u000e\u0003\u000b\u0002촁\nnon può essere utilizzata.\nPotrai usare di nuovo questa abilità\nprincipale dopo aver cucinato."
     ],
     "HomeScene_NotMainSkillPopup_Title": [
-      "Compétence principale inutilisable"
+      "Abilità principale non utilizzabile"
     ],
     "HomeScene_PokemonPickupEvent_Popup_Start": [
-      "Semaine Évoli"
+      "Settimana di Eevee"
     ],
     "HomeScene_PremiumPassFinished_Popup_SubText": [
-      "Vous avez récupéré votre Pass standard.\nNous espérons vous revoir bientôt dans\nla boutique d'échange premium !"
+      "È stato riattivato il pass base. Speriamo\ntornerai presto a fare scambi premium!"
     ],
     "HomeScene_PremiumPassFinished_Popup_Text": [
-      "Votre Pass premium a \u000e",
-      "\u0003\u0004毿Ｗexpiré\u000e",
+      "Il pass premium è \u000e",
+      "\u0003\u0004毿Ｗscaduto\u000e",
       "\u0003\u0004",
       "＀."
     ],
     "HomeScene_PremiumPassFinished_Popup_Title": [
-      "Pass premium expiré"
+      "Pass premium scaduto"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_1_1": [
-      "Bonbons gagnés grâce\naux recherches × \u000e\u0002\u0001\u0002",
-      "\n(seulement une fois par jour)"
+      "Caramelle ottenute con la ricerca\n×\u000e\u0002\u0001\u0002",
+      " (una volta al giorno)"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_1_2": [
-      "Des Pokémon adoptant un type de dodo différent du vôtre sont susceptibles d'apparaître."
+      "Comparsa di Pokémon con vari tipi di sonno indipendentemente dal tuo tipo di sonno"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_1": [
-      "Dodoforce × \u000e\u0002\u0001\u0002",
+      "Potere sonno ×\u000e\u0002\u0001\u0002",
       ""
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_2": [
-      "Points d'expérience gagnés en dormant × \u000e\u0002",
+      "PE ottenuti dormendo ×\u000e\u0002",
       "\u0002촀"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_2_3": [
-      "Gagnez \u000e\u0002\u0003\u0004",
-      "촁 dodopoints bonus en mesurant votre sommeil (seulement une fois par jour)"
+      "Ottieni \u000e\u0002\u0003\u0004",
+      "촁 punt\u000e\u0005",
+      "\n\u0002o\u0002i촀 sonno bonus per aver misurato il sonno (solo una volta al giorno)"
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_3": [
-      "Essayez d'utiliser un Master Biscuit pour vos recherches sur le sommeil."
+      "Prova a usare un Masterbiscotto durante la ricerca sul sonno."
     ],
     "HomeStartSleepPopup_Bonus_ContentExplain_4": [
-      "Taux de Pokémon chromatique ↑"
+      "Probabilità incontro cromatici più alta:"
     ],
     "HomeStartSleepPopup_Bonus_Content_1": [
-      "Évènement d'Halloween"
+      "Evento di Halloween"
     ],
     "HomeStartSleepPopup_Bonus_Content_2": [
-      "Journée du doux dodo"
+      "Giorno sogni d'oro"
     ],
     "HomeStartSleepPopup_Bonus_Content_3": [
-      "Tutoriel Master Biscuit"
+      "Tutorial Masterbiscotti"
     ],
     "HomeStartSleepPopup_Bonus_Content_4": [
-      "Semaine Évoli"
+      "Settimana di Eevee"
     ],
     "HomeStartSleepPopup_Bonus_Header_1": [
-      "Liste des bonus"
+      "Lista bonus"
     ],
     "HomeStartSleepPopup_Bonus_Secret": [
       "???"
@@ -782,105 +821,105 @@
       ","
     ],
     "HomeStartSleepPopup_Bonus_SmallTitle": [
-      "Bonus de\nrecherche"
+      "Bonus ricerca"
     ],
     "HomeStartSleepPopup_Bonus_Text_1": [
-      "Consultez tous les bonus de recherche du jour."
+      "Qui puoi vedere tutti i bonus ricerca di oggi."
     ],
     "HomeStartSleepPopup_Bonus_Title": [
-      "Bonus de recherche"
+      "Bonus ricerca"
     ],
     "HomeStartSleepPopup_CannotSet_MultiPokemonIncense": [
-      "L'Encens ne peut pas être utilisé pour\nattirer plus d'une espèce de Pokémon."
+      "Puoi usare gli aromi per attirare una\nsola specie di Pokémon per volta."
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Text": [
-      "Vous ne pouvez pas choisir cet Encens\ncar \u000e\u0003\u0001\u0002",
-      " n'apparaît pas dans\nla zone actuelle."
+      "Non puoi scegliere questo aroma\nperché \u000e\u0003\u0001\u0002",
+      " non appare\nin questo punto di ricerca."
     ],
     "HomeStartSleepPopup_CannotSet_NotMatchMap_Title": [
-      "Utilisation impossible"
+      "Non utilizzabile"
     ],
     "HomeStartSleepPopup_CannotSet_SameTypeItem": [
-      "Vous avez déjà choisi cet Encens. Vous\nne pouvez pas utiliser deux Encens du\nmême type pendant la même session."
+      "Hai già scelto questo aroma. Non puoi\nusare due aromi dello stesso tipo\nnella stessa dormita."
     ],
     "HomeStartSleepPopup_CannotUse_Incense": [
-      "Un des Encens que vous avez choisis\nne peut pas être utilisé."
+      "Uno degli aromi che hai scelto non può\nessere usato. Rimuovilo."
     ],
     "HomeStartSleepPopup_CannotUse_Title": [
-      "Ne peut pas être utilisé"
+      "Non utilizzabile"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_Message": [
-      "Pour changer l'heure du coucher,\nl'application doit communiquer avec\nvotre Pokémon GO Plus +.\n\nAcceptez-vous de connecter votre\nPokémon GO Plus + ?"
+      "Per cambiare l'ora di dormire, l'app\ndeve comunicare con il dispositivo\nPokémon GO Plus +.\n\nVuoi connetterti a Pokémon GO\nPlus +?"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_OK": [
-      "Connecter"
+      "Connetti"
     ],
     "HomeStartSleepPopup_GPP_PromiseChangePopup_Title": [
-      "Confirmation"
+      "Conferma"
     ],
     "HomeStartSleepPopup_Text_1": [
-      "Permission d'accéder au micro"
+      "Accesso al microfono"
     ],
     "HomeStartSleepPopup_Text_2": [
-      "L'application requiert la permission\nd'accéder au micro de votre appareil.\nVeuillez autoriser l'accès à votre\nmicro pour pouvoir mesurer."
+      "L'app necessita dell'autorizzazione\nad accedere al microfono\ndel dispositivo. Per misurare il sonno,\nautorizza l'accesso al microfono."
     ],
     "HomeStartSleepPopup_UnsetItem_Message": [
-      "Souhaitez vraiment retirer :\n\u000e\u0003\u0003\u0004Ā촀 ?"
+      "Vuoi davvero rimuovere lo strumento?\n\u000e\u0003\u0003\u0004Ā촀"
     ],
     "HomeStartSleepPopup_UnsetItem_Title": [
-      "Retirer Encens"
+      "Rimuovi aroma"
     ],
     "Home_AutoPickup_Popup_Desc": [
-      "Vos Pokémon ont aidé Ronflex à grandir pendant\nvotre absence. Il est devenu encore plus puissant !"
+      "I tuoi Pokémon hanno aiutato a dare qualcosa\nda mangiare a Snorlax mentre eri via. È diventato\nancora più potente!"
     ],
     "Home_AutoPickup_Popup_Energy_Title": [
-      "Puissance obtenue :"
+      "Potenza ottenuta:"
     ],
     "Home_AutoPickup_Popup_Section_Title": [
-      "Vos Pokémon de soutien"
+      "Aiutanti"
     ],
     "Home_AutoPickup_Popup_Title": [
-      "Croissance inattendue"
+      "Spuntini di nascosto"
     ],
     "Home_BottomButtons_MainMissionProgressButton_GoalTitle": [
-      "Objectif suiv."
+      "Prossimo obiettivo"
     ],
     "Home_NoMoreSleepStartPopup_Message": [
-      "Vous avez atteint la limite de 2\nsessions de sommeil pour aujourd'hui."
+      "Puoi misurare il sonno solo due volte\nal giorno. Hai raggiunto il limite per\noggi."
     ],
     "Home_NoMoreSleepStartPopup_Title": [
-      "Mesurer le sommeil"
+      "Misurazione del sonno"
     ],
     "Home_NoMoreSleepStartPopup_UnixtimeDuplication_Message": [
-      "Vous ne pouvez pas commencer à\nmesurer votre sommeil car l'horloge\nde votre appareil est actuellement\nréglée sur une heure incluse dans la\ndernière session mesurée.\nPour plus d'informations, veuillez\nconsulter la FAQ."
+      "Non puoi iniziare a misurare il sonno\nperché l'orario attuale del dispositivo\nsi sovrappone a quello di una sessione\ngià misurata.\nPer ulteriori informazioni, consulta\nla pagina delle domande frequenti."
     ],
     "Home_SCENE_MissionGoalCutin_Badge_Title": [
-      "Styles"
+      "registrati"
     ],
     "Home_SCENE_MissionGoalCutin_Complete_Title": [
-      "Styles de dodo au total !"
+      "stili in totale!"
     ],
     "Home_SCENE_MissionGoalCutin_RewardTitle": [
-      "Récompenses reçues"
+      "Ricompense ricevute"
     ],
     "Home_SCENE_MissionGoalPopup_Button_Close": [
-      "Fermer"
+      "Chiudi"
     ],
     "Home_SCENE_MissionGoalPopup_Button_Complete": [
-      "Récompense"
+      "Ricevi ricompense"
     ],
     "Home_SCENE_MissionGoalPopup_Button_SleepingFacePokedex": [
-      "Ouvrir Dododex"
+      "Sonnodex"
     ],
     "Home_SCENE_MissionGoalPopup_ContentTitle": [
-      "Récompense de palier Dododex"
+      "Ricompense obiettivo Sonnodex"
     ],
     "Home_SCENE_MissionGoalPopup_Content_IconNumber": [
       "×\u000e\u0002\u0002\u0002",
       ""
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_1": [
-      "Débloque une nouvelle zone :\n\u000e\u0003\u0003\u0004Ā촀"
+      "Sbloccata nuova area:\n\"\u000e\u0003\u0003\u0004Ā촀\""
     ],
     "Home_SCENE_MissionGoalPopup_Content_Message_2": [
       "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0004\u0004\u0002촁"
@@ -889,57 +928,55 @@
       "\u000e\u0003\u0003\u0004Ā촀"
     ],
     "Home_SCENE_MissionGoalPopup_Desc_1": [
-      "Palier Dododex :"
+      "Obiettivo Sonnodex:"
     ],
     "Home_SCENE_MissionGoalPopup_NextUpdate_Message": [
-      "Vous avez atteint tous les objectifs\ndu Dododex ! De nouveaux paliers\nseront ajoutés lors de mises à jour\nfutures, alors restez à l'affût !"
+      "Hai completato tutti gli obiettivi\ndel Sonnodex!\nAttendi gli aggiornamenti futuri,\nche potrebbero includere nuovi\nobiettivi!"
     ],
     "Home_SCENE_MissionGoalPopup_NextUpdate_Title": [
-      "Tous les paliers ont été atteints !"
+      "Obiettivi completati!"
     ],
     "Home_SCENE_MissionGoalPopup_SleepTypeNumber_1": [
       "\u000e\u0002\u0002\u0002",
-      "/\u000e\u0002\u0002\u0002\u0001 styles"
+      "/\u000e\u0002\u0002\u0002\u0001 stili"
     ],
     "Home_SCENE_MissionGoalPopup_SleepTypeNumber_2": [
-      "Étudier \u000e\u0002\u0002\u0002",
-      " style\u000e\u0004",
-      "\b",
-      "\u0002s촀 !"
+      "Studia \u000e\u0002\u0002\u0002",
+      " stili!"
     ],
     "Home_SCENE_MissionGoalPopup_Title": [
-      "Palier Dododex"
+      "Obiettivo Sonnodex"
     ],
     "ItemSelectCell_Text_1": [
-      "En cours d'utilisation"
+      "Già in uso"
     ],
     "SnorlaxHomeObject_FeedBalloon": [
-      "Petit-déj'"
+      "Colazione"
     ],
     "SnorlaxHomeObject_NextTime_Breakfast": [
-      "6 h 00"
+      "06:00"
     ],
     "SnorlaxHomeObject_NextTime_Dinner": [
-      "18 h 00"
+      "18:00"
     ],
     "SnorlaxHomeObject_NextTime_Lunch": [
-      "12 h 00"
+      "12:00"
     ],
     "SnorlaxHomeObject_Title": [
-      "Repas suivant"
+      "Prossimo pasto"
     ],
     "SnorlaxRankListCell_NeedEnergy": [
-      "Puissance requise : \u000e\u0002\t\u0004",
+      "Potenza richiesta: \u000e\u0002\t\u0004",
       "촁"
     ],
     "SnorlaxRankListCell_NeedEnergyNone": [
-      "Puissance requise : aucune"
+      "Potenza richiesta: nessuna"
     ],
     "WeeklyMission_Notification_Badge": [
-      "RÉUSSIE !"
+      "Fatto!"
     ],
     "WeeklyMission_Notification_Title": [
-      "Mission réussie !"
+      "Missione compiuta!"
     ]
   },
   "structure": {
@@ -2438,7 +2475,7 @@
     "TXT2": {
       "header": {
         "entries": 240,
-        "size": 31302,
+        "size": 29930,
         "unknown1": 0,
         "unknown2": 0
       }
