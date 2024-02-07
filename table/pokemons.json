@@ -32,7 +32,7 @@
         "sleep_type_old": 3,
         "species_id": 1,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 6,
         "type": 4
     },
     {
@@ -248,7 +248,7 @@
         "sleep_type_old": 2,
         "species_id": 6,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 5
     },
     {
@@ -320,7 +320,7 @@
         "sleep_type_old": 2,
         "species_id": 8,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 12
     },
     {
@@ -356,7 +356,7 @@
         "sleep_type_old": 2,
         "species_id": 8,
         "tmp_evolution_flag": 0,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 12
     },
     {
@@ -392,7 +392,7 @@
         "sleep_type_old": 3,
         "species_id": 11,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 6,
         "type": 18
     },
     {
@@ -464,7 +464,7 @@
         "sleep_type_old": 4,
         "species_id": 12,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 3
     },
     {
@@ -536,7 +536,7 @@
         "sleep_type_old": 3,
         "species_id": 14,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 2
     },
     {
@@ -644,7 +644,7 @@
         "sleep_type_old": 4,
         "species_id": 17,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 3
     },
     {
@@ -716,7 +716,7 @@
         "sleep_type_old": 3,
         "species_id": 19,
         "tmp_evolution_flag": 0,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 9
     },
     {
@@ -752,7 +752,7 @@
         "sleep_type_old": 3,
         "species_id": 11,
         "tmp_evolution_flag": 0,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 18
     },
     {
@@ -788,7 +788,7 @@
         "sleep_type_old": 2,
         "species_id": 6,
         "tmp_evolution_flag": 0,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 5
     },
     {
@@ -896,7 +896,7 @@
         "sleep_type_old": 4,
         "species_id": 24,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 13
     },
     {
@@ -968,7 +968,7 @@
         "sleep_type_old": 2,
         "species_id": 26,
         "tmp_evolution_flag": 0,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 8
     },
     {
@@ -1076,7 +1076,7 @@
         "sleep_type_old": 3,
         "species_id": 29,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 2
     },
     {
@@ -1112,7 +1112,7 @@
         "sleep_type_old": 4,
         "species_id": 12,
         "tmp_evolution_flag": 0,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 3
     },
     {
@@ -1184,7 +1184,7 @@
         "sleep_type_old": 2,
         "species_id": 14,
         "tmp_evolution_flag": 0,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 2
     },
     {
@@ -1220,7 +1220,7 @@
         "sleep_type_old": 3,
         "species_id": 3,
         "tmp_evolution_flag": 0,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 1
     },
     {
@@ -1328,7 +1328,7 @@
         "sleep_type_old": 2,
         "species_id": 36,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 5
     },
     {
@@ -1436,7 +1436,7 @@
         "sleep_type_old": 4,
         "species_id": 40,
         "tmp_evolution_flag": 0,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 6,
         "type": 13
     },
     {
@@ -1508,7 +1508,7 @@
         "sleep_type_old": 3,
         "species_id": 16,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 3
     },
     {
@@ -1616,7 +1616,7 @@
         "sleep_type_old": 1,
         "species_id": 44,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 14
     },
     {
@@ -1652,7 +1652,7 @@
         "sleep_type_old": 1,
         "species_id": 28,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 9
     },
     {
@@ -1724,7 +1724,7 @@
         "sleep_type_old": 1,
         "species_id": 47,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 5
     },
     {
@@ -1760,7 +1760,7 @@
         "sleep_type_old": 1,
         "species_id": 39,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 4
     },
     {
@@ -1796,7 +1796,7 @@
         "sleep_type_old": 1,
         "species_id": 50,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 6,
         "type": 11
     },
     {
@@ -1868,7 +1868,7 @@
         "sleep_type_old": 1,
         "species_id": 51,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 8
     },
     {
@@ -2048,7 +2048,7 @@
         "sleep_type_old": 1,
         "species_id": 56,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 8
     },
     {
@@ -2084,7 +2084,7 @@
         "sleep_type_old": 1,
         "species_id": 1,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 11,
         "type": 4
     },
     {
@@ -2120,7 +2120,7 @@
         "sleep_type_old": 1,
         "species_id": 4,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 1
     },
     {
@@ -2156,7 +2156,7 @@
         "sleep_type_old": 1,
         "species_id": 41,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 3
     },
     {
@@ -2192,7 +2192,7 @@
         "sleep_type_old": 1,
         "species_id": 35,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 7
     },
     {
@@ -2228,7 +2228,7 @@
         "sleep_type_old": 1,
         "species_id": 32,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 2
     },
     {
@@ -2264,7 +2264,7 @@
         "sleep_type_old": 1,
         "species_id": 36,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 5
     },
     {
@@ -2300,7 +2300,7 @@
         "sleep_type_old": 1,
         "species_id": 24,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 11,
         "type": 13
     },
     {
@@ -2372,7 +2372,7 @@
         "sleep_type_old": 1,
         "species_id": 65,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 17
     },
     {
@@ -2408,7 +2408,7 @@
         "sleep_type_old": 1,
         "species_id": 43,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 10
     },
     {
@@ -2444,7 +2444,7 @@
         "sleep_type_old": 1,
         "species_id": 44,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 11,
         "type": 14
     },
     {
@@ -2480,7 +2480,7 @@
         "sleep_type_old": 1,
         "species_id": 69,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 8,
         "type": 1
     },
     {
@@ -2516,7 +2516,7 @@
         "sleep_type_old": 1,
         "species_id": 70,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 8,
         "type": 12
     },
     {
@@ -2552,7 +2552,7 @@
         "sleep_type_old": 1,
         "species_id": 71,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 8,
         "type": 1
     },
     {
@@ -2588,7 +2588,7 @@
         "sleep_type_old": 1,
         "species_id": 2,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 3
     },
     {
@@ -2624,7 +2624,7 @@
         "sleep_type_old": 1,
         "species_id": 2,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 4
     },
     {
@@ -2660,7 +2660,7 @@
         "sleep_type_old": 1,
         "species_id": 2,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 2
     },
     {
@@ -2696,7 +2696,7 @@
         "sleep_type_old": 1,
         "species_id": 47,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 5
     },
     {
@@ -2732,7 +2732,7 @@
         "sleep_type_old": 1,
         "species_id": 29,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 2
     },
     {
@@ -2768,7 +2768,7 @@
         "sleep_type_old": 1,
         "species_id": 17,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 3
     },
     {
@@ -2804,7 +2804,7 @@
         "sleep_type_old": 1,
         "species_id": 23,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 6,
         "type": 18
     },
     {
@@ -2840,7 +2840,7 @@
         "sleep_type_old": 1,
         "species_id": 39,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 4
     },
     {
@@ -2876,7 +2876,7 @@
         "sleep_type_old": 1,
         "species_id": 2,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 11
     },
     {
@@ -2912,7 +2912,7 @@
         "sleep_type_old": 1,
         "species_id": 2,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 16
     },
     {
@@ -2948,7 +2948,7 @@
         "sleep_type_old": 1,
         "species_id": 16,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 3
     },
     {
@@ -2984,7 +2984,7 @@
         "sleep_type_old": 1,
         "species_id": 86,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 8,
         "type": 12
     },
     {
@@ -3056,7 +3056,7 @@
         "sleep_type_old": 1,
         "species_id": 87,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 13
     },
     {
@@ -3092,7 +3092,7 @@
         "sleep_type_old": 1,
         "species_id": 87,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 12,
         "type": 16
     },
     {
@@ -3128,7 +3128,7 @@
         "sleep_type_old": 1,
         "species_id": 2,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 5
     },
     {
@@ -3164,7 +3164,7 @@
         "sleep_type_old": 1,
         "species_id": 91,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 8,
         "type": 16
     },
     {
@@ -3200,7 +3200,7 @@
         "sleep_type_old": 1,
         "species_id": 2,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 18
     },
     {
@@ -3236,7 +3236,7 @@
         "sleep_type_old": 1,
         "species_id": 23,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 11,
         "type": 18
     },
     {
@@ -3308,7 +3308,7 @@
         "sleep_type_old": 1,
         "species_id": 94,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 1
     },
     {
@@ -3344,7 +3344,7 @@
         "sleep_type_old": 1,
         "species_id": 94,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 11,
         "type": 1
     },
     {
@@ -3380,7 +3380,7 @@
         "sleep_type_old": 1,
         "species_id": 65,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 11,
         "type": 17
     },
     {
@@ -3416,7 +3416,7 @@
         "sleep_type_old": 1,
         "species_id": 2,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 6
     },
     {
@@ -3452,7 +3452,7 @@
         "sleep_type_old": 1,
         "species_id": 53,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 15
     },
     {
@@ -3524,7 +3524,7 @@
         "sleep_type_old": 1,
         "species_id": 101,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 7
     },
     {
@@ -3596,7 +3596,7 @@
         "sleep_type_old": 1,
         "species_id": 102,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 6
     },
     {
@@ -3632,7 +3632,7 @@
         "sleep_type_old": 1,
         "species_id": 102,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 6
     },
     {
@@ -3704,7 +3704,7 @@
         "sleep_type_old": 1,
         "species_id": 105,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 16
     },
     {
@@ -3740,7 +3740,7 @@
         "sleep_type_old": 1,
         "species_id": 107,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 8,
         "type": 16
     },
     {
@@ -3812,7 +3812,7 @@
         "sleep_type_old": 1,
         "species_id": 110,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 11
     },
     {
@@ -3884,7 +3884,7 @@
         "sleep_type_old": 1,
         "species_id": 112,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 6,
         "type": 18
     },
     {
@@ -3920,7 +3920,7 @@
         "sleep_type_old": 1,
         "species_id": 112,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 18
     },
     {
@@ -3956,7 +3956,7 @@
         "sleep_type_old": 1,
         "species_id": 1,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 6,
         "type": 4
     },
     {
@@ -4028,7 +4028,7 @@
         "sleep_type_old": 1,
         "species_id": 114,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 7,
         "type": 14
     },
     {
@@ -4064,7 +4064,7 @@
         "sleep_type_old": 1,
         "species_id": 116,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 8,
         "type": 13
     },
     {
@@ -4100,7 +4100,475 @@
         "sleep_type_old": 1,
         "species_id": 116,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 5,
+        "transfer_candy_num": 10,
         "type": 17
+    },
+    {
+        "capture_coin": 986,
+        "capture_research_exp": 466,
+        "event_type_name": 1,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_225",
+        "id": 118,
+        "image_id": 225,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_225",
+        "name_sort_id_ch": 4260,
+        "name_sort_id_de": 770,
+        "name_sort_id_en": 1990,
+        "name_sort_id_es": 1990,
+        "name_sort_id_fr": 1050,
+        "name_sort_id_it": 1990,
+        "name_sort_id_jp": 4980,
+        "name_sort_id_ko": 2420,
+        "need_friend_point": 16,
+        "pattern_ids": 1,
+        "pokedex_order_id": 225,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 4,
+        "sleep_type_old": 1,
+        "species_id": 118,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 8,
+        "type": 10
+    },
+    {
+        "capture_coin": 36,
+        "capture_research_exp": 20,
+        "event_type_name": 1,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_459",
+        "id": 119,
+        "image_id": 459,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_459",
+        "name_sort_id_ch": 6240,
+        "name_sort_id_de": 8080,
+        "name_sort_id_en": 8120,
+        "name_sort_id_es": 8120,
+        "name_sort_id_fr": 810,
+        "name_sort_id_it": 8120,
+        "name_sort_id_jp": 9200,
+        "name_sort_id_ko": 1410,
+        "need_friend_point": 5,
+        "pattern_ids": 1,
+        "pokedex_order_id": 459,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 0,
+        "sleep_type_old": 1,
+        "species_id": 119,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 5,
+        "type": 6
+    },
+    {
+        "capture_coin": 512,
+        "capture_research_exp": 334,
+        "event_type_name": 1,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_460",
+        "id": 120,
+        "image_id": 460,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_460",
+        "name_sort_id_ch": 8320,
+        "name_sort_id_de": 7320,
+        "name_sort_id_en": 10,
+        "name_sort_id_es": 10,
+        "name_sort_id_fr": 790,
+        "name_sort_id_it": 10,
+        "name_sort_id_jp": 9210,
+        "name_sort_id_ko": 1400,
+        "need_friend_point": 12,
+        "pattern_ids": 1,
+        "pokedex_order_id": 460,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 0,
+        "sleep_type_old": 1,
+        "species_id": 119,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 7,
+        "type": 6
+    },
+    {
+        "capture_coin": 20,
+        "capture_research_exp": 7,
+        "event_type_name": 301,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_9002_full",
+        "id": 9002,
+        "image_id": 9002,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_9002",
+        "name_sort_id_ch": 2032,
+        "name_sort_id_de": 6632,
+        "name_sort_id_en": 6522,
+        "name_sort_id_es": 6522,
+        "name_sort_id_fr": 7232,
+        "name_sort_id_it": 6522,
+        "name_sort_id_jp": 6792,
+        "name_sort_id_ko": 9712,
+        "need_friend_point": 7,
+        "pattern_ids": 1,
+        "pokedex_order_id": 25,
+        "pokedex_top_flag": 0,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 1,
+        "sleep_type_old": 1,
+        "species_id": 1,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 6,
+        "type": 4
+    },
+    {
+        "capture_coin": 44,
+        "capture_research_exp": 21,
+        "event_type_name": 1,
+        "exp_table_type": 2,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_147",
+        "id": 121,
+        "image_id": 147,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_147",
+        "name_sort_id_ch": 5640,
+        "name_sort_id_de": 1530,
+        "name_sort_id_en": 2270,
+        "name_sort_id_es": 2270,
+        "name_sort_id_fr": 6040,
+        "name_sort_id_it": 2270,
+        "name_sort_id_jp": 8470,
+        "name_sort_id_ko": 4180,
+        "need_friend_point": 5,
+        "pattern_ids": 1,
+        "pokedex_order_id": 147,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 4,
+        "sleep_type_old": 1,
+        "species_id": 121,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 5,
+        "type": 15
+    },
+    {
+        "capture_coin": 360,
+        "capture_research_exp": 170,
+        "event_type_name": 1,
+        "exp_table_type": 2,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_148",
+        "id": 122,
+        "image_id": 148,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_148",
+        "name_sort_id_ch": 4340,
+        "name_sort_id_de": 1490,
+        "name_sort_id_en": 2220,
+        "name_sort_id_es": 2220,
+        "name_sort_id_fr": 2520,
+        "name_sort_id_it": 2220,
+        "name_sort_id_jp": 6200,
+        "name_sort_id_ko": 5690,
+        "need_friend_point": 12,
+        "pattern_ids": 1,
+        "pokedex_order_id": 148,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 4,
+        "sleep_type_old": 1,
+        "species_id": 121,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 7,
+        "type": 15
+    },
+    {
+        "capture_coin": 3326,
+        "capture_research_exp": 1848,
+        "event_type_name": 1,
+        "exp_table_type": 2,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_149",
+        "id": 123,
+        "image_id": 149,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_149",
+        "name_sort_id_ch": 2870,
+        "name_sort_id_de": 1500,
+        "name_sort_id_en": 2230,
+        "name_sort_id_es": 2230,
+        "name_sort_id_fr": 2530,
+        "name_sort_id_it": 2230,
+        "name_sort_id_jp": 1400,
+        "name_sort_id_ko": 3510,
+        "need_friend_point": 25,
+        "pattern_ids": 1,
+        "pokedex_order_id": 149,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 4,
+        "sleep_type_old": 1,
+        "species_id": 121,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 12,
+        "type": 15
+    },
+    {
+        "capture_coin": 35,
+        "capture_research_exp": 17,
+        "event_type_name": 1,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_280",
+        "id": 124,
+        "image_id": 280,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_280",
+        "name_sort_id_ch": 3570,
+        "name_sort_id_de": 9000,
+        "name_sort_id_en": 6940,
+        "name_sort_id_es": 6940,
+        "name_sort_id_fr": 8930,
+        "name_sort_id_it": 6940,
+        "name_sort_id_jp": 9530,
+        "name_sort_id_ko": 2680,
+        "need_friend_point": 5,
+        "pattern_ids": 1,
+        "pokedex_order_id": 280,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 1,
+        "sleep_type_old": 1,
+        "species_id": 124,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 5,
+        "type": 11
+    },
+    {
+        "capture_coin": 360,
+        "capture_research_exp": 170,
+        "event_type_name": 1,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_281",
+        "id": 125,
+        "image_id": 281,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_281",
+        "name_sort_id_ch": 3330,
+        "name_sort_id_de": 3950,
+        "name_sort_id_en": 4440,
+        "name_sort_id_es": 4440,
+        "name_sort_id_fr": 4650,
+        "name_sort_id_it": 4440,
+        "name_sort_id_jp": 2120,
+        "name_sort_id_ko": 8550,
+        "need_friend_point": 12,
+        "pattern_ids": 1,
+        "pokedex_order_id": 281,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 1,
+        "sleep_type_old": 1,
+        "species_id": 124,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 7,
+        "type": 11
+    },
+    {
+        "capture_coin": 1769,
+        "capture_research_exp": 683,
+        "event_type_name": 1,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_282",
+        "id": 126,
+        "image_id": 282,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_282",
+        "name_sort_id_ch": 2950,
+        "name_sort_id_de": 3070,
+        "name_sort_id_en": 3210,
+        "name_sort_id_es": 3210,
+        "name_sort_id_fr": 3670,
+        "name_sort_id_it": 3210,
+        "name_sort_id_jp": 3100,
+        "name_sort_id_ko": 20,
+        "need_friend_point": 20,
+        "pattern_ids": 1,
+        "pokedex_order_id": 282,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 1,
+        "sleep_type_old": 1,
+        "species_id": 124,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 10,
+        "type": 11
+    },
+    {
+        "capture_coin": 2702,
+        "capture_research_exp": 1043,
+        "event_type_name": 1,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_475",
+        "id": 127,
+        "image_id": 475,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_475",
+        "name_sort_id_ch": 2570,
+        "name_sort_id_de": 2550,
+        "name_sort_id_en": 3170,
+        "name_sort_id_es": 3170,
+        "name_sort_id_fr": 3590,
+        "name_sort_id_it": 3170,
+        "name_sort_id_jp": 960,
+        "name_sort_id_ko": 6580,
+        "need_friend_point": 22,
+        "pattern_ids": 1,
+        "pokedex_order_id": 475,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 0,
+        "sleep_type_old": 1,
+        "species_id": 124,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 11,
+        "type": 7
+    },
+    {
+        "capture_coin": 34,
+        "capture_research_exp": 27,
+        "event_type_name": 1,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_759",
+        "id": 128,
+        "image_id": 759,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_759",
+        "name_sort_id_ch": 6630,
+        "name_sort_id_de": 9210,
+        "name_sort_id_en": 8440,
+        "name_sort_id_es": 8440,
+        "name_sort_id_fr": 6660,
+        "name_sort_id_it": 8440,
+        "name_sort_id_jp": 5830,
+        "name_sort_id_ko": 9360,
+        "need_friend_point": 5,
+        "pattern_ids": 1,
+        "pokedex_order_id": 759,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 0,
+        "sleep_type_old": 1,
+        "species_id": 128,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 5,
+        "type": 7
+    },
+    {
+        "capture_coin": 324,
+        "capture_research_exp": 300,
+        "event_type_name": 1,
+        "exp_table_type": 1,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_760",
+        "id": 129,
+        "image_id": 760,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 0,
+        "name": "md_pokemons_name_760",
+        "name_sort_id_ch": 4710,
+        "name_sort_id_de": 4280,
+        "name_sort_id_en": 660,
+        "name_sort_id_es": 660,
+        "name_sort_id_fr": 1440,
+        "name_sort_id_it": 660,
+        "name_sort_id_jp": 1900,
+        "name_sort_id_ko": 7100,
+        "need_friend_point": 12,
+        "pattern_ids": 1,
+        "pokedex_order_id": 760,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 0,
+        "sleep_type_old": 1,
+        "species_id": 128,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 7,
+        "type": 7
     }
 ]
