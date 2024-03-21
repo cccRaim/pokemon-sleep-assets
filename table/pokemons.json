@@ -31,6 +31,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 1,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 6,
         "type": 4
@@ -67,6 +68,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 2,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 1
@@ -103,6 +105,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 3,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 1
@@ -139,6 +142,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 4,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 1
@@ -175,6 +179,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 1,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 4
@@ -211,6 +216,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 6,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 5
@@ -247,6 +253,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 6,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 5
@@ -283,6 +290,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 8,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 12
@@ -319,6 +327,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 8,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 12
@@ -355,6 +364,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 8,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 0,
         "transfer_candy_num": 10,
         "type": 12
@@ -391,6 +401,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 11,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 6,
         "type": 18
@@ -427,6 +438,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 12,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 3
@@ -463,6 +475,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 12,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 3
@@ -499,6 +512,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 14,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 2
@@ -535,6 +549,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 14,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 2
@@ -571,6 +586,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 16,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 3
@@ -607,6 +623,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 17,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 3
@@ -643,6 +660,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 17,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 3
@@ -679,6 +697,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 19,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 9
@@ -715,6 +734,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 19,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 0,
         "transfer_candy_num": 7,
         "type": 9
@@ -751,6 +771,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 11,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 0,
         "transfer_candy_num": 10,
         "type": 18
@@ -787,6 +808,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 6,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 0,
         "transfer_candy_num": 10,
         "type": 5
@@ -823,6 +845,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 23,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 18
@@ -859,6 +882,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 24,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 13
@@ -895,6 +919,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 24,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 13
@@ -931,6 +956,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 26,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 8
@@ -967,6 +993,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 26,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 0,
         "transfer_candy_num": 7,
         "type": 8
@@ -1003,6 +1030,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 28,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 9
@@ -1039,6 +1067,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 29,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 2
@@ -1075,6 +1104,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 29,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 2
@@ -1111,6 +1141,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 12,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 0,
         "transfer_candy_num": 10,
         "type": 3
@@ -1147,6 +1178,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 32,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 2
@@ -1183,6 +1215,7 @@
         "sleep_type": 1,
         "sleep_type_old": 2,
         "species_id": 14,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 0,
         "transfer_candy_num": 10,
         "type": 2
@@ -1219,6 +1252,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 3,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 0,
         "transfer_candy_num": 7,
         "type": 1
@@ -1255,6 +1289,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 35,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 7
@@ -1291,6 +1326,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 36,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 5
@@ -1327,6 +1363,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 36,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 5
@@ -1363,6 +1400,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 11,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 18
@@ -1399,6 +1437,7 @@
         "sleep_type": 1,
         "sleep_type_old": 2,
         "species_id": 39,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 4
@@ -1435,6 +1474,7 @@
         "sleep_type": 0,
         "sleep_type_old": 4,
         "species_id": 40,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 0,
         "transfer_candy_num": 6,
         "type": 13
@@ -1471,6 +1511,7 @@
         "sleep_type": 4,
         "sleep_type_old": 2,
         "species_id": 41,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 3
@@ -1507,6 +1548,7 @@
         "sleep_type": 1,
         "sleep_type_old": 3,
         "species_id": 16,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 3
@@ -1543,6 +1585,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 43,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 10
@@ -1579,6 +1622,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 44,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 14
@@ -1615,6 +1659,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 44,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 14
@@ -1651,6 +1696,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 28,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 9
@@ -1687,6 +1733,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 47,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 5
@@ -1723,6 +1770,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 47,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 5
@@ -1759,6 +1807,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 39,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 4
@@ -1795,6 +1844,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 50,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 6,
         "type": 11
@@ -1831,6 +1881,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 51,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 8
@@ -1867,6 +1918,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 51,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 8
@@ -1903,6 +1955,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 53,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 10
@@ -1939,6 +1992,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 50,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 11
@@ -1975,6 +2029,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 40,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 13
@@ -2011,6 +2066,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 56,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 8
@@ -2047,6 +2103,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 56,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 8
@@ -2083,6 +2140,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 1,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 11,
         "type": 4
@@ -2119,6 +2177,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 4,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 1
@@ -2155,6 +2214,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 41,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 3
@@ -2191,6 +2251,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 35,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 7
@@ -2227,6 +2288,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 32,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 2
@@ -2263,6 +2325,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 36,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 5
@@ -2299,6 +2362,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 24,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 11,
         "type": 13
@@ -2335,6 +2399,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 65,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 17
@@ -2371,6 +2436,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 65,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 17
@@ -2407,6 +2473,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 43,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 10
@@ -2443,6 +2510,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 44,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 11,
         "type": 14
@@ -2479,6 +2547,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 69,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 8,
         "type": 1
@@ -2515,6 +2584,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 70,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 8,
         "type": 12
@@ -2551,6 +2621,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 71,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 8,
         "type": 1
@@ -2587,6 +2658,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 2,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 3
@@ -2623,6 +2695,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 2,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 4
@@ -2659,6 +2732,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 2,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 2
@@ -2695,6 +2769,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 47,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 5
@@ -2731,6 +2806,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 29,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 2
@@ -2767,6 +2843,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 17,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 3
@@ -2803,6 +2880,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 23,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 6,
         "type": 18
@@ -2839,6 +2917,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 39,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 4
@@ -2875,6 +2954,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 2,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 11
@@ -2911,6 +2991,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 2,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 16
@@ -2947,6 +3028,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 16,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 3
@@ -2983,6 +3065,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 86,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 8,
         "type": 12
@@ -3019,6 +3102,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 87,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 13
@@ -3055,6 +3139,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 87,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 13
@@ -3091,6 +3176,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 87,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 12,
         "type": 16
@@ -3127,6 +3213,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 2,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 5
@@ -3163,6 +3250,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 91,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 8,
         "type": 16
@@ -3199,6 +3287,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 2,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 18
@@ -3235,6 +3324,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 23,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 11,
         "type": 18
@@ -3271,6 +3361,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 94,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 1
@@ -3307,6 +3398,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 94,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 1
@@ -3343,6 +3435,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 94,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 11,
         "type": 1
@@ -3379,6 +3472,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 65,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 11,
         "type": 17
@@ -3415,6 +3509,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 2,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 6
@@ -3451,6 +3546,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 53,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 15
@@ -3487,6 +3583,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 101,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 7
@@ -3523,6 +3620,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 101,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 7
@@ -3559,6 +3657,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 102,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 6
@@ -3595,6 +3694,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 102,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 6
@@ -3631,6 +3731,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 102,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 6
@@ -3667,6 +3768,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 105,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 16
@@ -3703,6 +3805,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 105,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 16
@@ -3739,6 +3842,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 107,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 8,
         "type": 16
@@ -3775,6 +3879,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 110,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 11
@@ -3811,6 +3916,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 110,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 11
@@ -3847,6 +3953,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 112,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 18
@@ -3883,6 +3990,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 112,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 6,
         "type": 18
@@ -3919,6 +4027,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 112,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 18
@@ -3955,6 +4064,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 1,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 6,
         "type": 4
@@ -3991,6 +4101,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 114,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 14
@@ -4027,6 +4138,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 114,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 14
@@ -4063,6 +4175,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 116,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 8,
         "type": 13
@@ -4099,6 +4212,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 116,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 17
@@ -4135,6 +4249,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 118,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 8,
         "type": 10
@@ -4171,6 +4286,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 119,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 6
@@ -4207,6 +4323,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 119,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 6
@@ -4243,6 +4360,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 1,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 6,
         "type": 4
@@ -4279,6 +4397,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 121,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 15
@@ -4315,6 +4434,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 121,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 15
@@ -4351,6 +4471,7 @@
         "sleep_type": 4,
         "sleep_type_old": 1,
         "species_id": 121,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 12,
         "type": 15
@@ -4387,6 +4508,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 124,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 11
@@ -4423,6 +4545,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 124,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 11
@@ -4459,6 +4582,7 @@
         "sleep_type": 1,
         "sleep_type_old": 1,
         "species_id": 124,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 10,
         "type": 11
@@ -4495,6 +4619,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 124,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 11,
         "type": 7
@@ -4531,6 +4656,7 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 128,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 5,
         "type": 7
@@ -4567,13 +4693,14 @@
         "sleep_type": 0,
         "sleep_type_old": 1,
         "species_id": 128,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
         "transfer_candy_num": 7,
         "type": 7
     },
     {
-        "capture_coin": 324,
-        "capture_research_exp": 300,
+        "capture_coin": 515,
+        "capture_research_exp": 286,
         "event_type_name": 1,
         "exp_table_type": 1,
         "form_id": 0,
@@ -4586,25 +4713,63 @@
         "is_rare": 0,
         "legendary": 0,
         "name": "md_pokemons_name_702",
-        "name_sort_id_ch": 4710,
-        "name_sort_id_de": 4280,
-        "name_sort_id_en": 660,
-        "name_sort_id_es": 660,
-        "name_sort_id_fr": 1440,
-        "name_sort_id_it": 660,
-        "name_sort_id_jp": 1900,
-        "name_sort_id_ko": 7100,
-        "need_friend_point": 12,
+        "name_sort_id_ch": 3270,
+        "name_sort_id_de": 1320,
+        "name_sort_id_en": 1950,
+        "name_sort_id_es": 1950,
+        "name_sort_id_fr": 2220,
+        "name_sort_id_it": 1950,
+        "name_sort_id_jp": 4950,
+        "name_sort_id_ko": 1870,
+        "need_friend_point": 16,
         "pattern_ids": 1,
-        "pokedex_order_id": 760,
+        "pokedex_order_id": 702,
         "pokedex_top_flag": 1,
         "release_guard_flag": 0,
         "size": 1,
-        "sleep_type": 0,
+        "sleep_type": 1,
         "sleep_type_old": 1,
-        "species_id": 128,
+        "species_id": 130,
+        "support_team_restrict_flag": 0,
         "tmp_evolution_flag": 1,
-        "transfer_candy_num": 7,
-        "type": 7
+        "transfer_candy_num": 8,
+        "type": 4
+    },
+    {
+        "capture_coin": 4715,
+        "capture_research_exp": 655,
+        "event_type_name": 1,
+        "exp_table_type": 3,
+        "form_id": 0,
+        "form_name": "フォルム名",
+        "form_order_id": 0,
+        "full_name": "md_pokemons_name_243",
+        "id": 131,
+        "image_id": 243,
+        "is_invertable": 1,
+        "is_rare": 0,
+        "legendary": 1,
+        "name": "md_pokemons_name_243",
+        "name_sort_id_ch": 7380,
+        "name_sort_id_de": 7090,
+        "name_sort_id_en": 6930,
+        "name_sort_id_es": 6930,
+        "name_sort_id_fr": 7710,
+        "name_sort_id_it": 6930,
+        "name_sort_id_jp": 9360,
+        "name_sort_id_ko": 2620,
+        "need_friend_point": 30,
+        "pattern_ids": 1,
+        "pokedex_order_id": 243,
+        "pokedex_top_flag": 1,
+        "release_guard_flag": 0,
+        "size": 1,
+        "sleep_type": 1,
+        "sleep_type_old": 1,
+        "species_id": 131,
+        "support_team_restrict_flag": 1,
+        "tmp_evolution_flag": 1,
+        "transfer_candy_num": 25,
+        "type": 4
     }
 ]
